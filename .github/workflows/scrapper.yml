@@ -8,8 +8,10 @@ on:
 jobs:
   run-scraper:
     uses: beckn/leaderboard/.github/workflows/scrapper_for_data_repo.yml@main
+    with:
+      github_token: ${{ secrets.GITHUB_TOKEN }}
     permissions:
       issues: read
       pull-requests: read
       contents: write
-    secrets: inherit
+  
