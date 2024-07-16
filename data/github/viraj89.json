@@ -2660,6 +2660,20 @@
       "time": "2023-07-27T13:54:56Z",
       "link": "https://github.com/beckn/building-blocks/issues/6",
       "text": "Research for optimizing e-commerce orders"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1519",
+      "time": "2024-07-16T12:00:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1519",
+      "text": "BOC - Setup CICD and Deploy BOC Leaderboard App on AWS Amplify"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1483",
+      "time": "2024-07-08T19:42:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1483",
+      "text": "Write Functional Test Cases for Beckn Leaderboard"
     }
   ],
   "open_prs": [],

@@ -917,6 +917,27 @@
       "time": "2024-07-16T09:20:10Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1512",
       "text": "Test issue 2 for leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1517",
+      "time": "2024-07-16T10:15:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1517",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1516",
+      "time": "2024-07-16T10:15:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1516",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1515",
+      "time": "2024-07-16T10:15:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1515",
+      "text": "Weekly Application Testing"
     }
   ],
   "open_prs": [],

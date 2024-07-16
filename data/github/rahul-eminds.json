@@ -154,6 +154,13 @@
       "time": "2024-06-10T06:40:09Z",
       "link": "https://github.com/beckn/generic-client-layer/pull/80",
       "text": "Created unsolicited webhook to handle unsolicited request"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/leaderboard#1",
+      "time": "2024-07-16T11:18:41Z",
+      "link": "https://github.com/beckn/leaderboard/pull/1",
+      "text": "Added scripts for fetching data and contributors"
     }
   ],
   "open_prs": [],
