@@ -8,7 +8,6 @@ on:
 jobs:
   run-scraper:
     uses: beckn/leaderboard/.github/workflows/scrapper_for_data_repo.yml@main
-    if: github.ref == 'refs/heads/develop'
     permissions:
       issues: read
       pull-requests: read
