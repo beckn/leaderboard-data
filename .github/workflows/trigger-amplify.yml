@@ -1,0 +1,19 @@
+name: Trigger AWS Amplify Deployment
+
+on:
+  workflow_run:
+    workflows: ["Scrape Data"]
+    types:
+      - completed
+
+jobs:
+  trigger-amplify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Trigger AWS Amplify Deployment via Webhook
+        run: |
+          curl -X POST ${{ secrets.AMPLIFY_WEBHOOK_URL }}
