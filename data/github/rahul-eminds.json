@@ -161,6 +161,13 @@
       "time": "2024-07-16T11:18:41Z",
       "link": "https://github.com/beckn/leaderboard/pull/1",
       "text": "Added scripts for fetching data and contributors"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/leaderboard#2",
+      "time": "2024-07-17T06:07:37Z",
+      "link": "https://github.com/beckn/leaderboard/pull/2",
+      "text": "GitHub scrapper"
     }
   ],
   "open_prs": [],
