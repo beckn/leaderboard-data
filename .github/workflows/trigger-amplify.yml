@@ -16,4 +16,4 @@ jobs:
 
       - name: Trigger AWS Amplify Deployment via Webhook
         run: |
-          curl -X POST ${{ secrets.AMPLIFY_WEBHOOK_URL }}
+          curl -X POST -d {} ${{ secrets.AMPLIFY_WEBHOOK_URL }} -H "Content-Type:application/json"
