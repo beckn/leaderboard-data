@@ -497,6 +497,13 @@
       "time": "2024-07-16T07:29:44Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1510",
       "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1520",
+      "time": "2024-07-17T05:42:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1520",
+      "text": "feat: added cypress UTs in retail app for /homePage"
     }
   ],
   "open_prs": [],
