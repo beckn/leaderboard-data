@@ -2674,6 +2674,27 @@
       "time": "2024-07-08T19:42:03Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1483",
       "text": "Write Functional Test Cases for Beckn Leaderboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#175",
+      "time": "2024-06-13T17:29:07Z",
+      "link": "https://github.com/beckn/protocol-server/issues/175",
+      "text": "Unsolicited Webhook Controller for GCL"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#174",
+      "time": "2024-06-13T17:25:27Z",
+      "link": "https://github.com/beckn/protocol-server/issues/174",
+      "text": "Unsolicited Request Plugin Refactoring and Code Cleanup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#172",
+      "time": "2024-06-13T12:20:45Z",
+      "link": "https://github.com/beckn/protocol-server/issues/172",
+      "text": "Testing of Unsolicited Handling"
     }
   ],
   "open_prs": [],
