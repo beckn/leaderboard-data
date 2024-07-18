@@ -84,6 +84,13 @@
       "time": "2021-12-21T17:59:14Z",
       "link": "https://github.com/beckn/logistics/issues/9",
       "text": "Standard Enums for item categories."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#432",
+      "time": "2024-07-17T06:42:47Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/432",
+      "text": "incorrect schema pointer"
     }
   ],
   "open_prs": [],

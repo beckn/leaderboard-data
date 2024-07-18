@@ -2142,6 +2142,13 @@
       "time": "2024-07-16T09:18:03Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1511",
       "text": "fix: text boc contributors detail on deployed version"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1488",
+      "time": "2024-07-17T06:27:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1488",
+      "text": "fix: fixed search input issue in odr"
     }
   ],
   "open_prs": [],

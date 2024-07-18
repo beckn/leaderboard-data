@@ -1309,6 +1309,13 @@
       "time": "2024-07-15T12:12:11Z",
       "link": "https://github.com/beckn/beckn-sandbox/pull/154",
       "text": "Add layer 2 for open Belem and VISTAAR"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/protocol-server#216",
+      "time": "2024-07-17T06:29:56Z",
+      "link": "https://github.com/beckn/protocol-server/pull/216",
+      "text": "Handling error message to be sent when BPP response fails validation …"
     }
   ],
   "open_prs": [],

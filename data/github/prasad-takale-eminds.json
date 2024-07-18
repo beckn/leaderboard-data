@@ -168,6 +168,13 @@
       "time": "2023-09-11T10:00:31Z",
       "link": "https://github.com/beckn/policy-admin-ui/pull/12",
       "text": "Create Jenkinsfile_S3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#142",
+      "time": "2024-07-17T10:27:26Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/142",
+      "text": "fix(docker): specify platform in docker-compose.yml"
     }
   ],
   "open_prs": [],
