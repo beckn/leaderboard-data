@@ -938,6 +938,48 @@
       "time": "2024-07-16T10:15:19Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1515",
       "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1526",
+      "time": "2024-07-17T09:31:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1526",
+      "text": "In the migrated app under Industry 4.0, the order history from tourism is appearing in the Industry  4.0 app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1525",
+      "time": "2024-07-17T07:48:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1525",
+      "text": "UI Changes Needed in Leaderboard App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1524",
+      "time": "2024-07-17T07:15:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1524",
+      "text": "In Leaderboard App, Footer Section Links Are Not Working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1523",
+      "time": "2024-07-17T07:09:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1523",
+      "text": "In Leaderboard App, Live Leaderboard Section Displays All Ranks Instead of Limiting to Top 11 with 'Load More' Option for Additional Ranks"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1522",
+      "time": "2024-07-17T06:58:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1522",
+      "text": "In the leaderboard app, in the header section, the 'Start with your contribution' button is not working."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1521",
+      "time": "2024-07-17T06:49:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1521",
+      "text": "In the leaderboard app, the contributor profile and all details are missing, displaying a blank page with a 404 error."
     }
   ],
   "open_prs": [],

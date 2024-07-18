@@ -658,6 +658,13 @@
       "time": "2024-05-30T09:15:05Z",
       "link": "https://github.com/beckn/logistics/pull/12",
       "text": "L2 config"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#434",
+      "time": "2024-07-17T11:35:11Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/434",
+      "text": "Releasing the version 1.1.1 of Beckn core protocol specification"
     }
   ],
   "open_prs": [],

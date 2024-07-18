@@ -504,6 +504,27 @@
       "time": "2024-07-17T05:42:29Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1520",
       "text": "feat: added cypress UTs in retail app for /homePage"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1528",
+      "time": "2024-07-17T12:26:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1528",
+      "text": "Add Cypress UTs for /cart page in retail app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1527",
+      "time": "2024-07-17T12:25:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1527",
+      "text": "Add Cypress UTs for /search page in retail app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1520",
+      "time": "2024-07-17T11:29:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1520",
+      "text": "feat: added cypress UTs in retail app for /homePage"
     }
   ],
   "open_prs": [],
