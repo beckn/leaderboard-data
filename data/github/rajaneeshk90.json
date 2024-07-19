@@ -665,6 +665,20 @@
       "time": "2024-07-17T11:35:11Z",
       "link": "https://github.com/beckn/protocol-specifications/pull/434",
       "text": "Releasing the version 1.1.1 of Beckn core protocol specification"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#433",
+      "time": "2024-07-01T05:19:15Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/433",
+      "text": "Migrate Beckn Core Protocol Specification from OpenAPI 3.0 to 3.1: Release core spec version 1.1.1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#439",
+      "time": "2024-07-18T04:27:20Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/439",
+      "text": "Core v1.1.1"
     }
   ],
   "open_prs": [],

@@ -84,6 +84,27 @@
       "time": "2024-07-15T09:07:16Z",
       "link": "https://github.com/beckn/beckn-onix/pull/141",
       "text": "Feature/beckn onix video"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#89",
+      "time": "2024-07-18T12:41:51Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/89",
+      "text": "added issue templete to .github"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#92",
+      "time": "2024-07-18T12:43:34Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/92",
+      "text": "Merging Networks CLI Feature"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#141",
+      "time": "2024-07-18T12:41:22Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/141",
+      "text": "Feature/beckn onix video"
     }
   ],
   "open_prs": [],
