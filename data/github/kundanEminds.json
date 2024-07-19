@@ -2149,6 +2149,27 @@
       "time": "2024-07-17T06:27:25Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1488",
       "text": "fix: fixed search input issue in odr"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1529",
+      "time": "2024-07-18T04:36:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1529",
+      "text": "fix: fixed if an incorrect search keyword is entered, the search fail…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/leaderboard#3",
+      "time": "2024-07-19T06:02:22Z",
+      "link": "https://github.com/beckn/leaderboard/pull/3",
+      "text": "implemented new design according to figma"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#197",
+      "time": "2024-07-19T05:45:01Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/197",
+      "text": "added mobility application on migrated experience center"
     }
   ],
   "open_prs": [],

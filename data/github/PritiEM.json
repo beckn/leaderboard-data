@@ -2366,6 +2366,20 @@
       "time": "2024-07-15T07:57:31Z",
       "link": "https://github.com/beckn/beckn-onix/issues/140",
       "text": "Deploy New Gateway and Registry on EC2 Using ONIX Script"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1535",
+      "time": "2024-07-18T13:03:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1535",
+      "text": "Update DNS Configuration for Old Experience Center to Point to New Experience Center"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1534",
+      "time": "2024-07-18T12:01:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1534",
+      "text": "Add Mobility Apps Link to New Experience Center"
     }
   ],
   "open_prs": [],

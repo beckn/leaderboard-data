@@ -525,6 +525,27 @@
       "time": "2024-07-17T11:29:52Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1520",
       "text": "feat: added cypress UTs in retail app for /homePage"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1508",
+      "time": "2024-07-15T13:03:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1508",
+      "text": "Add Cypress unit test cases for Home page in retail app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1532",
+      "time": "2024-07-18T07:28:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1532",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1533",
+      "time": "2024-07-18T07:50:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1533",
+      "text": "Staging 1.1.0"
     }
   ],
   "open_prs": [],
