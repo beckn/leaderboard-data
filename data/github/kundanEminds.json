@@ -2170,6 +2170,27 @@
       "time": "2024-07-19T05:45:01Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/197",
       "text": "added mobility application on migrated experience center"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/leaderboard#4",
+      "time": "2024-07-19T11:23:45Z",
+      "link": "https://github.com/beckn/leaderboard/pull/4",
+      "text": "created temporary responsive design of leaderboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#198",
+      "time": "2024-07-19T06:43:30Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/198",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#199",
+      "time": "2024-07-19T06:43:54Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/199",
+      "text": "Staging 1.1.0"
     }
   ],
   "open_prs": [],

@@ -987,6 +987,20 @@
       "time": "2024-07-18T06:33:39Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1531",
       "text": "Kuza One - Getting application error"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1537",
+      "time": "2024-07-19T11:14:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1537",
+      "text": "In the OSM app, after placing an order, the order does not appear in the order history."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1536",
+      "time": "2024-07-19T11:06:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1536",
+      "text": "In the migrated ODR app, the \"Complainant\" and \"Respondent\" details are showing the name and number fields as blank."
     }
   ],
   "open_prs": [],
