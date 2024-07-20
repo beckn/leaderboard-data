@@ -546,6 +546,27 @@
       "time": "2024-07-18T07:50:56Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1533",
       "text": "Staging 1.1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1538",
+      "time": "2024-07-19T11:22:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1538",
+      "text": "Add Cypress UTs for /product details page in retail app "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1527",
+      "time": "2024-07-17T12:25:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1527",
+      "text": "Add Cypress UTs for /search page in retail app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1530",
+      "time": "2024-07-19T11:33:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1530",
+      "text": "feat: added cypress UTs in retail app for /search & /product page"
     }
   ],
   "open_prs": [],

@@ -91,6 +91,20 @@
       "time": "2024-07-17T06:42:47Z",
       "link": "https://github.com/beckn/protocol-specifications/pull/432",
       "text": "incorrect schema pointer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#440",
+      "time": "2024-07-19T09:54:42Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/440",
+      "text": "Documentation of ttl and exp on Catalog"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#441",
+      "time": "2024-07-19T10:15:22Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/441",
+      "text": "Spell check"
     }
   ],
   "open_prs": [],
