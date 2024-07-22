@@ -854,6 +854,13 @@
       "time": "2023-09-14T14:28:05Z",
       "link": "https://github.com/beckn/OSM-app/pull/106",
       "text": "Image tag issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1539",
+      "time": "2024-07-22T06:48:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1539",
+      "text": "fix: boc demo commit"
     }
   ],
   "open_prs": [],
