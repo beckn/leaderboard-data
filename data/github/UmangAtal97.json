@@ -91,6 +91,13 @@
       "time": "2024-03-27T13:18:50Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/289",
       "text": "UX Designs for DragonFoods"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1542",
+      "time": "2024-07-22T09:05:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1542",
+      "text": "Design inner page for BOC Leaderboard Website"
     }
   ],
   "open_prs": [],

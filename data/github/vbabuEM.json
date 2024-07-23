@@ -1316,6 +1316,34 @@
       "time": "2024-07-17T06:29:56Z",
       "link": "https://github.com/beckn/protocol-server/pull/216",
       "text": "Handling error message to be sent when BPP response fails validation …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#155",
+      "time": "2024-07-22T15:09:13Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/155",
+      "text": "Add layer 2 config for DENT"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#3",
+      "time": "2024-07-22T14:34:30Z",
+      "link": "https://github.com/beckn/missions/issues/3",
+      "text": "Setup sandbox environment on ueialliance.org"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#151",
+      "time": "2024-05-24T05:10:50Z",
+      "link": "https://github.com/beckn/protocol-server/issues/151",
+      "text": "NACK from BPP is not transferred back to the PS client"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/beckn-onix#143",
+      "time": "2024-07-22T11:54:16Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/143",
+      "text": "Update the docker-compose file to create the docker logs volume"
     }
   ],
   "open_prs": [],

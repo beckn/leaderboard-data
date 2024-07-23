@@ -161,6 +161,20 @@
       "time": "2024-02-14T08:08:47Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/12",
       "text": "Create a issue template and attach it to the issue creation button"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#2",
+      "time": "2024-07-22T13:27:05Z",
+      "link": "https://github.com/beckn/missions/issues/2",
+      "text": "Prepare Traceability for self help guides "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#1",
+      "time": "2024-07-22T12:15:09Z",
+      "link": "https://github.com/beckn/missions/issues/1",
+      "text": "Provide infra requirements for setting up UEI network on GCP"
     }
   ],
   "open_prs": [],

@@ -483,6 +483,13 @@
       "time": "2024-07-17T05:47:23Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1518",
       "text": "feat: integrated utilities and types from building block packages in OSC app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1546",
+      "time": "2024-07-22T12:02:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1546",
+      "text": "feat: added test cases for cart page"
     }
   ],
   "open_prs": [],

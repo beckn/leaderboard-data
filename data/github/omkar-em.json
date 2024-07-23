@@ -1001,6 +1001,83 @@
       "time": "2024-07-19T11:06:37Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1536",
       "text": "In the migrated ODR app, the \"Complainant\" and \"Respondent\" details are showing the name and number fields as blank."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1551",
+      "time": "2024-07-22T14:56:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1551",
+      "text": "July 22-Aug 2 || Internal calls/meetings"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1550",
+      "time": "2024-07-22T14:24:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1550",
+      "text": "Write UI Test Cases for Beckn Leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1544",
+      "time": "2024-07-22T09:57:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1544",
+      "text": "In the migrated OSM app, after successfully placing an order, the order does not appear in the \"Order History\" section."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1543",
+      "time": "2024-07-22T09:49:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1543",
+      "text": "In the DSEP-Unified app, when a user selects a course and proceeds to the payment page without applying for the scholarship, they incorrectly receive a discount on the course price."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1524",
+      "time": "2024-07-17T07:15:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1524",
+      "text": "In Leaderboard App, Footer Section Links Are Not Working"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1523",
+      "time": "2024-07-17T07:09:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1523",
+      "text": "In Leaderboard App, Live Leaderboard Section Displays All Ranks Instead of Limiting to Top 11 with 'Load More' Option for Additional Ranks"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1517",
+      "time": "2024-07-16T10:15:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1517",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1516",
+      "time": "2024-07-16T10:15:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1516",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1515",
+      "time": "2024-07-16T10:15:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1515",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1504",
+      "time": "2024-07-11T12:13:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1504",
+      "text": "July 08-19 // Internal calls/meetings"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1489",
+      "time": "2024-07-09T11:57:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1489",
+      "text": "In migrated EC ODR app, if the search text is removed or the backspace button is used, the search results get duplicated."
     }
   ],
   "open_prs": [],

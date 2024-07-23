@@ -490,6 +490,20 @@
       "time": "2024-03-18T12:24:10Z",
       "link": "https://github.com/beckn/mobility-bap-france-experience/pull/14",
       "text": "Update README.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#216",
+      "time": "2024-07-22T08:28:45Z",
+      "link": "https://github.com/beckn/protocol-server/pull/216",
+      "text": "Handling error message to be sent when BPP response fails validation …"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#217",
+      "time": "2024-07-22T08:20:22Z",
+      "link": "https://github.com/beckn/protocol-server/pull/217",
+      "text": "Error message to be sent when BPP response fails validation tests"
     }
   ],
   "open_prs": [],

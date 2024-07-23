@@ -567,6 +567,20 @@
       "time": "2024-07-19T11:33:13Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1530",
       "text": "feat: added cypress UTs in retail app for /search & /product page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1541",
+      "time": "2024-07-22T07:51:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1541",
+      "text": "Integrate Store and respective Type models from Common Packages into OSC app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1540",
+      "time": "2024-07-22T07:47:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1540",
+      "text": "Add Cypress UTs for /checkout page in retail app"
     }
   ],
   "open_prs": [],
