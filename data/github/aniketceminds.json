@@ -581,6 +581,27 @@
       "time": "2024-07-22T07:47:19Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1540",
       "text": "Add Cypress UTs for /checkout page in retail app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1569",
+      "time": "2024-07-23T10:46:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1569",
+      "text": "Add Cypress e2e test for /payment page in retail app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1528",
+      "time": "2024-07-17T12:26:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1528",
+      "text": "Add Cypress UTs for /cart page in retail app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1509",
+      "time": "2024-07-16T05:27:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1509",
+      "text": "To integrate Utilities and Types from Common Packages into OSC app"
     }
   ],
   "open_prs": [],

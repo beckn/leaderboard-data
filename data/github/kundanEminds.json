@@ -2191,6 +2191,13 @@
       "time": "2024-07-19T06:43:54Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/199",
       "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1553",
+      "time": "2024-07-23T13:40:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1553",
+      "text": "fix: removed utils and store file from local repo for osc and retail"
     }
   ],
   "open_prs": [],
