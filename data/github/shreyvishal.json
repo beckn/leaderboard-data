@@ -1505,6 +1505,13 @@
       "time": "2023-01-03T11:58:28Z",
       "link": "https://github.com/beckn/map-bot/pull/12",
       "text": "Develop"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1575",
+      "time": "2024-07-23T12:50:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1575",
+      "text": "Review Mobility Documentation"
     }
   ],
   "open_prs": [],

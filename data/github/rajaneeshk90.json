@@ -735,6 +735,20 @@
       "time": "2024-07-22T18:22:43Z",
       "link": "https://github.com/beckn/DHP-Specs/pull/123",
       "text": "change hospital names"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs#117",
+      "time": "2024-07-23T14:32:05Z",
+      "link": "https://github.com/beckn/DHP-Specs/pull/117",
+      "text": "change the hospital name"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/DHP-Specs#124",
+      "time": "2024-07-23T18:12:31Z",
+      "link": "https://github.com/beckn/DHP-Specs/pull/124",
+      "text": "Draft: removing unwanted hospital references"
     }
   ],
   "open_prs": [],

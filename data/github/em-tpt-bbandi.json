@@ -77,6 +77,13 @@
       "time": "2024-01-02T07:23:48Z",
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/33",
       "text": "Develop"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1552",
+      "time": "2024-07-23T05:21:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1552",
+      "text": "Setup UEI Environment for BAP, BPP, Registry, Gateway, and Sandbox"
     }
   ],
   "open_prs": [],

@@ -581,6 +581,244 @@
       "time": "2024-01-19T10:45:51Z",
       "link": "https://github.com/beckn/logistics/pull/11",
       "text": "Validating Logistics Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Logistics specification"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1592",
+      "time": "2024-07-23T14:14:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1592",
+      "text": "Demo on Smart Cities BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1591",
+      "time": "2024-07-23T14:13:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1591",
+      "text": "Demo on Smart Gambia BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1590",
+      "time": "2024-07-23T13:25:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1590",
+      "text": "Driver App - Implement Logout functionality in the application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1589",
+      "time": "2024-07-23T13:23:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1589",
+      "text": "Driver App - Integrate My Ride API in the UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1588",
+      "time": "2024-07-23T13:22:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1588",
+      "text": "Driver App - Integrate my account detail API in the UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1587",
+      "time": "2024-07-23T13:22:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1587",
+      "text": "Driver App - Integrate Ride Summary API in the UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1586",
+      "time": "2024-07-23T13:21:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1586",
+      "text": "Driver App - Integrate Change Ride Status ( Reached, Start, End) API in the UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1585",
+      "time": "2024-07-23T13:20:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1585",
+      "text": "Driver App - Integrate Accept/reject ride API in the UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1584",
+      "time": "2024-07-23T13:19:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1584",
+      "text": "Driver App - Integrate Fetch Ride Request API in the UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1583",
+      "time": "2024-07-23T13:18:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1583",
+      "text": "Driver App - Integrate Set Driver's current location API in the UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1582",
+      "time": "2024-07-23T13:18:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1582",
+      "text": "Driver App - Integrate Mark Driver's status as Offline/Online API in the UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1581",
+      "time": "2024-07-23T13:15:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1581",
+      "text": "Driver App - Implement \"My Ride\" page , so that driver can see their past rides"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1580",
+      "time": "2024-07-23T13:14:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1580",
+      "text": "Driver App - Implement Account page, where driver can see their account information"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1579",
+      "time": "2024-07-23T13:12:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1579",
+      "text": "Driver App  - Implement \"Reached Pickup\" button in the Ride Detail page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1578",
+      "time": "2024-07-23T13:11:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1578",
+      "text": "Driver App - Implement \"Navigate\" button in the Ride Detail page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1577",
+      "time": "2024-07-23T13:09:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1577",
+      "text": "Driver App - Implement \"New Ride Popup\" when there is new ride available"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1576",
+      "time": "2024-07-23T13:01:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1576",
+      "text": "Create Figma UI for Driver App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1574",
+      "time": "2024-07-23T11:44:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1574",
+      "text": "End to End QA for Driver App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1573",
+      "time": "2024-07-23T11:35:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1573",
+      "text": "Driver App - Integrate Login API in the UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1572",
+      "time": "2024-07-23T11:26:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1572",
+      "text": "Deployment of Smart Cities & Smart Gambia UI in AWS Amplify - Prod"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1571",
+      "time": "2024-07-23T11:25:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1571",
+      "text": "Deployment of Smart Cities & Smart Gambia UI in AWS Amplify - Stag"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1570",
+      "time": "2024-07-23T11:23:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1570",
+      "text": "Deployment of Smart Cities & Smart Gambia UI in AWS Amplify - DEV"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1568",
+      "time": "2024-07-23T10:35:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1568",
+      "text": "Rider BAP integration with Orders API on dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1567",
+      "time": "2024-07-23T10:35:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1567",
+      "text": "Rider BAP integration with support API on dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1566",
+      "time": "2024-07-23T10:35:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1566",
+      "text": "Rider BAP integration with track API on dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1565",
+      "time": "2024-07-23T10:32:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1565",
+      "text": "Rider BAP integration with rating API on dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1564",
+      "time": "2024-07-23T10:32:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1564",
+      "text": "Rider BAP integration with update API on dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1563",
+      "time": "2024-07-23T10:31:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1563",
+      "text": "Rider BAP integration with cancel API on dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1562",
+      "time": "2024-07-23T10:31:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1562",
+      "text": "Rider BAP integration with status API on dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1561",
+      "time": "2024-07-23T10:31:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1561",
+      "text": "Rider BAP integration with Confirm API on dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1560",
+      "time": "2024-07-23T10:28:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1560",
+      "text": "Rider BAP integration with init API on dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1559",
+      "time": "2024-07-23T09:59:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1559",
+      "text": "Conduct Approach Review with FIDE"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1558",
+      "time": "2024-07-23T09:58:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1558",
+      "text": "Update the Approach Document based on discussed changes ( leveraging strapi user model for login instead of building custom logic)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1557",
+      "time": "2024-07-23T09:57:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1557",
+      "text": "create Driver App API Documentation"
     }
   ],
   "open_prs": [],

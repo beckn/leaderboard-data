@@ -175,6 +175,20 @@
       "time": "2024-07-22T12:15:09Z",
       "link": "https://github.com/beckn/missions/issues/1",
       "text": "Provide infra requirements for setting up UEI network on GCP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#3",
+      "time": "2024-03-17T07:14:38Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/3",
+      "text": "Postman collection testing - EV catalog flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#6",
+      "time": "2024-07-23T12:31:02Z",
+      "link": "https://github.com/beckn/missions/issues/6",
+      "text": "Create FAQ for Beckn Assets"
     }
   ],
   "open_prs": [],
