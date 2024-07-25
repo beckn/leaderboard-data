@@ -399,6 +399,13 @@
       "time": "2022-02-07T17:42:21Z",
       "link": "https://github.com/beckn/dhp-reference-bpp/issues/1",
       "text": "User should be able to send a video chat link for the patient from the admin panel"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs-backup#21",
+      "time": "2021-12-29T13:18:23Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/21",
+      "text": "Added examples and missing objects"
     }
   ],
   "open_prs": [],

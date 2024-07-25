@@ -819,6 +819,48 @@
       "time": "2024-07-23T09:57:07Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1557",
       "text": "create Driver App API Documentation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#1",
+      "time": "2024-01-05T10:18:27Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/1",
+      "text": "Enhance README with Folder Descriptions"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs-backup#110",
+      "time": "2023-12-22T06:51:43Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/issues/110",
+      "text": "Update Folder Structure for Network Participant (NP) Logs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs-backup#108",
+      "time": "2023-12-13T10:12:58Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/108",
+      "text": "Updated Example Added for consultation and pharmacy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs-backup#111",
+      "time": "2024-01-05T08:21:55Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/111",
+      "text": "Issue #110 Fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs-backup#115",
+      "time": "2024-03-04T11:30:30Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/115",
+      "text": "Reversion of Changes Made for Issue #110"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/DHP-Specs-backup#116",
+      "time": "2024-03-11T16:53:34Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/116",
+      "text": "Validating DHP Specification with Core v 1.1.0"
     }
   ],
   "open_prs": [],

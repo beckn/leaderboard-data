@@ -1694,6 +1694,83 @@
       "time": "2023-12-07T07:07:28Z",
       "link": "https://github.com/beckn/reference-beckn-gateway/pull/2",
       "text": "Update README.md"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#5",
+      "time": "2023-05-20T04:33:48Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/5",
+      "text": "[C4GT] Implement DHP Sandbox API for Health and Wellness"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#6",
+      "time": "2022-03-12T15:59:20Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/6",
+      "text": "Digital OPD flows have non-standard fields and errors in context header structure"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#7",
+      "time": "2022-02-10T10:51:34Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/7",
+      "text": "Allow dynamic consent to be transmitted to allow distributed data sharing between network participants"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#8",
+      "time": "2022-01-27T13:02:14Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/8",
+      "text": "Add Protocol Governance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs-backup#24",
+      "time": "2022-01-27T13:01:19Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/issues/24",
+      "text": "Add Design Principles"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs-backup#10",
+      "time": "2021-12-17T04:11:58Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/10",
+      "text": "Update core.yaml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs-backup#11",
+      "time": "2021-12-21T15:07:54Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/11",
+      "text": "Added examples for Digital OPD flows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs-backup#12",
+      "time": "2021-12-20T16:17:42Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/12",
+      "text": "Added Documentation Folders with some Proposals"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs-backup#13",
+      "time": "2021-12-21T15:08:16Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/13",
+      "text": "Added Docs folder to manage specification evolution"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs-backup#20",
+      "time": "2021-12-28T13:09:59Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/20",
+      "text": "V0.7.1 release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs-backup#63",
+      "time": "2022-08-25T10:45:34Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/63",
+      "text": "Fixed issues in Core version 0.7.1"
     }
   ],
   "open_prs": [],

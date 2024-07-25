@@ -238,6 +238,20 @@
       "time": "2023-06-27T13:17:31Z",
       "link": "https://github.com/beckn/OSM-backend/pull/9",
       "text": "Adding the postman collection to search based on providers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/DHP-Specs#3",
+      "time": "2023-07-14T02:42:04Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/3",
+      "text": "[C4GT] Implement DHP Sandbox API for Health and Wellness - use cases and upgrade to core v1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/DHP-Specs-backup#104",
+      "time": "2023-12-03T07:38:56Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/pull/104",
+      "text": "DHP specs review for the examples"
     }
   ],
   "open_prs": [],

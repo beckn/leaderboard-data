@@ -1358,6 +1358,20 @@
       "time": "2024-07-23T04:39:33Z",
       "link": "https://github.com/beckn/missions/issues/4",
       "text": "Review Starter Kit and Implementation guide of VISTAAR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#6",
+      "time": "2024-07-24T11:58:11Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/6",
+      "text": "New sandbox repo needs to be tested"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#197",
+      "time": "2024-06-27T03:03:28Z",
+      "link": "https://github.com/beckn/protocol-server/issues/197",
+      "text": "Add support for OpenAPI version 3.1"
     }
   ],
   "open_prs": [],

@@ -2198,6 +2198,20 @@
       "time": "2024-07-23T13:40:45Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1553",
       "text": "fix: removed utils and store file from local repo for osc and retail"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1597",
+      "time": "2024-07-24T08:41:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1597",
+      "text": "fix: implemented auth component in osc through building block common …"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1599",
+      "time": "2024-07-24T12:35:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1599",
+      "text": "fix: implemented homepage component in osc through building blobk com…"
     }
   ],
   "open_prs": [],

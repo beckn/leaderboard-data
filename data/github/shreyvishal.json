@@ -1512,6 +1512,13 @@
       "time": "2024-07-23T12:50:41Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1575",
       "text": "Review Mobility Documentation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1596",
+      "time": "2024-07-24T08:03:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1596",
+      "text": "Fix Experience Center Dev Application"
     }
   ],
   "open_prs": [],
