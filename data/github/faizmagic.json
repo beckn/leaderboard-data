@@ -189,6 +189,104 @@
       "time": "2024-07-23T12:31:02Z",
       "link": "https://github.com/beckn/missions/issues/6",
       "text": "Create FAQ for Beckn Assets"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#19",
+      "time": "2024-07-24T11:12:22Z",
+      "link": "https://github.com/beckn/missions/issues/19",
+      "text": "Review and ensure all sandbox postman collections are working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#18",
+      "time": "2024-07-24T07:53:10Z",
+      "link": "https://github.com/beckn/missions/issues/18",
+      "text": "Collect and document beckn implementation JSON's from NP's - Open Amsterdam "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#17",
+      "time": "2024-07-24T07:52:47Z",
+      "link": "https://github.com/beckn/missions/issues/17",
+      "text": "Collect and document beckn implementation JSON's from NP's - Open Gambia"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#16",
+      "time": "2024-07-24T07:51:54Z",
+      "link": "https://github.com/beckn/missions/issues/16",
+      "text": "Collect and document beckn implementation JSON's from NP's - Open Kenya "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#15",
+      "time": "2024-07-24T07:51:40Z",
+      "link": "https://github.com/beckn/missions/issues/15",
+      "text": "Collect and document beckn implementation JSON's from NP's - Open Belem "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#14",
+      "time": "2024-07-24T07:51:22Z",
+      "link": "https://github.com/beckn/missions/issues/14",
+      "text": "Collect and document beckn implementation JSON's from NP's - UEI "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#13",
+      "time": "2024-07-24T07:50:41Z",
+      "link": "https://github.com/beckn/missions/issues/13",
+      "text": "Collect and document beckn implementation JSON's from NP's - VISTAAR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#12",
+      "time": "2024-07-24T07:49:05Z",
+      "link": "https://github.com/beckn/missions/issues/12",
+      "text": "Prepare and share concept note for Xplor on building a BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#11",
+      "time": "2024-07-24T07:48:03Z",
+      "link": "https://github.com/beckn/missions/issues/11",
+      "text": "Capacity Building for NP through Masterclass - UEI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#10",
+      "time": "2024-07-24T07:47:32Z",
+      "link": "https://github.com/beckn/missions/issues/10",
+      "text": "Capacity Building for NP through Masterclass - VISTAAR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#9",
+      "time": "2024-07-24T07:17:13Z",
+      "link": "https://github.com/beckn/missions/issues/9",
+      "text": "Create Implementation guide for UEI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#8",
+      "time": "2024-07-24T07:16:48Z",
+      "link": "https://github.com/beckn/missions/issues/8",
+      "text": "Create Implementation guide for VISTAAR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#7",
+      "time": "2024-07-24T02:14:50Z",
+      "link": "https://github.com/beckn/missions/issues/7",
+      "text": "Create Starter Kit"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#1",
+      "time": "2024-07-22T12:15:09Z",
+      "link": "https://github.com/beckn/missions/issues/1",
+      "text": "Provide infra requirements for setting up UEI network on GCP"
     }
   ],
   "open_prs": [],

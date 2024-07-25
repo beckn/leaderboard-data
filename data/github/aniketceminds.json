@@ -602,6 +602,55 @@
       "time": "2024-07-16T05:27:59Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1509",
       "text": "To integrate Utilities and Types from Common Packages into OSC app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1598",
+      "time": "2024-07-24T11:39:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1598",
+      "text": "Add Cypress E2E tests for /orderDetails page in retail app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1595",
+      "time": "2024-07-24T07:42:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1595",
+      "text": "Integrate /homePage and respective Type models from Common Packages into OSC app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1594",
+      "time": "2024-07-24T07:40:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1594",
+      "text": "Integrate /signIn, /signUp page and respective Type models from Common Packages into OSC app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1593",
+      "time": "2024-07-24T07:37:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1593",
+      "text": "Add Cypress E2E test for /orderConfirmation page in retail app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1541",
+      "time": "2024-07-22T07:51:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1541",
+      "text": "Integrate Store and respective Type models from Common Packages into OSC app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1540",
+      "time": "2024-07-22T07:47:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1540",
+      "text": "Add Cypress UTs for /checkout page in retail app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1556",
+      "time": "2024-07-24T09:54:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1556",
+      "text": "feat: added cypress e2e test for /checkout page in retail"
     }
   ],
   "open_prs": [],
