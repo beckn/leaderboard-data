@@ -1092,6 +1092,13 @@
       "time": "2024-07-23T07:39:10Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1554",
       "text": "In the Tourism app, QR Code Button Missing After Checkout."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1525",
+      "time": "2024-07-17T07:48:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1525",
+      "text": "UI Changes Needed in Leaderboard App"
     }
   ],
   "open_prs": [],
