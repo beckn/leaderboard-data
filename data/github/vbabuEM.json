@@ -1372,6 +1372,13 @@
       "time": "2024-06-27T03:03:28Z",
       "link": "https://github.com/beckn/protocol-server/issues/197",
       "text": "Add support for OpenAPI version 3.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#20",
+      "time": "2024-07-25T06:04:26Z",
+      "link": "https://github.com/beckn/missions/issues/20",
+      "text": "JSON Schema version 2020-12"
     }
   ],
   "open_prs": [],

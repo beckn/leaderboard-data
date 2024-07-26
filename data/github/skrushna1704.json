@@ -497,6 +497,13 @@
       "time": "2024-07-23T05:12:22Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1546",
       "text": "feat: added test cases for cart page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1601",
+      "time": "2024-07-25T12:43:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1601",
+      "text": "feat: cypress test cases"
     }
   ],
   "open_prs": [],

@@ -1519,6 +1519,13 @@
       "time": "2024-07-24T08:03:45Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1596",
       "text": "Fix Experience Center Dev Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1600",
+      "time": "2024-07-25T09:05:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1600",
+      "text": "Fix and Test Deployment Build of new beckn-sandbox repo"
     }
   ],
   "open_prs": [],
