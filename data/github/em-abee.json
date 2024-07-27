@@ -504,6 +504,13 @@
       "time": "2024-07-22T08:20:22Z",
       "link": "https://github.com/beckn/protocol-server/pull/217",
       "text": "Error message to be sent when BPP response fails validation tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#219",
+      "time": "2024-07-26T05:38:22Z",
+      "link": "https://github.com/beckn/protocol-server/pull/219",
+      "text": "Search with BPP specified should behave as peer-to-peer request."
     }
   ],
   "open_prs": [],

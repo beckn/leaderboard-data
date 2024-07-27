@@ -1379,6 +1379,27 @@
       "time": "2024-07-25T06:04:26Z",
       "link": "https://github.com/beckn/missions/issues/20",
       "text": "JSON Schema version 2020-12"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#21",
+      "time": "2024-07-26T04:32:13Z",
+      "link": "https://github.com/beckn/missions/issues/21",
+      "text": "Feasibility of JSON Schema validations for rules"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#22",
+      "time": "2024-07-26T05:57:47Z",
+      "link": "https://github.com/beckn/missions/pull/22",
+      "text": "VISTAAR Implementation guide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#23",
+      "time": "2024-07-26T13:12:07Z",
+      "link": "https://github.com/beckn/missions/pull/23",
+      "text": "Add description on ACK/NACK"
     }
   ],
   "open_prs": [],
