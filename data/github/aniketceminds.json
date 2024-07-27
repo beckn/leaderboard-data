@@ -651,6 +651,20 @@
       "time": "2024-07-24T09:54:43Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1556",
       "text": "feat: added cypress e2e test for /checkout page in retail"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1603",
+      "time": "2024-07-26T12:36:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1603",
+      "text": "Add Cypress E2E tests for /profile page in retail app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1602",
+      "time": "2024-07-26T09:04:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1602",
+      "text": "feat: added cypress E2E tests for /orderDetails page in retail"
     }
   ],
   "open_prs": [],
