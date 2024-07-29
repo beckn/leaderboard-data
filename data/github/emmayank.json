@@ -861,6 +861,34 @@
       "time": "2024-03-11T16:53:34Z",
       "link": "https://github.com/beckn/DHP-Specs-backup/pull/116",
       "text": "Validating DHP Specification with Core v 1.1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1607",
+      "time": "2024-07-28T10:51:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1607",
+      "text": "Taxi BPP BE - Develop ride request api for driver"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1606",
+      "time": "2024-07-28T10:38:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1606",
+      "text": "Taxi BPP BE - Implement My Rides API Functionality for Drivers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1605",
+      "time": "2024-07-28T10:38:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1605",
+      "text": "Taxi BPP BE - Implement My Profile API Functionality for Drivers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1604",
+      "time": "2024-07-28T10:18:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1604",
+      "text": "Taxi BPP BE - Develop toggle status api"
     }
   ],
   "open_prs": [],
