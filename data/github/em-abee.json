@@ -511,6 +511,13 @@
       "time": "2024-07-26T05:38:22Z",
       "link": "https://github.com/beckn/protocol-server/pull/219",
       "text": "Search with BPP specified should behave as peer-to-peer request."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#434",
+      "time": "2024-03-29T15:41:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/434",
+      "text": "Create API's for driver app"
     }
   ],
   "open_prs": [],
