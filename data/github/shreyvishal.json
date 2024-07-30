@@ -1526,6 +1526,34 @@
       "time": "2024-07-25T09:05:02Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1600",
       "text": "Fix and Test Deployment Build of new beckn-sandbox repo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1643",
+      "time": "2024-07-29T15:26:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1643",
+      "text": "22July - 2Aug - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1642",
+      "time": "2024-07-29T15:23:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1642",
+      "text": "Review and Test Telemetry PR raised by ONEST team for Protocol Server"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1641",
+      "time": "2024-07-29T15:19:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1641",
+      "text": "Sunbird OBSRV POC on local system"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1638",
+      "time": "2024-07-29T15:14:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1638",
+      "text": "Search API Not Working and Experience Center App Crashing"
     }
   ],
   "open_prs": [],

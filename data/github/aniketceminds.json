@@ -665,6 +665,55 @@
       "time": "2024-07-26T09:04:38Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1602",
       "text": "feat: added cypress E2E tests for /orderDetails page in retail"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1610",
+      "time": "2024-07-29T09:04:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1610",
+      "text": "Integrate Header component and its respective Type models from Common Packages into OSC app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1609",
+      "time": "2024-07-29T09:02:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1609",
+      "text": "Add Cypress E2E tests for /orderHistory page in retail app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1603",
+      "time": "2024-07-26T12:36:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1603",
+      "text": "Add Cypress E2E tests for /profile page in retail app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1593",
+      "time": "2024-07-24T07:37:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1593",
+      "text": "Add Cypress E2E test for /orderConfirmation page in retail app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1569",
+      "time": "2024-07-23T10:46:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1569",
+      "text": "Add Cypress e2e test for /payment page in retail app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1602",
+      "time": "2024-07-29T09:21:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1602",
+      "text": "feat: added cypress E2E tests for /orderDetails page in retail"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1650",
+      "time": "2024-07-29T18:12:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1650",
+      "text": "fix: modified cypress order details tests to add update order state s…"
     }
   ],
   "open_prs": [],

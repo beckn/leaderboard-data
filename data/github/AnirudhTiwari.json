@@ -154,6 +154,41 @@
       "time": "2021-12-15T13:02:56Z",
       "link": "https://github.com/beckn/DHP-Specs-backup/pull/2",
       "text": "Added initial core spec for enabling discovery, booking and fulfillment of health and wellness services. "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#76",
+      "time": "2021-12-22T05:01:39Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/76",
+      "text": "Add Documentation for Getting Started using DHP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#75",
+      "time": "2021-12-21T11:27:53Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/75",
+      "text": "Enhance specs to have a person as a fulfiller of item instead of agent"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#74",
+      "time": "2021-12-16T08:24:48Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/74",
+      "text": "Add Example JSONs for Secondary Use-cases in DHP Specs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#73",
+      "time": "2021-12-16T08:22:57Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/73",
+      "text": "Add Example JSONs for digital OPD in DHP Specs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#72",
+      "time": "2021-12-10T07:42:54Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/72",
+      "text": "Add Digital OPD flow diagrams to wiki"
     }
   ],
   "open_prs": [],

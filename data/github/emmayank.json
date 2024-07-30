@@ -889,6 +889,125 @@
       "time": "2024-07-28T10:18:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1604",
       "text": "Taxi BPP BE - Develop toggle status api"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#81",
+      "time": "2023-12-22T06:51:43Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/81",
+      "text": "Update Folder Structure for Network Participant (NP) Logs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1647",
+      "time": "2024-07-29T16:14:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1647",
+      "text": "Internal Meetings & Sessions"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1646",
+      "time": "2024-07-29T16:14:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1646",
+      "text": "External Meeting & Sessions"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1637",
+      "time": "2024-07-29T15:11:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1637",
+      "text": "Create Flow document for devops review"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1636",
+      "time": "2024-07-29T15:11:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1636",
+      "text": "Review Devops review PPT"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1635",
+      "time": "2024-07-29T15:11:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1635",
+      "text": "Create Flow Document for EC App code review"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1634",
+      "time": "2024-07-29T15:11:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1634",
+      "text": "Create flow docs for network observability dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1633",
+      "time": "2024-07-29T15:11:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1633",
+      "text": "Maintaining Pipeline Sheet"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1631",
+      "time": "2024-07-29T15:06:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1631",
+      "text": "Create Outcome Visualization document for Network observability dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1629",
+      "time": "2024-07-29T14:57:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1629",
+      "text": "Internal Meetings & Sessions"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1627",
+      "time": "2024-07-29T14:45:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1627",
+      "text": "External Meeting & Sessions"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1620",
+      "time": "2024-07-29T11:40:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1620",
+      "text": "Add Postman Collection for Mobility BPP Adapter"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1619",
+      "time": "2024-07-29T11:38:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1619",
+      "text": "Implement Changes in GCL for Mobility Domain"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1618",
+      "time": "2024-07-29T11:36:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1618",
+      "text": "Postman Collection for Mobility Protocol Server"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1617",
+      "time": "2024-07-29T11:35:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1617",
+      "text": "Postman Collection for Mobility Generic Client Layer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1616",
+      "time": "2024-07-29T11:34:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1616",
+      "text": "Add Postman collection for Driver App API"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1576",
+      "time": "2024-07-23T13:01:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1576",
+      "text": "Create Figma UI for Driver App"
     }
   ],
   "open_prs": [],

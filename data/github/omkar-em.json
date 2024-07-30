@@ -1099,6 +1099,20 @@
       "time": "2024-07-17T07:48:42Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1525",
       "text": "UI Changes Needed in Leaderboard App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1521",
+      "time": "2024-07-17T06:49:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1521",
+      "text": "In the leaderboard app, the contributor profile and all details are missing, displaying a blank page with a 404 error."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1209",
+      "time": "2024-06-07T06:53:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1209",
+      "text": "Old EC Apps-search  is not working across all EC apps"
     }
   ],
   "open_prs": [],

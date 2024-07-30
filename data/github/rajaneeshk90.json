@@ -763,6 +763,62 @@
       "time": "2024-07-24T07:33:33Z",
       "link": "https://github.com/beckn/DHP-Specs-backup/pull/125",
       "text": "Revert \"change the hospital name\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#215",
+      "time": "2024-07-11T04:54:37Z",
+      "link": "https://github.com/beckn/protocol-server/issues/215",
+      "text": "Making Changes in the core protocol spec version 1.2: phase 2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#151",
+      "time": "2024-07-29T16:01:56Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/151",
+      "text": "changes for the Beckn-onix-stack: phase 1: part 5"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#150",
+      "time": "2024-07-29T16:01:16Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/150",
+      "text": "changes for the Beckn-onix-stack: phase 1: part 4"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#149",
+      "time": "2024-07-29T15:59:56Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/149",
+      "text": "changes for the Beckn-onix-stack: phase 1: Part3 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#148",
+      "time": "2024-07-29T15:57:55Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/148",
+      "text": "changes for the Beckn-onix-stack: phase 1:  key digital functionalities"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#147",
+      "time": "2024-07-29T15:56:34Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/147",
+      "text": "changes for the Beckn-onix-stack: phase 1: part1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs-backup#126",
+      "time": "2024-07-29T16:24:36Z",
+      "link": "https://github.com/beckn/DHP-Specs-backup/issues/126",
+      "text": "Remove all unwanted hospital references from the DHP repo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#7",
+      "time": "2024-07-29T16:19:01Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/7",
+      "text": "Remove all unwanted hospital references from the sandbox repo"
     }
   ],
   "open_prs": [],

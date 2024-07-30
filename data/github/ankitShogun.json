@@ -889,6 +889,97 @@
       "time": "2024-07-22T10:02:14Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1545",
       "text": "Boc demo pr"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1632",
+      "time": "2024-07-29T15:10:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1632",
+      "text": "Boc ui fixes and seperated some next 14 server and client component"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1630",
+      "time": "2024-07-29T15:04:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1630",
+      "text": "Discussion with the ui team and creating estimates for all the tech debts and e2e testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1628",
+      "time": "2024-07-29T14:52:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1628",
+      "text": "Discussion with Abhi and rahul on leaderboard dashboard issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1624",
+      "time": "2024-07-29T14:28:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1624",
+      "text": "Daily internal sync"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1623",
+      "time": "2024-07-29T14:26:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1623",
+      "text": "Miscellaneous Refactoring of the Code"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1547",
+      "time": "2024-07-22T12:05:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1547",
+      "text": "Boc responsive layout changes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1494",
+      "time": "2024-07-09T13:36:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1494",
+      "text": "Writing some more cypress test cases for analysis purposes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1493",
+      "time": "2024-07-09T13:36:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1493",
+      "text": "Checking out the docs for ONEST data dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1462",
+      "time": "2024-07-03T13:04:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1462",
+      "text": "TECH DEBT - Generalizing checkout page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1443",
+      "time": "2024-07-01T12:41:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1443",
+      "text": "TECH DEBT - Generalizing cart page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1622",
+      "time": "2024-07-29T14:24:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1622",
+      "text": "feat: refactoring and generalizing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1625",
+      "time": "2024-07-29T14:39:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1625",
+      "text": "Feature/cart generalization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1626",
+      "time": "2024-07-29T14:42:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1626",
+      "text": "feat: test cases for order history page"
     }
   ],
   "open_prs": [],

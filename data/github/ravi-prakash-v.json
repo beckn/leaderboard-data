@@ -1771,6 +1771,13 @@
       "time": "2022-08-25T10:45:34Z",
       "link": "https://github.com/beckn/DHP-Specs-backup/pull/63",
       "text": "Fixed issues in Core version 0.7.1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#80",
+      "time": "2022-01-27T13:01:19Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/80",
+      "text": "Add Design Principles"
     }
   ],
   "open_prs": [],
