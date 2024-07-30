@@ -1400,6 +1400,20 @@
       "time": "2024-07-26T13:12:07Z",
       "link": "https://github.com/beckn/missions/pull/23",
       "text": "Add description on ACK/NACK"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#213",
+      "time": "2024-07-10T08:44:41Z",
+      "link": "https://github.com/beckn/protocol-server/issues/213",
+      "text": "Search with BPP specified should behave as peer-to-peer request."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#109",
+      "time": "2024-03-13T09:27:57Z",
+      "link": "https://github.com/beckn/protocol-server/issues/109",
+      "text": "Error message to be sent when BPP response fails validation tests"
     }
   ],
   "open_prs": [],

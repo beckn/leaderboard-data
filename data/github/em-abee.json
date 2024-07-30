@@ -518,6 +518,41 @@
       "time": "2024-03-29T15:41:47Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/434",
       "text": "Create API's for driver app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#217",
+      "time": "2024-07-29T15:01:54Z",
+      "link": "https://github.com/beckn/protocol-server/pull/217",
+      "text": "Error message to be sent when BPP response fails validation tests"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1640",
+      "time": "2024-07-29T15:16:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1640",
+      "text": "Change and doc around HMAC verification"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1639",
+      "time": "2024-07-29T15:16:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1639",
+      "text": "Debugging HMAC issue with PupilFirst"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1614",
+      "time": "2024-07-29T10:30:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1614",
+      "text": "Taxi BPP BE - Implement Logout API for Drivers (Using Strapi)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1613",
+      "time": "2024-07-29T10:27:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1613",
+      "text": "Implement Unsolicited on_status for Mobility BPP on ride reject"
     }
   ],
   "open_prs": [],

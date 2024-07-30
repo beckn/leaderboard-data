@@ -511,6 +511,13 @@
       "time": "2024-07-26T05:03:24Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1601",
       "text": "feat: cypress test cases"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1608",
+      "time": "2024-07-29T05:26:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1608",
+      "text": "feat: added cypress test cases for profile page"
     }
   ],
   "open_prs": [],

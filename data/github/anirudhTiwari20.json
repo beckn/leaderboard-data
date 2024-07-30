@@ -42,6 +42,27 @@
       "time": "2021-12-25T04:56:06Z",
       "link": "https://github.com/beckn/DHP-Specs-backup/issues/17",
       "text": "Enhance specs to introduce location attribute"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#79",
+      "time": "2021-12-25T04:57:45Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/79",
+      "text": "Add Gateway setup documentation in Getting Started wiki"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#78",
+      "time": "2021-12-25T04:56:21Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/78",
+      "text": "Enhance specs to introduce track & on_track APIs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/DHP-Specs#77",
+      "time": "2021-12-25T04:56:06Z",
+      "link": "https://github.com/beckn/DHP-Specs/issues/77",
+      "text": "Enhance specs to introduce location attribute"
     }
   ],
   "open_prs": [],
