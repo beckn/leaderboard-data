@@ -714,6 +714,48 @@
       "time": "2024-07-29T18:12:55Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1650",
       "text": "fix: modified cypress order details tests to add update order state s…"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1656",
+      "time": "2024-07-30T13:18:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1656",
+      "text": "Add Cypress E2E test for /feedback page in retail app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1598",
+      "time": "2024-07-24T11:39:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1598",
+      "text": "Add Cypress E2E tests for /orderDetails page in retail app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1496",
+      "time": "2024-07-10T13:50:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1496",
+      "text": "POC for common login functionality of cypress unit test cases in apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1475",
+      "time": "2024-07-08T14:27:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1475",
+      "text": "Implement Shared Component for /orderDetails Page and Its Subcomponents"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1004",
+      "time": "2024-07-30T05:24:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1004",
+      "text": "feat: Taxi driver bpp UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1487",
+      "time": "2024-07-30T06:01:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1487",
+      "text": "fix: modified code to add common order details comp & its subComp"
     }
   ],
   "open_prs": [],

@@ -1113,6 +1113,13 @@
       "time": "2024-06-07T06:53:54Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1209",
       "text": "Old EC Apps-search  is not working across all EC apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1652",
+      "time": "2024-07-30T07:47:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1652",
+      "text": "In the EC applications, when users hover over various interactive elements, the cursor does not change to a hand (pointer) cursor."
     }
   ],
   "open_prs": [],
