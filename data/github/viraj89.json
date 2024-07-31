@@ -2709,6 +2709,13 @@
       "time": "2024-07-08T19:49:12Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1485",
       "text": "Integrate Leaderboard Data and Develop Leaderboard UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#162",
+      "time": "2024-06-06T14:59:58Z",
+      "link": "https://github.com/beckn/protocol-server/issues/162",
+      "text": "Validate and Audit migration from Beckn core spec 0.9.4 to 1.1.0"
     }
   ],
   "open_prs": [],

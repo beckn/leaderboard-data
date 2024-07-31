@@ -2478,6 +2478,146 @@
       "time": "2024-07-29T10:16:26Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1611",
       "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#162",
+      "time": "2024-07-30T15:06:54Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/162",
+      "text": "Connected with Shreya for Beckn-Onix Issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#161",
+      "time": "2024-07-30T15:04:38Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/161",
+      "text": "Created New Docker Image for Protocol Server and Deployed it in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#160",
+      "time": "2024-07-30T14:39:13Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/160",
+      "text": "8July- 19July // Calls and Meetings with Fide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#159",
+      "time": "2024-07-30T14:38:48Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/159",
+      "text": "8July - 19July - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#158",
+      "time": "2024-07-30T14:38:06Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/158",
+      "text": "Fixed Sign-Up Issue of BOC Registry"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#157",
+      "time": "2024-07-30T14:36:45Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/157",
+      "text": "Discuss Sign-Up Issue of Registry with Venky"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#156",
+      "time": "2024-07-30T14:35:18Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/156",
+      "text": "Create new server for MonogDB, Redis and RabbitMQ for performance testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#155",
+      "time": "2024-07-30T14:34:58Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/155",
+      "text": "Setup machine for BPP-PS-PF-Staging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#154",
+      "time": "2024-07-30T14:34:32Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/154",
+      "text": "Debugging performances Testing Issue with Shreya and Omkar"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#146",
+      "time": "2024-07-29T13:06:41Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/146",
+      "text": "Vertical scale Load testing of Registry in Vistaar instance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#145",
+      "time": "2024-07-29T13:06:02Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/145",
+      "text": "Vertical scale Load testing of Gateway in Vistaar Instance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#137",
+      "time": "2024-07-15T05:30:15Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/137",
+      "text": "Perform Horizontal Scaling After MongoDB Optimization"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1664",
+      "time": "2024-07-30T15:08:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1664",
+      "text": "22July - 2Aug - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1663",
+      "time": "2024-07-30T15:05:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1663",
+      "text": "AWS Cost Optimisation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1662",
+      "time": "2024-07-30T15:03:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1662",
+      "text": "URL Redirection of All Old EC Applications to New ECs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1661",
+      "time": "2024-07-30T14:41:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1661",
+      "text": "Create DevOps Task List for \"Conduct Overall DevOps Review\" and Share with Mayank"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1660",
+      "time": "2024-07-30T14:40:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1660",
+      "text": "Fixed Kuza One - Application Error"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1659",
+      "time": "2024-07-30T14:35:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1659",
+      "text": "Build a sandbox network for UEI on becknprotocol.io"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1658",
+      "time": "2024-07-30T14:33:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1658",
+      "text": "Jenkins Node Not Executing New Job"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1657",
+      "time": "2024-07-30T14:32:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1657",
+      "text": "Debugging Issue for Api.Dsnp Failure"
     }
   ],
   "open_prs": [],
