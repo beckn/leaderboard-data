@@ -756,6 +756,48 @@
       "time": "2024-07-30T06:01:46Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1487",
       "text": "fix: modified code to add common order details comp & its subComp"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1674",
+      "time": "2024-07-31T12:03:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1674",
+      "text": "Integrate type definition in serchBy location page of OSC app "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1610",
+      "time": "2024-07-29T09:04:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1610",
+      "text": "Integrate Header component and its respective Type models from Common Packages into OSC app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1595",
+      "time": "2024-07-24T07:42:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1595",
+      "text": "Integrate /homePage and respective Type models from Common Packages into OSC app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1594",
+      "time": "2024-07-24T07:40:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1594",
+      "text": "Integrate /signIn, /signUp page and respective Type models from Common Packages into OSC app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1666",
+      "time": "2024-07-31T05:14:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1666",
+      "text": "feat: integratd the map screen and fetch current location"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1678",
+      "time": "2024-07-31T14:41:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1678",
+      "text": "feat: added online-offline switch & removed unwanted files"
     }
   ],
   "open_prs": [],

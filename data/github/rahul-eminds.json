@@ -168,6 +168,27 @@
       "time": "2024-07-17T06:07:37Z",
       "link": "https://github.com/beckn/leaderboard/pull/2",
       "text": "GitHub scrapper"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#84",
+      "time": "2024-07-31T13:07:07Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/84",
+      "text": "Fixed issue related to no search item found"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#85",
+      "time": "2024-07-31T13:31:46Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/85",
+      "text": "Bugfix/search issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#86",
+      "time": "2024-07-31T13:58:33Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/86",
+      "text": "Bugfix/search issue"
     }
   ],
   "open_prs": [],

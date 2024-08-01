@@ -819,6 +819,27 @@
       "time": "2024-07-29T16:19:01Z",
       "link": "https://github.com/beckn/beckn-sandbox/issues/7",
       "text": "Remove all unwanted hospital references from the sandbox repo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/mobility#82",
+      "time": "2024-07-31T09:46:59Z",
+      "link": "https://github.com/beckn/mobility/issues/82",
+      "text": "Setting up the l2 config in OAS3.1 for Mobility: Phase3 (Adding network rules fetched from the actual networks into layer2)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/mobility#81",
+      "time": "2024-07-31T08:28:09Z",
+      "link": "https://github.com/beckn/mobility/issues/81",
+      "text": "Setting up the l2 config in OAS3.1 for Mobility: Phase3"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/mobility#80",
+      "time": "2024-07-05T06:28:01Z",
+      "link": "https://github.com/beckn/mobility/issues/80",
+      "text": "Setting up the l2 config in OAS3.1 for Mobility: Phase2"
     }
   ],
   "open_prs": [],

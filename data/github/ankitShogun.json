@@ -1008,6 +1008,27 @@
       "time": "2024-07-30T11:07:48Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1654",
       "text": "Feature/code cleanup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1676",
+      "time": "2024-07-31T12:48:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1676",
+      "text": "TECH DEBT - Refactoring ODR - 1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1675",
+      "time": "2024-07-31T12:43:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1675",
+      "text": "Mission project work (Checking the discord server for possible faqs)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1679",
+      "time": "2024-07-31T15:25:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1679",
+      "text": "ODR code cleanup and refactoring"
     }
   ],
   "open_prs": [],
