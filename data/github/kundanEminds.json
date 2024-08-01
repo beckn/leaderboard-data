@@ -2240,6 +2240,27 @@
       "time": "2024-07-30T10:54:41Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1653",
       "text": "fix: implemented Login screen for existing drivers for driver app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1651",
+      "time": "2024-07-31T07:14:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1651",
+      "text": "fix: implemented header component in osc through building block commo…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1653",
+      "time": "2024-07-31T06:57:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1653",
+      "text": "fix: implemented Login screen for existing drivers for driver app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1677",
+      "time": "2024-07-31T14:50:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1677",
+      "text": "fix: implemented ride summary for driver app"
     }
   ],
   "open_prs": [],

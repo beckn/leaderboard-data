@@ -1414,6 +1414,20 @@
       "time": "2024-03-13T09:27:57Z",
       "link": "https://github.com/beckn/protocol-server/issues/109",
       "text": "Error message to be sent when BPP response fails validation tests"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#24",
+      "time": "2024-07-31T05:16:29Z",
+      "link": "https://github.com/beckn/missions/issues/24",
+      "text": "Review Beckn ONIX specification"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#3",
+      "time": "2024-07-22T14:34:30Z",
+      "link": "https://github.com/beckn/missions/issues/3",
+      "text": "Setup sandbox environment on ueialliance.org"
     }
   ],
   "open_prs": [],

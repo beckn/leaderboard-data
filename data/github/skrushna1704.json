@@ -518,6 +518,20 @@
       "time": "2024-07-29T05:26:07Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1608",
       "text": "feat: added cypress test cases for profile page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1672",
+      "time": "2024-07-31T08:24:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1672",
+      "text": "feat: cypress test cases"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1673",
+      "time": "2024-07-31T11:47:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1673",
+      "text": "fix: removed order api call in tourism app so that it wont display in industry 4 order history"
     }
   ],
   "open_prs": [],

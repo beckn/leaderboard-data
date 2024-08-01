@@ -2618,6 +2618,34 @@
       "time": "2024-07-30T14:32:11Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1657",
       "text": "Debugging Issue for Api.Dsnp Failure"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#144",
+      "time": "2024-07-29T13:05:44Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/144",
+      "text": "Check Beckn-Onix Mac Installation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1670",
+      "time": "2024-07-31T07:11:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1670",
+      "text": "Link Beckn Strapi BPP Repository to the Dev Instance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1615",
+      "time": "2024-07-29T10:34:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1615",
+      "text": "8July - 19July - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#930",
+      "time": "2024-05-13T13:26:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/930",
+      "text": "Taxi Bpp UI Analysis"
     }
   ],
   "open_prs": [],

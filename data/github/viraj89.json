@@ -2716,6 +2716,34 @@
       "time": "2024-06-06T14:59:58Z",
       "link": "https://github.com/beckn/protocol-server/issues/162",
       "text": "Validate and Audit migration from Beckn core spec 0.9.4 to 1.1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1491",
+      "time": "2024-07-09T12:38:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1491",
+      "text": "Unit Test Cases for BOC Leadership"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1482",
+      "time": "2024-07-08T19:15:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1482",
+      "text": "Create Beckn GitHub Repositories for Leaderboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#804",
+      "time": "2024-04-30T08:22:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/804",
+      "text": "Taxi BPP BE - Develop Location Requests API for Drivers with Strapi Integration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#771",
+      "time": "2024-04-25T15:40:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/771",
+      "text": "Driver App - Implement Login Screen for Existing Drivers"
     }
   ],
   "open_prs": [],

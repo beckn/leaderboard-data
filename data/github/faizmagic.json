@@ -294,6 +294,13 @@
       "time": "2024-07-24T02:14:50Z",
       "link": "https://github.com/beckn/missions/issues/7",
       "text": "Create Starter Kit"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#25",
+      "time": "2024-07-31T09:47:37Z",
+      "link": "https://github.com/beckn/missions/issues/25",
+      "text": "Create an Implementation guide for UPPCL P2P"
     }
   ],
   "open_prs": [],
