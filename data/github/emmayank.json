@@ -1015,6 +1015,13 @@
       "time": "2024-07-28T10:18:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1604",
       "text": "Taxi BPP BE - Develop toggle status api"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1579",
+      "time": "2024-07-23T13:12:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1579",
+      "text": "Driver App  - Implement \"Reached Pickup Location\" button in the Ride Summary"
     }
   ],
   "open_prs": [],

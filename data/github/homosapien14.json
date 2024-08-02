@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-08-01T10:32:22Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#443",
+      "time": "2024-08-01T10:32:22Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/443",
+      "text": "Feat: automated Open API syntax validation on submitting PR to master"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

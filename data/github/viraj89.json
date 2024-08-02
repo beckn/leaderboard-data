@@ -2744,6 +2744,13 @@
       "time": "2024-04-25T15:40:49Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/771",
       "text": "Driver App - Implement Login Screen for Existing Drivers"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1320",
+      "time": "2024-06-13T12:23:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1320",
+      "text": "Create Docker Compose Files for Staging Environment Deployment"
     }
   ],
   "open_prs": [],

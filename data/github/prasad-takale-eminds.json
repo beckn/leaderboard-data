@@ -175,6 +175,55 @@
       "time": "2024-07-17T10:27:26Z",
       "link": "https://github.com/beckn/beckn-onix/pull/142",
       "text": "fix(docker): specify platform in docker-compose.yml"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#164",
+      "time": "2024-08-01T14:01:30Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/164",
+      "text": "Debugging of UEI gateway issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1696",
+      "time": "2024-08-01T15:26:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1696",
+      "text": "Debugged the ODR Issue in Staging Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1695",
+      "time": "2024-08-01T15:24:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1695",
+      "text": "Fixed Generic-Client-Layer CICD Pipeline for Prod and Staging Environments"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1694",
+      "time": "2024-08-01T15:24:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1694",
+      "text": "Deploy the Generic-Client-Layer in Prod and Staging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1691",
+      "time": "2024-08-01T14:02:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1691",
+      "text": "CICD for Sandbox Deployment with New Repo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1690",
+      "time": "2024-08-01T14:02:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1690",
+      "text": "Create Docker Image for All UI Applications"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1689",
+      "time": "2024-08-01T14:02:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1689",
+      "text": "Create Docker Files for All UI Applications"
     }
   ],
   "open_prs": [],

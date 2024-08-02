@@ -2261,6 +2261,13 @@
       "time": "2024-07-31T14:50:49Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1677",
       "text": "fix: implemented ride summary for driver app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1688",
+      "time": "2024-08-01T13:18:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1688",
+      "text": "fix: fixed ride summary ui and some flow for driver app"
     }
   ],
   "open_prs": [],
