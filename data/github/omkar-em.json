@@ -1148,6 +1148,41 @@
       "time": "2024-07-31T04:52:24Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1665",
       "text": "Load Testing for Beckn Application (Horizontal Scaling)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1693",
+      "time": "2024-08-01T14:23:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1693",
+      "text": "Demand and Supply Notes Not Displaying in UEI App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1692",
+      "time": "2024-08-01T14:19:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1692",
+      "text": "In the Staging env, the search is failing."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1682",
+      "time": "2024-08-01T09:09:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1682",
+      "text": "In the migrated OSM app, when an order is placed, the order does not appear in the order history."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1554",
+      "time": "2024-07-23T07:39:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1554",
+      "text": "In the Tourism app, QR Code Button Missing After Checkout."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1468",
+      "time": "2024-07-05T06:00:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1468",
+      "text": "Issue with Changing Details on Billing & Shipping Page in Migrated EC Apps"
     }
   ],
   "open_prs": [],

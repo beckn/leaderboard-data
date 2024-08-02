@@ -532,6 +532,48 @@
       "time": "2024-07-31T11:47:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1673",
       "text": "fix: removed order api call in tourism app so that it wont display in industry 4 order history"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1686",
+      "time": "2024-08-01T10:40:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1686",
+      "text": "Tourism Migration build time fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1673",
+      "time": "2024-08-01T06:37:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1673",
+      "text": "fix: removed order api call in tourism app so that it wont display in industry 4 order history"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1680",
+      "time": "2024-08-01T07:29:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1680",
+      "text": "fix: fix build issue for tourism"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1681",
+      "time": "2024-08-01T08:11:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1681",
+      "text": "fix: fixed build issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1683",
+      "time": "2024-08-01T09:37:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1683",
+      "text": "fix: added types in search by location page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1685",
+      "time": "2024-08-01T10:36:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1685",
+      "text": "fix: added category id in order confirmation api"
     }
   ],
   "open_prs": [],

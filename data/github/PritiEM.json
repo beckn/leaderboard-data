@@ -2646,6 +2646,55 @@
       "time": "2024-05-13T13:26:14Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/930",
       "text": "Taxi Bpp UI Analysis"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#162",
+      "time": "2024-07-30T15:06:54Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/162",
+      "text": "Connected with Shreya for Beckn-Onix Issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#161",
+      "time": "2024-07-30T15:04:38Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/161",
+      "text": "Created New Docker Image for Protocol Server and Deployed it in Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1664",
+      "time": "2024-07-30T15:08:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1664",
+      "text": "22July - 2Aug - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1662",
+      "time": "2024-07-30T15:03:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1662",
+      "text": "URL Redirection of All Old EC Applications to New ECs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#706",
+      "time": "2024-04-23T10:02:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/706",
+      "text": "Driver App - Implement Ride Summary Section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#704",
+      "time": "2024-04-23T09:53:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/704",
+      "text": "Driver App - Implement \"End Ride\" Button in ride summary section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#703",
+      "time": "2024-04-23T09:48:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/703",
+      "text": "Driver App - Implement \"Start Ride\" Button in ride summary section"
     }
   ],
   "open_prs": [],

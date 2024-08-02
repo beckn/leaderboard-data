@@ -798,6 +798,34 @@
       "time": "2024-07-31T14:41:57Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1678",
       "text": "feat: added online-offline switch & removed unwanted files"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1656",
+      "time": "2024-07-30T13:18:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1656",
+      "text": "Add Cypress E2E test for /feedback page in retail app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1609",
+      "time": "2024-07-29T09:02:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1609",
+      "text": "Add Cypress E2E tests for /orderHistory page in retail app"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/beckn-ui-workspace#1672",
+      "time": "2024-07-31T08:24:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1672",
+      "text": "feat: cypress test cases"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1678",
+      "time": "2024-08-01T05:42:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1678",
+      "text": "feat: added online-offline switch & removed unwanted files"
     }
   ],
   "open_prs": [],

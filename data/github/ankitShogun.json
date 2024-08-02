@@ -1029,6 +1029,20 @@
       "time": "2024-07-31T15:25:28Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1679",
       "text": "ODR code cleanup and refactoring"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1687",
+      "time": "2024-08-01T12:27:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1687",
+      "text": "Adding data test-ids in ODR for e2e testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1463",
+      "time": "2024-07-03T13:10:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1463",
+      "text": "BUILDING BLOCKS - Add Error boundary page level component"
     }
   ],
   "open_prs": [],
