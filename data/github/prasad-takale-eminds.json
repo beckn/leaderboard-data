@@ -224,6 +224,20 @@
       "time": "2024-08-01T14:02:02Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1689",
       "text": "Create Docker Files for All UI Applications"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1690",
+      "time": "2024-08-01T14:02:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1690",
+      "text": "Create Docker Image for All UI Applications"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1732",
+      "time": "2024-08-02T14:50:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1732",
+      "text": "Devops"
     }
   ],
   "open_prs": [],

@@ -840,6 +840,20 @@
       "time": "2024-07-05T06:28:01Z",
       "link": "https://github.com/beckn/mobility/issues/80",
       "text": "Setting up the l2 config in OAS3.1 for Mobility: Phase2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#165",
+      "time": "2024-08-02T14:17:45Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/165",
+      "text": "Review of the Beckn-ONIX stack documentation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/mobility#82",
+      "time": "2024-07-31T09:46:59Z",
+      "link": "https://github.com/beckn/mobility/issues/82",
+      "text": "Setting up the l2 config in OAS3.1 for Mobility: Phase3 (Adding network rules fetched from the actual networks into layer2)"
     }
   ],
   "open_prs": [],

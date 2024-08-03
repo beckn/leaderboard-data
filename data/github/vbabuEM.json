@@ -1435,6 +1435,20 @@
       "time": "2024-08-01T04:57:19Z",
       "link": "https://github.com/beckn/missions/issues/26",
       "text": "Create a network architecture for P2P energy transaction usecase"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#45",
+      "time": "2024-08-02T14:54:57Z",
+      "link": "https://github.com/beckn/missions/issues/45",
+      "text": "Create generic starter kit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#44",
+      "time": "2024-08-02T14:49:57Z",
+      "link": "https://github.com/beckn/missions/pull/44",
+      "text": "Starter kit"
     }
   ],
   "open_prs": [],
