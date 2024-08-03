@@ -203,6 +203,13 @@
       "time": "2024-08-01T21:38:28Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1697",
       "text": "Automatic trigger of scrapper bugfixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#220",
+      "time": "2024-08-02T10:10:05Z",
+      "link": "https://github.com/beckn/protocol-server/issues/220",
+      "text": "OpenAPI 3.1 POC and Discovery of Implementation Challenges"
     }
   ],
   "open_prs": [],

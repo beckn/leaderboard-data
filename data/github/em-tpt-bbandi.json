@@ -84,6 +84,104 @@
       "time": "2024-07-23T05:21:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1552",
       "text": "Setup UEI Environment for BAP, BPP, Registry, Gateway, and Sandbox"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1730",
+      "time": "2024-08-02T07:59:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1730",
+      "text": "Created ConfigMap for DNS Propagation in Pods"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1729",
+      "time": "2024-08-02T07:56:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1729",
+      "text": "Drained and Reattached BAP/BPP Worker Nodes Post Server Upgrade"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1728",
+      "time": "2024-08-02T07:53:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1728",
+      "text": "Resolved Nginx Upstream Issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1727",
+      "time": "2024-08-02T07:50:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1727",
+      "text": "Configured NodePort Service for External Access to BPP Client/Network"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1726",
+      "time": "2024-08-02T07:45:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1726",
+      "text": "Enabled Metrics-Server for Performance Monitoring"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1725",
+      "time": "2024-08-02T07:42:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1725",
+      "text": "Configured BPP Client and Network Pods for Collective Scaling"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1724",
+      "time": "2024-08-02T07:37:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1724",
+      "text": "Deployed New Kubernetes Cluster for BPP Client/Network"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1723",
+      "time": "2024-08-02T07:32:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1723",
+      "text": "Updated Deployments with Resource Limits Synchronization"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1722",
+      "time": "2024-08-02T07:30:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1722",
+      "text": "Set Up Horizontal Pod Scaling for Resource Management"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1721",
+      "time": "2024-08-02T07:27:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1721",
+      "text": "Configured Metrics-Server in Kubernetes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1720",
+      "time": "2024-08-02T07:21:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1720",
+      "text": "Configured Lightweight Kubernetes Setup with Calico and API Server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1718",
+      "time": "2024-08-02T07:17:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1718",
+      "text": "Configured Pod Scaling with ConfigMaps in Kubernetes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1703",
+      "time": "2024-08-02T06:49:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1703",
+      "text": "Fixed BPP-Network/BPP-Client Deployments in Kubernetes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1702",
+      "time": "2024-08-02T06:27:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1702",
+      "text": "Deployed Latest Gateway Changes"
     }
   ],
   "open_prs": [],

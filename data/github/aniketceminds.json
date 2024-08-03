@@ -826,6 +826,20 @@
       "time": "2024-08-01T05:42:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1678",
       "text": "feat: added online-offline switch & removed unwanted files"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1674",
+      "time": "2024-07-31T12:03:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1674",
+      "text": "Integrate type definition in serchBy location page of OSC app "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1699",
+      "time": "2024-08-02T12:31:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1699",
+      "text": "feat: implemented source to destination route display on map"
     }
   ],
   "open_prs": [],

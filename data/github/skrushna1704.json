@@ -574,6 +574,34 @@
       "time": "2024-08-01T10:36:08Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1685",
       "text": "fix: added category id in order confirmation api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1672",
+      "time": "2024-08-02T06:17:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1672",
+      "text": "feat: cypress test cases"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1683",
+      "time": "2024-08-02T04:29:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1683",
+      "text": "fix: added types in search by location page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1685",
+      "time": "2024-08-02T04:27:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1685",
+      "text": "fix: added category id in order confirmation api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1701",
+      "time": "2024-08-02T06:15:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1701",
+      "text": "feat(RETAIL): added cursor pointer"
     }
   ],
   "open_prs": [],

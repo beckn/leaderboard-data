@@ -2695,6 +2695,230 @@
       "time": "2024-04-23T09:48:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/703",
       "text": "Driver App - Implement \"Start Ride\" Button in ride summary section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#160",
+      "time": "2024-07-30T14:39:13Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/160",
+      "text": "8July- 19July // Calls and Meetings with Fide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#159",
+      "time": "2024-07-30T14:38:48Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/159",
+      "text": "8July - 19July - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#158",
+      "time": "2024-07-30T14:38:06Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/158",
+      "text": "Fixed Sign-Up Issue of BOC Registry"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#157",
+      "time": "2024-07-30T14:36:45Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/157",
+      "text": "Discuss Sign-Up Issue of Registry with Venky"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#156",
+      "time": "2024-07-30T14:35:18Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/156",
+      "text": "Create new server for MonogDB, Redis and RabbitMQ for performance testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#154",
+      "time": "2024-07-30T14:34:32Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/154",
+      "text": "Debugging performances Testing Issue with Shreya and Omkar"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#107",
+      "time": "2024-07-01T10:41:47Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/107",
+      "text": "Test Search Provider on Vistaar Instance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1731",
+      "time": "2024-08-02T11:44:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1731",
+      "text": "Understand the architecture and data work flow of OHC leaderboard repositories"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1716",
+      "time": "2024-08-02T07:11:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1716",
+      "text": "BOC leaderboard - Dry run and Demo to Fide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1715",
+      "time": "2024-08-02T07:10:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1715",
+      "text": "Manual and Automatic Testing GitHub Action Workflow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1714",
+      "time": "2024-08-02T07:10:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1714",
+      "text": "Understanding GitHub Actions"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1713",
+      "time": "2024-08-02T07:10:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1713",
+      "text": "GitHub Action Workflow for Scraper"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1712",
+      "time": "2024-08-02T07:10:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1712",
+      "text": "Dry Run of BOC Leaderboard App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1711",
+      "time": "2024-08-02T07:09:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1711",
+      "text": "POC for GitHub API's"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1710",
+      "time": "2024-08-02T07:09:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1710",
+      "text": "Fixing Issue for Not Able to Fetch GitHub Data for Beckn Repo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1709",
+      "time": "2024-08-02T07:08:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1709",
+      "text": "External call with Fide/OHC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1708",
+      "time": "2024-08-02T07:08:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1708",
+      "text": "Internal calls with team"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1707",
+      "time": "2024-08-02T07:08:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1707",
+      "text": "Development of GitHub Scrapper for Beckn Repos"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1706",
+      "time": "2024-08-02T07:07:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1706",
+      "text": "Local Project Setup and Basic Testing of Scarpring"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1700",
+      "time": "2024-08-02T06:06:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1700",
+      "text": "Changes on Figma Design for BOC leaderboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1663",
+      "time": "2024-07-30T15:05:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1663",
+      "text": "AWS Cost Optimisation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1661",
+      "time": "2024-07-30T14:41:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1661",
+      "text": "Create DevOps Task List for \"Conduct Overall DevOps Review\" and Share with Mayank"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1660",
+      "time": "2024-07-30T14:40:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1660",
+      "text": "Fixed Kuza One - Application Error"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1659",
+      "time": "2024-07-30T14:35:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1659",
+      "text": "Build a sandbox network for UEI on becknprotocol.io"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1658",
+      "time": "2024-07-30T14:33:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1658",
+      "text": "Jenkins Node Not Executing New Job"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1657",
+      "time": "2024-07-30T14:32:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1657",
+      "text": "Debugging Issue for Api.Dsnp Failure"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1649",
+      "time": "2024-07-29T16:36:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1649",
+      "text": "22July- 2Aug // Calls and Meetings with Fide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1648",
+      "time": "2024-07-29T16:34:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1648",
+      "text": "22July - 2Aug - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1621",
+      "time": "2024-07-29T13:08:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1621",
+      "text": "Automation of Profile Section Test Cases"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1612",
+      "time": "2024-07-29T10:17:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1612",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1611",
+      "time": "2024-07-29T10:16:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1611",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1535",
+      "time": "2024-07-18T13:03:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1535",
+      "text": "Update DNS Configuration for Old Experience Center to Point to New Experience Center"
     }
   ],
   "open_prs": [],
