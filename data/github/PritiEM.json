@@ -2919,6 +2919,13 @@
       "time": "2024-07-18T13:03:04Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1535",
       "text": "Update DNS Configuration for Old Experience Center to Point to New Experience Center"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1670",
+      "time": "2024-07-31T07:11:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1670",
+      "text": "Link Beckn Strapi BPP Repository to the Dev Instance"
     }
   ],
   "open_prs": [],
