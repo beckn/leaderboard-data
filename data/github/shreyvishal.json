@@ -1582,6 +1582,13 @@
       "time": "2024-06-19T13:02:35Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1366",
       "text": "Creation of Kuza Catalogs for Products, Services, and Learning"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#124",
+      "time": "2024-08-04T12:22:51Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/124",
+      "text": "Feat/driver app add riderequest api"
     }
   ],
   "open_prs": [],
