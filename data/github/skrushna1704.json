@@ -602,6 +602,27 @@
       "time": "2024-08-02T06:15:22Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1701",
       "text": "feat(RETAIL): added cursor pointer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1701",
+      "time": "2024-08-05T04:33:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1701",
+      "text": "feat(RETAIL): added cursor pointer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1737",
+      "time": "2024-08-05T06:58:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1737",
+      "text": "feat(ODR): cypress test cases and implement auth using bb"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1739",
+      "time": "2024-08-05T13:03:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1739",
+      "text": "feat(ODR): implement homepage in ODR using common packages"
     }
   ],
   "open_prs": [],

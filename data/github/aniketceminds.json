@@ -840,6 +840,27 @@
       "time": "2024-08-02T12:31:54Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1699",
       "text": "feat: implemented source to destination route display on map"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1736",
+      "time": "2024-08-05T06:43:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1736",
+      "text": "Implement Home page in ODR using common packages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1735",
+      "time": "2024-08-05T06:42:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1735",
+      "text": "Implement /signIn & /signUp page in ODR using common packages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1734",
+      "time": "2024-08-05T06:41:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1734",
+      "text": "Add Cypress E2E test for Auth page in ODR app"
     }
   ],
   "open_prs": [],

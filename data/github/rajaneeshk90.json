@@ -854,6 +854,13 @@
       "time": "2024-07-31T09:46:59Z",
       "link": "https://github.com/beckn/mobility/issues/82",
       "text": "Setting up the l2 config in OAS3.1 for Mobility: Phase3 (Adding network rules fetched from the actual networks into layer2)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/mobility#83",
+      "time": "2024-08-05T15:20:09Z",
+      "link": "https://github.com/beckn/mobility/issues/83",
+      "text": "Setting up the l2 config in OAS3.1 for Mobility: Phase4"
     }
   ],
   "open_prs": [],

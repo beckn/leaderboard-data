@@ -1449,6 +1449,27 @@
       "time": "2024-08-02T14:49:57Z",
       "link": "https://github.com/beckn/missions/pull/44",
       "text": "Starter kit"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#173",
+      "time": "2024-08-05T14:30:34Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/173",
+      "text": "Gateway and registry should not automatically pick up the latest from Succinct"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#167",
+      "time": "2024-08-05T06:54:16Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/167",
+      "text": "Identify and install the right role permission for registry installed by Beckn-ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#166",
+      "time": "2024-08-05T06:50:22Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/166",
+      "text": "Reinstalling the BAP/BPP adapter does not update public key in the registry"
     }
   ],
   "open_prs": [],

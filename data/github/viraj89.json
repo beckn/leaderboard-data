@@ -2898,6 +2898,41 @@
       "time": "2024-07-09T12:36:56Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1490",
       "text": "Setup Leaderboard Sub-domains for Staging and Production"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#172",
+      "time": "2024-08-05T11:18:48Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/172",
+      "text": "Beckn ONIX: Self Help Guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#171",
+      "time": "2024-08-05T11:14:11Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/171",
+      "text": "Protocol Server: Self Help Guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#170",
+      "time": "2024-08-05T11:10:41Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/170",
+      "text": "Registry: Self Help Guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#169",
+      "time": "2024-08-05T11:08:51Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/169",
+      "text": "Gateway: Self Help Guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#112",
+      "time": "2024-08-05T05:53:11Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/112",
+      "text": "Migrate MIT catalogs to BOC environment"
     }
   ],
   "open_prs": [],
