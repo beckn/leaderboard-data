@@ -1043,6 +1043,20 @@
       "time": "2024-07-03T13:10:08Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1463",
       "text": "BUILDING BLOCKS - Add Error boundary page level component"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1740",
+      "time": "2024-08-05T13:50:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1740",
+      "text": "Refactoring data-test usage in building blocks (BLOCKER)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1741",
+      "time": "2024-08-05T14:04:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1741",
+      "text": "Building blocks refactor to support data-test"
     }
   ],
   "open_prs": [],

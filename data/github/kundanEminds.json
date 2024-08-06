@@ -2275,6 +2275,13 @@
       "time": "2024-08-02T04:26:11Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1688",
       "text": "fix: fixed ride summary ui and some flow for driver app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1738",
+      "time": "2024-08-05T12:26:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1738",
+      "text": "feat(TAXIBPP): created my rides page for driver app"
     }
   ],
   "open_prs": [],

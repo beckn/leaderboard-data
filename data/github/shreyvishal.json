@@ -1589,6 +1589,13 @@
       "time": "2024-08-04T12:22:51Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/124",
       "text": "Feat/driver app add riderequest api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-strapi-bpp#4",
+      "time": "2024-08-05T12:14:44Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/4",
+      "text": "Added: Schema Changes for mobility domain"
     }
   ],
   "open_prs": [],

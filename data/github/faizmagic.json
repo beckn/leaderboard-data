@@ -343,6 +343,13 @@
       "time": "2024-08-01T11:20:41Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/109",
       "text": "Build a Search Provider Application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#168",
+      "time": "2024-08-05T07:51:34Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/168",
+      "text": "Create a trouble shooting guide for all products within beckn-onix"
     }
   ],
   "open_prs": [],
