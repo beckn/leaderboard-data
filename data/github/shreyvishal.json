@@ -1596,6 +1596,62 @@
       "time": "2024-08-05T12:14:44Z",
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/4",
       "text": "Added: Schema Changes for mobility domain"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#124",
+      "time": "2024-08-06T05:02:58Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/124",
+      "text": "Feat/driver app add riderequest api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#125",
+      "time": "2024-08-06T05:09:08Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/125",
+      "text": "Feat/driver app plugin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1756",
+      "time": "2024-08-06T13:05:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1756",
+      "text": "Code review for current iteration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1671",
+      "time": "2024-07-31T07:14:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1671",
+      "text": "Debug Beckn Action Bot For Beckn API calls"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1643",
+      "time": "2024-07-29T15:26:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1643",
+      "text": "22July - 2Aug - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1642",
+      "time": "2024-07-29T15:23:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1642",
+      "text": "Review and Test Telemetry PR raised by ONEST team for Protocol Server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1575",
+      "time": "2024-07-23T12:50:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1575",
+      "text": "Review Mobility Documentation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-strapi-bpp#4",
+      "time": "2024-08-06T05:10:15Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/4",
+      "text": "Added: Schema Changes for mobility domain"
     }
   ],
   "open_prs": [],

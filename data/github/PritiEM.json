@@ -2933,6 +2933,13 @@
       "time": "2024-08-05T04:47:24Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1733",
       "text": "Redeployment on MIT EC2 Instances"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#981",
+      "time": "2024-05-15T13:03:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/981",
+      "text": "Deployment for mobility"
     }
   ],
   "open_prs": [],

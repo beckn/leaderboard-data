@@ -1470,6 +1470,13 @@
       "time": "2024-08-05T06:50:22Z",
       "link": "https://github.com/beckn/beckn-onix/issues/166",
       "text": "Reinstalling the BAP/BPP adapter does not update public key in the registry"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/vendure#95",
+      "time": "2024-08-06T17:54:23Z",
+      "link": "https://github.com/beckn/vendure/pull/95",
+      "text": "Add troubleshooting guide"
     }
   ],
   "open_prs": [],

@@ -861,6 +861,27 @@
       "time": "2024-08-05T15:20:09Z",
       "link": "https://github.com/beckn/mobility/issues/83",
       "text": "Setting up the l2 config in OAS3.1 for Mobility: Phase4"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#175",
+      "time": "2024-08-06T11:25:41Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/175",
+      "text": "Design preprocessor macro for config selection: final design"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#174",
+      "time": "2024-08-06T11:20:31Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/174",
+      "text": "Work on the Beckn-Onix-Stack documentation: phase 2"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#221",
+      "time": "2024-08-06T11:27:35Z",
+      "link": "https://github.com/beckn/protocol-server/issues/221",
+      "text": "Release version 1.2 of core"
     }
   ],
   "open_prs": [],

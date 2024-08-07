@@ -2282,6 +2282,13 @@
       "time": "2024-08-05T12:26:26Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1738",
       "text": "feat(TAXIBPP): created my rides page for driver app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1738",
+      "time": "2024-08-06T08:32:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1738",
+      "text": "feat(TAXIBPP): created my rides page for driver app"
     }
   ],
   "open_prs": [],

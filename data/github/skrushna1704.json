@@ -623,6 +623,34 @@
       "time": "2024-08-05T13:03:03Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1739",
       "text": "feat(ODR): implement homepage in ODR using common packages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1737",
+      "time": "2024-08-06T09:55:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1737",
+      "text": "feat(ODR): cypress test cases and implement auth using bb"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1739",
+      "time": "2024-08-06T09:55:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1739",
+      "text": "feat(ODR): implement homepage in ODR using common packages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1746",
+      "time": "2024-08-06T07:04:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1746",
+      "text": "fix: fixes build time issue for OSC"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1755",
+      "time": "2024-08-06T11:35:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1755",
+      "text": "feat(ODR): implemented search page using common packages"
     }
   ],
   "open_prs": [],
