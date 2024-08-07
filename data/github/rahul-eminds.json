@@ -210,6 +210,13 @@
       "time": "2024-08-02T10:10:05Z",
       "link": "https://github.com/beckn/protocol-server/issues/220",
       "text": "OpenAPI 3.1 POC and Discovery of Implementation Challenges"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/bpp-mobility#1",
+      "time": "2024-08-06T09:04:38Z",
+      "link": "https://github.com/beckn/bpp-mobility/issues/1",
+      "text": "Mobility BPP Postman collection"
     }
   ],
   "open_prs": [],

@@ -2933,6 +2933,13 @@
       "time": "2024-08-05T05:53:11Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/112",
       "text": "Migrate MIT catalogs to BOC environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#809",
+      "time": "2024-04-30T08:38:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/809",
+      "text": "Taxi BPP BE - Implement Ride Summary API Functionality for Drivers"
     }
   ],
   "open_prs": [],

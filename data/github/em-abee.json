@@ -560,6 +560,34 @@
       "time": "2024-07-31T06:51:19Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/122",
       "text": "Added support for mobility domain"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#122",
+      "time": "2024-08-06T13:50:53Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/122",
+      "text": "Added support for mobility domain"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1751",
+      "time": "2024-08-06T09:14:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1751",
+      "text": "Code review for current iteration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#437",
+      "time": "2024-03-29T16:20:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/437",
+      "text": "Beckn BPP adapter plugins support for mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#433",
+      "time": "2024-03-29T15:32:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/433",
+      "text": "Modify data model if required for mobility BPP"
     }
   ],
   "open_prs": [],
