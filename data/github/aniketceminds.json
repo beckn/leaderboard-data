@@ -910,6 +910,55 @@
       "time": "2024-08-06T14:20:16Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1757",
       "text": "feat(taxi-bpp): implemented /login integrtaion and conf. store"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1764",
+      "time": "2024-08-07T13:00:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1764",
+      "text": "Add Cypress E2E test for ProductPage in ODR app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1763",
+      "time": "2024-08-07T13:00:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1763",
+      "text": "Add Cypress E2E test for SearchPage in ODR app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1754",
+      "time": "2024-08-06T11:21:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1754",
+      "text": "Add Cypress E2E test for HomePage in ODR app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1753",
+      "time": "2024-08-06T11:20:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1753",
+      "text": "Implement Search page in ODR using common packages"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1734",
+      "time": "2024-08-05T06:41:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1734",
+      "text": "Add Cypress E2E test for Auth page in ODR app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1762",
+      "time": "2024-08-07T10:02:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1762",
+      "text": "feat(taxi-bpp): integrate online/offline api and store config"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1765",
+      "time": "2024-08-07T13:53:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1765",
+      "text": "feat(taxi-bpp): added api in redux for update location"
     }
   ],
   "open_prs": [],

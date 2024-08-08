@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-08-07T06:41:22Z",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1760",
+      "time": "2024-08-07T06:41:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1760",
+      "text": "OSC Migration build time fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1761",
+      "time": "2024-08-07T11:19:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1761",
+      "text": "feat(ODR): added cypress test cases for homepage"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1766",
+      "time": "2024-08-07T16:14:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1766",
+      "text": "feat(ODR): test cases for ODR"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

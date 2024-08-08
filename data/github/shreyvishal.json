@@ -1652,6 +1652,13 @@
       "time": "2024-08-06T05:10:15Z",
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/4",
       "text": "Added: Schema Changes for mobility domain"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1759",
+      "time": "2024-08-07T06:20:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1759",
+      "text": "Knowledge Transfer (KT) to Ankit for Protocol Server Troubleshooting Documentation"
     }
   ],
   "open_prs": [],
