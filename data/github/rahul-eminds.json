@@ -217,6 +217,20 @@
       "time": "2024-08-06T09:04:38Z",
       "link": "https://github.com/beckn/bpp-mobility/issues/1",
       "text": "Mobility BPP Postman collection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#8",
+      "time": "2024-08-07T13:44:38Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/8",
+      "text": "Fixed image access issue in dsep course"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#126",
+      "time": "2024-08-07T13:45:35Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/126",
+      "text": "Created apis to update rides"
     }
   ],
   "open_prs": [],

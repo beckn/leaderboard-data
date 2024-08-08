@@ -651,6 +651,13 @@
       "time": "2024-08-06T11:35:00Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1755",
       "text": "feat(ODR): implemented search page using common packages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1755",
+      "time": "2024-08-07T07:06:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1755",
+      "text": "feat(ODR): implemented search page using common packages"
     }
   ],
   "open_prs": [],

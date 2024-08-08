@@ -1036,6 +1036,27 @@
       "time": "2024-07-23T09:59:14Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1559",
       "text": "Conduct Approach Review with FIDE"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1581",
+      "time": "2024-07-23T13:15:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1581",
+      "text": "Driver App - Implement \"My Ride\" page , so that driver can see their past rides"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1580",
+      "time": "2024-07-23T13:14:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1580",
+      "text": "Driver App - Implement Account page, where driver can see their account information"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#113",
+      "time": "2024-08-07T11:54:12Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/113",
+      "text": "Rebuilding Policy portal using UI building block"
     }
   ],
   "open_prs": [],

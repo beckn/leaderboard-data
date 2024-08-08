@@ -1477,6 +1477,13 @@
       "time": "2024-08-06T17:54:23Z",
       "link": "https://github.com/beckn/vendure/pull/95",
       "text": "Add troubleshooting guide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#9",
+      "time": "2024-08-07T14:59:18Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/9",
+      "text": "Changed the domain name for UEI"
     }
   ],
   "open_prs": [],
