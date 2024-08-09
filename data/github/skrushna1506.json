@@ -21,6 +21,20 @@
       "time": "2024-08-07T16:14:41Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1766",
       "text": "feat(ODR): test cases for ODR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1766",
+      "time": "2024-08-08T11:26:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1766",
+      "text": "feat(ODR): test cases for ODR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1781",
+      "time": "2024-08-08T15:06:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1781",
+      "text": "feat(ODR): added Test cases for ODR"
     }
   ],
   "open_prs": [],

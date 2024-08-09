@@ -1071,6 +1071,13 @@
       "time": "2024-08-06T09:24:13Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1741",
       "text": "Building blocks refactor to support data-test"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#49",
+      "time": "2024-08-08T12:36:45Z",
+      "link": "https://github.com/beckn/missions/pull/49",
+      "text": "troubleshoot guide added"
     }
   ],
   "open_prs": [],

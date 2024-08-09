@@ -959,6 +959,55 @@
       "time": "2024-08-07T13:53:11Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1765",
       "text": "feat(taxi-bpp): added api in redux for update location"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1779",
+      "time": "2024-08-08T13:01:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1779",
+      "text": "Add Cypress E2E test for OrderConfirmation in ODR app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1778",
+      "time": "2024-08-08T13:00:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1778",
+      "text": "Add Cypress E2E test for Checkout in ODR app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1764",
+      "time": "2024-08-07T13:00:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1764",
+      "text": "Add Cypress E2E test for ProductPage in ODR app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1763",
+      "time": "2024-08-07T13:00:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1763",
+      "text": "Add Cypress E2E test for SearchPage in ODR app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1769",
+      "time": "2024-08-08T08:48:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1769",
+      "text": "feat: integration in mobility & redux state update location in taxi-bpp"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1770",
+      "time": "2024-08-08T10:02:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1770",
+      "text": "Revert \"feat(MOBILITY): created contact support and cancel flow for mobility bap\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1774",
+      "time": "2024-08-08T11:29:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1774",
+      "text": "fix(mobility): modified architecture of the components to render modals"
     }
   ],
   "open_prs": [],
