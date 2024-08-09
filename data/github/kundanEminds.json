@@ -2296,6 +2296,27 @@
       "time": "2024-08-07T07:09:07Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1758",
       "text": "feat(TAXIBPP): created my driver account page for driver app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1768",
+      "time": "2024-08-08T09:57:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1768",
+      "text": "feat(MOBILITY): created contact support and cancel flow for mobility bap"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1772",
+      "time": "2024-08-08T10:17:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1772",
+      "text": "fix: conflict issue in mobility"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1773",
+      "time": "2024-08-08T10:50:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1773",
+      "text": "fix: conflict issue in mobility bap"
     }
   ],
   "open_prs": [],

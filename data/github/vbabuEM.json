@@ -1484,6 +1484,27 @@
       "time": "2024-08-07T14:59:18Z",
       "link": "https://github.com/beckn/beckn-sandbox/pull/9",
       "text": "Changed the domain name for UEI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#46",
+      "time": "2024-08-07T02:46:23Z",
+      "link": "https://github.com/beckn/missions/pull/46",
+      "text": "Add UEI Implementation guide - Work In Progress"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#47",
+      "time": "2024-08-07T13:55:20Z",
+      "link": "https://github.com/beckn/missions/pull/47",
+      "text": "change domain name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#48",
+      "time": "2024-08-07T15:04:23Z",
+      "link": "https://github.com/beckn/missions/pull/48",
+      "text": "fixed postman collection"
     }
   ],
   "open_prs": [],

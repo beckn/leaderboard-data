@@ -1057,6 +1057,20 @@
       "time": "2024-08-07T11:54:12Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/113",
       "text": "Rebuilding Policy portal using UI building block"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1570",
+      "time": "2024-07-23T11:23:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1570",
+      "text": "Deployment of Smart Cities & Smart Gambia UI in AWS Amplify - DEV"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#114",
+      "time": "2024-08-08T10:17:59Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/114",
+      "text": "Build Driver side application using the UI building blocks"
     }
   ],
   "open_prs": [],

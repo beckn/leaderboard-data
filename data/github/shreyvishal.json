@@ -1659,6 +1659,13 @@
       "time": "2024-08-07T06:20:39Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1759",
       "text": "Knowledge Transfer (KT) to Ankit for Protocol Server Troubleshooting Documentation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1780",
+      "time": "2024-08-08T13:55:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1780",
+      "text": "On Call Support for UEI Work Shop"
     }
   ],
   "open_prs": [],

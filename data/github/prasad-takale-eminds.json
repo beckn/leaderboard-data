@@ -238,6 +238,41 @@
       "time": "2024-08-02T14:50:10Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1732",
       "text": "Devops"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-sandbox#10",
+      "time": "2024-08-08T08:20:24Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/10",
+      "text": "Devops"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1777",
+      "time": "2024-08-08T12:24:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1777",
+      "text": "Alerting for Resource Utilization"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1776",
+      "time": "2024-08-08T11:56:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1776",
+      "text": "Fixed Policy Admin UI Issue in Staging and Prod"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1775",
+      "time": "2024-08-08T11:51:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1775",
+      "text": "Exploring Tools for GitHub like Dependabot"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1691",
+      "time": "2024-08-01T14:02:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1691",
+      "text": "CICD for Sandbox Deployment with New Repo"
     }
   ],
   "open_prs": [],
