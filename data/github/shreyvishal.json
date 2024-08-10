@@ -1666,6 +1666,27 @@
       "time": "2024-08-08T13:55:13Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1780",
       "text": "On Call Support for UEI Work Shop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#127",
+      "time": "2024-08-09T12:20:47Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/127",
+      "text": "Added: Fixed Update Ride Status"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1786",
+      "time": "2024-08-09T07:23:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1786",
+      "text": "Provide Support to Sarvam AI Team For Chat Bot"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1780",
+      "time": "2024-08-08T13:55:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1780",
+      "text": "On Call Support for UEI Work Shop"
     }
   ],
   "open_prs": [],

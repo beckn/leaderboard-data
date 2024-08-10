@@ -1008,6 +1008,27 @@
       "time": "2024-08-08T11:29:54Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1774",
       "text": "fix(mobility): modified architecture of the components to render modals"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1774",
+      "time": "2024-08-09T04:46:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1774",
+      "text": "fix(mobility): modified architecture of the components to render modals"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1783",
+      "time": "2024-08-09T06:08:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1783",
+      "text": "fix(mobility): added functionlity to cancel the search api req"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1787",
+      "time": "2024-08-09T14:21:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1787",
+      "text": "feat(mobility): implemnt api integration for new ride req"
     }
   ],
   "open_prs": [],
