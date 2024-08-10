@@ -2317,6 +2317,20 @@
       "time": "2024-08-08T10:50:23Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1773",
       "text": "fix: conflict issue in mobility bap"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1782",
+      "time": "2024-08-09T06:19:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1782",
+      "text": "feat(MOBILITY): created ride completion page and payment page for mob…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1785",
+      "time": "2024-08-09T08:12:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1785",
+      "text": "feat(MOBILITY): fixed some ui issue"
     }
   ],
   "open_prs": [],

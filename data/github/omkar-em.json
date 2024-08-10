@@ -1295,6 +1295,13 @@
       "time": "2024-08-08T06:59:38Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1767",
       "text": "feat: user journey added for retail application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1784",
+      "time": "2024-08-09T06:36:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1784",
+      "text": "The search functionality in the ODR app is currently not providing any response in the dev env."
     }
   ],
   "open_prs": [],
