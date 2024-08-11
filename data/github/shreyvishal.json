@@ -1687,6 +1687,20 @@
       "time": "2024-08-08T13:55:13Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1780",
       "text": "On Call Support for UEI Work Shop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#128",
+      "time": "2024-08-10T06:55:21Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/128",
+      "text": "Added: My Profile API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-strapi-bpp#5",
+      "time": "2024-08-10T06:49:20Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/5",
+      "text": "Added: Power Source field for vehicle in agent profile table"
     }
   ],
   "open_prs": [],
