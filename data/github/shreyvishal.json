@@ -1701,6 +1701,13 @@
       "time": "2024-08-10T06:49:20Z",
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/5",
       "text": "Added: Power Source field for vehicle in agent profile table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#129",
+      "time": "2024-08-11T09:31:50Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/129",
+      "text": "Added: Contact Information"
     }
   ],
   "open_prs": [],

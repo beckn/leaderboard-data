@@ -1071,6 +1071,13 @@
       "time": "2024-08-08T10:17:59Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/114",
       "text": "Build Driver side application using the UI building blocks"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1605",
+      "time": "2024-07-28T10:38:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1605",
+      "text": "Taxi BPP BE - Implement My Profile API Functionality for Drivers"
     }
   ],
   "open_prs": [],

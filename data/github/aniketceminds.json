@@ -1029,6 +1029,13 @@
       "time": "2024-08-09T14:21:24Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1787",
       "text": "feat(mobility): implemnt api integration for new ride req"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1790",
+      "time": "2024-08-11T10:38:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1790",
+      "text": "fix(driver-bpp): modified code to fix navigation in map"
     }
   ],
   "open_prs": [],
