@@ -2954,6 +2954,20 @@
       "time": "2024-04-01T09:24:12Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/448",
       "text": "Mobility BAP - Ride Cancellation Process"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#449",
+      "time": "2024-04-01T09:24:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/449",
+      "text": "Mobility BAP - Ride Completion Screen"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#445",
+      "time": "2024-04-01T09:23:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/445",
+      "text": "Mobility BAP - Payment Methods Page"
     }
   ],
   "open_prs": [],
