@@ -1078,6 +1078,13 @@
       "time": "2024-07-28T10:38:03Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1605",
       "text": "Taxi BPP BE - Implement My Profile API Functionality for Drivers"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1606",
+      "time": "2024-07-28T10:38:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1606",
+      "text": "Taxi BPP BE - Implement My Rides API Functionality for Drivers"
     }
   ],
   "open_prs": [],

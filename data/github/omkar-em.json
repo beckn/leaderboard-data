@@ -1302,6 +1302,20 @@
       "time": "2024-08-09T06:36:36Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1784",
       "text": "The search functionality in the ODR app is currently not providing any response in the dev env."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1668",
+      "time": "2024-07-31T06:38:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1668",
+      "text": "Review and Update Test Cases for Mobility BAP (Migrated)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1667",
+      "time": "2024-07-31T06:38:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1667",
+      "text": "Create Test Cases for mobility driver app"
     }
   ],
   "open_prs": [],

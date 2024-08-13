@@ -2968,6 +2968,20 @@
       "time": "2024-04-01T09:23:59Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/445",
       "text": "Mobility BAP - Payment Methods Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#50",
+      "time": "2024-08-12T09:51:03Z",
+      "link": "https://github.com/beckn/missions/issues/50",
+      "text": "UEI 2-Day Workshop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#52",
+      "time": "2024-08-12T15:18:32Z",
+      "link": "https://github.com/beckn/missions/pull/52",
+      "text": "Entire TOC and section 6 getting started "
     }
   ],
   "open_prs": [],
