@@ -35,6 +35,20 @@
       "time": "2024-08-08T15:06:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1781",
       "text": "feat(ODR): added Test cases for ODR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1781",
+      "time": "2024-08-12T06:05:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1781",
+      "text": "feat(ODR): added Test cases for ODR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1794",
+      "time": "2024-08-12T13:01:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1794",
+      "text": "feat(ODR): added test cases for odr app"
     }
   ],
   "open_prs": [],

@@ -112,6 +112,13 @@
       "time": "2024-07-31T15:40:37Z",
       "link": "https://github.com/beckn/protocol-specifications/issues/442",
       "text": "Organization needs to have a few first class attributes and tags"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#441",
+      "time": "2024-08-12T07:52:59Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/441",
+      "text": "Spell check"
     }
   ],
   "open_prs": [],

@@ -1708,6 +1708,13 @@
       "time": "2024-08-11T09:31:50Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/129",
       "text": "Added: Contact Information"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#130",
+      "time": "2024-08-12T12:01:12Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/130",
+      "text": "Added: My Rides API"
     }
   ],
   "open_prs": [],

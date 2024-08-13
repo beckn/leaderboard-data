@@ -1505,6 +1505,41 @@
       "time": "2024-08-07T15:04:23Z",
       "link": "https://github.com/beckn/missions/pull/48",
       "text": "fixed postman collection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#51",
+      "time": "2024-08-12T10:32:31Z",
+      "link": "https://github.com/beckn/missions/pull/51",
+      "text": "open network and beckn intro"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#53",
+      "time": "2024-08-12T15:20:39Z",
+      "link": "https://github.com/beckn/missions/pull/53",
+      "text": "Added resources section"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#178",
+      "time": "2024-08-12T14:48:54Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/178",
+      "text": "Beckn-ONIX installed PS has layer 2 check only in client"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#177",
+      "time": "2024-08-12T07:36:41Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/177",
+      "text": "Beckn-ONIX installation does not update existing key"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#176",
+      "time": "2024-08-12T06:42:22Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/176",
+      "text": "Create a solution for synchronizing users with subscriber_ids of Beckn-ONIX installed PS"
     }
   ],
   "open_prs": [],
