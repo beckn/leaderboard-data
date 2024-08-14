@@ -882,6 +882,13 @@
       "time": "2024-08-06T11:27:35Z",
       "link": "https://github.com/beckn/protocol-server/issues/221",
       "text": "Release version 1.2 of core"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#179",
+      "time": "2024-08-13T11:20:41Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/179",
+      "text": "Test Issue"
     }
   ],
   "open_prs": [],

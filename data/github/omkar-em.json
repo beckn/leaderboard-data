@@ -1316,6 +1316,20 @@
       "time": "2024-07-31T06:38:33Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1667",
       "text": "Create Test Cases for mobility driver app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1784",
+      "time": "2024-08-09T06:36:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1784",
+      "text": "The search functionality in the ODR app is currently not providing any response in the dev env."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1767",
+      "time": "2024-08-13T09:12:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1767",
+      "text": "feat: user journey added for retail application"
     }
   ],
   "open_prs": [],

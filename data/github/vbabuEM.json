@@ -1540,6 +1540,34 @@
       "time": "2024-08-12T06:42:22Z",
       "link": "https://github.com/beckn/beckn-onix/issues/176",
       "text": "Create a solution for synchronizing users with subscriber_ids of Beckn-ONIX installed PS"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#178",
+      "time": "2024-08-12T14:48:54Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/178",
+      "text": "Beckn-ONIX installed PS has layer 2 check only in client"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/beckn-onix#142",
+      "time": "2024-07-17T10:27:26Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/142",
+      "text": "fix(docker): specify platform in docker-compose.yml"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#45",
+      "time": "2024-08-02T14:54:57Z",
+      "link": "https://github.com/beckn/missions/issues/45",
+      "text": "Create generic starter kit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#56",
+      "time": "2024-08-13T15:33:00Z",
+      "link": "https://github.com/beckn/missions/pull/56",
+      "text": "Seeker Platform Journey"
     }
   ],
   "open_prs": [],

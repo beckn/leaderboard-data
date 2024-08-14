@@ -1085,6 +1085,118 @@
       "time": "2024-07-28T10:38:58Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1606",
       "text": "Taxi BPP BE - Implement My Rides API Functionality for Drivers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1808",
+      "time": "2024-08-13T12:19:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1808",
+      "text": "July 22 -August 2 // Calls and Meetings with Fide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1803",
+      "time": "2024-08-13T09:05:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1803",
+      "text": "Implement Top and Bottom Header using common packages for ODR"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1802",
+      "time": "2024-08-13T09:05:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1802",
+      "text": "Refactoring all Retails Test Cases"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1801",
+      "time": "2024-08-13T09:04:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1801",
+      "text": "Cypress E2E Test Cases for Profile Page in ODR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1800",
+      "time": "2024-08-13T09:04:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1800",
+      "text": "Cypress E2E Test Cases for Case Details Page in ODR"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1799",
+      "time": "2024-08-13T09:04:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1799",
+      "text": "Cypress E2E Test Cases for Feedback Page in ODR"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1798",
+      "time": "2024-08-13T09:04:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1798",
+      "text": "Cypress E2E Test Cases for Order Details Page in ODR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1797",
+      "time": "2024-08-13T09:01:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1797",
+      "text": "Cypress Testing integration in CICD of UI application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1616",
+      "time": "2024-07-29T11:34:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1616",
+      "text": "Add Postman collection for Driver App API"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1589",
+      "time": "2024-07-23T13:23:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1589",
+      "text": "Driver App - Integrate My Ride API in the UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1587",
+      "time": "2024-07-23T13:22:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1587",
+      "text": "Driver App - Integrate Ride Summary API in the UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#119",
+      "time": "2024-08-13T12:18:55Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/119",
+      "text": "22 July - 2 August - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#118",
+      "time": "2024-08-13T11:09:13Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/118",
+      "text": "Implement Weather-Related Use Case on Vistaar"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#117",
+      "time": "2024-08-13T09:07:46Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/117",
+      "text": "/about endpoint for network participants"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#116",
+      "time": "2024-08-13T09:00:09Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/116",
+      "text": "On Call Support for UEI Work Shop"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#115",
+      "time": "2024-08-13T05:32:38Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/115",
+      "text": "End to End QA & Bug fixing of mobility app"
     }
   ],
   "open_prs": [],

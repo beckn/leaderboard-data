@@ -1057,6 +1057,41 @@
       "time": "2024-08-12T09:13:54Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1792",
       "text": "Staging 1.1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1779",
+      "time": "2024-08-08T13:01:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1779",
+      "text": "Add Cypress E2E test for OrderConfirmation in ODR app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1778",
+      "time": "2024-08-08T13:00:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1778",
+      "text": "Add Cypress E2E test for Checkout in ODR app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1796",
+      "time": "2024-08-13T09:05:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1796",
+      "text": "fix(retail): e2e test failure issues for all .cy tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1806",
+      "time": "2024-08-13T11:16:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1806",
+      "text": "feat(mobility-bap): integrated the support api call"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1807",
+      "time": "2024-08-13T11:50:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1807",
+      "text": "fix(taxi-bpp): fix data rendering issues in my ride history page"
     }
   ],
   "open_prs": [],
