@@ -588,6 +588,13 @@
       "time": "2024-03-29T15:32:02Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/433",
       "text": "Modify data model if required for mobility BPP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#131",
+      "time": "2024-08-13T07:39:29Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/131",
+      "text": "Mobility fixes"
     }
   ],
   "open_prs": [],

@@ -2982,6 +2982,34 @@
       "time": "2024-08-12T15:18:32Z",
       "link": "https://github.com/beckn/missions/pull/52",
       "text": "Entire TOC and section 6 getting started "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#55",
+      "time": "2024-08-05T11:10:41Z",
+      "link": "https://github.com/beckn/missions/issues/55",
+      "text": "Registry: Self Help Guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#54",
+      "time": "2024-08-05T11:08:51Z",
+      "link": "https://github.com/beckn/missions/issues/54",
+      "text": "Gateway: Self Help Guide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#215",
+      "time": "2024-03-01T09:57:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/215",
+      "text": "CI/CD pipeline for Taxi BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#204",
+      "time": "2024-02-28T14:21:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/204",
+      "text": "Deployment on AWS - Taxi BPP project"
     }
   ],
   "open_prs": [],
