@@ -56,6 +56,20 @@
       "time": "2024-08-13T05:16:34Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1794",
       "text": "feat(ODR): added test cases for odr app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1804",
+      "time": "2024-08-14T05:44:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1804",
+      "text": "feat(ODR): implemented top header and bottom header using common packages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1809",
+      "time": "2024-08-14T08:10:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1809",
+      "text": "feat(ODR): added test cases"
     }
   ],
   "open_prs": [],

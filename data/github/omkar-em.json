@@ -1330,6 +1330,62 @@
       "time": "2024-08-13T09:12:21Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1767",
       "text": "feat: user journey added for retail application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1750",
+      "time": "2024-08-06T08:40:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1750",
+      "text": "In the staging environment of the DSEP Unified app, the scholarship and job application forms fail to submit when filled out and submitted."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1747",
+      "time": "2024-08-06T08:17:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1747",
+      "text": "In the development environment of the DSEP app, the results images are not displaying."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1682",
+      "time": "2024-08-01T09:09:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1682",
+      "text": "In the migrated OSM app, when an order is placed, the order does not appear in the order history."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1652",
+      "time": "2024-07-30T07:47:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1652",
+      "text": "In the EC applications, when users hover over various interactive elements, the cursor does not change to a hand (pointer) cursor."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1526",
+      "time": "2024-07-17T09:31:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1526",
+      "text": "In the migrated app under Industry 4.0, the order history from tourism is appearing in the Industry  4.0 app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1473",
+      "time": "2024-07-08T07:06:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1473",
+      "text": "In the migrated EC apps, if an incorrect search keyword is entered, the search fails."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1445",
+      "time": "2024-07-01T13:04:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1445",
+      "text": "In the tourism apps, when updating an order, if the pin code is invalid, the update API call does not occur, and the loader keeps rotating continuously."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1442",
+      "time": "2024-07-01T11:47:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1442",
+      "text": "In the migrated EC apps, tourism apps, and retail apps, the toast message is not being displayed upon the submission of a review."
     }
   ],
   "open_prs": [],

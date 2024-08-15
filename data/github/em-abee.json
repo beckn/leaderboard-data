@@ -595,6 +595,34 @@
       "time": "2024-08-13T07:39:29Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/131",
       "text": "Mobility fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1639",
+      "time": "2024-07-29T15:16:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1639",
+      "text": "Debugging HMAC issue with PupilFirst"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1614",
+      "time": "2024-07-29T10:30:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1614",
+      "text": "Taxi BPP BE - Implement Logout API for Drivers (Using Strapi)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#435",
+      "time": "2024-03-29T16:14:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/435",
+      "text": "Initialize Driver Side Application Using Building Blocks in Next.js"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#432",
+      "time": "2024-03-29T15:23:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/432",
+      "text": "Add catalogs for Mobility in Strapi BPP"
     }
   ],
   "open_prs": [],

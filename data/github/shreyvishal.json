@@ -1715,6 +1715,13 @@
       "time": "2024-08-12T12:01:12Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/130",
       "text": "Added: My Rides API"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1641",
+      "time": "2024-07-29T15:19:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1641",
+      "text": "Sunbird OBSRV POC on local system"
     }
   ],
   "open_prs": [],

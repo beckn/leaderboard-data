@@ -1568,6 +1568,69 @@
       "time": "2024-08-13T15:33:00Z",
       "link": "https://github.com/beckn/missions/pull/56",
       "text": "Seeker Platform Journey"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#61",
+      "time": "2024-08-14T04:57:14Z",
+      "link": "https://github.com/beckn/missions/issues/61",
+      "text": "Starter kit redo - Provider Application journey"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#60",
+      "time": "2024-08-14T04:54:50Z",
+      "link": "https://github.com/beckn/missions/issues/60",
+      "text": "Starter kit redo - Network Facilitator Journey"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#59",
+      "time": "2024-08-14T04:41:47Z",
+      "link": "https://github.com/beckn/missions/issues/59",
+      "text": "Starter Kit Redo - Seeker Application Journey"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#58",
+      "time": "2024-08-14T04:39:37Z",
+      "link": "https://github.com/beckn/missions/issues/58",
+      "text": "Starter kit redo - Open network and beckn introduction"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#57",
+      "time": "2024-08-14T04:00:23Z",
+      "link": "https://github.com/beckn/missions/pull/57",
+      "text": "Provider platform journey"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#62",
+      "time": "2024-08-14T06:46:36Z",
+      "link": "https://github.com/beckn/missions/pull/62",
+      "text": "Network Facilitator Journey"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#63",
+      "time": "2024-08-14T07:43:09Z",
+      "link": "https://github.com/beckn/missions/pull/63",
+      "text": "Upgrade process"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#64",
+      "time": "2024-08-14T14:07:01Z",
+      "link": "https://github.com/beckn/missions/pull/64",
+      "text": "Kathir starter kit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#65",
+      "time": "2024-08-14T16:34:30Z",
+      "link": "https://github.com/beckn/missions/pull/65",
+      "text": "Starter kit first final version"
     }
   ],
   "open_prs": [],

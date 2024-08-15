@@ -1197,6 +1197,76 @@
       "time": "2024-08-13T05:32:38Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/115",
       "text": "End to End QA & Bug fixing of mobility app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1808",
+      "time": "2024-08-13T12:19:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1808",
+      "text": "July 22 -August 2 // Calls and Meetings with Fide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1803",
+      "time": "2024-08-13T09:05:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1803",
+      "text": "Implement Top and Bottom Header using common packages for ODR"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1801",
+      "time": "2024-08-13T09:04:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1801",
+      "text": "Cypress E2E Test Cases for Profile Page in ODR"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1800",
+      "time": "2024-08-13T09:04:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1800",
+      "text": "Cypress E2E Test Cases for Case Details Page in ODR"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1588",
+      "time": "2024-07-23T13:22:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1588",
+      "text": "Driver App - Integrate my account detail API in the UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1578",
+      "time": "2024-07-23T13:11:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1578",
+      "text": "Driver App - Implement \"Navigate\" button in the Ride summary section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1577",
+      "time": "2024-07-23T13:09:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1577",
+      "text": "Driver App - Implement \"New Ride Popup\" when there is new ride available"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1558",
+      "time": "2024-07-23T09:58:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1558",
+      "text": "Update the Approach Document based on discussed changes ( leveraging strapi user model for login instead of building custom logic)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1557",
+      "time": "2024-07-23T09:57:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1557",
+      "text": "create Driver App API Documentation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#119",
+      "time": "2024-08-13T12:18:55Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/119",
+      "text": "22 July - 2 August - Internal Calls and Discussion"
     }
   ],
   "open_prs": [],

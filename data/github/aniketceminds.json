@@ -1092,6 +1092,55 @@
       "time": "2024-08-13T11:50:09Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1807",
       "text": "fix(taxi-bpp): fix data rendering issues in my ride history page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1464",
+      "time": "2024-07-04T05:04:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1464",
+      "text": "Implement the shared PaymentMethodSelection component in common pckgs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1455",
+      "time": "2024-07-03T06:26:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1455",
+      "text": " Implement Shared TopHeader and SubHeader Components"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1444",
+      "time": "2024-07-01T12:43:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1444",
+      "text": "Implement Shared Component for /search Page and Render Catalogs in common pckgs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1806",
+      "time": "2024-08-14T05:43:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1806",
+      "text": "feat(mobility-bap): integrated the support api call"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1811",
+      "time": "2024-08-14T14:32:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1811",
+      "text": "feat(mobility-bap): implement & integrate api for policy alert modal"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1812",
+      "time": "2024-08-14T12:04:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1812",
+      "text": "fix(mobility-bap): integration of select api in search ride"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1813",
+      "time": "2024-08-14T13:25:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1813",
+      "text": "feat(mobility-bap): added changes for edit dropoff location"
     }
   ],
   "open_prs": [],

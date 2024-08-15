@@ -2940,6 +2940,188 @@
       "time": "2024-05-15T13:03:53Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/981",
       "text": "Deployment for mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#155",
+      "time": "2024-07-30T14:34:58Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/155",
+      "text": "Setup machine for BPP-PS-PF-Staging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1731",
+      "time": "2024-08-02T11:44:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1731",
+      "text": "Understand the architecture and data work flow of OHC leaderboard repositories"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1716",
+      "time": "2024-08-02T07:11:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1716",
+      "text": "BOC leaderboard - Dry run and Demo to Fide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1715",
+      "time": "2024-08-02T07:10:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1715",
+      "text": "Manual and Automatic Testing GitHub Action Workflow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1714",
+      "time": "2024-08-02T07:10:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1714",
+      "text": "Understanding GitHub Actions"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1713",
+      "time": "2024-08-02T07:10:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1713",
+      "text": "GitHub Action Workflow for Scraper"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1712",
+      "time": "2024-08-02T07:10:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1712",
+      "text": "Dry Run of BOC Leaderboard App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1711",
+      "time": "2024-08-02T07:09:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1711",
+      "text": "POC for GitHub API's"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1710",
+      "time": "2024-08-02T07:09:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1710",
+      "text": "Fixing Issue for Not Able to Fetch GitHub Data for Beckn Repo"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1709",
+      "time": "2024-08-02T07:08:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1709",
+      "text": "External call with Fide/OHC"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1708",
+      "time": "2024-08-02T07:08:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1708",
+      "text": "Internal calls with team"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1707",
+      "time": "2024-08-02T07:08:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1707",
+      "text": "Development of GitHub Scrapper for Beckn Repos"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1706",
+      "time": "2024-08-02T07:07:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1706",
+      "text": "Local Project Setup and Basic Testing of Scarpring"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1645",
+      "time": "2024-07-29T15:39:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1645",
+      "text": "8July- 19July // Calls and Meetings with Fide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1644",
+      "time": "2024-07-29T15:33:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1644",
+      "text": "8July - 19July - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1500",
+      "time": "2024-07-11T04:57:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1500",
+      "text": "Mission Project 2.0 Defining design opportunities "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1499",
+      "time": "2024-07-11T04:56:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1499",
+      "text": "Mission Project 2.0 Quantitative research, persona design, user journey mapping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1498",
+      "time": "2024-07-11T04:56:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1498",
+      "text": "Conduct User and Market Research to Gather Relevant Insights"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#983",
+      "time": "2024-05-15T13:11:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/983",
+      "text": "Comprehensive Testing for Mobility BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#945",
+      "time": "2024-05-14T08:20:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/945",
+      "text": "Implement Auth Middleware for Driver APIs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#820",
+      "time": "2024-04-30T12:39:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/820",
+      "text": "Taxi BPP - Strapi - Implement Status Call API for Beckn Mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#819",
+      "time": "2024-04-30T12:37:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/819",
+      "text": "Taxi BPP - Strapi - Implement Confirm Call API for Beckn Mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#818",
+      "time": "2024-04-30T12:35:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/818",
+      "text": "Taxi BPP - Strapi - Implement INIT Call API for Beckn Mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#707",
+      "time": "2024-04-23T10:06:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/707",
+      "text": "Driver App - Implement \"Look for New Ride Request\" Button"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#702",
+      "time": "2024-04-23T09:45:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/702",
+      "text": "Driver App - Implement Route Display from Start to Destination"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#701",
+      "time": "2024-04-23T09:44:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/701",
+      "text": "Driver App - Implement Map Screen with Current Location"
     }
   ],
   "open_prs": [],
