@@ -91,6 +91,13 @@
       "time": "2024-01-05T11:52:34Z",
       "link": "https://github.com/beckn/DSEP-Specification/pull/166",
       "text": "Add variable for le, fs, wo and ec domains"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#142",
+      "time": "2024-05-14T12:52:47Z",
+      "link": "https://github.com/beckn/protocol-server/issues/142",
+      "text": "Protocol Server BAP Mode Schema Validation Issue"
     }
   ],
   "open_prs": [],

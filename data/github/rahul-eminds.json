@@ -231,6 +231,27 @@
       "time": "2024-08-07T13:45:35Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/126",
       "text": "Created apis to update rides"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#220",
+      "time": "2024-08-02T10:10:05Z",
+      "link": "https://github.com/beckn/protocol-server/issues/220",
+      "text": "OpenAPI 3.1 POC and Discovery of Implementation Challenges"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1698",
+      "time": "2024-08-01T21:39:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1698",
+      "text": "Internal calls with team - July 22 to Aug 2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1697",
+      "time": "2024-08-01T21:38:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1697",
+      "text": "Automatic trigger of scrapper bugfixes"
     }
   ],
   "open_prs": [],

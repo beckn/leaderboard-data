@@ -889,6 +889,20 @@
       "time": "2024-08-13T11:20:41Z",
       "link": "https://github.com/beckn/beckn-onix/issues/179",
       "text": "Test Issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#126",
+      "time": "2024-07-11T04:56:23Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/126",
+      "text": "changes for the Beckn-onix-stack: phase 1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#444",
+      "time": "2024-08-14T06:27:17Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/444",
+      "text": "Negotiations/Auction use case to be supported in the protocol - Open Kenya"
     }
   ],
   "open_prs": [],

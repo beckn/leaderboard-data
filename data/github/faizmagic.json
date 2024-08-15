@@ -350,6 +350,20 @@
       "time": "2024-08-05T07:51:34Z",
       "link": "https://github.com/beckn/beckn-onix/issues/168",
       "text": "Create a trouble shooting guide for all products within beckn-onix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#9",
+      "time": "2024-07-24T07:17:13Z",
+      "link": "https://github.com/beckn/missions/issues/9",
+      "text": "Create Implementation guide for UEI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#168",
+      "time": "2024-08-05T07:51:34Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/168",
+      "text": "Create a trouble shooting guide for all products within beckn-onix"
     }
   ],
   "open_prs": [],

@@ -3010,6 +3010,83 @@
       "time": "2024-02-28T14:21:14Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/204",
       "text": "Deployment on AWS - Taxi BPP project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#123",
+      "time": "2024-07-04T17:22:30Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/123",
+      "text": "Review and Update Vistaar Implementation Guide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#95",
+      "time": "2024-06-04T15:11:23Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/95",
+      "text": "Search Provider - Create New Gateway Instance for BOC Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1481",
+      "time": "2024-07-08T19:10:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1481",
+      "text": "Examine PAT Token Utilization"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1480",
+      "time": "2024-07-08T18:42:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1480",
+      "text": "Explore Octokit for Fetching GitHub Repository Data"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1479",
+      "time": "2024-07-08T18:38:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1479",
+      "text": "Understand GraphQL Implementation for Beckn Leaderboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1478",
+      "time": "2024-07-08T18:37:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1478",
+      "text": "Understand GitHub Scraper for Beckn Leaderboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#938",
+      "time": "2024-05-14T08:15:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/938",
+      "text": "Taxi BPP - Strapi - Implement location based SELECT Call API for Beckn Mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#937",
+      "time": "2024-05-14T08:15:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/937",
+      "text": "Taxi BPP - Strapi - Implement Search API for Beckn Mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#807",
+      "time": "2024-04-30T08:30:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/807",
+      "text": "Taxi BPP BE - Implement API for driver to mark Reached at pickup location, Start Ride and End Ride"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#801",
+      "time": "2024-04-30T06:52:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/801",
+      "text": "Taxi BPP BE - Implement Secure Login API for Drivers (Using Strapi)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#494",
+      "time": "2024-04-03T15:55:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/494",
+      "text": "Driver App - Implement Online-Offline Toggle on Map Screen"
     }
   ],
   "open_prs": [],
