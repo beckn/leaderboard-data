@@ -1631,6 +1631,27 @@
       "time": "2024-08-14T16:34:30Z",
       "link": "https://github.com/beckn/missions/pull/65",
       "text": "Starter kit first final version"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#64",
+      "time": "2024-08-15T02:42:23Z",
+      "link": "https://github.com/beckn/missions/pull/64",
+      "text": "Kathir starter kit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#66",
+      "time": "2024-08-15T02:57:41Z",
+      "link": "https://github.com/beckn/missions/pull/66",
+      "text": "Reorganised structure"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#67",
+      "time": "2024-08-15T05:59:09Z",
+      "link": "https://github.com/beckn/missions/pull/67",
+      "text": "Separate Protocol Server"
     }
   ],
   "open_prs": [],
