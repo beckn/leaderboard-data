@@ -1267,6 +1267,27 @@
       "time": "2024-08-13T12:18:55Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/119",
       "text": "22 July - 2 August - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1619",
+      "time": "2024-07-29T11:38:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1619",
+      "text": "Implement Changes in GCL for Mobility Domain"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1618",
+      "time": "2024-07-29T11:36:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1618",
+      "text": "Postman Collection for Mobility Protocol Server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1617",
+      "time": "2024-07-29T11:35:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1617",
+      "text": "Postman Collection for Mobility Generic Client Layer"
     }
   ],
   "open_prs": [],
