@@ -1722,6 +1722,27 @@
       "time": "2024-07-29T15:19:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1641",
       "text": "Sunbird OBSRV POC on local system"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#132",
+      "time": "2024-08-16T12:04:19Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/132",
+      "text": "Added: Mobility Postman Collection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#87",
+      "time": "2024-08-16T15:40:29Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/87",
+      "text": "Added: Mobility Postman collection to GCL"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1756",
+      "time": "2024-08-06T13:05:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1756",
+      "text": "Code review for current iteration"
     }
   ],
   "open_prs": [],
