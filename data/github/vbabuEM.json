@@ -1652,6 +1652,13 @@
       "time": "2024-08-15T05:59:09Z",
       "link": "https://github.com/beckn/missions/pull/67",
       "text": "Separate Protocol Server"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#60",
+      "time": "2024-08-14T04:54:50Z",
+      "link": "https://github.com/beckn/missions/issues/60",
+      "text": "Starter kit redo - Network Facilitator Journey"
     }
   ],
   "open_prs": [],
