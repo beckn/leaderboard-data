@@ -1659,6 +1659,41 @@
       "time": "2024-08-14T04:54:50Z",
       "link": "https://github.com/beckn/missions/issues/60",
       "text": "Starter kit redo - Network Facilitator Journey"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#79",
+      "time": "2024-08-19T11:02:28Z",
+      "link": "https://github.com/beckn/missions/issues/79",
+      "text": "Review the Beckn-ONIX core spec written by Rajaneesh"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#72",
+      "time": "2024-08-19T10:08:28Z",
+      "link": "https://github.com/beckn/missions/issues/72",
+      "text": "Troubleshooting Guide - Include Specific Problems and Solutions in Q&A Format"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#70",
+      "time": "2024-08-19T09:48:31Z",
+      "link": "https://github.com/beckn/missions/issues/70",
+      "text": "Review and modify the Beckn-ONIX core specification"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#68",
+      "time": "2024-08-19T05:18:46Z",
+      "link": "https://github.com/beckn/missions/issues/68",
+      "text": "Write document on necessity and requirements of a Search Engine"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#69",
+      "time": "2024-08-19T06:42:46Z",
+      "link": "https://github.com/beckn/missions/pull/69",
+      "text": "Fix links in registry user guide"
     }
   ],
   "open_prs": [],

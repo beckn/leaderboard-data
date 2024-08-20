@@ -1141,6 +1141,13 @@
       "time": "2024-08-14T13:25:55Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1813",
       "text": "feat(mobility-bap): added changes for edit dropoff location"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1814",
+      "time": "2024-08-19T18:01:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1814",
+      "text": "feat(mobility-bap): implement render all policy page"
     }
   ],
   "open_prs": [],

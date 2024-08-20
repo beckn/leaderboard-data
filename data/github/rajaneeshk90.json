@@ -903,6 +903,20 @@
       "time": "2024-08-14T06:27:17Z",
       "link": "https://github.com/beckn/protocol-specifications/issues/444",
       "text": "Negotiations/Auction use case to be supported in the protocol - Open Kenya"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#221",
+      "time": "2024-08-06T11:27:35Z",
+      "link": "https://github.com/beckn/protocol-server/issues/221",
+      "text": "Release version 1.2 of core"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/mobility#83",
+      "time": "2024-08-05T15:20:09Z",
+      "link": "https://github.com/beckn/mobility/issues/83",
+      "text": "Setting up the l2 config in OAS3.1 for Mobility: Phase4"
     }
   ],
   "open_prs": [],
