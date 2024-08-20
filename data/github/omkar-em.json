@@ -1386,6 +1386,20 @@
       "time": "2024-07-01T11:47:25Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1442",
       "text": "In the migrated EC apps, tourism apps, and retail apps, the toast message is not being displayed upon the submission of a review."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1744",
+      "time": "2024-08-06T05:35:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1744",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1743",
+      "time": "2024-08-06T05:35:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1743",
+      "text": "Weekly Application Testing"
     }
   ],
   "open_prs": [],

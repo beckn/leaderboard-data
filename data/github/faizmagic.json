@@ -364,6 +364,20 @@
       "time": "2024-08-05T07:51:34Z",
       "link": "https://github.com/beckn/beckn-onix/issues/168",
       "text": "Create a trouble shooting guide for all products within beckn-onix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#75",
+      "time": "2024-08-05T07:51:34Z",
+      "link": "https://github.com/beckn/missions/issues/75",
+      "text": "Create a common troubleshooting guide for Beckn assets - Common issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#6",
+      "time": "2024-07-23T12:31:02Z",
+      "link": "https://github.com/beckn/missions/issues/6",
+      "text": "Create FAQ for Beckn Assets - V1.0"
     }
   ],
   "open_prs": [],
