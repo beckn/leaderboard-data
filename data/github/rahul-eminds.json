@@ -252,6 +252,13 @@
       "time": "2024-08-01T21:38:28Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1697",
       "text": "Automatic trigger of scrapper bugfixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1816",
+      "time": "2024-08-20T05:16:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1816",
+      "text": "fix(mobility-bap): integration of rating api for mobility app"
     }
   ],
   "open_prs": [],

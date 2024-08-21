@@ -1148,6 +1148,27 @@
       "time": "2024-08-19T18:01:27Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1814",
       "text": "feat(mobility-bap): implement render all policy page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1820",
+      "time": "2024-08-20T07:30:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1820",
+      "text": "Fix/policy page cards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1822",
+      "time": "2024-08-20T08:36:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1822",
+      "text": "fix(taxi-bpp): added time interval for new ride req"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1823",
+      "time": "2024-08-20T15:06:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1823",
+      "text": "feat(mobility-bap): implementation for status api integrtaion"
     }
   ],
   "open_prs": [],

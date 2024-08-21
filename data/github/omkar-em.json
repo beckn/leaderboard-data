@@ -1400,6 +1400,34 @@
       "time": "2024-08-06T05:35:36Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1743",
       "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1821",
+      "time": "2024-08-20T08:11:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1821",
+      "text": "The \"Get Quote\" API in the Smart Cities app is failing, preventing users from booking a taxi."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1819",
+      "time": "2024-08-20T05:57:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1819",
+      "text": "Collaboration with UEI Team for Critical Blocker Debugging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1815",
+      "time": "2024-08-20T05:11:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1815",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1717",
+      "time": "2024-08-02T07:12:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1717",
+      "text": "Automation of Happy Flow Test Cases for ODR"
     }
   ],
   "open_prs": [],

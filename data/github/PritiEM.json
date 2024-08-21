@@ -3122,6 +3122,41 @@
       "time": "2024-04-23T09:44:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/701",
       "text": "Driver App - Implement Map Screen with Current Location"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#982",
+      "time": "2024-05-15T13:08:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/982",
+      "text": "Implement Unsolicited on_status for Mobility BPP on ride accept"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#824",
+      "time": "2024-04-30T12:44:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/824",
+      "text": "Taxi BPP - Strapi - Implement Cancel API for Beckn Mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#823",
+      "time": "2024-04-30T12:43:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/823",
+      "text": "Taxi BPP - Strapi - Implement Rating API for Beckn Mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#822",
+      "time": "2024-04-30T12:42:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/822",
+      "text": "Taxi BPP - Strapi - Implement Support API for Beckn Mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#821",
+      "time": "2024-04-30T12:40:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/821",
+      "text": "Taxi BPP - Strapi - Implement Track API for Beckn Mobility"
     }
   ],
   "open_prs": [],

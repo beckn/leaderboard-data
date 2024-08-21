@@ -917,6 +917,13 @@
       "time": "2024-08-05T15:20:09Z",
       "link": "https://github.com/beckn/mobility/issues/83",
       "text": "Setting up the l2 config in OAS3.1 for Mobility: Phase4"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#174",
+      "time": "2024-08-06T11:20:31Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/174",
+      "text": "Add missing core functionality details in the Beckn-Onix-Stack documentation"
     }
   ],
   "open_prs": [],
