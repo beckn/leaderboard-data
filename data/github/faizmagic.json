@@ -378,6 +378,20 @@
       "time": "2024-07-23T12:31:02Z",
       "link": "https://github.com/beckn/missions/issues/6",
       "text": "Create FAQ for Beckn Assets - V1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#111",
+      "time": "2024-08-01T11:42:46Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/111",
+      "text": "Optimise AWS cost to USD 2500 monthly billing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#110",
+      "time": "2024-08-01T11:20:53Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/110",
+      "text": "Product Requirements for Beckn enabled network observability microsite - MVP-v1"
     }
   ],
   "open_prs": [],

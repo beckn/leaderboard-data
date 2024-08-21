@@ -623,6 +623,20 @@
       "time": "2024-03-29T15:23:02Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/432",
       "text": "Add catalogs for Mobility in Strapi BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1613",
+      "time": "2024-07-29T10:27:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1613",
+      "text": "Implement Unsolicited on_status for Mobility BPP on ride reject"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1810",
+      "time": "2024-08-20T10:26:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1810",
+      "text": "Implemented Cancel and Confirm API"
     }
   ],
   "open_prs": [],

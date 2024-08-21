@@ -3178,6 +3178,62 @@
       "time": "2024-08-19T08:37:09Z",
       "link": "https://github.com/beckn/beckn-onix/issues/180",
       "text": "Overall understanding and implementing Beckn & Beckn-ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#182",
+      "time": "2024-08-20T09:10:50Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/182",
+      "text": "Create High-Quality Template Webhook for Network Participants"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1818",
+      "time": "2024-08-20T05:30:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1818",
+      "text": "Create Mock-ups for Agriculture Use Case - Machine Rental"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1817",
+      "time": "2024-08-20T05:28:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1817",
+      "text": "Create Mock-ups for Agriculture Use Case - Aggregation Centers"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#944",
+      "time": "2024-05-14T08:19:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/944",
+      "text": "Rider BAP integration with SELECT API on dev environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#943",
+      "time": "2024-05-14T08:19:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/943",
+      "text": "Rider BAP integration with SEARCH API on dev environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#447",
+      "time": "2024-04-01T09:24:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/447",
+      "text": "Mobility BAP - Ride Confirmation Details"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#443",
+      "time": "2024-04-01T09:21:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/443",
+      "text": "Mobility BAP - High Traffic Alert for Smart Cities"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#442",
+      "time": "2024-04-01T09:19:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/442",
+      "text": "Mobility BAP - Homepage Location Display"
     }
   ],
   "open_prs": [],
