@@ -1407,6 +1407,104 @@
       "time": "2024-08-13T11:09:13Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/118",
       "text": "Implement Weather-Related Use Case on Vistaar"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1833",
+      "time": "2024-08-08T10:17:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1833",
+      "text": "Build Driver side application using the UI building blocks"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#133",
+      "time": "2024-08-21T12:12:31Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/133",
+      "text": "create a new subdomain under the becknprotocol.io DNS to Specified IP Address"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#132",
+      "time": "2024-08-21T07:08:19Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/132",
+      "text": "Automation Approach for Sanbox 2.0 documentation & discussion #2"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#130",
+      "time": "2024-08-21T05:40:41Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/130",
+      "text": "implementation of network observability dashboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#129",
+      "time": "2024-08-21T05:40:23Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/129",
+      "text": "CMS/Dynamic Sandbox V2.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#128",
+      "time": "2024-08-21T05:26:09Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/128",
+      "text": "End to End QA for Sandbox2.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#127",
+      "time": "2024-08-21T05:26:04Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/127",
+      "text": "Deploy the changes to BOC env only with the created branch"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#126",
+      "time": "2024-08-21T05:25:58Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/126",
+      "text": "Make the code changes in a separate branch for Sandbox 2.0 as per approach"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#125",
+      "time": "2024-08-21T05:25:49Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/125",
+      "text": "Migrate DB from Dev Strapi to BOC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#124",
+      "time": "2024-08-21T05:25:44Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/124",
+      "text": "Deploy Latest Strapi and Plugins codebase to BOC Sandbox 2.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#123",
+      "time": "2024-08-21T05:25:38Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/123",
+      "text": "Merge MIT Instances DB Dump with Dev. -"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#122",
+      "time": "2024-08-21T05:25:34Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/122",
+      "text": "Create DB Dump for MIT instances, Dev, BOC for backup"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#121",
+      "time": "2024-08-21T05:25:28Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/121",
+      "text": "Create catalogue for non supported domains in strapi"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#120",
+      "time": "2024-08-21T05:25:19Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/120",
+      "text": "Automation Approach for Sanbox 2.0 documentation & discussion #1"
     }
   ],
   "open_prs": [],

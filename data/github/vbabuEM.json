@@ -1694,6 +1694,20 @@
       "time": "2024-08-19T06:42:46Z",
       "link": "https://github.com/beckn/missions/pull/69",
       "text": "Fix links in registry user guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#85",
+      "time": "2024-08-21T09:07:50Z",
+      "link": "https://github.com/beckn/missions/issues/85",
+      "text": "Fix issues with UEI EV Charging Implementation guide messages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#184",
+      "time": "2024-08-21T06:25:58Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/184",
+      "text": "Installation should check if the user is part of the docker group"
     }
   ],
   "open_prs": [],

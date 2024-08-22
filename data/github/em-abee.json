@@ -637,6 +637,20 @@
       "time": "2024-08-20T10:26:58Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1810",
       "text": "Implemented Cancel and Confirm API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#133",
+      "time": "2024-08-21T03:43:52Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/133",
+      "text": "Fix for rating in mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1751",
+      "time": "2024-08-06T09:14:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1751",
+      "text": "Code review for current iteration"
     }
   ],
   "open_prs": [],

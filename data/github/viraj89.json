@@ -3234,6 +3234,41 @@
       "time": "2024-04-01T09:19:22Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/442",
       "text": "Mobility BAP - Homepage Location Display"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#84",
+      "time": "2024-08-21T05:42:18Z",
+      "link": "https://github.com/beckn/missions/issues/84",
+      "text": "Create Implementation Guide for UPPCL P2P"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#186",
+      "time": "2024-08-21T11:03:27Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/186",
+      "text": "Beckn-Onix end to end testing and verification of environment setups"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#185",
+      "time": "2024-08-21T10:36:30Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/185",
+      "text": "Deep Dive into Beckn Onix Protocol Server Component"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#183",
+      "time": "2024-08-21T06:16:55Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/183",
+      "text": "Beckn Onix - fix the issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#131",
+      "time": "2024-08-21T06:48:05Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/131",
+      "text": "Weekly report on DevOps"
     }
   ],
   "open_prs": [],

@@ -1169,6 +1169,20 @@
       "time": "2024-08-20T15:06:10Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1823",
       "text": "feat(mobility-bap): implementation for status api integrtaion"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1825",
+      "time": "2024-08-21T08:17:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1825",
+      "text": "fix(mobility-bap): added feedback page navigation on ride completion"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1840",
+      "time": "2024-08-21T14:44:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1840",
+      "text": "fix(mobility-bpp-bap): fixed issues related to mobility user & driver…"
     }
   ],
   "open_prs": [],
