@@ -924,6 +924,20 @@
       "time": "2024-08-06T11:20:31Z",
       "link": "https://github.com/beckn/beckn-onix/issues/174",
       "text": "Add missing core functionality details in the Beckn-Onix-Stack documentation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#445",
+      "time": "2024-08-21T04:49:18Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/445",
+      "text": "UEIAlliance spec review and feedback"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/Unified-Energy-Interface#24",
+      "time": "2024-08-21T04:47:37Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/issues/24",
+      "text": "UEIAlliance spec review and feedback"
     }
   ],
   "open_prs": [],

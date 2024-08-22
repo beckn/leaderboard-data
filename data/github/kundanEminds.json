@@ -2359,6 +2359,13 @@
       "time": "2024-08-13T10:33:36Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1805",
       "text": "feat(TAXIBPP): integrated my ride history api in taxi bpp"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1827",
+      "time": "2024-08-21T15:26:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1827",
+      "text": "feat(INDUSTRY): fixed change button missing on checkout page for bill…"
     }
   ],
   "open_prs": [],

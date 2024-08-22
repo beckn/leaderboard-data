@@ -77,6 +77,13 @@
       "time": "2024-08-20T14:34:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1824",
       "text": "feat: implement search page and payment mode  page using common packages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1824",
+      "time": "2024-08-21T05:22:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1824",
+      "text": "feat: implement search page and payment mode  page using common packages"
     }
   ],
   "open_prs": [],

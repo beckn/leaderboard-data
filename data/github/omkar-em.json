@@ -1428,6 +1428,90 @@
       "time": "2024-08-02T07:12:14Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1717",
       "text": "Automation of Happy Flow Test Cases for ODR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1839",
+      "time": "2024-08-21T13:02:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1839",
+      "text": "Mobility - Rider App - Requires Validation for the \"Name\" and \"Mobile Number\" Fields in the \"Search Ride\" Bottom Sheet"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1838",
+      "time": "2024-08-21T12:03:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1838",
+      "text": "Incorrect redirection to \"Select Payment Mode\" screen after closing \"Contact Support\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1837",
+      "time": "2024-08-21T11:53:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1837",
+      "text": "Policy portal - \"Apply Policy\" button should be present on the policy portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1836",
+      "time": "2024-08-21T11:48:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1836",
+      "text": "Mobility - driver app - Ride summary bottom sheet not showing address after completing the ride in driver app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1835",
+      "time": "2024-08-21T11:43:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1835",
+      "text": "Mobility - Cab fare discrepancy between rider and driver apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1834",
+      "time": "2024-08-21T11:36:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1834",
+      "text": "Mobility - ride app - Update error message when no driver is available"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1832",
+      "time": "2024-08-21T11:30:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1832",
+      "text": "Mobility - rider app - Pickup and drop-off location addresses are truncated in the ride summary bottom shee"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1831",
+      "time": "2024-08-21T11:20:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1831",
+      "text": "Mobility - rider app - \"Change\" button in ride summary bottom sheet is not working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1830",
+      "time": "2024-08-21T11:00:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1830",
+      "text": "Mobility - rider app - Debit and credit card sections should be disabled as shown in Figma on \"Select Payment Mode\" page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1829",
+      "time": "2024-08-21T10:58:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1829",
+      "text": "Mobility - rider app - \"Cancel Ride\" button should be disabled until an option/reason is selected in rider app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1828",
+      "time": "2024-08-21T10:38:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1828",
+      "text": "Mobility - driver app - UI issue on sign-in page: Placeholder text and button background color mismatch with Figma"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1826",
+      "time": "2024-08-21T08:17:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1826",
+      "text": "Search results are not displaying on the UI in the OSC app's dev environment."
     }
   ],
   "open_prs": [],
