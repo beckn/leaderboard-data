@@ -1183,6 +1183,34 @@
       "time": "2024-08-21T14:44:44Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1840",
       "text": "fix(mobility-bpp-bap): fixed issues related to mobility user & driver…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1841",
+      "time": "2024-08-22T06:03:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1841",
+      "text": "fix(mobility-bap): fixed issue related to policy content"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1843",
+      "time": "2024-08-22T07:22:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1843",
+      "text": "fix(mobility-bap): signin page input placeholder chnge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1845",
+      "time": "2024-08-22T09:52:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1845",
+      "text": "feat(mobility-bap): implemenation for smartCity, gambia, paris flow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1849",
+      "time": "2024-08-22T11:21:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1849",
+      "text": "fix(mobility-bap): fixed issues related to fare mismtached"
     }
   ],
   "open_prs": [],

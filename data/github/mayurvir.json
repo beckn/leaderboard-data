@@ -371,6 +371,13 @@
       "time": "2024-05-13T06:37:05Z",
       "link": "https://github.com/beckn/beckn-action-bot/pull/90",
       "text": "Update README.md"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#87",
+      "time": "2024-05-22T10:46:20Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/87",
+      "text": "[Draft] Define product requirements for statuspage"
     }
   ],
   "open_prs": [],

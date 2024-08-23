@@ -3269,6 +3269,34 @@
       "time": "2024-08-21T06:48:05Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/131",
       "text": "Weekly report on DevOps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#187",
+      "time": "2024-08-22T12:26:33Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/187",
+      "text": "To remove the hardcoded root credentials"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#87",
+      "time": "2024-08-22T05:55:20Z",
+      "link": "https://github.com/beckn/missions/issues/87",
+      "text": "Create Implementation Guide for Vistaar v1.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#135",
+      "time": "2024-08-22T09:53:15Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/135",
+      "text": "To get the list of all static IPs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#134",
+      "time": "2024-08-22T09:49:55Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/134",
+      "text": "AWS details requested"
     }
   ],
   "open_prs": [],

@@ -1505,6 +1505,13 @@
       "time": "2024-08-21T05:25:19Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/120",
       "text": "Automation Approach for Sanbox 2.0 documentation & discussion #1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#190",
+      "time": "2024-06-18T12:06:31Z",
+      "link": "https://github.com/beckn/protocol-server/issues/190",
+      "text": "Add L2 Config for UEI - for new domains"
     }
   ],
   "open_prs": [],

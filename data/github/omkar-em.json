@@ -1512,6 +1512,69 @@
       "time": "2024-08-21T08:17:38Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1826",
       "text": "Search results are not displaying on the UI in the OSC app's dev environment."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1856",
+      "time": "2024-08-22T15:35:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1856",
+      "text": "Mobility - Ride App - Redundant toast messages about ride status in rider app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1855",
+      "time": "2024-08-22T15:23:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1855",
+      "text": "Mobility - Driver App - Multiple drivers able to accept the same ride request; pop-up should disappear after first acceptance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1854",
+      "time": "2024-08-22T15:02:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1854",
+      "text": "Mobility - Rider App - Drop location persists across experiences in rider app (Gambia and Smart City), should reset when switching"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1853",
+      "time": "2024-08-22T14:20:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1853",
+      "text": "Mobility - Driver App - \"Navigate\" button in driver app should open Google Maps, but driver stays in app; bottom sheet blocks navigation view"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1852",
+      "time": "2024-08-22T14:13:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1852",
+      "text": "Mobility - Driver App - Cab not showing when driver goes offline and comes back online"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1851",
+      "time": "2024-08-22T14:10:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1851",
+      "text": "Mobility - Driver App - Updated drop location not reflecting in driver app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1850",
+      "time": "2024-08-22T14:02:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1850",
+      "text": "Mobility - Driver App -  Ride cancellation not reflecting in driver app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1745",
+      "time": "2024-08-06T06:34:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1745",
+      "text": "In the migrated ODR app, the \"Complainant\" and \"Respondent\" details are showing the name and number fields as blank."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1537",
+      "time": "2024-07-19T11:14:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1537",
+      "text": "In the OSM app, after placing an order, the order does not appear in the order history."
     }
   ],
   "open_prs": [],

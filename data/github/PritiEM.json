@@ -3157,6 +3157,83 @@
       "time": "2024-04-30T12:40:44Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/821",
       "text": "Taxi BPP - Strapi - Implement Track API for Beckn Mobility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#140",
+      "time": "2024-07-15T07:57:31Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/140",
+      "text": "Deploy New Gateway and Registry on EC2 Using ONIX Script"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#136",
+      "time": "2024-07-12T11:45:56Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/136",
+      "text": "24Jun - 5July - Internal Calls and Discussion"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#135",
+      "time": "2024-07-12T11:43:11Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/135",
+      "text": "June 24-July 5 // Calls and Meetings with Fide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#118",
+      "time": "2024-07-01T11:16:14Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/118",
+      "text": "DevOps Setup for Vistaar Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#115",
+      "time": "2024-07-01T11:09:31Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/115",
+      "text": "Implement AWS-Based Load Balancer for Beckn Components"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#108",
+      "time": "2024-07-01T10:44:14Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/108",
+      "text": "Setup Vistaar Environment for BAP, BPP, Registry, Gateway, and Sandbox"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#105",
+      "time": "2024-07-01T10:37:09Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/105",
+      "text": "Deploy New Search Gateway on Vistaar Instance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#104",
+      "time": "2024-07-01T10:35:00Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/104",
+      "text": "Include New Search Gateway Image in Beckn-ONIX Script"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#103",
+      "time": "2024-07-01T10:32:35Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/103",
+      "text": "Create and Publish New Search Gateway Image on Dockerhub"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1847",
+      "time": "2024-07-01T10:49:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1847",
+      "text": "SAMPLE"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1848",
+      "time": "2024-07-01T10:31:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1848",
+      "text": "SAMPLE "
     }
   ],
   "open_prs": [],

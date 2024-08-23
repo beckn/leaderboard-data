@@ -1708,6 +1708,34 @@
       "time": "2024-08-21T06:25:58Z",
       "link": "https://github.com/beckn/beckn-onix/issues/184",
       "text": "Installation should check if the user is part of the docker group"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#167",
+      "time": "2024-08-05T06:54:16Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/167",
+      "text": "Identify and install the right role permission for registry installed by Beckn-ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#166",
+      "time": "2024-08-05T06:50:22Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/166",
+      "text": "Reinstalling the BAP/BPP adapter does not update public key in the registry"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#98",
+      "time": "2024-06-11T07:36:24Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/98",
+      "text": "Layer 2 config changes in the Protocol Server are only done in client instances"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#12",
+      "time": "2024-08-22T05:15:18Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/12",
+      "text": "bpp_id and bpp_uri are hardcoded"
     }
   ],
   "open_prs": [],

@@ -1778,6 +1778,13 @@
       "time": "2022-01-27T13:01:19Z",
       "link": "https://github.com/beckn/DHP-Specs/issues/80",
       "text": "Add Design Principles"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#22",
+      "time": "2024-03-30T04:19:41Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/22",
+      "text": "Create a GUI for Beckn-ONIX"
     }
   ],
   "open_prs": [],

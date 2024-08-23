@@ -392,6 +392,13 @@
       "time": "2024-08-01T11:20:53Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/110",
       "text": "Product Requirements for Beckn enabled network observability microsite - MVP-v1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#163",
+      "time": "2024-08-01T11:01:11Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/163",
+      "text": "Beckn ONIX Benchmarking for vertical scalability"
     }
   ],
   "open_prs": [],
