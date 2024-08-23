@@ -259,6 +259,20 @@
       "time": "2024-08-20T05:16:19Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1816",
       "text": "fix(mobility-bap): integration of rating api for mobility app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#207",
+      "time": "2024-07-08T11:40:48Z",
+      "link": "https://github.com/beckn/protocol-server/issues/207",
+      "text": "[BOC Community]: leaderboard test issue 3"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#205",
+      "time": "2024-07-05T09:43:41Z",
+      "link": "https://github.com/beckn/protocol-server/issues/205",
+      "text": "[BOC Community]: test issue 2"
     }
   ],
   "open_prs": [],

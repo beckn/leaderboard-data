@@ -28,6 +28,13 @@
       "time": "2023-12-08T14:23:27Z",
       "link": "https://github.com/beckn/PULSE-Specification/pull/20",
       "text": "Updating search requests to denote service being ordered as \"Item\" and area of expertise as \"Category\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#60",
+      "time": "2024-04-25T09:07:47Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/60",
+      "text": "No config file for ODR"
     }
   ],
   "open_prs": [],

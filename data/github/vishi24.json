@@ -1484,6 +1484,13 @@
       "time": "2024-03-01T10:44:40Z",
       "link": "https://github.com/beckn/beckn-sandbox/issues/5",
       "text": "Inconsistency in sandbox artifacts"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#127",
+      "time": "2024-02-15T11:34:03Z",
+      "link": "https://github.com/beckn/protocol-server/issues/127",
+      "text": "Protocol Server - Development environment setup"
     }
   ],
   "open_prs": [],

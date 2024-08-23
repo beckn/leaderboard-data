@@ -7,6 +7,13 @@
       "time": "2024-06-24T04:13:24Z",
       "link": "https://github.com/beckn/protocol-server/issues/194",
       "text": "BPP client mode processing Request after 30s"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#194",
+      "time": "2024-06-24T04:13:24Z",
+      "link": "https://github.com/beckn/protocol-server/issues/194",
+      "text": "BPP client mode processing Request after 30s"
     }
   ],
   "open_prs": [],
