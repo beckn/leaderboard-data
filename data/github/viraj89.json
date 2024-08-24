@@ -3297,6 +3297,13 @@
       "time": "2024-08-22T09:49:55Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/134",
       "text": "AWS details requested"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#78",
+      "time": "2024-08-19T10:55:06Z",
+      "link": "https://github.com/beckn/missions/issues/78",
+      "text": "Comprehensive Starter Kit - V3.0"
     }
   ],
   "open_prs": [],
