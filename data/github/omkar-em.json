@@ -1575,6 +1575,48 @@
       "time": "2024-07-19T11:14:26Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1537",
       "text": "In the OSM app, after placing an order, the order does not appear in the order history."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1859",
+      "time": "2024-08-23T15:17:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1859",
+      "text": "Search Functionality Not Working in DSEP (Scholarship and Job) and Industry 4.0 Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1839",
+      "time": "2024-08-21T13:02:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1839",
+      "text": "Mobility - Rider App - Requires Validation for the \"Name\" and \"Mobile Number\" Fields in the \"Search Ride\" Bottom Sheet"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1835",
+      "time": "2024-08-21T11:43:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1835",
+      "text": "Mobility - Cab fare discrepancy between rider and driver apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1830",
+      "time": "2024-08-21T11:00:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1830",
+      "text": "Mobility - rider app - Debit and credit card sections should be disabled as shown in Figma on \"Select Payment Mode\" page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1829",
+      "time": "2024-08-21T10:58:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1829",
+      "text": "Mobility - rider app - \"Cancel Ride\" button should be disabled until an option/reason is selected in rider app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1828",
+      "time": "2024-08-21T10:38:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1828",
+      "text": "Mobility - driver app - UI issue on sign-in page: Placeholder text and button background color mismatch with Figma"
     }
   ],
   "open_prs": [],

@@ -1736,6 +1736,41 @@
       "time": "2024-08-22T05:15:18Z",
       "link": "https://github.com/beckn/beckn-sandbox/issues/12",
       "text": "bpp_id and bpp_uri are hardcoded"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#88",
+      "time": "2024-08-23T05:23:49Z",
+      "link": "https://github.com/beckn/missions/pull/88",
+      "text": "Implement review comments from Ravi to the starter kit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#89",
+      "time": "2024-08-23T10:08:56Z",
+      "link": "https://github.com/beckn/missions/pull/89",
+      "text": "Update open network with Beckn"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#189",
+      "time": "2024-08-23T08:26:25Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/189",
+      "text": "Provide an option during install to update components"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#188",
+      "time": "2024-08-23T03:14:54Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/188",
+      "text": "Beckn-ONIX is registering using wildcard domain"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/generic-client-layer#88",
+      "time": "2024-08-23T03:10:43Z",
+      "link": "https://github.com/beckn/generic-client-layer/issues/88",
+      "text": "Please add API documentation for the project"
     }
   ],
   "open_prs": [],

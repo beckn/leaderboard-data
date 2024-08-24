@@ -91,6 +91,13 @@
       "time": "2024-08-22T09:53:08Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1842",
       "text": "feat(OSC): test cases for osc app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1858",
+      "time": "2024-08-23T09:02:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1858",
+      "text": "feat(OSC): test cases for osc app"
     }
   ],
   "open_prs": [],

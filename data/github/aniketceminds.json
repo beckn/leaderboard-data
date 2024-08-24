@@ -1211,6 +1211,13 @@
       "time": "2024-08-22T11:21:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1849",
       "text": "fix(mobility-bap): fixed issues related to fare mismtached"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1857",
+      "time": "2024-08-23T09:32:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1857",
+      "text": "fix(mobility-bap-bpp): fixed issues related to currency & geolocation"
     }
   ],
   "open_prs": [],
