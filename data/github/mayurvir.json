@@ -378,6 +378,363 @@
       "time": "2024-05-22T10:46:20Z",
       "link": "https://github.com/beckn/beckn-onix/issues/87",
       "text": "[Draft] Define product requirements for statuspage"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#87",
+      "time": "2024-04-17T15:10:57Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/87",
+      "text": "Add support for Custom GPT"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#86",
+      "time": "2024-04-17T15:03:54Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/86",
+      "text": "Agent does not share the order id once the order is confirmed"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#85",
+      "time": "2024-04-17T14:58:57Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/85",
+      "text": "Agent does not ask for billing details while initiating the order"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#84",
+      "time": "2024-04-17T14:44:41Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/84",
+      "text": "Add status messages while request is processing for Whatsapp"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#83",
+      "time": "2024-04-17T12:10:44Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/83",
+      "text": "Add static map images for selected routes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#82",
+      "time": "2024-04-17T09:50:03Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/82",
+      "text": "Update README.md based on the new structure of agent and steps to contribute"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#54",
+      "time": "2024-04-04T08:59:44Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/54",
+      "text": "Update search intent based on domain"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#53",
+      "time": "2024-04-04T08:58:22Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/53",
+      "text": "Receive whatsapp location and use it for discovery"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#51",
+      "time": "2024-04-04T08:53:35Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/51",
+      "text": "Identify collection of transactions and show a list if that collection is asked to be executed"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#50",
+      "time": "2024-04-04T08:27:34Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/50",
+      "text": "Reduce the number of questions asked when creating an itinerary, use profile as much as possible."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#49",
+      "time": "2024-04-04T08:23:55Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/49",
+      "text": "Add user profile"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#46",
+      "time": "2024-03-31T11:45:59Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/46",
+      "text": "Bug: strapi returns providers of different country when searched with GPS location of yellowstone national park"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#44",
+      "time": "2024-03-29T12:33:02Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/44",
+      "text": "Deploy control-center on aplify"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#43",
+      "time": "2024-03-29T12:26:49Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/43",
+      "text": "Add searchable 'details' to an item which allows aerching by multiple keywords"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#39",
+      "time": "2024-03-28T14:39:31Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/39",
+      "text": "Support for multiple domains and deployment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#34",
+      "time": "2024-03-27T10:50:16Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/34",
+      "text": "Add user sessions for a given number under webhook handler"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#30",
+      "time": "2024-03-26T07:24:05Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/30",
+      "text": "Obtain a twilio production account"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#29",
+      "time": "2024-03-26T07:22:55Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/29",
+      "text": "Create a control center"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#7",
+      "time": "2024-03-24T07:38:08Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/7",
+      "text": "Add function to `get_beckn_action_from_text()`"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#6",
+      "time": "2024-03-24T07:33:43Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/6",
+      "text": "Add function to call an api"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#5",
+      "time": "2024-03-24T07:11:43Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/5",
+      "text": "Add business logic to `process_instruction()` function."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#4",
+      "time": "2024-03-24T06:52:21Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/4",
+      "text": "Create a webhook to receive whatsapp messages"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#3",
+      "time": "2024-03-24T06:41:26Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/3",
+      "text": "Add function to get text from json"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#2",
+      "time": "2024-03-24T05:03:13Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/2",
+      "text": "Add function to get beckn `action` from text if applicable."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#1",
+      "time": "2024-03-24T04:47:46Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/1",
+      "text": "Setup base code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#9",
+      "time": "2024-03-24T11:22:12Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/9",
+      "text": "Added boiler plate code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#10",
+      "time": "2024-03-24T16:47:42Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/10",
+      "text": "Feat get beckn action if applicable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#32",
+      "time": "2024-03-26T14:21:41Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/32",
+      "text": "[Fix] Updated github workflow for missing environment variables"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#33",
+      "time": "2024-03-27T10:51:28Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/33",
+      "text": "[Feat] Added text to beckn request translatiion function"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#40",
+      "time": "2024-03-29T05:10:04Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/40",
+      "text": "[Feat] added deployment script"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#42",
+      "time": "2024-03-31T11:23:34Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/42",
+      "text": "[Feat] added support for multiple domains"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#47",
+      "time": "2024-04-03T06:03:46Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/47",
+      "text": "[Feature] Added messages to users while AI process a user message"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#55",
+      "time": "2024-04-05T05:32:08Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/55",
+      "text": "[Feature] Added profile to session and its use as context in getting payload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#56",
+      "time": "2024-04-05T07:49:04Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/56",
+      "text": "[Feature] Reduce itinerary questions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#61",
+      "time": "2024-04-06T08:03:43Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/61",
+      "text": "[Fix] Updated prompts, updated profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#62",
+      "time": "2024-04-06T11:44:55Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/62",
+      "text": "[Fix] Added fixes for end to end beckn flow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#64",
+      "time": "2024-04-06T20:04:03Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/64",
+      "text": "[Feature] Added search filters"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/transactional-ai-bap#65",
+      "time": "2024-04-07T04:27:06Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/65",
+      "text": "Instructor js implementation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#67",
+      "time": "2024-04-08T00:57:19Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/67",
+      "text": "[Feature] Add bookings management"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#68",
+      "time": "2024-04-08T10:16:19Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/68",
+      "text": "[Added] Add google maps to resolve routes and gps location"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#70",
+      "time": "2024-04-08T12:20:39Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/70",
+      "text": "Added functionality to get routes when user asks"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#71",
+      "time": "2024-04-08T13:32:35Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/71",
+      "text": "Added missing condition and direction url"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#72",
+      "time": "2024-04-08T19:33:56Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/72",
+      "text": "Add search along a route"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#73",
+      "time": "2024-04-08T22:04:48Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/73",
+      "text": "Added api for location based exceptions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#75",
+      "time": "2024-04-09T00:13:36Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/75",
+      "text": "[Fix] Corrections for developer mode resolution"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#76",
+      "time": "2024-04-09T08:44:39Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/76",
+      "text": "[Feature] Added localization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#80",
+      "time": "2024-04-13T14:47:59Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/80",
+      "text": "[Featyre] Reduce context"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#81",
+      "time": "2024-05-03T05:29:29Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/81",
+      "text": "[Feature] Added new structure with function calling to reduce flakiness and reduce transaction time"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#88",
+      "time": "2024-05-03T05:42:36Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/88",
+      "text": "[Documentation] Updated readme file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/transactional-ai-bap#89",
+      "time": "2024-04-19T06:59:59Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/89",
+      "text": "[Feature] Added static map images"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#90",
+      "time": "2024-05-13T06:37:05Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/90",
+      "text": "Update README.md"
     }
   ],
   "open_prs": [],

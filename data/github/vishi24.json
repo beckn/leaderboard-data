@@ -1491,6 +1491,118 @@
       "time": "2024-02-15T11:34:03Z",
       "link": "https://github.com/beckn/protocol-server/issues/127",
       "text": "Protocol Server - Development environment setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#66",
+      "time": "2024-04-07T07:45:28Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/66",
+      "text": "Clone MIT Mumbai network to North Virginia"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#58",
+      "time": "2024-04-05T08:03:49Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/58",
+      "text": "Strapi plugin deployment and Data model update"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#48",
+      "time": "2024-04-03T10:13:36Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/48",
+      "text": "Postman collection enhancement"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#28",
+      "time": "2024-03-26T06:29:30Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/28",
+      "text": "Enhance Strapi to accommodate ticket booking use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#27",
+      "time": "2024-03-26T02:01:45Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/27",
+      "text": "Postman collection for DHP use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#26",
+      "time": "2024-03-26T02:00:24Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/26",
+      "text": "Postman collection for EV charging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#25",
+      "time": "2024-03-26T01:59:40Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/25",
+      "text": "Postman collection for retail use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#24",
+      "time": "2024-03-26T01:57:59Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/24",
+      "text": "Postman collection for ticket use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#23",
+      "time": "2024-03-26T01:56:49Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/23",
+      "text": "Postman collection for Hotel booking"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#22",
+      "time": "2024-03-26T01:44:05Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/22",
+      "text": "Example JSON for ticket booking use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#21",
+      "time": "2024-03-26T01:42:56Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/21",
+      "text": "Example JSON for hotel use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#20",
+      "time": "2024-03-26T01:39:04Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/20",
+      "text": "Catalog validation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#19",
+      "time": "2024-03-26T01:32:24Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/19",
+      "text": "Upload catalogs to respective Strapi instance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#18",
+      "time": "2024-03-26T01:18:29Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/18",
+      "text": "Create catalog in Excel based on inputs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#57",
+      "time": "2024-04-05T06:32:49Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/57",
+      "text": "Postman collection added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#59",
+      "time": "2024-04-06T04:45:01Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/59",
+      "text": "Search by tag request corrected"
     }
   ],
   "open_prs": [],

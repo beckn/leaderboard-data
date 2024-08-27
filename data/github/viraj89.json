@@ -3304,6 +3304,27 @@
       "time": "2024-08-19T10:55:06Z",
       "link": "https://github.com/beckn/missions/issues/78",
       "text": "Comprehensive Starter Kit - V3.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#186",
+      "time": "2024-08-21T11:03:27Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/186",
+      "text": "Beckn-Onix end to end testing and verification of environment setups"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#135",
+      "time": "2024-08-22T09:53:15Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/135",
+      "text": "To get the list of all static IPs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#134",
+      "time": "2024-08-22T09:49:55Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/134",
+      "text": "AWS details requested"
     }
   ],
   "open_prs": [],

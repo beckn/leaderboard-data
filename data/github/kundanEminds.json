@@ -2380,6 +2380,48 @@
       "time": "2024-08-23T07:39:42Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1844",
       "text": "feat(TOURISM): implemented store and services in tourism app from com…"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1865",
+      "time": "2024-08-26T10:59:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1865",
+      "text": "Integrate Header Component and Type Models from Common Packages into Tourism App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1864",
+      "time": "2024-08-26T10:59:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1864",
+      "text": "Integrate /signIn, /signUp Page and Respective Type Models from Common Packages into Tourism App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1863",
+      "time": "2024-08-26T10:59:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1863",
+      "text": "Implement Utilities in Tourism App Using Common Packages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1862",
+      "time": "2024-08-26T10:59:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1862",
+      "text": "Implement Store and Services in Tourism App from Common Packages"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1860",
+      "time": "2024-08-26T06:04:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1860",
+      "text": "feat(TOURISM): implemented utilities in tourism app from common packages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1866",
+      "time": "2024-08-26T12:45:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1866",
+      "text": "feat(TOURISM): integrated header component and type models from commo…"
     }
   ],
   "open_prs": [],

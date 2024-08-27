@@ -350,6 +350,13 @@
       "time": "2023-08-21T04:40:57Z",
       "link": "https://github.com/beckn/dsep-unified-bap-client/pull/57",
       "text": "API changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#41",
+      "time": "2024-04-01T04:33:36Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/41",
+      "text": "Added postman collection for mit demo. EV,retail,dhp,hotel,tourism do…"
     }
   ],
   "open_prs": [],

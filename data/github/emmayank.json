@@ -1512,6 +1512,167 @@
       "time": "2024-06-18T12:06:31Z",
       "link": "https://github.com/beckn/protocol-server/issues/190",
       "text": "Add L2 Config for UEI - for new domains"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#193",
+      "time": "2024-08-26T11:35:49Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/193",
+      "text": "Update Debian Docker Repo in Beckn-Onix Installation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#192",
+      "time": "2024-08-26T09:11:11Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/192",
+      "text": "End to End testing of Beckn Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#191",
+      "time": "2024-08-26T09:10:52Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/191",
+      "text": "Understanding of Beckn Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1885",
+      "time": "2024-08-26T12:49:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1885",
+      "text": "Implement Top Header and Bottom header using Common packages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1884",
+      "time": "2024-08-26T12:49:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1884",
+      "text": "Implement Payment page Using Common Packages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1883",
+      "time": "2024-08-26T12:49:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1883",
+      "text": "Implement Sign in and Sign up page Using Common Packages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1882",
+      "time": "2024-08-26T12:49:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1882",
+      "text": "Cypress E2E Test Cases for ProfilePage in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1881",
+      "time": "2024-08-26T12:49:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1881",
+      "text": "Cypress E2E Test Cases for SearchByStoreLocation Page in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1880",
+      "time": "2024-08-26T12:49:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1880",
+      "text": "Cypress E2E Test Cases for FeedbackPage in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1879",
+      "time": "2024-08-26T12:49:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1879",
+      "text": "Cypress E2E Test Cases for OrderHistoryPage in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1878",
+      "time": "2024-08-26T12:49:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1878",
+      "text": "Cypress E2E Test Cases for OrderDetailsPage in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1877",
+      "time": "2024-08-26T12:49:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1877",
+      "text": "Cypress E2E Test Cases for PaymentPage in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1876",
+      "time": "2024-08-26T12:49:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1876",
+      "text": "Cypress E2E Test Cases for orderConfirmationPage in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1875",
+      "time": "2024-08-26T12:49:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1875",
+      "text": "Cypress E2E Test Cases for CheckoutPage in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1874",
+      "time": "2024-08-26T12:49:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1874",
+      "text": "Cypress E2E Test Cases for CartPage in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1873",
+      "time": "2024-08-26T12:48:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1873",
+      "text": "Cypress E2E Test Cases for ProductPage in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1872",
+      "time": "2024-08-26T12:48:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1872",
+      "text": "Cypress E2E Test Cases for SearchPage in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1871",
+      "time": "2024-08-26T12:48:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1871",
+      "text": "Cypress E2E Test Cases for Home Page in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1870",
+      "time": "2024-08-26T12:48:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1870",
+      "text": "Cypress E2E Test Cases for Sign In/Sign Up Page in OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1869",
+      "time": "2024-08-26T12:48:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1869",
+      "text": "Implement Payment Page using Common Packages for OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1868",
+      "time": "2024-08-26T12:45:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1868",
+      "text": "Automation of Profile Section/order history section  Test Cases for ODR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1867",
+      "time": "2024-08-26T12:44:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1867",
+      "text": "Automation of Negative Flow Test Cases for ODR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1861",
+      "time": "2024-08-26T09:14:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1861",
+      "text": "Implement Search page using Common packages for OSC"
     }
   ],
   "open_prs": [],

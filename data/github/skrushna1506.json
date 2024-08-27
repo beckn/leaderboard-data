@@ -98,6 +98,20 @@
       "time": "2024-08-23T09:02:57Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1858",
       "text": "feat(OSC): test cases for osc app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1858",
+      "time": "2024-08-26T16:41:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1858",
+      "text": "feat(OSC): test cases for osc app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1886",
+      "time": "2024-08-26T16:41:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1886",
+      "text": "feat(industry4.0): tech debt issue"
     }
   ],
   "open_prs": [],

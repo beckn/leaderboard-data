@@ -168,6 +168,27 @@
       "time": "2023-07-31T08:41:21Z",
       "link": "https://github.com/beckn/DSEP-Specification/issues/132",
       "text": "DSEP JSON creation: Track"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#79",
+      "time": "2024-04-10T10:18:53Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/79",
+      "text": "AI bot catalog testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#78",
+      "time": "2024-04-10T10:09:45Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/78",
+      "text": "AI bot UAT"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#77",
+      "time": "2024-04-10T09:51:51Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/77",
+      "text": "MIT Catalog feedback - Review with Mayur on April 10"
     }
   ],
   "open_prs": [],
