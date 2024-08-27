@@ -399,6 +399,48 @@
       "time": "2024-08-01T11:01:11Z",
       "link": "https://github.com/beckn/beckn-onix/issues/163",
       "text": "Beckn ONIX Benchmarking for vertical scalability"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#16",
+      "time": "2024-03-25T12:02:13Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/16",
+      "text": "setup 1 gateway instance using onix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#15",
+      "time": "2024-03-25T11:57:48Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/15",
+      "text": "setup 1 registry instance using onix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#14",
+      "time": "2024-03-25T10:31:31Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/14",
+      "text": "Setup 5 BPP protocol server instances"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#13",
+      "time": "2024-03-25T09:42:22Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/13",
+      "text": "Setup 5 strapi bpp instances using ONIX script"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#12",
+      "time": "2024-03-25T09:12:06Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/12",
+      "text": "Setup DNS Entries"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#11",
+      "time": "2024-03-25T08:24:07Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/11",
+      "text": "Requirements / outcome visualisation document for the MIT AI Demo project"
     }
   ],
   "open_prs": [],

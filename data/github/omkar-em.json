@@ -1617,6 +1617,27 @@
       "time": "2024-08-21T10:38:09Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1828",
       "text": "Mobility - driver app - UI issue on sign-in page: Placeholder text and button background color mismatch with Figma"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1859",
+      "time": "2024-08-23T15:17:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1859",
+      "text": "Search Functionality Not Working in DSEP (Scholarship and Job) and Industry 4.0 Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1826",
+      "time": "2024-08-21T08:17:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1826",
+      "text": "Search results are not displaying on the UI in the OSC app's dev environment."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1821",
+      "time": "2024-08-20T08:11:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1821",
+      "text": "The \"getProduct\",\"Get Quote\" API in the Smart Cities app is failing, preventing users from booking a taxi."
     }
   ],
   "open_prs": [],

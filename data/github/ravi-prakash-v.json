@@ -1785,6 +1785,13 @@
       "time": "2024-03-30T04:19:41Z",
       "link": "https://github.com/beckn/beckn-onix/issues/22",
       "text": "Create a GUI for Beckn-ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#63",
+      "time": "2024-04-06T17:16:05Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/63",
+      "text": "Generate accurate search requests based on conversation history using Instructor.js"
     }
   ],
   "open_prs": [],

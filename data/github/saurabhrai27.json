@@ -7,6 +7,13 @@
       "time": "2024-03-26T07:47:13Z",
       "link": "https://github.com/beckn/beckn-action-bot/pull/17",
       "text": "Feat webhook for whats app messages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#17",
+      "time": "2024-03-26T07:47:13Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/17",
+      "text": "Feat webhook for whats app messages"
     }
   ],
   "open_prs": [],

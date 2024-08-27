@@ -1743,6 +1743,41 @@
       "time": "2024-08-06T13:05:43Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1756",
       "text": "Code review for current iteration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#36",
+      "time": "2024-03-27T19:15:39Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/36",
+      "text": "Added: Function for Extracting message from json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#38",
+      "time": "2024-03-28T15:14:06Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/38",
+      "text": "[Feat] add sessions and business logic for process_instruction function"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#45",
+      "time": "2024-04-03T17:37:37Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/45",
+      "text": "Added:Control Certer Backend APIs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#69",
+      "time": "2024-04-09T09:59:43Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/69",
+      "text": "Added: Update Status API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#74",
+      "time": "2024-04-08T23:55:52Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/74",
+      "text": "Added: Static Map Code"
     }
   ],
   "open_prs": [],

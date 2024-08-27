@@ -651,6 +651,13 @@
       "time": "2024-08-06T09:14:58Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1751",
       "text": "Code review for current iteration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#134",
+      "time": "2024-08-26T06:03:02Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/134",
+      "text": "Created ride status API"
     }
   ],
   "open_prs": [],

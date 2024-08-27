@@ -294,6 +294,13 @@
       "time": "2024-08-22T13:00:53Z",
       "link": "https://github.com/beckn/beckn-onix/pull/142",
       "text": "fix(docker): specify platform in docker-compose.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#190",
+      "time": "2024-08-26T08:49:59Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/190",
+      "text": "Add OS-specific Docker installation"
     }
   ],
   "open_prs": [],

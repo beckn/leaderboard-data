@@ -1771,6 +1771,13 @@
       "time": "2024-08-23T03:10:43Z",
       "link": "https://github.com/beckn/generic-client-layer/issues/88",
       "text": "Please add API documentation for the project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#97",
+      "time": "2024-06-05T15:57:57Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/97",
+      "text": "Error installing on EC2 - Reported on BOC"
     }
   ],
   "open_prs": [],
