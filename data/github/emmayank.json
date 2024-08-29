@@ -1673,6 +1673,146 @@
       "time": "2024-08-26T09:14:08Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1861",
       "text": "Implement Search page using Common packages for OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1907",
+      "time": "2024-08-27T14:11:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1907",
+      "text": "When driver change the status quickly, sometime ride summary page, keep on loading, while status api has given the response already"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1906",
+      "time": "2024-08-27T14:10:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1906",
+      "text": "Mobility - Rider App - \"Cancel\" and \"Support\" functionality should be visible immediately after driver accepts the ride"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1901",
+      "time": "2024-08-27T10:24:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1901",
+      "text": "Create 2 New Drivers for Smart City Application in Strapi BPP Dev"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1900",
+      "time": "2024-08-27T10:17:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1900",
+      "text": "Deployment of Mobility Driver App Plugin to Staging and Production on Strapi BPP Instance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1899",
+      "time": "2024-08-27T10:16:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1899",
+      "text": "Creating Catlog for Gambia in Strapi-BPP Instances (DEV/UAT/PROD)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1898",
+      "time": "2024-08-27T09:52:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1898",
+      "text": "Deploy Protocol Server in Staging and Prod Environments"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1897",
+      "time": "2024-08-27T09:50:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1897",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1896",
+      "time": "2024-08-27T09:50:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1896",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1895",
+      "time": "2024-08-27T09:49:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1895",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1894",
+      "time": "2024-08-27T09:49:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1894",
+      "text": "Automation of Profile Section/order history section Test Cases for OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1893",
+      "time": "2024-08-27T09:44:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1893",
+      "text": "Automation of Negative Flow Test Cases for OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1892",
+      "time": "2024-08-27T09:43:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1892",
+      "text": "Automation of Happy Flow Test Cases for OSC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1891",
+      "time": "2024-08-27T09:40:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1891",
+      "text": "Implementing Socket in Driver App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1890",
+      "time": "2024-08-27T09:40:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1890",
+      "text": "Implementing socket for ride request"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1868",
+      "time": "2024-08-26T12:45:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1868",
+      "text": "Automation of Profile Section/order history section  Test Cases for ODR"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1571",
+      "time": "2024-07-23T11:25:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1571",
+      "text": "Deployment of Smart Cities & Smart Gambia UI in AWS Amplify - Stag"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#136",
+      "time": "2024-08-27T09:52:59Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/136",
+      "text": "On-call Support for Haqdarshak Team to Execute Beckn-Onix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#124",
+      "time": "2024-08-21T05:25:44Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/124",
+      "text": "Deploy Latest Strapi and Plugins codebase to BOC Sandbox 2.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#122",
+      "time": "2024-08-21T05:25:34Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/122",
+      "text": "Create DB Dump for MIT instances, Dev, BOC for backup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#120",
+      "time": "2024-08-21T05:25:19Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/120",
+      "text": "Automation Approach for Sanbox 2.0 documentation & discussion #1"
     }
   ],
   "open_prs": [],

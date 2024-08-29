@@ -1603,6 +1603,13 @@
       "time": "2024-04-06T04:45:01Z",
       "link": "https://github.com/beckn/transactional-ai-bap/pull/59",
       "text": "Search by tag request corrected"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#125",
+      "time": "2024-02-16T09:38:53Z",
+      "link": "https://github.com/beckn/protocol-server/issues/125",
+      "text": "CI/CD set up - Protocol Server Develop branch to protocol server development environment"
     }
   ],
   "open_prs": [],

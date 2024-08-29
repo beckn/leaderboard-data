@@ -112,6 +112,27 @@
       "time": "2024-08-26T16:41:54Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1886",
       "text": "feat(industry4.0): tech debt issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1889",
+      "time": "2024-08-27T12:13:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1889",
+      "text": "fix(dsep): fix init api payload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1904",
+      "time": "2024-08-28T07:14:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1904",
+      "text": "feat(industry4.0): test cases for industry4.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1912",
+      "time": "2024-08-28T13:08:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1912",
+      "text": "feat(Industry4.0): test cases for industry4.0 app"
     }
   ],
   "open_prs": [],

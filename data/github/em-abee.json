@@ -658,6 +658,20 @@
       "time": "2024-08-26T06:03:02Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/134",
       "text": "Created ride status API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#135",
+      "time": "2024-08-28T09:01:30Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/135",
+      "text": "Implemented scoket for new ride notification and ride status"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-strapi-bpp#6",
+      "time": "2024-08-28T08:50:39Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/6",
+      "text": "Socket integration"
     }
   ],
   "open_prs": [],

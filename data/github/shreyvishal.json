@@ -1778,6 +1778,34 @@
       "time": "2024-04-08T23:55:52Z",
       "link": "https://github.com/beckn/transactional-ai-bap/pull/74",
       "text": "Added: Static Map Code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#89",
+      "time": "2024-08-27T07:52:13Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/89",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#90",
+      "time": "2024-08-27T07:52:38Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/90",
+      "text": "Staging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#91",
+      "time": "2024-08-27T08:06:54Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/91",
+      "text": "Added: Fulfiments for on_actions mapping"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#92",
+      "time": "2024-08-27T08:07:45Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/92",
+      "text": "Added: Fulfiments for on_actions mapping"
     }
   ],
   "open_prs": [],
