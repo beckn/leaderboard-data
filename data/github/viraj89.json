@@ -3325,6 +3325,34 @@
       "time": "2024-08-22T09:49:55Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/134",
       "text": "AWS details requested"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1818",
+      "time": "2024-08-20T05:30:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1818",
+      "text": "Create Mock-ups for Agriculture Use Case - Machine Rental"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1817",
+      "time": "2024-08-20T05:28:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1817",
+      "text": "Create Mock-ups for Agriculture Use Case - Aggregation Centers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#194",
+      "time": "2024-08-28T13:55:05Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/194",
+      "text": "Setup the EKS Cluster in AWS and deploy the beckn-onix on it"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#180",
+      "time": "2024-08-19T08:37:09Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/180",
+      "text": "Overall understanding of Beckn & Beckn-ONIX"
     }
   ],
   "open_prs": [],

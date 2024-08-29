@@ -1638,6 +1638,13 @@
       "time": "2024-08-20T08:11:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1821",
       "text": "The \"getProduct\",\"Get Quote\" API in the Smart Cities app is failing, preventing users from booking a taxi."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1887",
+      "time": "2024-08-27T08:53:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1887",
+      "text": "In the DSEP Unified app, the init API is failing when applying for a job."
     }
   ],
   "open_prs": [],

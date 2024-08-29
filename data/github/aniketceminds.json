@@ -1218,6 +1218,48 @@
       "time": "2024-08-23T09:32:37Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1857",
       "text": "fix(mobility-bap-bpp): fixed issues related to currency & geolocation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1888",
+      "time": "2024-08-27T09:11:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1888",
+      "text": "fix(mobility-bap-bpp): fix modal minimizing issue while navigation in…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1903",
+      "time": "2024-08-27T12:12:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1903",
+      "text": "fix(mobility-bap): added chnges for city of lights mobility"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1905",
+      "time": "2024-08-27T13:08:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1905",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1908",
+      "time": "2024-08-28T06:27:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1908",
+      "text": "fix(mobility-bap): cancel option implented in ride summayr modal"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1909",
+      "time": "2024-08-28T14:23:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1909",
+      "text": "fix(mobility-bap-bpp): impleted the cancellation process in driver app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1910",
+      "time": "2024-08-28T08:16:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1910",
+      "text": "fix(mobility-bap): enhance the status api call method to avoid disturbnc"
     }
   ],
   "open_prs": [],
