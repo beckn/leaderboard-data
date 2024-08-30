@@ -2478,6 +2478,27 @@
       "time": "2024-08-28T06:45:15Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/202",
       "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1914",
+      "time": "2024-08-29T07:35:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1914",
+      "text": "feat(TOURISM): integrated signin and signup page and type models from…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1917",
+      "time": "2024-08-29T12:41:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1917",
+      "text": "feat(TOURISM): integrated home page and type models from common packa…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#203",
+      "time": "2024-08-29T14:39:49Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/203",
+      "text": "fix some location isssue for city of light"
     }
   ],
   "open_prs": [],

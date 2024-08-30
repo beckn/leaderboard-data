@@ -1792,6 +1792,27 @@
       "time": "2024-08-26T08:49:59Z",
       "link": "https://github.com/beckn/beckn-onix/pull/190",
       "text": "Add OS-specific Docker installation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#91",
+      "time": "2024-08-29T04:28:13Z",
+      "link": "https://github.com/beckn/missions/issues/91",
+      "text": "Create first level design for Sunbird Serve Therapist platform"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#79",
+      "time": "2024-08-19T11:02:28Z",
+      "link": "https://github.com/beckn/missions/issues/79",
+      "text": "Review the Beckn-ONIX core spec written by Rajaneesh"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#92",
+      "time": "2024-08-29T12:40:43Z",
+      "link": "https://github.com/beckn/missions/pull/92",
+      "text": "Fix unbundled image"
     }
   ],
   "open_prs": [],

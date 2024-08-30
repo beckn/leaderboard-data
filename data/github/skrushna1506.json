@@ -133,6 +133,20 @@
       "time": "2024-08-28T13:08:16Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1912",
       "text": "feat(Industry4.0): test cases for industry4.0 app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1912",
+      "time": "2024-08-29T06:49:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1912",
+      "text": "feat(Industry4.0): test cases for industry4.0 app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1916",
+      "time": "2024-08-29T11:27:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1916",
+      "text": "feat(industry4.0): test cases for industry4.0"
     }
   ],
   "open_prs": [],

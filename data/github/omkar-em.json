@@ -1645,6 +1645,48 @@
       "time": "2024-08-27T08:53:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1887",
       "text": "In the DSEP Unified app, the init API is failing when applying for a job."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1838",
+      "time": "2024-08-21T12:03:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1838",
+      "text": "Incorrect redirection to \"Select Payment Mode\" screen after closing \"Contact Support\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1837",
+      "time": "2024-08-21T11:53:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1837",
+      "text": "Policy portal - \"Apply Policy\" button should be present on the policy portal"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1836",
+      "time": "2024-08-21T11:48:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1836",
+      "text": "Mobility - driver app - Ride summary bottom sheet not showing address after completing the ride in driver app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1834",
+      "time": "2024-08-21T11:36:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1834",
+      "text": "Mobility - ride app - Update error message when no driver is available"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1832",
+      "time": "2024-08-21T11:30:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1832",
+      "text": "Mobility - rider app - Pickup and drop-off location addresses are truncated in the ride summary bottom shee"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1831",
+      "time": "2024-08-21T11:20:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1831",
+      "text": "Mobility - rider app - \"Change\" button in ride summary bottom sheet is not working"
     }
   ],
   "open_prs": [],
