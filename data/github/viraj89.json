@@ -3353,6 +3353,20 @@
       "time": "2024-08-19T08:37:09Z",
       "link": "https://github.com/beckn/beckn-onix/issues/180",
       "text": "Overall understanding of Beckn & Beckn-ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#137",
+      "time": "2024-08-29T04:50:10Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/137",
+      "text": "Enhance the network observability document by writing the PRD"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#112",
+      "time": "2024-08-05T05:53:11Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/112",
+      "text": "Migrate MIT catalogs to BOC environment"
     }
   ],
   "open_prs": [],

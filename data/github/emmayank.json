@@ -1813,6 +1813,41 @@
       "time": "2024-08-21T05:25:19Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/120",
       "text": "Automation Approach for Sanbox 2.0 documentation & discussion #1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1906",
+      "time": "2024-08-27T14:10:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1906",
+      "text": "Mobility - Rider App - \"Cancel\" and \"Support\" functionality should be visible immediately after driver accepts the ride"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1900",
+      "time": "2024-08-27T10:17:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1900",
+      "text": "Deployment of Mobility Driver App Plugin to Staging and Production on Strapi BPP Instance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1899",
+      "time": "2024-08-27T10:16:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1899",
+      "text": "Creating Catlog for Gambia in Strapi-BPP Instances (DEV/UAT/PROD)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1891",
+      "time": "2024-08-27T09:40:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1891",
+      "text": "Implementing Socket in Driver App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1867",
+      "time": "2024-08-26T12:44:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1867",
+      "text": "Automation of Negative Flow Test Cases for ODR"
     }
   ],
   "open_prs": [],

@@ -1260,6 +1260,27 @@
       "time": "2024-08-28T08:16:01Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1910",
       "text": "fix(mobility-bap): enhance the status api call method to avoid disturbnc"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1913",
+      "time": "2024-08-29T06:48:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1913",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1915",
+      "time": "2024-08-29T12:40:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1915",
+      "text": "fix(mobility-bap): fix issues related to default pickup loc and curre…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1918",
+      "time": "2024-08-29T13:59:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1918",
+      "text": "Develop 1.1.0"
     }
   ],
   "open_prs": [],
