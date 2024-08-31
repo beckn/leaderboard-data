@@ -147,6 +147,27 @@
       "time": "2024-08-29T11:27:23Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1916",
       "text": "feat(industry4.0): test cases for industry4.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1916",
+      "time": "2024-08-30T08:14:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1916",
+      "text": "feat(industry4.0): test cases for industry4.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1931",
+      "time": "2024-08-30T09:03:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1931",
+      "text": "fix(dsep): fix job apply init payload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1937",
+      "time": "2024-08-30T15:37:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1937",
+      "text": "feat(industry4.0): test cases for industry4.0 app"
     }
   ],
   "open_prs": [],

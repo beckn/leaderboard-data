@@ -1687,6 +1687,118 @@
       "time": "2024-08-21T11:20:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1831",
       "text": "Mobility - rider app - \"Change\" button in ride summary bottom sheet is not working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1956",
+      "time": "2024-08-30T11:30:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1956",
+      "text": "Mobility-Driver app-If a ride is accepted and the driver navigates to \"My Rides\" or \"My Profile,\" the current ride is lost."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1954",
+      "time": "2024-08-30T11:28:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1954",
+      "text": "Mobility - Rider App - Drop Location Edit Option Not Visible in Rider App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1942",
+      "time": "2024-08-30T10:23:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1942",
+      "text": "Creation of Comprehensive User Guide for Taxi BAP Application - Smart Cities & Smart Gambia (Rider and Driver Apps)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1934",
+      "time": "2024-08-30T10:02:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1934",
+      "text": "n the DSEP app, the application crashes when attempting to apply for a job."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1930",
+      "time": "2024-08-30T07:59:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1930",
+      "text": "In the OSC app, the search is not working. After performing a search, an empty response is returned."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1927",
+      "time": "2024-08-30T06:02:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1927",
+      "text": "In the Mobility app, both the driver and rider apps should display a hand cursor on hover for clickable items."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1924",
+      "time": "2024-08-30T05:17:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1924",
+      "text": "Mobilty - Rider app - Inconsistent radio button sizes before pickup and drop locations"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1923",
+      "time": "2024-08-30T05:01:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1923",
+      "text": "Job search not working"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1921",
+      "time": "2024-08-30T04:50:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1921",
+      "text": "Mobility - Driver App - Inconsistent currency display in order history across different countries"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1920",
+      "time": "2024-08-30T04:44:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1920",
+      "text": "Driver App-My Riders section is showing \"null\" instead of \"0\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1919",
+      "time": "2024-08-30T04:27:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1919",
+      "text": "Mobility-Rider App-In the \"Smart Cities\" app, the dropoff location city name is incorrectly displayed with curly braces."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1856",
+      "time": "2024-08-22T15:35:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1856",
+      "text": "Mobility - Ride App - Redundant toast messages about ride status in rider app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1854",
+      "time": "2024-08-22T15:02:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1854",
+      "text": "Mobility - Rider App - Drop location persists across experiences in rider app (Gambia and Smart City), should reset when switching"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1853",
+      "time": "2024-08-22T14:20:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1853",
+      "text": "Mobility - Driver App - \"Navigate\" button in driver app should open Google Maps, but driver stays in app; bottom sheet blocks navigation view"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1850",
+      "time": "2024-08-22T14:02:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1850",
+      "text": "Mobility - Driver App -  Ride cancellation not reflecting in driver app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1555",
+      "time": "2024-07-23T07:51:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1555",
+      "text": "In the Industry 4.0 app, \"Change\" Button Missing in Billing Section on Review Purchase Order"
     }
   ],
   "open_prs": [],

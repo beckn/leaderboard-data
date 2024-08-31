@@ -952,6 +952,48 @@
       "time": "2024-08-13T11:20:41Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1846",
       "text": "Test Issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#198",
+      "time": "2024-08-30T06:43:37Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/198",
+      "text": "DSEP: remove unwanted references from the example jsons"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#197",
+      "time": "2024-08-30T06:43:29Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/197",
+      "text": "Creating new Beckn-ONIX stack document from scrath"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#196",
+      "time": "2024-08-30T06:43:13Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/196",
+      "text": "Review/Feedback/discussion/changes of the Beckn-ONIX stack document"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#445",
+      "time": "2024-08-21T04:49:18Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/445",
+      "text": "UEIAlliance spec review/feedback/discussions/documentReading"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#444",
+      "time": "2024-08-14T06:27:17Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/444",
+      "text": "Negotiations/Auction use case to be supported in the protocol - Open Kenya"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/DSEP-Specification#184",
+      "time": "2024-08-30T08:34:07Z",
+      "link": "https://github.com/beckn/DSEP-Specification/pull/184",
+      "text": "Remove unwanted references from the DSEP specification example jsons"
     }
   ],
   "open_prs": [],

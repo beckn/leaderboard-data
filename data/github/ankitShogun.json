@@ -1085,6 +1085,27 @@
       "time": "2024-08-14T07:50:04Z",
       "link": "https://github.com/beckn/missions/pull/49",
       "text": "troubleshoot guide added"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#94",
+      "time": "2024-08-30T13:52:53Z",
+      "link": "https://github.com/beckn/missions/issues/94",
+      "text": "Tech Office hours call and doubt clearance for external people"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#93",
+      "time": "2024-08-30T13:22:38Z",
+      "link": "https://github.com/beckn/missions/pull/93",
+      "text": "Log interpretaion and flow explanation added"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1687",
+      "time": "2024-08-01T12:27:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1687",
+      "text": "Adding Data Test-IDs in ODR for E2E Testing"
     }
   ],
   "open_prs": [],

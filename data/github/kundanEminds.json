@@ -2499,6 +2499,83 @@
       "time": "2024-08-29T14:39:49Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/203",
       "text": "fix some location isssue for city of light"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1926",
+      "time": "2024-08-30T05:22:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1926",
+      "text": "implement  GeoLocationInput Component in common packages and integrate it in tourism app along with Type Models"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1925",
+      "time": "2024-08-30T05:21:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1925",
+      "text": "Integrate HomePage Component and Type Models from Common Packages into Tourism App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1864",
+      "time": "2024-08-26T10:59:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1864",
+      "text": "Integrate /signIn, /signUp Page and Respective Type Models from Common Packages into Tourism App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1863",
+      "time": "2024-08-26T10:59:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1863",
+      "text": "Implement Utilities in Tourism App Using Common Packages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1917",
+      "time": "2024-08-30T08:39:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1917",
+      "text": "feat(TOURISM): integrated home page and type models from common packa…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1929",
+      "time": "2024-08-30T08:53:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1929",
+      "text": "feat(MOBILITY): added cursor poiner in mobility and driver app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1932",
+      "time": "2024-08-30T09:19:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1932",
+      "text": "feat(TOURISM): fix some login issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1933",
+      "time": "2024-08-30T12:17:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1933",
+      "text": "feat(MOBILITY): fixed radio button size on respective screens"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1957",
+      "time": "2024-08-30T13:24:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1957",
+      "text": "feat(MOBILITY): fixed cursor issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#204",
+      "time": "2024-08-30T06:48:43Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/204",
+      "text": "fix some location isssue for city of light and mobility"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#205",
+      "time": "2024-08-30T11:58:31Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/205",
+      "text": "fixed location issues in city of light for mobility and retail"
     }
   ],
   "open_prs": [],

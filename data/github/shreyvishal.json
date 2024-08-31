@@ -1806,6 +1806,13 @@
       "time": "2024-08-27T08:07:45Z",
       "link": "https://github.com/beckn/generic-client-layer/pull/92",
       "text": "Added: Fulfiments for on_actions mapping"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#19",
+      "time": "2024-08-30T14:31:36Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/19",
+      "text": "Added: Postman Collection"
     }
   ],
   "open_prs": [],

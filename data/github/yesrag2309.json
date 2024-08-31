@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-08-30T13:04:33Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#201",
+      "time": "2024-08-30T13:04:33Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/201",
+      "text": "Beckn-onix ver 1.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#200",
+      "time": "2024-08-30T13:04:29Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/200",
+      "text": "One Click deployment of Beckn ONIX in AWS"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
