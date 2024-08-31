@@ -301,6 +301,13 @@
       "time": "2024-08-26T08:49:59Z",
       "link": "https://github.com/beckn/beckn-onix/pull/190",
       "text": "Add OS-specific Docker installation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#190",
+      "time": "2024-08-30T10:46:00Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/190",
+      "text": "Add OS-specific Docker installation"
     }
   ],
   "open_prs": [],

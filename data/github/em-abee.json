@@ -672,6 +672,13 @@
       "time": "2024-08-28T08:50:39Z",
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/6",
       "text": "Socket integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1928",
+      "time": "2024-08-30T06:49:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1928",
+      "text": "Prepare Approach Note / technical doc for Policy Portal"
     }
   ],
   "open_prs": [],

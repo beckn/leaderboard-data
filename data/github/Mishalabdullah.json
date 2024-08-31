@@ -105,6 +105,20 @@
       "time": "2024-07-18T12:41:22Z",
       "link": "https://github.com/beckn/beckn-onix/pull/141",
       "text": "Feature/beckn onix video"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#195",
+      "time": "2024-08-30T06:25:26Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/195",
+      "text": "Added Docker Install Support For  Amazon Linux GUI  Script"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#202",
+      "time": "2024-08-30T15:47:00Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/202",
+      "text": "Fixing GUI Not Working When There is Perviously runned instance"
     }
   ],
   "open_prs": [],
