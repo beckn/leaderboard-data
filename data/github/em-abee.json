@@ -679,6 +679,13 @@
       "time": "2024-08-30T06:49:23Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1928",
       "text": "Prepare Approach Note / technical doc for Policy Portal"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1959",
+      "time": "2024-08-31T06:38:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1959",
+      "text": "Mobility - Driver App - When ride already accepted/declined other driver's should not be able to take action on same ride."
     }
   ],
   "open_prs": [],
