@@ -2191,6 +2191,13 @@
       "time": "2024-08-21T05:25:28Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/121",
       "text": "Create catalogue for non supported domains in strapi"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1890",
+      "time": "2024-08-27T09:40:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1890",
+      "text": "Implementing socket for ride request"
     }
   ],
   "open_prs": [],

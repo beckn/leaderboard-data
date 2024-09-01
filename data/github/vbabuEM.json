@@ -1827,6 +1827,13 @@
       "time": "2024-05-30T15:21:26Z",
       "link": "https://github.com/beckn/beckn-onix/issues/94",
       "text": "Make selection of layer 2 config file more flexible"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#214",
+      "time": "2024-07-10T09:48:30Z",
+      "link": "https://github.com/beckn/protocol-server/issues/214",
+      "text": "Documentation for async (webhook) mode of BAP Client"
     }
   ],
   "open_prs": [],
