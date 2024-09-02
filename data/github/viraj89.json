@@ -3409,6 +3409,13 @@
       "time": "2024-08-29T04:50:10Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/137",
       "text": "Enhance the network observability document by writing the PRD"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#77",
+      "time": "2024-08-19T10:52:03Z",
+      "link": "https://github.com/beckn/missions/issues/77",
+      "text": "Troubleshooting Guide V2.0"
     }
   ],
   "open_prs": [],

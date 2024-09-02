@@ -2198,6 +2198,20 @@
       "time": "2024-08-27T09:40:24Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1890",
       "text": "Implementing socket for ride request"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1949",
+      "time": "2024-08-30T10:23:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1949",
+      "text": "Cypress E2E Test Cases for Feedback Page in Industry4.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1947",
+      "time": "2024-08-30T10:23:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1947",
+      "text": "Cypress E2E Test Cases for Order Details Page in Industry4.0"
     }
   ],
   "open_prs": [],
