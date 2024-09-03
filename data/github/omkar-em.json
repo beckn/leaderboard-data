@@ -1799,6 +1799,41 @@
       "time": "2024-07-23T07:51:07Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1555",
       "text": "In the Industry 4.0 app, \"Change\" Button Missing in Billing Section on Review Purchase Order"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1963",
+      "time": "2024-09-02T06:25:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1963",
+      "text": "In the Mobility app's rider app, when only a single result is found, the title incorrectly displays \"2 results found.\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1961",
+      "time": "2024-09-02T06:00:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1961",
+      "text": "In the Mobility app's rider app, when only a single result is found, the title incorrectly displays \"2 results found.\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1960",
+      "time": "2024-09-02T05:57:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1960",
+      "text": "In the Mobility app's rider app, when only a single result is found, the title incorrectly displays \"2 results found.\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1956",
+      "time": "2024-08-30T11:30:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1956",
+      "text": "Mobility-Driver app-If a ride is accepted and the driver navigates to \"My Rides\" or \"My Profile,\" the current ride is lost."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1954",
+      "time": "2024-08-30T11:28:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1954",
+      "text": "Mobility - Rider App - Drop Location Edit Option Not Visible in Rider App"
     }
   ],
   "open_prs": [],

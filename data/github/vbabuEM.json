@@ -1834,6 +1834,41 @@
       "time": "2024-07-10T09:48:30Z",
       "link": "https://github.com/beckn/protocol-server/issues/214",
       "text": "Documentation for async (webhook) mode of BAP Client"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/integration-webhook#21",
+      "time": "2024-05-17T08:19:46Z",
+      "link": "https://github.com/beckn/integration-webhook/issues/21",
+      "text": "Fix mobility not working on sandbox"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#22",
+      "time": "2024-05-17T08:30:17Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/22",
+      "text": "Add mobility to webhook"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#96",
+      "time": "2024-09-02T02:23:32Z",
+      "link": "https://github.com/beckn/missions/issues/96",
+      "text": "Create core requirements for Registry/Gateway"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#95",
+      "time": "2024-09-02T02:18:57Z",
+      "link": "https://github.com/beckn/missions/issues/95",
+      "text": "Create core requirements for Beckn-ONIX Adapter"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#70",
+      "time": "2024-08-19T09:48:31Z",
+      "link": "https://github.com/beckn/missions/issues/70",
+      "text": "Review and modify the Beckn-ONIX core specification"
     }
   ],
   "open_prs": [],

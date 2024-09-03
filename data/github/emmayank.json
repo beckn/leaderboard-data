@@ -2212,6 +2212,69 @@
       "time": "2024-08-30T10:23:42Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1947",
       "text": "Cypress E2E Test Cases for Order Details Page in Industry4.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#210",
+      "time": "2024-09-02T03:29:41Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/210",
+      "text": "Add Reminder to Configure Layer 2 After BAP/BPP Setup in Beckn ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#209",
+      "time": "2024-09-02T03:22:46Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/209",
+      "text": "Update Key Generation Logging for BAP Setup in Beckn ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#208",
+      "time": "2024-09-02T03:19:11Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/208",
+      "text": "Add Docker Command Permission Validation During Beckn ONIX Installation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#207",
+      "time": "2024-09-02T03:16:04Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/207",
+      "text": "Add Input Number Validation During Beckn ONIX Installation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#206",
+      "time": "2024-09-02T03:12:59Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/206",
+      "text": "Add URL Validator Throughout Beckn ONIX Installation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#205",
+      "time": "2024-09-02T03:08:38Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/205",
+      "text": "Add Validation for Registry URL Suffix During Beckn ONIX Setup"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#204",
+      "time": "2024-09-02T03:04:46Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/204",
+      "text": "Add message in Option 5.1, 5.2, 5.3 during Beckn ONIX Installation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#203",
+      "time": "2024-09-02T03:02:05Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/203",
+      "text": "Add message in Option 4.1 & 4.2 during Beckn ONIX Installation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#20",
+      "time": "2024-09-02T05:18:17Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/20",
+      "text": "CMS/Dynamic Sandbox V2.0"
     }
   ],
   "open_prs": [],

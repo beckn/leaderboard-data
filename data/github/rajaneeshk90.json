@@ -994,6 +994,20 @@
       "time": "2024-08-30T08:34:07Z",
       "link": "https://github.com/beckn/DSEP-Specification/pull/184",
       "text": "Remove unwanted references from the DSEP specification example jsons"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#18",
+      "time": "2023-12-18T05:17:49Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/18",
+      "text": "renamed local-retail to retail"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#23",
+      "time": "2024-05-27T13:50:47Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/23",
+      "text": "City of light"
     }
   ],
   "open_prs": [],

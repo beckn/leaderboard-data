@@ -273,6 +273,13 @@
       "time": "2024-07-05T09:43:41Z",
       "link": "https://github.com/beckn/protocol-server/issues/205",
       "text": "[BOC Community]: test issue 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#24",
+      "time": "2024-09-02T11:32:31Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/24",
+      "text": "Created webhook for retail"
     }
   ],
   "open_prs": [],
