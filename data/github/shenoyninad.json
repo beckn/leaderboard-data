@@ -252,6 +252,34 @@
       "time": "2023-12-03T07:38:56Z",
       "link": "https://github.com/beckn/DHP-Specs-backup/pull/104",
       "text": "DHP specs review for the examples"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#4",
+      "time": "2023-07-18T12:01:49Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/4",
+      "text": "Moving financial services credit workflow to main"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#6",
+      "time": "2023-08-14T06:49:22Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/6",
+      "text": "Updated the code to route all financial-services requests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#7",
+      "time": "2023-09-06T05:50:45Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/7",
+      "text": "Updating the route for DENT requests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#10",
+      "time": "2023-09-22T14:28:20Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/10",
+      "text": "Adding route to DHP controller for DHP requests"
     }
   ],
   "open_prs": [],

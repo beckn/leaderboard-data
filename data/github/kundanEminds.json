@@ -2576,6 +2576,27 @@
       "time": "2024-08-30T11:58:31Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/205",
       "text": "fixed location issues in city of light for mobility and retail"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1964",
+      "time": "2024-09-02T08:08:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1964",
+      "text": "feat(MOBILITY): fixed scroll issue in mobility"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1965",
+      "time": "2024-09-02T08:23:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1965",
+      "text": "feat(MOBILITY): fixed scroll issue in mobility app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1967",
+      "time": "2024-09-02T12:38:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1967",
+      "text": "feat(TOURISM): integrated search component and type models from commo…"
     }
   ],
   "open_prs": [],

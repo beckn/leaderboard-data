@@ -1610,6 +1610,13 @@
       "time": "2024-02-16T09:38:53Z",
       "link": "https://github.com/beckn/protocol-server/issues/125",
       "text": "CI/CD set up - Protocol Server Develop branch to protocol server development environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/integration-webhook#19",
+      "time": "2024-02-08T05:58:50Z",
+      "link": "https://github.com/beckn/integration-webhook/issues/19",
+      "text": "Create one click utility to install the webhook"
     }
   ],
   "open_prs": [],

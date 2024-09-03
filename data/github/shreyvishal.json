@@ -1813,6 +1813,69 @@
       "time": "2024-08-30T14:31:36Z",
       "link": "https://github.com/beckn/beckn-sandbox/pull/19",
       "text": "Added: Postman Collection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#5",
+      "time": "2023-08-03T11:28:17Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/5",
+      "text": "Added: Integration of All 4 DSEP Module in the Sandbox"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#8",
+      "time": "2023-09-13T18:20:54Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/8",
+      "text": "Added: Exception for extra on_action api calls from webhook to sandbox"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#9",
+      "time": "2023-09-14T06:03:21Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/9",
+      "text": "added: onest domain handling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#11",
+      "time": "2023-10-05T12:39:15Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/11",
+      "text": "Added: Some fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#12",
+      "time": "2023-10-09T09:31:02Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/12",
+      "text": "Changed the GetHello With Appropriate Name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#14",
+      "time": "2023-11-02T09:47:40Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/14",
+      "text": "Added: Industry 4.0 Sandbox"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#15",
+      "time": "2023-11-08T14:47:47Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/15",
+      "text": "Added: Route for ODR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#16",
+      "time": "2023-11-11T12:12:06Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/16",
+      "text": "Added: Route for Local-retail sandbox"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/integration-webhook#17",
+      "time": "2023-11-17T04:30:12Z",
+      "link": "https://github.com/beckn/integration-webhook/pull/17",
+      "text": "adding diversion for local-retail 1.1.0"
     }
   ],
   "open_prs": [],

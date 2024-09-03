@@ -3416,6 +3416,76 @@
       "time": "2024-08-19T10:52:03Z",
       "link": "https://github.com/beckn/missions/issues/77",
       "text": "Troubleshooting Guide V2.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#185",
+      "time": "2024-08-21T10:36:30Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/185",
+      "text": "Deep Dive into Beckn Onix Protocol Server Component"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1974",
+      "time": "2024-09-02T15:02:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1974",
+      "text": "Evaluate and Display Unsolicited Messages from Drivers to Riders"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1973",
+      "time": "2024-09-02T15:02:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1973",
+      "text": "Simulate Driver and Rider Movement in their apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1972",
+      "time": "2024-09-02T15:01:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1972",
+      "text": "Display Seller or BPP Information Alongside Driver Details"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1971",
+      "time": "2024-09-02T15:01:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1971",
+      "text": "Enable Current Location Icon on Rider and Driver App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1970",
+      "time": "2024-09-02T14:59:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1970",
+      "text": "Meetings and other activities"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1969",
+      "time": "2024-09-02T11:57:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1969",
+      "text": "Add a new staging env similar to how prod it"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#453",
+      "time": "2024-04-01T09:30:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/453",
+      "text": "Mobility BAP - Changes required specifics for City of Lights Paris"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#452",
+      "time": "2024-04-01T09:30:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/452",
+      "text": "Mobility BAP - Changes required specifics for Smart Gambia"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#451",
+      "time": "2024-04-01T09:30:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/451",
+      "text": "Mobility BAP - Changes required specifics for Enabling Smart Cities"
     }
   ],
   "open_prs": [],
