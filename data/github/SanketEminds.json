@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-09-03T05:58:51Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1975",
+      "time": "2024-09-03T05:58:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1975",
+      "text": "The search functionality is not working in the staging environments of both the DSEP and ODR apps."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

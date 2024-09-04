@@ -1869,6 +1869,34 @@
       "time": "2024-08-19T09:48:31Z",
       "link": "https://github.com/beckn/missions/issues/70",
       "text": "Review and modify the Beckn-ONIX core specification"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/beckn-onix#202",
+      "time": "2024-08-30T15:47:00Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/202",
+      "text": "Fixing GUI Not Working When There is Perviously runned instance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#225",
+      "time": "2024-09-03T15:22:26Z",
+      "link": "https://github.com/beckn/protocol-server/issues/225",
+      "text": "Add security for the Redis cache"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#224",
+      "time": "2024-09-03T06:26:45Z",
+      "link": "https://github.com/beckn/protocol-server/issues/224",
+      "text": "Add a health check endpoint"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#196",
+      "time": "2024-06-27T02:40:02Z",
+      "link": "https://github.com/beckn/protocol-server/issues/196",
+      "text": "Registry lookup from Client nodes"
     }
   ],
   "open_prs": [],

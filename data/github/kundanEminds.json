@@ -2597,6 +2597,20 @@
       "time": "2024-09-02T12:38:25Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1967",
       "text": "feat(TOURISM): integrated search component and type models from commo…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1976",
+      "time": "2024-09-03T07:15:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1976",
+      "text": "feat(TOURISM): integrated product component and type models from comm…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#1978",
+      "time": "2024-09-03T11:00:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1978",
+      "text": "feat(TOURISM): integrated checkout component and type models from com…"
     }
   ],
   "open_prs": [],
