@@ -1834,6 +1834,153 @@
       "time": "2024-08-30T11:28:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1954",
       "text": "Mobility - Rider App - Drop Location Edit Option Not Visible in Rider App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1977",
+      "time": "2024-09-03T09:56:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1977",
+      "text": "OSC - Not getting search results"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1934",
+      "time": "2024-08-30T10:02:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1934",
+      "text": "DSEP - application crashes when attempting to apply for a job."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1851",
+      "time": "2024-08-22T14:10:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1851",
+      "text": "Mobility - Driver App - Updated drop location not reflecting in driver app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1544",
+      "time": "2024-07-22T09:57:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1544",
+      "text": "In the migrated OSM app, after successfully placing an order, the order does not appear in the \"Order History\" section."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1543",
+      "time": "2024-07-22T09:49:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1543",
+      "text": "In the DSEP-Unified app, when a user selects a course and proceeds to the payment page without applying for the scholarship, they incorrectly receive a discount on the course price."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1434",
+      "time": "2024-06-28T10:52:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1434",
+      "text": "In the migrated EC apps, after navigating to an empty cart, the select API is failing."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1426",
+      "time": "2024-06-28T07:10:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1426",
+      "text": "In DSNP app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1394",
+      "time": "2024-06-25T09:54:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1394",
+      "text": "In OSC app-Users should be prevented from proceeding with sign-in until the password validation errors are resolved and only specific essential fields should be mandatory."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1198",
+      "time": "2024-06-06T08:08:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1198",
+      "text": "ODR - App crashes if init doesn't pass billing address"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1181",
+      "time": "2024-06-01T09:55:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1181",
+      "text": "In the migrated app, after placing an order, the order progress summary shows the current time."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1180",
+      "time": "2024-06-01T09:36:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1180",
+      "text": "In the migrated app, the order is not being updated after being placed."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1165",
+      "time": "2024-05-30T11:00:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1165",
+      "text": "EC - When a user attempts to register with a phone number that is already registered, the profile API fails"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1162",
+      "time": "2024-05-30T10:17:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1162",
+      "text": "Industry 4.0-The 10 endpoints implemented in the migrated apps also need to be implemented in Industry 4.0, along with the logout and my profile buttons in the three-dot menu."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1154",
+      "time": "2024-05-29T14:25:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1154",
+      "text": "In ODR Migrated app-when cancelling an order, the order summary shows 'reason on order cancelled' instead of 'cancelled'."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1153",
+      "time": "2024-05-29T13:54:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1153",
+      "text": "In ODR Migrated app- search is failing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1152",
+      "time": "2024-05-29T12:40:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1152",
+      "text": "In Himalayas Migrated app- search is failing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1151",
+      "time": "2024-05-29T12:32:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1151",
+      "text": "In kuza one-The profile call is failing for the new ID and password, but not for the existing ones"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1150",
+      "time": "2024-05-29T12:29:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1150",
+      "text": "OSM Migrated -While searching for restaurants, showing wrong catalogue."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1091",
+      "time": "2024-05-27T05:34:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1091",
+      "text": "ODR Migration-In ODR, In the complaint details name and mobile number are showing empty."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1079",
+      "time": "2024-05-24T07:53:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1079",
+      "text": "Kuza One - Cosmetic UI Changes in Kuza One Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#865",
+      "time": "2024-05-07T09:58:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/865",
+      "text": "ODR-In the ODR app, when searching, pressing the backspace key is causing the search keyword to be pasted."
     }
   ],
   "open_prs": [],
