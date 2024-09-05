@@ -3556,6 +3556,48 @@
       "time": "2024-09-03T13:02:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1980",
       "text": "Designs Required for Adding Kazam App to Experience Center"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#99",
+      "time": "2024-09-04T12:53:11Z",
+      "link": "https://github.com/beckn/missions/issues/99",
+      "text": "Beckn-Onix spec version 1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#98",
+      "time": "2024-09-04T12:43:13Z",
+      "link": "https://github.com/beckn/missions/issues/98",
+      "text": "Implementation Guides for Open Belem"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#97",
+      "time": "2024-09-04T12:42:37Z",
+      "link": "https://github.com/beckn/missions/issues/97",
+      "text": "Implementation Guides for Open Amsterdam"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#76",
+      "time": "2024-08-19T10:50:16Z",
+      "link": "https://github.com/beckn/missions/issues/76",
+      "text": "Review and Update Beckn FAQ - Answer Unresolved Questions and Sync with GitHub FAQ File"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#194",
+      "time": "2024-08-28T13:55:05Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/194",
+      "text": "Setup the EKS Cluster in AWS and deploy the beckn-onix on it"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#99",
+      "time": "2024-06-11T13:07:27Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/99",
+      "text": "Verify and document Ubuntu versions for Beckn ONIX"
     }
   ],
   "open_prs": [],

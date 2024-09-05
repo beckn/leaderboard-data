@@ -1309,6 +1309,13 @@
       "time": "2024-09-03T12:06:00Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1979",
       "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1966",
+      "time": "2024-09-04T07:44:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1966",
+      "text": "feat(policy-admin): added project setup for policy admin"
     }
   ],
   "open_prs": [],
