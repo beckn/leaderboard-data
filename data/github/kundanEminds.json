@@ -2611,6 +2611,27 @@
       "time": "2024-09-03T11:00:25Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/1978",
       "text": "feat(TOURISM): integrated checkout component and type models from com…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1976",
+      "time": "2024-09-04T05:22:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1976",
+      "text": "feat(TOURISM): integrated product component and type models from comm…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#1978",
+      "time": "2024-09-04T05:22:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/1978",
+      "text": "feat(TOURISM): integrated checkout component and type models from com…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2009",
+      "time": "2024-09-04T07:36:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2009",
+      "text": "feat(TOURISM): integrated payment and order confirmation component fr…"
     }
   ],
   "open_prs": [],

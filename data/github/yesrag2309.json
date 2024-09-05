@@ -14,6 +14,13 @@
       "time": "2024-08-30T13:04:29Z",
       "link": "https://github.com/beckn/beckn-onix/issues/200",
       "text": "One Click deployment of Beckn ONIX in AWS"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#212",
+      "time": "2024-09-04T10:41:18Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/212",
+      "text": "Climate data highways to be replicated onto ONIX"
     }
   ],
   "open_prs": [],

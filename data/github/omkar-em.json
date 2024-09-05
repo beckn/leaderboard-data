@@ -1981,6 +1981,20 @@
       "time": "2024-05-07T09:58:29Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/865",
       "text": "ODR-In the ODR app, when searching, pressing the backspace key is causing the search keyword to be pasted."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1923",
+      "time": "2024-08-30T05:01:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1923",
+      "text": "Job search not working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#1887",
+      "time": "2024-08-27T08:53:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1887",
+      "text": "In the DSEP Unified app, the init API is failing when applying for a job."
     }
   ],
   "open_prs": [],
