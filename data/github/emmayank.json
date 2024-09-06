@@ -2555,6 +2555,69 @@
       "time": "2024-08-13T05:32:38Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/115",
       "text": "Release of Mobility v1.0 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1993",
+      "time": "2024-09-03T14:11:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1993",
+      "text": "Cypress E2E Test Cases for OrderDetailsPage in Tourism"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1992",
+      "time": "2024-09-03T14:11:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1992",
+      "text": "Cypress E2E Test Cases for PaymentPage in Tourism"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1991",
+      "time": "2024-09-03T14:11:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1991",
+      "text": "Cypress E2E Test Cases for orderConfirmationPage in Tourism"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1990",
+      "time": "2024-09-03T14:11:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1990",
+      "text": "Cypress E2E Test Cases for CheckoutPage in  Tourism"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1989",
+      "time": "2024-09-03T14:11:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1989",
+      "text": "Cypress E2E Test Cases for ProductPage in  Tourism"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1988",
+      "time": "2024-09-03T14:11:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1988",
+      "text": "Cypress E2E Test Cases for SearchPage in Tourism"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1987",
+      "time": "2024-09-03T14:11:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1987",
+      "text": "Cypress E2E Test Cases for Home Page in Tourism"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1986",
+      "time": "2024-09-03T14:11:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1986",
+      "text": "Cypress E2E Test Cases for Sign In Sign Up page Page in Tourism"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1985",
+      "time": "2024-09-03T14:11:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1985",
+      "text": "Fixed Build Issue of DSNP App for All Environments"
     }
   ],
   "open_prs": [],

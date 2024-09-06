@@ -1008,6 +1008,13 @@
       "time": "2024-05-27T13:50:47Z",
       "link": "https://github.com/beckn/integration-webhook/pull/23",
       "text": "City of light"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#227",
+      "time": "2024-09-05T12:08:30Z",
+      "link": "https://github.com/beckn/protocol-server/issues/227",
+      "text": "Mobility Layer2 config: check out the issues with validation with openAPI version 3.1"
     }
   ],
   "open_prs": [],

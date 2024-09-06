@@ -315,6 +315,13 @@
       "time": "2023-10-12T17:49:34Z",
       "link": "https://github.com/beckn/integration-webhook/pull/13",
       "text": "Devops"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#213",
+      "time": "2024-09-05T14:02:40Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/213",
+      "text": "Added display message for unavailable features in Option 4"
     }
   ],
   "open_prs": [],
