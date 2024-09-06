@@ -693,6 +693,48 @@
       "time": "2024-09-04T04:06:28Z",
       "link": "https://github.com/beckn/protocol-server/pull/226",
       "text": "Added documentation for async mode in BAP client"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#136",
+      "time": "2024-09-05T12:52:34Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/136",
+      "text": "Initialized policy plugin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#137",
+      "time": "2024-09-06T01:39:55Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/137",
+      "text": "Created login API for policy adminstrator"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2024",
+      "time": "2024-09-06T01:38:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2024",
+      "text": "Login API Creation using strapi plugin using default auth model"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2023",
+      "time": "2024-09-06T01:33:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2023",
+      "text": "Code Setup for Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2022",
+      "time": "2024-09-05T12:29:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2022",
+      "text": "Create new Policy API creation using strapi plugin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-strapi-bpp#7",
+      "time": "2024-09-05T06:54:47Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/7",
+      "text": "Policy schema"
     }
   ],
   "open_prs": [],

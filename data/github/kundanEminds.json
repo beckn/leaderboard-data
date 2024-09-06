@@ -2632,6 +2632,34 @@
       "time": "2024-09-04T07:36:25Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2009",
       "text": "feat(TOURISM): integrated payment and order confirmation component fr…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2009",
+      "time": "2024-09-05T08:16:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2009",
+      "text": "feat(TOURISM): integrated payment and order confirmation component fr…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2017",
+      "time": "2024-09-05T09:31:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2017",
+      "text": "feat(TOURISM): fixed multi item added on checkout page into tourism app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#206",
+      "time": "2024-09-05T11:28:08Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/206",
+      "text": "added kazam app in UEI on EC"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#207",
+      "time": "2024-09-05T11:29:18Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/207",
+      "text": "Develop 1.1.0"
     }
   ],
   "open_prs": [],

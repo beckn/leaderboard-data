@@ -7,6 +7,13 @@
       "time": "2024-09-03T05:58:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1975",
       "text": "The search functionality is not working in the staging environments of both the DSEP and ODR apps."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2015",
+      "time": "2024-09-05T06:46:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2015",
+      "text": "In the DSEP app (Dev environment), the app crashes when clicking on any search result."
     }
   ],
   "open_prs": [],

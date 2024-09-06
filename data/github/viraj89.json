@@ -3598,6 +3598,34 @@
       "time": "2024-06-11T13:07:27Z",
       "link": "https://github.com/beckn/beckn-onix/issues/99",
       "text": "Verify and document Ubuntu versions for Beckn ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2020",
+      "time": "2024-09-05T11:34:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2020",
+      "text": "Create and Integrate Stats API with Policy Admin Portal Dashboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2019",
+      "time": "2024-09-05T11:31:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2019",
+      "text": "Policy detail page UI for Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2018",
+      "time": "2024-09-05T10:37:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2018",
+      "text": "Create Frontend Form for Geofencing on Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#140",
+      "time": "2024-09-05T08:55:05Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/140",
+      "text": "Create CI/CD Pipeline for Policy Admin Portal (Dev, Staging, Prod)"
     }
   ],
   "open_prs": [],
