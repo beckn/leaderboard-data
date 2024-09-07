@@ -3626,6 +3626,34 @@
       "time": "2024-09-05T08:55:05Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/140",
       "text": "Create CI/CD Pipeline for Policy Admin Portal (Dev, Staging, Prod)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#104",
+      "time": "2024-09-06T06:04:45Z",
+      "link": "https://github.com/beckn/missions/issues/104",
+      "text": "Open Amsterdam for Beckn Onix upgrade"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#103",
+      "time": "2024-09-06T06:03:17Z",
+      "link": "https://github.com/beckn/missions/issues/103",
+      "text": "Implementation Guides for Open Gambia"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2030",
+      "time": "2024-09-06T09:56:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2030",
+      "text": "Integrate Get/Fetch Policy List API with Policy Dashboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2027",
+      "time": "2024-09-06T09:05:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2027",
+      "text": "Integrate \"Create New Policy\" API in Policy Portal Dashboard"
     }
   ],
   "open_prs": [],

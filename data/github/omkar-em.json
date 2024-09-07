@@ -1995,6 +1995,13 @@
       "time": "2024-08-27T08:53:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1887",
       "text": "In the DSEP Unified app, the init API is failing when applying for a job."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1852",
+      "time": "2024-08-22T14:13:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1852",
+      "text": "Mobility - Driver App - Cab not showing when driver goes offline and comes back online"
     }
   ],
   "open_prs": [],

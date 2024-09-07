@@ -21,6 +21,20 @@
       "time": "2024-09-04T10:41:18Z",
       "link": "https://github.com/beckn/beckn-onix/issues/212",
       "text": "Climate data highways to be replicated onto ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#106",
+      "time": "2024-09-06T09:03:25Z",
+      "link": "https://github.com/beckn/missions/issues/106",
+      "text": "Github repo clean up"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#214",
+      "time": "2024-09-06T06:11:52Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/214",
+      "text": "Production grade Beckn ONIX - Goodworks Labs as TSP"
     }
   ],
   "open_prs": [],

@@ -14,6 +14,20 @@
       "time": "2024-09-05T06:46:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2015",
       "text": "In the DSEP app (Dev environment), the app crashes when clicking on any search result."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2028",
+      "time": "2024-09-06T09:23:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2028",
+      "text": "In the ODR app, if the user does not fill in the \"Dispute Details\" field and tries to save, the app crashes."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2025",
+      "time": "2024-09-06T06:48:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2025",
+      "text": "In the DSEP app, the course fee displayed on the search page differs from the fee shown at checkout."
     }
   ],
   "open_prs": [],
