@@ -2660,6 +2660,20 @@
       "time": "2024-09-05T11:29:18Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/207",
       "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2029",
+      "time": "2024-09-06T09:45:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2029",
+      "text": "feat(TOURISM): integrated order cancellation component and type model…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#208",
+      "time": "2024-09-06T08:18:19Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/208",
+      "text": "Kazam uei"
     }
   ],
   "open_prs": [],

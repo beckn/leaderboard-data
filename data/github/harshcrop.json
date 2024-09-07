@@ -21,6 +21,20 @@
       "time": "2024-09-05T09:05:13Z",
       "link": "https://github.com/beckn/missions/issues/100",
       "text": "Gitbook For Beckn FAQ"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#105",
+      "time": "2024-09-06T08:56:37Z",
+      "link": "https://github.com/beckn/missions/issues/105",
+      "text": "Win Room Planning"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#101",
+      "time": "2024-09-05T09:06:00Z",
+      "link": "https://github.com/beckn/missions/issues/101",
+      "text": "github repo clean up"
     }
   ],
   "open_prs": [],

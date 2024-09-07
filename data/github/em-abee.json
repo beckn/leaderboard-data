@@ -735,6 +735,41 @@
       "time": "2024-09-05T06:54:47Z",
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/7",
       "text": "Policy schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#138",
+      "time": "2024-09-06T03:19:17Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/138",
+      "text": "Created create policy API"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2031",
+      "time": "2024-09-06T13:15:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2031",
+      "text": "Dashboard stats API creation usign strapi plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2022",
+      "time": "2024-09-05T12:29:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2022",
+      "text": "Create new Policy API creation using strapi plugin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-strapi-bpp#8",
+      "time": "2024-09-06T02:53:26Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/8",
+      "text": "Changed policy schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-strapi-bpp#9",
+      "time": "2024-09-06T03:23:20Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/9",
+      "text": "Added policy api plugin"
     }
   ],
   "open_prs": [],
