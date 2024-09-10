@@ -2674,6 +2674,27 @@
       "time": "2024-09-06T08:18:19Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/208",
       "text": "Kazam uei"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2029",
+      "time": "2024-09-09T05:03:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2029",
+      "text": "feat(TOURISM): integrated order cancellation component and type model…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2033",
+      "time": "2024-09-09T10:41:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2033",
+      "text": "feat(TOURISM): integrated update shipping component and type models f…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2040",
+      "time": "2024-09-09T13:03:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2040",
+      "text": "feat(POLICY-ADMIN): created responsiveness of policy admin app"
     }
   ],
   "open_prs": [],

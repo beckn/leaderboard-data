@@ -280,6 +280,13 @@
       "time": "2024-09-02T11:32:31Z",
       "link": "https://github.com/beckn/integration-webhook/pull/24",
       "text": "Created webhook for retail"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2037",
+      "time": "2024-09-09T12:22:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2037",
+      "text": "feat(policy-admin): login api integration"
     }
   ],
   "open_prs": [],

@@ -770,6 +770,20 @@
       "time": "2024-09-06T03:23:20Z",
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/9",
       "text": "Added policy api plugin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#139",
+      "time": "2024-09-09T04:01:09Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/139",
+      "text": "Created dashboard API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#140",
+      "time": "2024-09-09T04:05:38Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/140",
+      "text": "Added postan collection for policy dashboard"
     }
   ],
   "open_prs": [],

@@ -2625,6 +2625,13 @@
       "time": "2024-07-23T11:26:02Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1572",
       "text": "Deployment of Smart Cities & Smart Gambia UI in AWS Amplify - Prod"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2042",
+      "time": "2024-09-09T13:23:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2042",
+      "text": "Review Feedback - Check and Validate protocol server for new version & Perform Basic QA"
     }
   ],
   "open_prs": [],

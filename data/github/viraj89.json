@@ -3654,6 +3654,13 @@
       "time": "2024-09-06T09:05:16Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2027",
       "text": "Integrate \"Create New Policy\" API in Policy Portal Dashboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#109",
+      "time": "2024-09-09T16:10:31Z",
+      "link": "https://github.com/beckn/missions/issues/109",
+      "text": "Create Beckn Onix Execution Test Cases and Build JSON Requests"
     }
   ],
   "open_prs": [],

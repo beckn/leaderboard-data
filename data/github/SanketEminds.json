@@ -28,6 +28,13 @@
       "time": "2024-09-06T06:48:49Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2025",
       "text": "In the DSEP app, the course fee displayed on the search page differs from the fee shown at checkout."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2034",
+      "time": "2024-09-09T08:46:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2034",
+      "text": "Mobility App: Rides Not Displaying in Staging Environment"
     }
   ],
   "open_prs": [],
