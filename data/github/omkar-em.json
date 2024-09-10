@@ -2002,6 +2002,27 @@
       "time": "2024-08-22T14:13:39Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1852",
       "text": "Mobility - Driver App - Cab not showing when driver goes offline and comes back online"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2036",
+      "time": "2024-09-09T11:03:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2036",
+      "text": "EC Apps - Entire Staging Environment Down: Search Results Not Working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2035",
+      "time": "2024-09-09T09:26:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2035",
+      "text": "Mobility - Driver App: Error Occurs While Accepting Ride (Multiple Drivers)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2032",
+      "time": "2024-09-09T03:21:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2032",
+      "text": "Mobility - Unable to add new category while creating a new driver in Strapi BPP"
     }
   ],
   "open_prs": [],

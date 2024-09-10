@@ -189,6 +189,20 @@
       "time": "2024-09-05T14:21:34Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2021",
       "text": "feat(tourism): test cases for tourism"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2038",
+      "time": "2024-09-09T12:24:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2038",
+      "text": "feat(dsnp): refactored DSNP app From common packages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2039",
+      "time": "2024-09-09T12:24:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2039",
+      "text": "fix(osc): fix search payload with categroyCode"
     }
   ],
   "open_prs": [],

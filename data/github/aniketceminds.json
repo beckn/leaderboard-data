@@ -1337,6 +1337,20 @@
       "time": "2024-09-06T08:28:22Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2026",
       "text": "feat(policy-admin): added code to store form data into state for crea…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2026",
+      "time": "2024-09-09T06:48:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2026",
+      "text": "feat(policy-admin): added code to store form data into state for crea…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2041",
+      "time": "2024-09-09T12:21:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2041",
+      "text": "fix(industry_4.0): fixx issue related to location disabled app crash"
     }
   ],
   "open_prs": [],

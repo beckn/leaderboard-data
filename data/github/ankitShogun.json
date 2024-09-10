@@ -1106,6 +1106,20 @@
       "time": "2024-08-01T12:27:34Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1687",
       "text": "Adding Data Test-IDs in ODR for E2E Testing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#107",
+      "time": "2024-09-09T13:40:24Z",
+      "link": "https://github.com/beckn/missions/pull/107",
+      "text": "log interpretation added to starter kit readme"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#215",
+      "time": "2024-09-09T13:32:00Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/215",
+      "text": "Troubleshooting links added to readme file"
     }
   ],
   "open_prs": [],

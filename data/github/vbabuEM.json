@@ -1897,6 +1897,20 @@
       "time": "2024-06-27T02:40:02Z",
       "link": "https://github.com/beckn/protocol-server/issues/196",
       "text": "Registry lookup from Client nodes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#85",
+      "time": "2024-08-21T09:07:50Z",
+      "link": "https://github.com/beckn/missions/issues/85",
+      "text": "UEI EV Charging Implementation guide - Version 1.1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#108",
+      "time": "2024-09-09T15:17:34Z",
+      "link": "https://github.com/beckn/missions/pull/108",
+      "text": "Update UEI Implementation guide"
     }
   ],
   "open_prs": [],

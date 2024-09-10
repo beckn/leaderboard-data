@@ -322,6 +322,13 @@
       "time": "2024-09-05T14:02:40Z",
       "link": "https://github.com/beckn/beckn-onix/pull/213",
       "text": "Added display message for unavailable features in Option 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#216",
+      "time": "2024-09-09T15:53:38Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/216",
+      "text": "Onix bugfix"
     }
   ],
   "open_prs": [],
