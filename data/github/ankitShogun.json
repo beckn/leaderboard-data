@@ -1120,6 +1120,13 @@
       "time": "2024-09-09T13:32:00Z",
       "link": "https://github.com/beckn/beckn-onix/pull/215",
       "text": "Troubleshooting links added to readme file"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#112",
+      "time": "2024-09-10T11:28:32Z",
+      "link": "https://github.com/beckn/missions/issues/112",
+      "text": "Helping a person from discord community to debug onix related issues"
     }
   ],
   "open_prs": [],

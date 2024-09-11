@@ -287,6 +287,13 @@
       "time": "2024-09-09T12:22:48Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2037",
       "text": "feat(policy-admin): login api integration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#144",
+      "time": "2024-09-10T12:29:14Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/144",
+      "text": "Added apis for fetching all policies and policy by id"
     }
   ],
   "open_prs": [],

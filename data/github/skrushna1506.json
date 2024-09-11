@@ -203,6 +203,13 @@
       "time": "2024-09-09T12:24:59Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2039",
       "text": "fix(osc): fix search payload with categroyCode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2046",
+      "time": "2024-09-10T09:19:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2046",
+      "text": "feat(dsnp): integration topHeader and bottomHeader"
     }
   ],
   "open_prs": [],

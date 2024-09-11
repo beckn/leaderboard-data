@@ -455,6 +455,13 @@
       "time": "2024-08-01T11:37:01Z",
       "link": "https://github.com/beckn/strapi-plugins/issues/123",
       "text": "Build a mobility BPP application using Strapi"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#25",
+      "time": "2024-07-31T09:47:37Z",
+      "link": "https://github.com/beckn/missions/issues/25",
+      "text": "Create an Implementation guide for UPPCL P2P"
     }
   ],
   "open_prs": [],

@@ -1911,6 +1911,13 @@
       "time": "2024-09-09T15:17:34Z",
       "link": "https://github.com/beckn/missions/pull/108",
       "text": "Update UEI Implementation guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#111",
+      "time": "2024-09-10T10:07:55Z",
+      "link": "https://github.com/beckn/missions/issues/111",
+      "text": "Create detailed test case list for the Beckn-ONIX spec"
     }
   ],
   "open_prs": [],

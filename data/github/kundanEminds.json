@@ -2695,6 +2695,20 @@
       "time": "2024-09-09T13:03:19Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2040",
       "text": "feat(POLICY-ADMIN): created responsiveness of policy admin app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2061",
+      "time": "2024-09-10T10:52:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2061",
+      "text": "feat(DSNP): integrated store and services from common into dsnp"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#210",
+      "time": "2024-09-10T15:05:59Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/210",
+      "text": "Staging 1.1.0"
     }
   ],
   "open_prs": [],
