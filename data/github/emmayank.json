@@ -2632,6 +2632,279 @@
       "time": "2024-09-09T13:23:39Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2042",
       "text": "Review Feedback - Check and Validate protocol server for new version & Perform Basic QA"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#110",
+      "time": "2024-09-10T09:57:25Z",
+      "link": "https://github.com/beckn/missions/issues/110",
+      "text": "Implementation Guides for Open Kenya"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2083",
+      "time": "2024-09-10T12:50:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2083",
+      "text": "Make all the components responsive in Policy Admin application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2082",
+      "time": "2024-09-10T11:48:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2082",
+      "text": "Add Kazam App in UEI Landing Page on Experience Center"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2081",
+      "time": "2024-09-10T11:48:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2081",
+      "text": "Integrate Update Shipping Form Component and Type Models from Common Packages into Tourism App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2080",
+      "time": "2024-09-10T11:48:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2080",
+      "text": "Integrate Store and Services in DSNP App from Common Packages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2079",
+      "time": "2024-09-10T11:48:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2079",
+      "text": "Integrate Utility and respective Type models from Common Packages into DSNP app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2078",
+      "time": "2024-09-10T11:47:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2078",
+      "text": "Integrate /signIn, /signUp Page and Respective Type Models from Common Packages into DSNP App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2077",
+      "time": "2024-09-10T11:01:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2077",
+      "text": "Profile & Order History Section for Industry 4.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2076",
+      "time": "2024-09-10T11:01:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2076",
+      "text": "Negative Flow for Industry 4.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2075",
+      "time": "2024-09-10T11:01:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2075",
+      "text": "Enable Strapi Sandbox 2.0 for dhp:pharmacy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2074",
+      "time": "2024-09-10T11:01:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2074",
+      "text": "Enable Strapi Sandbox 2.0 for dhp:diagnostics"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2073",
+      "time": "2024-09-10T11:01:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2073",
+      "text": "Enable Strapi Sandbox 2.0 for dhp: consultation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2072",
+      "time": "2024-09-10T11:00:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2072",
+      "text": "Bug Fixes for Job search not working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2070",
+      "time": "2024-09-10T10:59:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2070",
+      "text": "Bug Fixes for In the DSEP Unified app, the init API is failing when applying for a job"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2069",
+      "time": "2024-09-10T10:58:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2069",
+      "text": "Implement Top Header and Bottom header using Common packages in DSNP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2068",
+      "time": "2024-09-10T10:57:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2068",
+      "text": "Integrate Product page Type Models from Common Packages into DSNP App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2067",
+      "time": "2024-09-10T10:57:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2067",
+      "text": "Integrate Payment page and Respective Type Models from Common Packages into DSNP App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2066",
+      "time": "2024-09-10T10:57:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2066",
+      "text": "Integrate Searchpage and Respective Type Models from Common Packages into DSNP App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2065",
+      "time": "2024-09-10T10:57:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2065",
+      "text": "Integrate Homepage and Respective Type Models from Common Packages into DSNP App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2064",
+      "time": "2024-09-10T10:54:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2064",
+      "text": "Review Feedback on Name Validation: Allow Special Characters"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2063",
+      "time": "2024-09-10T10:54:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2063",
+      "text": "Review Feedback - Change Error Message Color to Yellow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2062",
+      "time": "2024-09-10T10:53:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2062",
+      "text": "Review feedback - Ensure Troubleshooting Guide Link is Available"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2060",
+      "time": "2024-09-10T10:49:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2060",
+      "text": "End to End testing of Beckn Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2059",
+      "time": "2024-09-10T10:47:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2059",
+      "text": "Logout Functionality Implementation in Policy portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2058",
+      "time": "2024-09-10T10:43:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2058",
+      "text": "Update Policy status API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2057",
+      "time": "2024-09-10T10:43:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2057",
+      "text": "View Policy detail API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2056",
+      "time": "2024-09-10T10:38:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2056",
+      "text": "Reset Password API integration with policy portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2055",
+      "time": "2024-09-10T10:38:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2055",
+      "text": "Login API integration with Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2054",
+      "time": "2024-09-10T10:32:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2054",
+      "text": "Update Policy by ID API creation using Strapi plugin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2053",
+      "time": "2024-09-10T10:32:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2053",
+      "text": "Get Policy by ID API creation using strapi plugin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2052",
+      "time": "2024-09-10T10:32:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2052",
+      "text": "Get Policy API usign Strapi plugin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2051",
+      "time": "2024-09-10T10:32:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2051",
+      "text": "Reset Password API creation using strapi plugin using default auth model"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2050",
+      "time": "2024-09-10T10:20:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2050",
+      "text": "Accept/reject policies by ID API creation using Strapi plugin ( open-endpoint)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2049",
+      "time": "2024-09-10T10:14:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2049",
+      "text": "Get Policies by ID creation using Strapi Plugin ( open-endpoint)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2048",
+      "time": "2024-09-10T10:14:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2048",
+      "text": "Get policies API creation using Strapi plugin (open-endpoint) for BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2047",
+      "time": "2024-09-10T10:03:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2047",
+      "text": "Check Violation by location API creation using Strapi plugin (open-endpoint)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#22",
+      "time": "2024-09-10T11:00:38Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/22",
+      "text": "Bug Fixes for Enable Strapi Sandbox 2.0 for ODR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#21",
+      "time": "2024-09-10T10:59:48Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/21",
+      "text": "Bug Fixes for Enable Strapi Sandbox 2.0 for vistaar"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#142",
+      "time": "2024-09-10T10:59:10Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/142",
+      "text": "Provide KT to Omkar and Sanket for mobility onboarding"
     }
   ],
   "open_prs": [],

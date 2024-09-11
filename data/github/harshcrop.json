@@ -35,6 +35,13 @@
       "time": "2024-09-05T09:06:00Z",
       "link": "https://github.com/beckn/missions/issues/101",
       "text": "github repo clean up"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-exp-guide-ui#209",
+      "time": "2024-09-10T11:05:57Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/issues/209",
+      "text": "Fix scrollbar is in the middle of the \"select-experience\" page"
     }
   ],
   "open_prs": [],

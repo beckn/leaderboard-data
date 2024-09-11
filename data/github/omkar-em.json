@@ -2023,6 +2023,13 @@
       "time": "2024-09-09T03:21:02Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2032",
       "text": "Mobility - Unable to add new category while creating a new driver in Strapi BPP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2085",
+      "time": "2024-09-10T14:41:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2085",
+      "text": "Mobilty - Rider app - Inconsistent radio button sizes before pickup and drop locations"
     }
   ],
   "open_prs": [],
