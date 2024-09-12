@@ -1379,6 +1379,20 @@
       "time": "2024-09-10T13:33:35Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2084",
       "text": "fix(policy-admin): fix issues related to toaster & integrte status api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2088",
+      "time": "2024-09-11T06:06:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2088",
+      "text": "fix(policy-admin): added validation for create policy form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2094",
+      "time": "2024-09-11T18:01:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2094",
+      "text": "feat(policy-admin): integated the fetcg policy api, dashboard status,…"
     }
   ],
   "open_prs": [],

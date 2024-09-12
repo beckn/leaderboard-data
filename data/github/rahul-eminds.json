@@ -294,6 +294,20 @@
       "time": "2024-09-10T12:29:14Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/144",
       "text": "Added apis for fetching all policies and policy by id"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#144",
+      "time": "2024-09-11T06:55:59Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/144",
+      "text": "Added apis for fetching all policies and policy by id"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#146",
+      "time": "2024-09-11T06:04:37Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/146",
+      "text": "Added validations in odr forms"
     }
   ],
   "open_prs": [],

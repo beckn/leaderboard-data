@@ -3661,6 +3661,27 @@
       "time": "2024-09-09T16:10:31Z",
       "link": "https://github.com/beckn/missions/issues/109",
       "text": "Create Beckn Onix Execution Test Cases and Build JSON Requests"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#114",
+      "time": "2024-09-11T15:23:50Z",
+      "link": "https://github.com/beckn/missions/issues/114",
+      "text": "Starter Kit to Google Doc"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1980",
+      "time": "2024-09-03T13:02:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1980",
+      "text": "Designs Required for Adding Kazam App to Experience Center"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1955",
+      "time": "2024-08-30T11:30:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1955",
+      "text": "Kazam app on EC"
     }
   ],
   "open_prs": [],
