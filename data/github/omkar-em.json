@@ -2030,6 +2030,20 @@
       "time": "2024-09-10T14:41:28Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2085",
       "text": "Mobilty - Rider app - Inconsistent radio button sizes before pickup and drop locations"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2090",
+      "time": "2024-09-11T09:00:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2090",
+      "text": "Mobility -  Driver remains visible in the rider application after completing a ride without clicking \"Search for Another Ride\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1930",
+      "time": "2024-08-30T07:59:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1930",
+      "text": "In the OSC app, the search is not working. After performing a search, an empty response is returned."
     }
   ],
   "open_prs": [],

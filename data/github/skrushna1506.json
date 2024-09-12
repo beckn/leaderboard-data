@@ -210,6 +210,27 @@
       "time": "2024-09-10T09:19:42Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2046",
       "text": "feat(dsnp): integration topHeader and bottomHeader"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2046",
+      "time": "2024-09-11T05:35:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2046",
+      "text": "feat(dsnp): integration topHeader and bottomHeader"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2089",
+      "time": "2024-09-11T07:17:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2089",
+      "text": "feat(dsnp): refacator order confirmation page and delete unwanted file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2091",
+      "time": "2024-09-11T11:14:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2091",
+      "text": "Fix/issue x input form"
     }
   ],
   "open_prs": [],

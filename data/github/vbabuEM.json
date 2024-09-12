@@ -1918,6 +1918,20 @@
       "time": "2024-09-10T10:07:55Z",
       "link": "https://github.com/beckn/missions/issues/111",
       "text": "Create detailed test case list for the Beckn-ONIX spec"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#113",
+      "time": "2024-09-11T10:16:09Z",
+      "link": "https://github.com/beckn/missions/issues/113",
+      "text": "Create material for Beckn-ONIX masterclass"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#219",
+      "time": "2024-09-11T05:15:36Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/219",
+      "text": "Add known issue on Gateway restarts"
     }
   ],
   "open_prs": [],

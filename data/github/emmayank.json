@@ -2905,6 +2905,41 @@
       "time": "2024-09-10T10:59:10Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/142",
       "text": "Provide KT to Omkar and Sanket for mobility onboarding"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2093",
+      "time": "2024-09-11T11:54:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2093",
+      "text": "Postman collection for Policy Admin APIs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2092",
+      "time": "2024-09-11T11:53:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2092",
+      "text": "Integrate Types and Utilities for Order Confirmation page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2069",
+      "time": "2024-09-10T10:58:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2069",
+      "text": "Implement Top Header and Bottom header using Common packages in DSNP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2000",
+      "time": "2024-09-03T15:29:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2000",
+      "text": "QA for Kazam Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1999",
+      "time": "2024-09-03T15:16:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1999",
+      "text": "Test Cases Writing for Kazam Application"
     }
   ],
   "open_prs": [],
