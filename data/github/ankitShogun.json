@@ -1127,6 +1127,13 @@
       "time": "2024-09-10T11:28:32Z",
       "link": "https://github.com/beckn/missions/issues/112",
       "text": "Helping a person from discord community to debug onix related issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#117",
+      "time": "2024-09-12T19:20:31Z",
+      "link": "https://github.com/beckn/missions/issues/117",
+      "text": "Helping True power team in debugging their issues"
     }
   ],
   "open_prs": [],
