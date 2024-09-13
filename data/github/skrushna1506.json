@@ -231,6 +231,13 @@
       "time": "2024-09-11T11:14:46Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2091",
       "text": "Fix/issue x input form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2097",
+      "time": "2024-09-12T09:51:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2097",
+      "text": "feat(policyadmin): implement ui for forgot password and reset password"
     }
   ],
   "open_prs": [],

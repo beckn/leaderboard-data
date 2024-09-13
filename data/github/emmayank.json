@@ -2940,6 +2940,13 @@
       "time": "2024-09-03T15:16:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1999",
       "text": "Test Cases Writing for Kazam Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1996",
+      "time": "2024-09-03T15:14:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1996",
+      "text": "Test Cases for Policy Portal"
     }
   ],
   "open_prs": [],

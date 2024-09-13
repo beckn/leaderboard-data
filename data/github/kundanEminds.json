@@ -2730,6 +2730,13 @@
       "time": "2024-09-11T05:40:54Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2087",
       "text": "fix(MOBILITY): fixed some ui issues in mobility for center"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2096",
+      "time": "2024-09-12T06:56:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2096",
+      "text": "feat(DSNP): integrated utility and respective type models from common…"
     }
   ],
   "open_prs": [],

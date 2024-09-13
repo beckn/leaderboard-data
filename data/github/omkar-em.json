@@ -2044,6 +2044,13 @@
       "time": "2024-08-30T07:59:49Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1930",
       "text": "In the OSC app, the search is not working. After performing a search, an empty response is returned."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2095",
+      "time": "2024-09-12T04:56:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2095",
+      "text": "Mobility - Both drivers displayed after completing a ride and searching for another ride, only the nearby driver should be shown"
     }
   ],
   "open_prs": [],
