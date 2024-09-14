@@ -1134,6 +1134,13 @@
       "time": "2024-09-12T19:20:31Z",
       "link": "https://github.com/beckn/missions/issues/117",
       "text": "Helping True power team in debugging their issues"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#215",
+      "time": "2024-09-13T08:12:06Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/215",
+      "text": "Troubleshooting links added to readme file"
     }
   ],
   "open_prs": [],

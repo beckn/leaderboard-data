@@ -1400,6 +1400,13 @@
       "time": "2024-09-12T17:54:46Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2098",
       "text": "fix(policy-admin): fix issues of pagination in table & geofence"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2108",
+      "time": "2024-09-13T13:02:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2108",
+      "text": "fix(policy-admin): fix issues of rendering city wise location in map"
     }
   ],
   "open_prs": [],

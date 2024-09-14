@@ -784,6 +784,27 @@
       "time": "2024-09-09T04:05:38Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/140",
       "text": "Added postan collection for policy dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#147",
+      "time": "2024-09-13T04:41:43Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/147",
+      "text": "Created get policies and single policy open endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/protocol-server#228",
+      "time": "2024-09-10T11:42:48Z",
+      "link": "https://github.com/beckn/protocol-server/pull/228",
+      "text": "health status route added for all products"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-strapi-bpp#10",
+      "time": "2024-09-13T09:16:55Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/10",
+      "text": "Changed schema for policy and added config for plugin email"
     }
   ],
   "open_prs": [],

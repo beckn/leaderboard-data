@@ -2947,6 +2947,41 @@
       "time": "2024-09-03T15:14:22Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1996",
       "text": "Test Cases for Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#144",
+      "time": "2024-09-13T12:55:16Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/144",
+      "text": "Retail Participants Webhook Suggested Changes and Deployment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2107",
+      "time": "2024-09-13T12:57:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2107",
+      "text": "Integrate Types and Utility in Checkout page, Orderhistory page and Update shippingPage from Common Packages in DSNP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2106",
+      "time": "2024-09-13T12:56:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2106",
+      "text": "Policyadmin Deployment in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2105",
+      "time": "2024-09-13T12:54:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2105",
+      "text": "Existing Policy portal understanding and setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2092",
+      "time": "2024-09-11T11:53:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2092",
+      "text": "Integrate Types and Utilities for Order Confirmation page"
     }
   ],
   "open_prs": [],

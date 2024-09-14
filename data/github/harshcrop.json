@@ -42,6 +42,20 @@
       "time": "2024-09-10T11:05:57Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/issues/209",
       "text": "Fix scrollbar is in the middle of the \"select-experience\" page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#119",
+      "time": "2024-09-13T10:18:45Z",
+      "link": "https://github.com/beckn/missions/issues/119",
+      "text": "Win Room Beckn Onix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#102",
+      "time": "2024-09-05T09:06:29Z",
+      "link": "https://github.com/beckn/missions/issues/102",
+      "text": "Working on Beckn Onix Hackathon"
     }
   ],
   "open_prs": [],
