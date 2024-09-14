@@ -7,6 +7,20 @@
       "time": "2024-09-11T06:59:19Z",
       "link": "https://github.com/beckn/Unified-Energy-Interface/issues/25",
       "text": "500 Internal Server Error in Postman for /search API in Sandbox."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#229",
+      "time": "2024-09-13T06:58:20Z",
+      "link": "https://github.com/beckn/protocol-server/issues/229",
+      "text": "500 Internal Server Error in Postman for /search API in Sandbox."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/Unified-Energy-Interface#25",
+      "time": "2024-09-11T06:59:19Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/issues/25",
+      "text": "500 Internal Server Error in Postman for /search API in Sandbox."
     }
   ],
   "open_prs": [],

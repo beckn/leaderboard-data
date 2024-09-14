@@ -238,6 +238,34 @@
       "time": "2024-09-12T09:51:59Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2097",
       "text": "feat(policyadmin): implement ui for forgot password and reset password"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2089",
+      "time": "2024-09-13T07:33:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2089",
+      "text": "feat(dsnp): refacator order confirmation page and delete unwanted file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2091",
+      "time": "2024-09-13T07:33:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2091",
+      "text": "Fix/issue x input form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2102",
+      "time": "2024-09-13T13:39:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2102",
+      "text": "fix(policyAdmin): fixed policy admin app bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2104",
+      "time": "2024-09-13T13:46:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2104",
+      "text": "fix(odr): fix odr build issue"
     }
   ],
   "open_prs": [],

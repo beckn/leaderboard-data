@@ -308,6 +308,20 @@
       "time": "2024-09-11T06:04:37Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/146",
       "text": "Added validations in odr forms"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#148",
+      "time": "2024-09-13T09:03:20Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/148",
+      "text": "Added update, reset password apis"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2099",
+      "time": "2024-09-13T10:07:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2099",
+      "text": "feat(policyadmin): created reset password page, api integration"
     }
   ],
   "open_prs": [],

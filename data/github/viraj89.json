@@ -3696,6 +3696,27 @@
       "time": "2024-09-12T17:40:39Z",
       "link": "https://github.com/beckn/beckn-onix/issues/220",
       "text": "Requirements for Building Beckn Registry"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#143",
+      "time": "2024-09-13T05:51:51Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/143",
+      "text": "Detailed analysis of all the AWS instances on draw.io"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#114",
+      "time": "2024-09-11T15:23:50Z",
+      "link": "https://github.com/beckn/missions/issues/114",
+      "text": "Starter Kit Google Doc Creation and Formatting Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#55",
+      "time": "2024-08-05T11:10:41Z",
+      "link": "https://github.com/beckn/missions/issues/55",
+      "text": "Registry: Self Help Guide"
     }
   ],
   "open_prs": [],

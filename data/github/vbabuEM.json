@@ -1939,6 +1939,34 @@
       "time": "2024-09-09T15:53:38Z",
       "link": "https://github.com/beckn/beckn-onix/pull/216",
       "text": "Onix bugfix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#118",
+      "time": "2024-09-13T05:35:34Z",
+      "link": "https://github.com/beckn/missions/issues/118",
+      "text": "Document the requirements for the about endpoint with network participants"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#222",
+      "time": "2024-09-13T16:11:08Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/222",
+      "text": "Add Layer 2 config prompt back to installation"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/protocol-server#219",
+      "time": "2024-07-26T05:38:22Z",
+      "link": "https://github.com/beckn/protocol-server/pull/219",
+      "text": "Search with BPP specified should behave as peer-to-peer request."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#23",
+      "time": "2024-09-13T08:09:03Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/23",
+      "text": "Sandbox environment instructions are missing after the repo movement"
     }
   ],
   "open_prs": [],
