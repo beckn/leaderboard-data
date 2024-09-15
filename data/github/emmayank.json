@@ -2982,6 +2982,13 @@
       "time": "2024-09-11T11:53:36Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2092",
       "text": "Integrate Types and Utilities for Order Confirmation page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2107",
+      "time": "2024-09-13T12:57:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2107",
+      "text": "Integrate Types and Utility in Checkout page, Orderhistory page and Update shippingPage from Common Packages in DSNP"
     }
   ],
   "open_prs": [],

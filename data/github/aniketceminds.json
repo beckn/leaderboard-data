@@ -1407,6 +1407,13 @@
       "time": "2024-09-13T13:02:48Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2108",
       "text": "fix(policy-admin): fix issues of rendering city wise location in map"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2109",
+      "time": "2024-09-14T18:54:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2109",
+      "text": "fix(policy-admin): token expiry handling & nav to signIn"
     }
   ],
   "open_prs": [],
