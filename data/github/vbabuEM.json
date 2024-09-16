@@ -1967,6 +1967,13 @@
       "time": "2024-09-13T08:09:03Z",
       "link": "https://github.com/beckn/beckn-sandbox/issues/23",
       "text": "Sandbox environment instructions are missing after the repo movement"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#111",
+      "time": "2024-09-10T10:07:55Z",
+      "link": "https://github.com/beckn/missions/issues/111",
+      "text": "Create detailed test case list for the Beckn-ONIX spec"
     }
   ],
   "open_prs": [],

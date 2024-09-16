@@ -1141,6 +1141,27 @@
       "time": "2024-09-13T08:12:06Z",
       "link": "https://github.com/beckn/beckn-onix/pull/215",
       "text": "Troubleshooting links added to readme file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#120",
+      "time": "2024-09-15T11:41:22Z",
+      "link": "https://github.com/beckn/missions/pull/120",
+      "text": "Initial version Open belam implementation guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#230",
+      "time": "2024-09-15T12:04:27Z",
+      "link": "https://github.com/beckn/protocol-server/issues/230",
+      "text": "BAP-CLIENT-PS not returning validation issues"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#231",
+      "time": "2024-09-15T12:11:31Z",
+      "link": "https://github.com/beckn/protocol-server/pull/231",
+      "text": "raising and sending exception back in case of bap client"
     }
   ],
   "open_prs": [],
