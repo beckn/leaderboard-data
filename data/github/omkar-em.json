@@ -2051,6 +2051,20 @@
       "time": "2024-09-12T04:56:43Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2095",
       "text": "Mobility - Both drivers displayed after completing a ride and searching for another ride, only the nearby driver should be shown"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2111",
+      "time": "2024-09-16T07:55:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2111",
+      "text": "Strapi - Incorrect BPP URL configured in Strapi production environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2110",
+      "time": "2024-09-16T05:35:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2110",
+      "text": "Search by Location Not Working in OSC App"
     }
   ],
   "open_prs": [],

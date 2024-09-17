@@ -1036,6 +1036,20 @@
       "time": "2024-09-10T05:42:41Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/141",
       "text": "UEI EV changing and P2P cases: Calls and discussions"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#218",
+      "time": "2024-09-10T04:59:28Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/218",
+      "text": "UEI specification: review an existing PR, remove issues, add changes suggested by RAVI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#141",
+      "time": "2024-09-10T05:42:41Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/141",
+      "text": "UEI EV changing and P2P cases: Calls and discussions"
     }
   ],
   "open_prs": [],

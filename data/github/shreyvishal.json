@@ -1904,6 +1904,13 @@
       "time": "2024-09-10T13:24:03Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/145",
       "text": "Added: Some changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#24",
+      "time": "2024-09-16T14:49:12Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/24",
+      "text": "Added: Postman Collection"
     }
   ],
   "open_prs": [],

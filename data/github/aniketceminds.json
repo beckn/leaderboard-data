@@ -1414,6 +1414,13 @@
       "time": "2024-09-14T18:54:55Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2109",
       "text": "fix(policy-admin): token expiry handling & nav to signIn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2112",
+      "time": "2024-09-16T08:59:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2112",
+      "text": "Develop 1.1.0"
     }
   ],
   "open_prs": [],
