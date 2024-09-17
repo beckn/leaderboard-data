@@ -322,6 +322,13 @@
       "time": "2024-09-13T10:07:05Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2099",
       "text": "feat(policyadmin): created reset password page, api integration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#149",
+      "time": "2024-09-16T10:50:48Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/149",
+      "text": "Changed Odr dispute details form"
     }
   ],
   "open_prs": [],

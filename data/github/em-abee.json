@@ -805,6 +805,20 @@
       "time": "2024-09-13T09:16:55Z",
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/10",
       "text": "Changed schema for policy and added config for plugin email"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#147",
+      "time": "2024-09-16T04:12:24Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/147",
+      "text": "Created get policies and single policy open endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#150",
+      "time": "2024-09-16T12:37:50Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/150",
+      "text": "Added checkbiolation API"
     }
   ],
   "open_prs": [],

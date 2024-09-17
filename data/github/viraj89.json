@@ -3717,6 +3717,34 @@
       "time": "2024-08-05T11:10:41Z",
       "link": "https://github.com/beckn/missions/issues/55",
       "text": "Registry: Self Help Guide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#131",
+      "time": "2024-08-21T06:48:05Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/131",
+      "text": "Weekly report on DevOps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2030",
+      "time": "2024-09-06T09:56:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2030",
+      "text": "Integrate Get/Fetch Policy List API with Policy Dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2027",
+      "time": "2024-09-06T09:05:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2027",
+      "text": "Integrate \"Create New Policy\" API in Policy Portal Dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2020",
+      "time": "2024-09-05T11:34:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2020",
+      "text": "Create and Integrate Stats API with Policy Admin Portal Dashboard"
     }
   ],
   "open_prs": [],

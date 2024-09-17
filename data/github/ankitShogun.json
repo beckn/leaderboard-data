@@ -1162,6 +1162,20 @@
       "time": "2024-09-15T12:11:31Z",
       "link": "https://github.com/beckn/protocol-server/pull/231",
       "text": "raising and sending exception back in case of bap client"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#228",
+      "time": "2024-09-16T10:48:58Z",
+      "link": "https://github.com/beckn/protocol-server/pull/228",
+      "text": "health status route added for all products"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2113",
+      "time": "2024-09-16T11:48:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2113",
+      "text": "Cypress Failing in CI/CD Pipelines – Investigate and Resolve"
     }
   ],
   "open_prs": [],
