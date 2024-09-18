@@ -819,6 +819,20 @@
       "time": "2024-09-16T12:37:50Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/150",
       "text": "Added checkbiolation API"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2031",
+      "time": "2024-09-06T13:15:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2031",
+      "text": "Dashboard stats API creation usign strapi plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2023",
+      "time": "2024-09-06T01:33:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2023",
+      "text": "Code Setup for Policy Portal"
     }
   ],
   "open_prs": [],

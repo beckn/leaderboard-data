@@ -3745,6 +3745,27 @@
       "time": "2024-09-05T11:34:47Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2020",
       "text": "Create and Integrate Stats API with Policy Admin Portal Dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#140",
+      "time": "2024-09-05T08:55:05Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/140",
+      "text": "Create CI/CD Pipeline for Policy Admin Portal (Dev, Staging, Prod)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1969",
+      "time": "2024-09-02T11:57:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1969",
+      "text": "Add a new staging env similar to how prod it"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#206",
+      "time": "2024-02-28T14:24:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/206",
+      "text": "Publish Release Notes for Mobility and Strapi Plugins"
     }
   ],
   "open_prs": [],

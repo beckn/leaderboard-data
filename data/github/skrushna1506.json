@@ -266,6 +266,20 @@
       "time": "2024-09-13T13:46:40Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2104",
       "text": "fix(odr): fix odr build issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2129",
+      "time": "2024-09-17T11:40:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2129",
+      "text": "fix(policyadmin): fix bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2132",
+      "time": "2024-09-17T11:46:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2132",
+      "text": "fix(industry4.0): remove cart icon from profile page"
     }
   ],
   "open_prs": [],

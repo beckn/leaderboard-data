@@ -2772,6 +2772,13 @@
       "time": "2024-09-16T08:59:09Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2103",
       "text": "feat(TOURISM): fixed language button for himalayas and city of light"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2131",
+      "time": "2024-09-17T11:39:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2131",
+      "text": "feat(TOURISM): fixed language button for himalayas and city of light …"
     }
   ],
   "open_prs": [],
