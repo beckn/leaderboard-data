@@ -2065,6 +2065,118 @@
       "time": "2024-09-16T05:35:47Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2110",
       "text": "Search by Location Not Working in OSC App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2130",
+      "time": "2024-09-17T11:08:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2130",
+      "text": "Profile Image Error and App Crash in Industry App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2127",
+      "time": "2024-09-17T08:14:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2127",
+      "text": "Policy Portal - Dates Showing as NaN/NaN When API Fails in Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2126",
+      "time": "2024-09-17T08:08:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2126",
+      "text": "Created Policies on Policy Portal Not Displaying in Mobility BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2125",
+      "time": "2024-09-17T08:01:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2125",
+      "text": "Policy Portal - Status Color and Dropdown Selection Issues in Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2124",
+      "time": "2024-09-17T07:51:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2124",
+      "text": "Policy Portal- Geofence Option Should Not Display for Policies Created Under Information Category"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2123",
+      "time": "2024-09-17T07:47:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2123",
+      "text": "Policy Portal-Latest Created Policy Not Displaying on First Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2122",
+      "time": "2024-09-17T07:45:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2122",
+      "text": "Policy Portal - Sorting is working on a single page instead of the entire data set in pagination"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2121",
+      "time": "2024-09-17T07:39:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2121",
+      "text": "Policy Portal -  Scrollbar is overlapping with text in policies list table (FireFox)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2120",
+      "time": "2024-09-17T07:33:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2120",
+      "text": "Policy Portal - getPolicies API is not working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2119",
+      "time": "2024-09-17T07:01:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2119",
+      "text": "Policy Portal - Geofence creation option appears instead of view after saving geofence"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2118",
+      "time": "2024-09-17T06:57:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2118",
+      "text": "Policy Portal-Start Date Validation."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2117",
+      "time": "2024-09-17T06:43:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2117",
+      "text": "Policy Portal - Add eye icon for viewing passwords on login password, and reset confirm password fields"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2116",
+      "time": "2024-09-17T06:38:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2116",
+      "text": "Policy Portal - Password reset is forcing the use of '@' symbol"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2115",
+      "time": "2024-09-17T06:35:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2115",
+      "text": "Policy Portal - Password reset link is not expiring after being used"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2114",
+      "time": "2024-09-17T06:29:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2114",
+      "text": "Policy Portal - Admin portal left side panel is not responsive on smaller screens"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2036",
+      "time": "2024-09-09T11:03:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2036",
+      "text": "EC Apps - Entire Staging Environment Down: Search Results Not Working"
     }
   ],
   "open_prs": [],

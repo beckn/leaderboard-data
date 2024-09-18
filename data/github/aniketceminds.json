@@ -1421,6 +1421,27 @@
       "time": "2024-09-16T08:59:48Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2112",
       "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2128",
+      "time": "2024-09-17T09:08:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2128",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2133",
+      "time": "2024-09-17T11:38:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2133",
+      "text": "fix(mobility-bpp): fix issues name validation, added set mylocation in map"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2134",
+      "time": "2024-09-17T17:14:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2134",
+      "text": "fix(mobility-bap): enhanccement to simulate navigation in map"
     }
   ],
   "open_prs": [],

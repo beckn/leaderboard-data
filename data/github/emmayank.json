@@ -2989,6 +2989,76 @@
       "time": "2024-09-13T12:57:43Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2107",
       "text": "Integrate Types and Utility in Checkout page, Orderhistory page and Update shippingPage from Common Packages in DSNP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#210",
+      "time": "2024-09-02T03:29:41Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/210",
+      "text": "Add Reminder to Configure Layer 2 After BAP/BPP Setup in Beckn ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#144",
+      "time": "2024-09-13T12:55:16Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/144",
+      "text": "Retail Participants Webhook Suggested Changes and Deployment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2106",
+      "time": "2024-09-13T12:56:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2106",
+      "text": "Policyadmin Deployment in Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2105",
+      "time": "2024-09-13T12:54:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2105",
+      "text": "Existing Policy portal understanding and setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2093",
+      "time": "2024-09-11T11:54:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2093",
+      "text": "Postman collection for Policy Admin APIs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2058",
+      "time": "2024-09-10T10:43:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2058",
+      "text": "Update Policy status API Integration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2055",
+      "time": "2024-09-10T10:38:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2055",
+      "text": "Login API integration with Policy Portal"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2054",
+      "time": "2024-09-10T10:32:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2054",
+      "text": "Update Policy by ID API creation using Strapi plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2053",
+      "time": "2024-09-10T10:32:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2053",
+      "text": "Get Policy by ID API creation using strapi plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2052",
+      "time": "2024-09-10T10:32:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2052",
+      "text": "Get Policy API usign Strapi plugin"
     }
   ],
   "open_prs": [],

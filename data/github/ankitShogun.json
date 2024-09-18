@@ -1176,6 +1176,20 @@
       "time": "2024-09-16T11:48:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2113",
       "text": "Cypress Failing in CI/CD Pipelines – Investigate and Resolve"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#112",
+      "time": "2024-09-10T11:28:32Z",
+      "link": "https://github.com/beckn/missions/issues/112",
+      "text": "Helping Swayangjit from discord community to debug onix related issues"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#107",
+      "time": "2024-09-17T13:05:28Z",
+      "link": "https://github.com/beckn/missions/pull/107",
+      "text": "log interpretation added to starter kit readme"
     }
   ],
   "open_prs": [],
