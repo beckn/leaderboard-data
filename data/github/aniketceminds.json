@@ -1442,6 +1442,27 @@
       "time": "2024-09-17T17:14:42Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2134",
       "text": "fix(mobility-bap): enhanccement to simulate navigation in map"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2135",
+      "time": "2024-09-18T03:57:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2135",
+      "text": "fix(mobility-bpp-bap): modified color of icon"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2136",
+      "time": "2024-09-18T07:08:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2136",
+      "text": "fix(mobility-bap): modified msges for unsolicited status api response"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2166",
+      "time": "2024-09-18T18:35:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2166",
+      "text": "fix(policy-admin): fix issues of policy admin portal css & functional"
     }
   ],
   "open_prs": [],

@@ -1617,6 +1617,13 @@
       "time": "2024-02-08T05:58:50Z",
       "link": "https://github.com/beckn/integration-webhook/issues/19",
       "text": "Create one click utility to install the webhook"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#2",
+      "time": "2024-03-22T07:46:00Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/2",
+      "text": "Enhance beckn-onix to support system upgrade without losing previous data"
     }
   ],
   "open_prs": [],
