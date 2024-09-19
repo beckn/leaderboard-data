@@ -3059,6 +3059,293 @@
       "time": "2024-09-10T10:32:47Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2052",
       "text": "Get Policy API usign Strapi plugin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#224",
+      "time": "2024-09-18T08:10:44Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/224",
+      "text": "Send logs to stdout of Docker for Registry and Gateway"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#223",
+      "time": "2024-09-18T08:06:41Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/223",
+      "text": "Helm Chart Deployment on AWS EKS Cluster"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#146",
+      "time": "2024-09-18T10:10:23Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/146",
+      "text": "Bug Fixing & Releasing New Policy portal developed using UI building block V1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#145",
+      "time": "2024-09-18T08:09:07Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/145",
+      "text": "Stop EC2 Instances for AWS Cost Optimization activity"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2163",
+      "time": "2024-09-18T08:54:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2163",
+      "text": "Enable Strapi Sandbox 2.0 for tourism"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2162",
+      "time": "2024-09-18T08:53:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2162",
+      "text": "Enable Strapi Sandbox 2.0 for ondc"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2161",
+      "time": "2024-09-18T08:53:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2161",
+      "text": "Enable Strapi Sandbox 2.0 for mobility"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2160",
+      "time": "2024-09-18T08:53:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2160",
+      "text": "Enable Strapi Sandbox 2.0 for logistics"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2159",
+      "time": "2024-09-18T08:53:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2159",
+      "text": "Enable Strapi Sandbox 2.0 for industry 4.0 - 3D-printing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2158",
+      "time": "2024-09-18T08:53:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2158",
+      "text": "Enable Strapi Sandbox 2.0 for dsep:mentorship"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2157",
+      "time": "2024-09-18T08:51:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2157",
+      "text": "Enable Strapi Sandbox 2.0 for city-of-light"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2156",
+      "time": "2024-09-18T08:51:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2156",
+      "text": "Cypress E2E Test Cases for Order Details Page in DSEP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2155",
+      "time": "2024-09-18T08:51:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2155",
+      "text": "Cypress E2E Test Cases for Order Confirmation Page in DSEP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2154",
+      "time": "2024-09-18T08:51:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2154",
+      "text": "Cypress E2E Test Cases for Checkout Page in DSEP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2153",
+      "time": "2024-09-18T08:50:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2153",
+      "text": "Cypress E2E Test Cases for Cart Page in DSEP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2152",
+      "time": "2024-09-18T08:50:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2152",
+      "text": "Cypress E2E Test Cases for Product Page in DSEP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2151",
+      "time": "2024-09-18T08:50:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2151",
+      "text": "Cypress E2E Test Cases for SearchPage in DSEP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2150",
+      "time": "2024-09-18T08:50:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2150",
+      "text": "Cypress E2E Test Cases for Home Page in DSEP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2149",
+      "time": "2024-09-18T08:50:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2149",
+      "text": "Cypress E2E Test Cases for Sign In Sign Up page Page in DSEP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2148",
+      "time": "2024-09-18T08:46:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2148",
+      "text": "End to End QA for Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2147",
+      "time": "2024-09-18T08:45:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2147",
+      "text": "User Guide Creation for Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2146",
+      "time": "2024-09-18T08:38:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2146",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2145",
+      "time": "2024-09-18T08:38:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2145",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2144",
+      "time": "2024-09-18T08:37:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2144",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2143",
+      "time": "2024-09-18T08:37:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2143",
+      "text": "End to End Testing for Skill Up"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2142",
+      "time": "2024-09-18T08:37:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2142",
+      "text": "Happy Flow Testing for Skill Up"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2140",
+      "time": "2024-09-18T08:19:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2140",
+      "text": "Review and Update all Reference Apps User Guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2139",
+      "time": "2024-09-18T08:11:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2139",
+      "text": "Unable to Send Mail to Reset Password in Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2138",
+      "time": "2024-09-18T08:09:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2138",
+      "text": "Policyadmin Deployment in Production Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2137",
+      "time": "2024-09-18T08:09:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2137",
+      "text": "Policyadmin Deployment in Staging Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2083",
+      "time": "2024-09-10T12:50:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2083",
+      "text": "Make all the components responsive in Policy Admin application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2082",
+      "time": "2024-09-10T11:48:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2082",
+      "text": "Add Kazam App in UEI Landing Page on Experience Center"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2081",
+      "time": "2024-09-10T11:48:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2081",
+      "text": "Integrate Update Shipping Form Component and Type Models from Common Packages into Tourism App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2080",
+      "time": "2024-09-10T11:48:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2080",
+      "text": "Integrate Store and Services in DSNP App from Common Packages"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2079",
+      "time": "2024-09-10T11:48:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2079",
+      "text": "Integrate Utility and respective Type models from Common Packages into DSNP app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2078",
+      "time": "2024-09-10T11:47:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2078",
+      "text": "Integrate /signIn, /signUp Page and Respective Type Models from Common Packages into DSNP App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2014",
+      "time": "2024-09-04T12:09:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2014",
+      "text": "Integrate Order Cancellation Component and Type Models from Common Packages into Tourism App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1984",
+      "time": "2024-09-03T13:59:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1984",
+      "text": "Integrate Order Confirmation Component and Payment  and Type Models from Common Packages into Tourism App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1983",
+      "time": "2024-09-03T13:59:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1983",
+      "text": "Integrate Checkout Component and Type Models from Common Packages into Tourism App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1982",
+      "time": "2024-09-03T13:59:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1982",
+      "text": "Integrate Product Details Component and Type Models from Common Packages into Tourism App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1981",
+      "time": "2024-09-03T13:58:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1981",
+      "text": "Integrate Search (Product List)  Component and Type Models from Common Packages into Tourism App"
     }
   ],
   "open_prs": [],

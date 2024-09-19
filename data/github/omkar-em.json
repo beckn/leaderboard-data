@@ -2177,6 +2177,48 @@
       "time": "2024-09-09T11:03:31Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2036",
       "text": "EC Apps - Entire Staging Environment Down: Search Results Not Working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2165",
+      "time": "2024-09-18T14:28:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2165",
+      "text": "Policy portal - Validation issues while creating policy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2164",
+      "time": "2024-09-18T14:17:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2164",
+      "text": "Policy Portal - Policy details source is not displaying, despite being mandatory during creation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2141",
+      "time": "2024-09-18T08:34:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2141",
+      "text": "Mobility - Driver App - Driver in Progress Appears as Available in Search Results"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2085",
+      "time": "2024-09-10T14:41:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2085",
+      "text": "Mobilty - Rider app - Inconsistent radio button sizes before pickup and drop locations"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1963",
+      "time": "2024-09-02T06:25:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1963",
+      "text": "In the Mobility app's rider app, when only a single result is found, the title incorrectly displays \"2 results found.\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1182",
+      "time": "2024-06-03T06:13:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1182",
+      "text": "Industry 4.0 - remove location access dependency to display search response"
     }
   ],
   "open_prs": [],
