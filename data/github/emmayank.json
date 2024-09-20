@@ -3346,6 +3346,13 @@
       "time": "2024-09-03T13:58:42Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1981",
       "text": "Integrate Search (Product List)  Component and Type Models from Common Packages into Tourism App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2062",
+      "time": "2024-09-10T10:53:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2062",
+      "text": "Review feedback - Ensure Troubleshooting Guide Link is Available"
     }
   ],
   "open_prs": [],
