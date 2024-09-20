@@ -1190,6 +1190,13 @@
       "time": "2024-09-17T13:05:28Z",
       "link": "https://github.com/beckn/missions/pull/107",
       "text": "log interpretation added to starter kit readme"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2174",
+      "time": "2024-09-19T12:56:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2174",
+      "text": "Cypress R&D to get proper html reports instead of just screenshots"
     }
   ],
   "open_prs": [],

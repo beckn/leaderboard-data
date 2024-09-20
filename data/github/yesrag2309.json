@@ -35,6 +35,13 @@
       "time": "2024-09-06T06:11:52Z",
       "link": "https://github.com/beckn/beckn-onix/issues/214",
       "text": "Production grade Beckn ONIX - Goodworks Labs as TSP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#91",
+      "time": "2024-09-19T10:22:55Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/91",
+      "text": "P2P Energy Trading System for Local Businesses Using Beckn Protocol and Gemini AI"
     }
   ],
   "open_prs": [],

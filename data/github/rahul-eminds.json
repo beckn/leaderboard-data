@@ -329,6 +329,27 @@
       "time": "2024-09-16T10:50:48Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/149",
       "text": "Changed Odr dispute details form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#151",
+      "time": "2024-09-19T09:56:39Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/151",
+      "text": "Fixed reset password issue and added sort in get all policies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#152",
+      "time": "2024-09-19T12:23:17Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/152",
+      "text": "Fixed policy violation issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#153",
+      "time": "2024-09-19T13:24:32Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/153",
+      "text": "Fixed check violation issue"
     }
   ],
   "open_prs": [],

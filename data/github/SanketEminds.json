@@ -35,6 +35,13 @@
       "time": "2024-09-09T08:46:00Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2034",
       "text": "Mobility App: Rides Not Displaying in Staging Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2172",
+      "time": "2024-09-19T08:43:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2172",
+      "text": "App Crashing After Clicking 'View Order Details' Button Post Checkout in DSNP"
     }
   ],
   "open_prs": [],
