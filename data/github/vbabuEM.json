@@ -1995,6 +1995,27 @@
       "time": "2024-09-18T07:51:09Z",
       "link": "https://github.com/beckn/missions/issues/122",
       "text": "Understand and document enhancements w.r.t Layer 2 Config and Network Observability."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#124",
+      "time": "2024-09-20T02:29:01Z",
+      "link": "https://github.com/beckn/missions/issues/124",
+      "text": "Write high level design document for the Google event"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#123",
+      "time": "2024-09-20T02:24:42Z",
+      "link": "https://github.com/beckn/missions/issues/123",
+      "text": "Assist in Open Belem troubleshooting"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/beckn-onix#227",
+      "time": "2024-09-20T11:12:23Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/227",
+      "text": "Add Layer 2 config prompt to beckn-onix installation #222"
     }
   ],
   "open_prs": [],

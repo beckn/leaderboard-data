@@ -1477,6 +1477,20 @@
       "time": "2024-09-19T12:45:16Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2173",
       "text": "fix(policy-admin): fix issue of sorting table data by colomn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2177",
+      "time": "2024-09-20T09:38:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2177",
+      "text": "fix(mobility-bap): integrated new policy violation apis & functional …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2178",
+      "time": "2024-09-20T12:16:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2178",
+      "text": "Develop 1.1.0"
     }
   ],
   "open_prs": [],

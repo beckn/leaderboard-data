@@ -2807,6 +2807,13 @@
       "time": "2024-09-19T07:18:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2171",
       "text": "fix(TAXIBPP): build issue test"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2176",
+      "time": "2024-09-20T08:24:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2176",
+      "text": "fix(ADMIN-PORTAL): fixed responsiveness of left side of policy admin"
     }
   ],
   "open_prs": [],

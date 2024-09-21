@@ -42,6 +42,62 @@
       "time": "2024-09-19T10:22:55Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/91",
       "text": "P2P Energy Trading System for Local Businesses Using Beckn Protocol and Gemini AI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#130",
+      "time": "2024-09-20T08:18:12Z",
+      "link": "https://github.com/beckn/missions/issues/130",
+      "text": "UEI EV Charging Implementation guide - Version 1.1 Review & Rework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#129",
+      "time": "2024-09-20T08:18:07Z",
+      "link": "https://github.com/beckn/missions/issues/129",
+      "text": "Beckn Starter Kit V3.0 Document Review & Rework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#128",
+      "time": "2024-09-20T08:18:02Z",
+      "link": "https://github.com/beckn/missions/issues/128",
+      "text": "Test case list for the Beckn-ONIX spec Document Review & Rework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#127",
+      "time": "2024-09-20T08:17:57Z",
+      "link": "https://github.com/beckn/missions/issues/127",
+      "text": "Beckn-Onix spec version 1.0 Document Review & Rework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#126",
+      "time": "2024-09-20T08:17:51Z",
+      "link": "https://github.com/beckn/missions/issues/126",
+      "text": "Core requirements for Registry/Gateway Document Review & Rework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#125",
+      "time": "2024-09-20T08:17:31Z",
+      "link": "https://github.com/beckn/missions/issues/125",
+      "text": "Core requirements for Beckn-ONIX Adapter Document Review & Rework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#228",
+      "time": "2024-09-20T13:12:39Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/228",
+      "text": "Beckn-onix ver 1.1 - Pending Issue Fixing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#226",
+      "time": "2024-09-20T10:25:53Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/226",
+      "text": "Review and Rework: Beckn-ONIX specification: Creating a new specification doc only with the core functionalities"
     }
   ],
   "open_prs": [],

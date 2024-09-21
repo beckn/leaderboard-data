@@ -350,6 +350,20 @@
       "time": "2024-09-19T13:24:32Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/153",
       "text": "Fixed check violation issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#154",
+      "time": "2024-09-20T07:13:56Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/154",
+      "text": "Added pp actions in get all policies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#155",
+      "time": "2024-09-20T08:06:07Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/155",
+      "text": "Fixed violation issue"
     }
   ],
   "open_prs": [],
