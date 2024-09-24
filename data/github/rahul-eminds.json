@@ -364,6 +364,13 @@
       "time": "2024-09-20T08:06:07Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/155",
       "text": "Fixed violation issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#156",
+      "time": "2024-09-23T11:21:40Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/156",
+      "text": "Fixed policy update issue"
     }
   ],
   "open_prs": [],
