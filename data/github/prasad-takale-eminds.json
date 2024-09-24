@@ -343,6 +343,13 @@
       "time": "2024-09-20T04:46:46Z",
       "link": "https://github.com/beckn/beckn-onix/pull/225",
       "text": "New Develop Branch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#227",
+      "time": "2024-09-23T09:45:54Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/227",
+      "text": "Add Layer 2 config prompt to beckn-onix installation #222"
     }
   ],
   "open_prs": [],

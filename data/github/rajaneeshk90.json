@@ -1057,6 +1057,34 @@
       "time": "2024-09-05T12:08:30Z",
       "link": "https://github.com/beckn/protocol-server/issues/227",
       "text": "Mobility Layer2 config: check out the issues with validation with openAPI version 3.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#232",
+      "time": "2024-09-23T12:44:42Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/232",
+      "text": "L2 config for UEI: p2p use case"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#231",
+      "time": "2024-09-23T10:52:02Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/231",
+      "text": "creating the example jsons for the UEI: P2P use case"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#230",
+      "time": "2024-09-23T10:48:23Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/230",
+      "text": " Mobility Layer2 config: calls and team sync to sort out and communicate the issues between the team and ONDC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#229",
+      "time": "2024-09-23T10:45:07Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/229",
+      "text": "exploring the options to add one click experience of the UEI examples. "
     }
   ],
   "open_prs": [],

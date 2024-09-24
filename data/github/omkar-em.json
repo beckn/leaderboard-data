@@ -2219,6 +2219,41 @@
       "time": "2024-06-03T06:13:46Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1182",
       "text": "Industry 4.0 - remove location access dependency to display search response"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2184",
+      "time": "2024-09-23T10:55:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2184",
+      "text": "Policy Portal - Inactive policy from the policy portal is still being applied in the mobility application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2183",
+      "time": "2024-09-23T10:48:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2183",
+      "text": "Policy Portal - Reset password email is showing \"Beckn Policy Password Reset\" and incorrect email address (aniket.chahare@eminds.ai)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2182",
+      "time": "2024-09-23T10:46:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2182",
+      "text": "Policy Portal - Reset password request from staging is generating a link from dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2180",
+      "time": "2024-09-23T09:08:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2180",
+      "text": "Mobility - Search functionality is not working in rider app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2179",
+      "time": "2024-09-23T06:32:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2179",
+      "text": "Mobility -  Driver name mismatch in rider app when two drivers with the same categories receive a ride request"
     }
   ],
   "open_prs": [],

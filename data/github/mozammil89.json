@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-09-23T17:29:53Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#233",
+      "time": "2024-09-23T17:29:53Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/233",
+      "text": "feat: Add AWS CDK project and Helm charts for Beckn-Onix deployment o…"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
