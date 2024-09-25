@@ -833,6 +833,13 @@
       "time": "2024-09-06T01:33:50Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2023",
       "text": "Code Setup for Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2185",
+      "time": "2024-09-24T13:37:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2185",
+      "text": "P2P Energy Usecase : Setup the Catalogue in the BPP"
     }
   ],
   "open_prs": [],
