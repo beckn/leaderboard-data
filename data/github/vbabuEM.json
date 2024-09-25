@@ -2016,6 +2016,34 @@
       "time": "2024-09-20T11:12:23Z",
       "link": "https://github.com/beckn/beckn-onix/pull/227",
       "text": "Add Layer 2 config prompt to beckn-onix installation #222"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/beckn-onix#233",
+      "time": "2024-09-23T17:29:53Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/233",
+      "text": "feat: Add AWS CDK project and Helm charts for Beckn-Onix deployment o…"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#132",
+      "time": "2024-09-24T06:38:28Z",
+      "link": "https://github.com/beckn/missions/issues/132",
+      "text": "Work on UEI Demo script"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#131",
+      "time": "2024-09-24T05:59:13Z",
+      "link": "https://github.com/beckn/missions/issues/131",
+      "text": "Briefly review the beckn ai agent implementations"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#121",
+      "time": "2024-09-16T05:16:40Z",
+      "link": "https://github.com/beckn/missions/issues/121",
+      "text": "Review Xplor deployment process"
     }
   ],
   "open_prs": [],
