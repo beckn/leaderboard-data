@@ -1085,6 +1085,20 @@
       "time": "2024-09-23T10:45:07Z",
       "link": "https://github.com/beckn/beckn-onix/issues/229",
       "text": "exploring the options to add one click experience of the UEI examples. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/Unified-Energy-Interface#18",
+      "time": "2024-09-25T10:30:26Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/18",
+      "text": "Validating UEI Specification and examples against the Beckn Core specification v 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/Unified-Energy-Interface#26",
+      "time": "2024-09-25T11:20:27Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/26",
+      "text": "update release history section in Readme"
     }
   ],
   "open_prs": [],

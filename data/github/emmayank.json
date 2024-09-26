@@ -3500,6 +3500,13 @@
       "time": "2024-09-24T14:02:40Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/92",
       "text": "Create User guide for P2P Energy trading demo using Beckn gemini"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#485",
+      "time": "2024-04-03T06:46:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/485",
+      "text": "Validating UEI Specification with Core v 1.1.0"
     }
   ],
   "open_prs": [],
