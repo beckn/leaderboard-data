@@ -2254,6 +2254,20 @@
       "time": "2024-09-23T06:32:03Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2179",
       "text": "Mobility -  Driver name mismatch in rider app when two drivers with the same categories receive a ride request"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2197",
+      "time": "2024-09-25T10:25:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2197",
+      "text": "QA for Mobility Demo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2194",
+      "time": "2024-09-25T06:41:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2194",
+      "text": "EC - Search functionality is not working in tourism and retail apps in staging env"
     }
   ],
   "open_prs": [],

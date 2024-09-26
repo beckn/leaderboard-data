@@ -840,6 +840,13 @@
       "time": "2024-09-24T13:37:04Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2185",
       "text": "P2P Energy Usecase : Setup the Catalogue in the BPP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#157",
+      "time": "2024-09-25T07:18:32Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/157",
+      "text": "Modified API for P2P energy search"
     }
   ],
   "open_prs": [],
