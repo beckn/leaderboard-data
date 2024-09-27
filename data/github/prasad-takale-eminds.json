@@ -350,6 +350,20 @@
       "time": "2024-09-23T09:45:54Z",
       "link": "https://github.com/beckn/beckn-onix/pull/227",
       "text": "Add Layer 2 config prompt to beckn-onix installation #222"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2202",
+      "time": "2024-09-26T14:05:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2202",
+      "text": "Setup Notification for AWS Amplify Deployment Failure"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2201",
+      "time": "2024-09-26T14:05:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2201",
+      "text": "AWS Amplify Triggering Build for All Applications Even When Code is Changed for One Application"
     }
   ],
   "open_prs": [],
