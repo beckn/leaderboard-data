@@ -1498,6 +1498,20 @@
       "time": "2024-09-23T10:12:34Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2181",
       "text": "fix(mobility-bap-bpp): fix issues of driver app and mobility user app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2198",
+      "time": "2024-09-26T07:34:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2198",
+      "text": "feat(p2p-energy): added project setup & search page, catelog page design"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2200",
+      "time": "2024-09-26T10:10:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2200",
+      "text": "fix(p2p-energy): modified code to filtering & product details"
     }
   ],
   "open_prs": [],

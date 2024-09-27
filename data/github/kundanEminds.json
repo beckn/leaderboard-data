@@ -2821,6 +2821,13 @@
       "time": "2024-09-25T07:18:23Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2195",
       "text": "fix(DSEP): integrated auth middleware and header in dsep from common …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2195",
+      "time": "2024-09-26T07:36:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2195",
+      "text": "fix(DSEP): integrated auth middleware and header in dsep from common …"
     }
   ],
   "open_prs": [],

@@ -2044,6 +2044,20 @@
       "time": "2024-09-16T05:16:40Z",
       "link": "https://github.com/beckn/missions/issues/121",
       "text": "Review Xplor deployment process"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#134",
+      "time": "2024-09-26T04:49:27Z",
+      "link": "https://github.com/beckn/missions/issues/134",
+      "text": "Refine installation instructions and write document on improving Beckn-Vendure plugin design"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#133",
+      "time": "2024-09-26T04:45:23Z",
+      "link": "https://github.com/beckn/missions/issues/133",
+      "text": "Add EVSE details, supported Charging transaction type to the UEI Implementation guide"
     }
   ],
   "open_prs": [],
