@@ -1106,6 +1106,13 @@
       "time": "2024-09-26T11:07:43Z",
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/27",
       "text": "Change in the example implementation and implementation guide for the EV charging use case."
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/mobility#84",
+      "time": "2024-09-27T19:12:25Z",
+      "link": "https://github.com/beckn/mobility/pull/84",
+      "text": "L2 config sample"
     }
   ],
   "open_prs": [],

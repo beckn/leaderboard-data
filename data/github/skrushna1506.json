@@ -294,6 +294,20 @@
       "time": "2024-09-20T08:25:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2167",
       "text": "fix(OSC): fixed provider id in search payload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2199",
+      "time": "2024-09-27T05:26:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2199",
+      "text": "feat(dsep): homepage integration using common packages"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2204",
+      "time": "2024-09-27T12:15:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2204",
+      "text": "feat(dsep): test cases for dsep"
     }
   ],
   "open_prs": [],

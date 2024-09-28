@@ -462,6 +462,13 @@
       "time": "2024-07-31T09:47:37Z",
       "link": "https://github.com/beckn/missions/issues/25",
       "text": "Create an Implementation guide for UPPCL P2P"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#8",
+      "time": "2024-07-24T07:16:48Z",
+      "link": "https://github.com/beckn/missions/issues/8",
+      "text": "VISTAAR: Create Implementation guide Vistaar"
     }
   ],
   "open_prs": [],
