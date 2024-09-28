@@ -154,6 +154,13 @@
       "time": "2024-03-11T11:11:57Z",
       "link": "https://github.com/beckn/OSM-app/issues/158",
       "text": "OSC - Phone number of Sign-up page should have '+' prefix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#60",
+      "time": "2024-01-09T12:31:27Z",
+      "link": "https://github.com/beckn/protocol-server/issues/60",
+      "text": "CORS Issues"
     }
   ],
   "open_prs": [],

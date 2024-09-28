@@ -1624,6 +1624,13 @@
       "time": "2024-03-22T07:46:00Z",
       "link": "https://github.com/beckn/beckn-onix/issues/2",
       "text": "Enhance beckn-onix to support system upgrade without losing previous data"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#77",
+      "time": "2024-03-13T08:01:21Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/77",
+      "text": "BAP search provider architecture"
     }
   ],
   "open_prs": [],

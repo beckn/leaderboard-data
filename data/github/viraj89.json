@@ -3766,6 +3766,34 @@
       "time": "2024-02-28T14:24:09Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/206",
       "text": "Publish Release Notes for Mobility and Strapi Plugins"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#99",
+      "time": "2024-09-04T12:53:11Z",
+      "link": "https://github.com/beckn/missions/issues/99",
+      "text": "Beckn-Onix spec version 1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#73",
+      "time": "2024-08-19T10:29:02Z",
+      "link": "https://github.com/beckn/missions/issues/73",
+      "text": "Troubleshooting Guide V1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#71",
+      "time": "2024-08-19T10:01:56Z",
+      "link": "https://github.com/beckn/missions/issues/71",
+      "text": "Comprehensive Starter Kit - V2.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#50",
+      "time": "2024-08-12T09:51:03Z",
+      "link": "https://github.com/beckn/missions/issues/50",
+      "text": "UEI 2-Day Workshop"
     }
   ],
   "open_prs": [],
