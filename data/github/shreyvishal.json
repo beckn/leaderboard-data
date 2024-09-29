@@ -1911,6 +1911,13 @@
       "time": "2024-09-16T14:49:12Z",
       "link": "https://github.com/beckn/beckn-sandbox/pull/24",
       "text": "Added: Postman Collection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#104",
+      "time": "2024-09-28T12:20:18Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/104",
+      "text": "Beckn gemini temp1"
     }
   ],
   "open_prs": [],

@@ -1519,6 +1519,13 @@
       "time": "2024-09-27T05:03:47Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2200",
       "text": "fix(p2p-energy): modified code to filtering & product details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2205",
+      "time": "2024-09-28T09:08:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2205",
+      "text": "fix(p2p-energy): added summary, billing, payment, orderconfirmarion p…"
     }
   ],
   "open_prs": [],
