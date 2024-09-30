@@ -378,6 +378,13 @@
       "time": "2024-09-26T11:37:08Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/158",
       "text": "Added ptop-energy plugin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#158",
+      "time": "2024-09-29T07:52:23Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/158",
+      "text": "Added ptop-energy plugin"
     }
   ],
   "open_prs": [],
