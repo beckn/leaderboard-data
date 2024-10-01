@@ -2156,6 +2156,20 @@
       "time": "2024-01-31T07:32:34Z",
       "link": "https://github.com/beckn/vendure/issues/8",
       "text": "Add feedback endpoint to Plugin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/vendure#96",
+      "time": "2024-09-30T11:44:09Z",
+      "link": "https://github.com/beckn/vendure/pull/96",
+      "text": "Add developer instructions"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#134",
+      "time": "2024-09-26T04:49:27Z",
+      "link": "https://github.com/beckn/missions/issues/134",
+      "text": "Refine installation instructions and write document on improving Beckn-Vendure plugin design"
     }
   ],
   "open_prs": [],

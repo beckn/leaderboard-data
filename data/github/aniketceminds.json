@@ -1533,6 +1533,48 @@
       "time": "2024-09-29T08:22:19Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2205",
       "text": "fix(p2p-energy): added summary, billing, payment, orderconfirmarion p…"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2218",
+      "time": "2024-09-30T09:58:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2218",
+      "text": "Taxi BPP - Update the Get Driver Profile API to get Provider details"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2210",
+      "time": "2024-09-30T04:55:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2210",
+      "text": "Disable Apply & Dispute Buttons for Active and Inactive Policies - Mobility Policies / QuarantineZone Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2209",
+      "time": "2024-09-30T04:54:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2209",
+      "text": "Fix Description Field Next Line Validation Failure - Policy Admin Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2208",
+      "time": "2024-09-30T04:54:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2208",
+      "text": "Update Driver Availability to False on Logout from Application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2206",
+      "time": "2024-09-30T04:54:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2206",
+      "text": "Mobility Rider App - Updating the old policy URLs with new policy URLs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2217",
+      "time": "2024-09-30T09:20:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2217",
+      "text": "fix(p2p-energy): fixed order summary pricing issue"
     }
   ],
   "open_prs": [],

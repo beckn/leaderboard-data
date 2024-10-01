@@ -1120,6 +1120,20 @@
       "time": "2024-09-28T11:28:28Z",
       "link": "https://github.com/beckn/protocol-specifications/pull/449",
       "text": "Add Documentation for Layering Network Policy Framework"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#449",
+      "time": "2024-09-30T04:49:56Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/449",
+      "text": "Add Documentation for Layering Network Policy Framework"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility#84",
+      "time": "2024-09-30T04:47:27Z",
+      "link": "https://github.com/beckn/mobility/pull/84",
+      "text": "Sample Layer 2 configuration using OpenAPI version 3.1"
     }
   ],
   "open_prs": [],
