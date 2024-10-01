@@ -1925,6 +1925,13 @@
       "time": "2024-09-29T13:35:04Z",
       "link": "https://github.com/beckn/transactional-ai-bap/pull/105",
       "text": "Beckn gemini temp1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/transactional-ai-bap#106",
+      "time": "2024-09-30T16:14:11Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/pull/106",
+      "text": "Added: Image processing and Improved prompts"
     }
   ],
   "open_prs": [],

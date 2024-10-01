@@ -2835,6 +2835,48 @@
       "time": "2024-09-27T10:37:53Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2203",
       "text": "feat(DSEP): integrated product details and respective types in dsep"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2215",
+      "time": "2024-09-30T05:26:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2215",
+      "text": "Integrate Header and Respective Type Models, Utilities and Store from Common Packages into DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2214",
+      "time": "2024-09-30T05:26:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2214",
+      "text": "DSEP Codebase Analysis Plan for Tech Debt"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2213",
+      "time": "2024-09-30T05:26:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2213",
+      "text": "Integrate Product Details Page and Respective Type Models, Utilities, and Store from Common Packages into DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2212",
+      "time": "2024-09-30T05:25:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2212",
+      "text": "Integrate Order Confirmation and Respective Type Models, Utilities, and Store from Common Packages into DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2211",
+      "time": "2024-09-30T05:25:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2211",
+      "text": "Integrate /signIn, /signUp Page with Middleware and Respective Type Models, Utilities and Store from Common Packages into DSEP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2216",
+      "time": "2024-09-30T12:37:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2216",
+      "text": "fix(DSEP): integrated payment page order confirmation and cancelation…"
     }
   ],
   "open_prs": [],
