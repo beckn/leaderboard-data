@@ -2877,6 +2877,13 @@
       "time": "2024-09-30T12:37:18Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2216",
       "text": "fix(DSEP): integrated payment page order confirmation and cancelation…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2224",
+      "time": "2024-10-01T08:54:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2224",
+      "text": "fix: fixed footer position for p2p  energy"
     }
   ],
   "open_prs": [],

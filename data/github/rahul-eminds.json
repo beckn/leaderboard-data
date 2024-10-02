@@ -385,6 +385,20 @@
       "time": "2024-09-29T07:52:23Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/158",
       "text": "Added ptop-energy plugin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#159",
+      "time": "2024-10-01T06:23:41Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/159",
+      "text": "Added provider data in driver profile details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#233",
+      "time": "2024-10-01T04:34:20Z",
+      "link": "https://github.com/beckn/protocol-server/pull/233",
+      "text": "P26 ajv"
     }
   ],
   "open_prs": [],
