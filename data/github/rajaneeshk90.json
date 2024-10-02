@@ -1134,6 +1134,34 @@
       "time": "2024-09-30T04:47:27Z",
       "link": "https://github.com/beckn/mobility/pull/84",
       "text": "Sample Layer 2 configuration using OpenAPI version 3.1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/Unified-Energy-Interface#28",
+      "time": "2024-10-01T12:41:22Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/28",
+      "text": "Layer 2 configuration for the EV charging and the P2P trading use cases."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#236",
+      "time": "2024-10-01T13:03:05Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/236",
+      "text": "Add documentation in the Core Protocol specification github repository corresponding to the network policy rules"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#235",
+      "time": "2024-10-01T12:57:02Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/235",
+      "text": "Add a sample Mobility Layer 2 configuration in the beckn Mobility repo"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#229",
+      "time": "2024-09-23T10:45:07Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/229",
+      "text": "exploring the options to add one click experience of the UEI examples. "
     }
   ],
   "open_prs": [],

@@ -2268,6 +2268,27 @@
       "time": "2024-09-25T06:41:03Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2194",
       "text": "EC - Search functionality is not working in tourism and retail apps in staging env"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2227",
+      "time": "2024-10-01T07:25:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2227",
+      "text": "p2p energy BAP - Unable to save shipping details while checking out the order"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2226",
+      "time": "2024-10-01T07:21:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2226",
+      "text": "p2p energy BAP - Able to order negative units from the product description page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2225",
+      "time": "2024-10-01T07:17:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2225",
+      "text": "p2p energy BAP - search page allows non-numeric input and displays unclear error message"
     }
   ],
   "open_prs": [],

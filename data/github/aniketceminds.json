@@ -1575,6 +1575,27 @@
       "time": "2024-09-30T09:20:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2217",
       "text": "fix(p2p-energy): fixed order summary pricing issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2228",
+      "time": "2024-10-01T07:33:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2228",
+      "text": "fix(taxi-bpp): fix issues to add provider details in profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2230",
+      "time": "2024-10-01T10:06:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2230",
+      "text": "fix(p2p-energy): issue related to UI chnges and functional"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2231",
+      "time": "2024-10-01T13:02:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2231",
+      "text": "fix(p2p-energy): enhancement in UI desisgns and functional"
     }
   ],
   "open_prs": [],
