@@ -2884,6 +2884,13 @@
       "time": "2024-10-01T08:54:20Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2224",
       "text": "fix: fixed footer position for p2p  energy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2234",
+      "time": "2024-10-02T14:45:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2234",
+      "text": "fix: fixed responsiveness for p2p  energy"
     }
   ],
   "open_prs": [],

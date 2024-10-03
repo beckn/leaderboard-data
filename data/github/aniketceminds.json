@@ -1596,6 +1596,20 @@
       "time": "2024-10-01T13:02:28Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2231",
       "text": "fix(p2p-energy): enhancement in UI desisgns and functional"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2232",
+      "time": "2024-10-02T05:42:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2232",
+      "text": "fix(p2p-energy): added landing page to p2p-energy app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2233",
+      "time": "2024-10-02T08:32:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2233",
+      "text": "fix(p2p-energy): fix code to add default msg in whatsap link & ordr c…"
     }
   ],
   "open_prs": [],
