@@ -2891,6 +2891,13 @@
       "time": "2024-10-02T14:45:01Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2234",
       "text": "fix: fixed responsiveness for p2p  energy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2235",
+      "time": "2024-10-03T04:57:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2235",
+      "text": "fix: fixed lisa section font sizes"
     }
   ],
   "open_prs": [],

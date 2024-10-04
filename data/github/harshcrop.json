@@ -56,6 +56,27 @@
       "time": "2024-09-05T09:06:29Z",
       "link": "https://github.com/beckn/missions/issues/102",
       "text": "Working on Beckn Onix Hackathon"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#137",
+      "time": "2024-10-03T07:48:20Z",
+      "link": "https://github.com/beckn/missions/issues/137",
+      "text": "Create Two New Public Repo for Xplor"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#136",
+      "time": "2024-10-03T06:29:22Z",
+      "link": "https://github.com/beckn/missions/issues/136",
+      "text": "Github repo clean up"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#105",
+      "time": "2024-09-06T08:56:37Z",
+      "link": "https://github.com/beckn/missions/issues/105",
+      "text": "Win Room Planning"
     }
   ],
   "open_prs": [],
