@@ -3507,6 +3507,41 @@
       "time": "2024-04-03T06:46:24Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/485",
       "text": "Validating UEI Specification with Core v 1.1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2153",
+      "time": "2024-09-18T08:50:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2153",
+      "text": "Cypress E2E Test Cases for Cart Page in DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2152",
+      "time": "2024-09-18T08:50:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2152",
+      "text": "Cypress E2E Test Cases for Product Page in DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2151",
+      "time": "2024-09-18T08:50:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2151",
+      "text": "Cypress E2E Test Cases for SearchPage in DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2150",
+      "time": "2024-09-18T08:50:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2150",
+      "text": "Cypress E2E Test Cases for Home Page in DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2149",
+      "time": "2024-09-18T08:50:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2149",
+      "text": "Cypress E2E Test Cases for Sign In Sign Up page Page in DSEP"
     }
   ],
   "open_prs": [],

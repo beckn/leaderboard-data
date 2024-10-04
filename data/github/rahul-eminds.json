@@ -399,6 +399,27 @@
       "time": "2024-10-01T04:34:20Z",
       "link": "https://github.com/beckn/protocol-server/pull/233",
       "text": "P26 ajv"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#161",
+      "time": "2024-10-03T13:09:54Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/161",
+      "text": "Apply Sort Filter in Get All Policies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#160",
+      "time": "2024-10-03T06:40:29Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/160",
+      "text": "Fetched provider data in driver profile details"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#237",
+      "time": "2024-10-03T12:58:06Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/237",
+      "text": "Beckn Onix - End to End Transaction Testing"
     }
   ],
   "open_prs": [],

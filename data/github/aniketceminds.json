@@ -1610,6 +1610,20 @@
       "time": "2024-10-02T08:32:29Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2233",
       "text": "fix(p2p-energy): fix code to add default msg in whatsap link & ordr c…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2228",
+      "time": "2024-10-03T09:29:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2228",
+      "text": "fix(taxi-bpp): fix issues to add provider details in profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2237",
+      "time": "2024-10-03T10:28:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2237",
+      "text": "Develop 1.1.0"
     }
   ],
   "open_prs": [],

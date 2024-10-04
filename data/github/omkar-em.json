@@ -2289,6 +2289,13 @@
       "time": "2024-10-01T07:17:15Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2225",
       "text": "p2p energy BAP - search page allows non-numeric input and displays unclear error message"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2110",
+      "time": "2024-09-16T05:35:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2110",
+      "text": "Search by Location Not Working in OSC App"
     }
   ],
   "open_prs": [],

@@ -70,6 +70,13 @@
       "time": "2024-09-30T12:04:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2219",
       "text": "Happy Flow Testing for Himalaya"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2238",
+      "time": "2024-10-03T12:32:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2238",
+      "text": "Negative Flow Testing for Himalaya"
     }
   ],
   "open_prs": [],
