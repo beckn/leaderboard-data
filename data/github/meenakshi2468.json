@@ -189,6 +189,41 @@
       "time": "2024-04-10T09:51:51Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/77",
       "text": "MIT Catalog feedback - Review with Mayur on April 10"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#138",
+      "time": "2024-10-04T06:37:33Z",
+      "link": "https://github.com/beckn/missions/issues/138",
+      "text": "KT session"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#241",
+      "time": "2024-10-04T06:47:13Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/241",
+      "text": "Define tags for Purple Economy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#240",
+      "time": "2024-10-04T06:42:43Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/240",
+      "text": "L2 configs for home services"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#239",
+      "time": "2024-10-04T06:32:01Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/239",
+      "text": "UEI Interoperability - Network Launch"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#238",
+      "time": "2024-10-04T06:24:36Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/238",
+      "text": "Enhancing documentations on UEI"
     }
   ],
   "open_prs": [],

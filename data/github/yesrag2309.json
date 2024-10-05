@@ -105,6 +105,13 @@
       "time": "2024-09-06T09:03:25Z",
       "link": "https://github.com/beckn/missions/issues/106",
       "text": "Github repo clean up"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#226",
+      "time": "2024-09-20T10:25:53Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/226",
+      "text": "Review and Rework: Beckn-ONIX specification: Creating a new specification doc only with the core functionalities"
     }
   ],
   "open_prs": [],
