@@ -1162,6 +1162,62 @@
       "time": "2024-09-23T10:45:07Z",
       "link": "https://github.com/beckn/beckn-onix/issues/229",
       "text": "exploring the options to add one click experience of the UEI examples. "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#244",
+      "time": "2024-10-04T18:36:36Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/244",
+      "text": "Integrate swagger UI in the beckn-onix repository"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#236",
+      "time": "2024-10-01T13:03:05Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/236",
+      "text": "Add documentation in the Core Protocol specification github repository corresponding to the network policy rules"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#235",
+      "time": "2024-10-01T12:57:02Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/235",
+      "text": "Add a sample Mobility Layer 2 configuration in the beckn Mobility repo"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#232",
+      "time": "2024-09-23T12:44:42Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/232",
+      "text": "L2 config for UEI: p2p use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#231",
+      "time": "2024-09-23T10:52:02Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/231",
+      "text": "creating the example jsons for the UEI: P2P use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#230",
+      "time": "2024-09-23T10:48:23Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/230",
+      "text": " Mobility Layer2 config: calls and team sync to sort out and communicate the issues between the team and ONDC"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#242",
+      "time": "2024-10-04T15:37:25Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/242",
+      "text": " Integrate Swagger UI into the beckn-onix repository."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#243",
+      "time": "2024-10-04T18:33:50Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/243",
+      "text": "Swagger integration"
     }
   ],
   "open_prs": [],
