@@ -2898,6 +2898,20 @@
       "time": "2024-10-03T04:57:52Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2235",
       "text": "fix: fixed lisa section font sizes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2241",
+      "time": "2024-10-07T06:01:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2241",
+      "text": "Cypress E2E Test Cases for myLearningOrderHistoryPage  in DSEP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2240",
+      "time": "2024-10-07T05:44:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2240",
+      "text": "feat(DSEP): cypress text case for my learing page"
     }
   ],
   "open_prs": [],

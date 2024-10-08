@@ -1218,6 +1218,20 @@
       "time": "2024-10-04T18:33:50Z",
       "link": "https://github.com/beckn/beckn-onix/pull/243",
       "text": "Swagger integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#248",
+      "time": "2024-10-07T15:32:52Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/248",
+      "text": "Add a markdown version of Beckn-ONIX specification in the beckn-onix repository"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#247",
+      "time": "2024-10-07T15:27:43Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/247",
+      "text": "Add Markdown version of Beckn-ONIX Specification "
     }
   ],
   "open_prs": [],
