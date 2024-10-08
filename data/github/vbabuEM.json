@@ -2170,6 +2170,13 @@
       "time": "2024-09-26T04:49:27Z",
       "link": "https://github.com/beckn/missions/issues/134",
       "text": "Refine installation instructions and write document on improving Beckn-Vendure plugin design"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#222",
+      "time": "2024-09-13T16:11:08Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/222",
+      "text": "Add Layer 2 config prompt back to installation"
     }
   ],
   "open_prs": [],

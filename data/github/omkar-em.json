@@ -2296,6 +2296,27 @@
       "time": "2024-09-16T05:35:47Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2110",
       "text": "Search by Location Not Working in OSC App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2242",
+      "time": "2024-10-07T06:55:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2242",
+      "text": "EC - Toursim & retail - Catalogues for tourism and retail apps are missing in staging environment, causing no search results"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2180",
+      "time": "2024-09-23T09:08:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2180",
+      "text": "Mobility - Search functionality is not working in rider app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2111",
+      "time": "2024-09-16T07:55:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2111",
+      "text": "Strapi - Incorrect BPP URL configured in Strapi production environment"
     }
   ],
   "open_prs": [],
