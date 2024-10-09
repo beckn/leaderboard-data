@@ -1631,6 +1631,62 @@
       "time": "2024-10-07T08:00:16Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2243",
       "text": "feat(mobility-bap): added test ids for home page and map"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2256",
+      "time": "2024-10-08T12:26:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2256",
+      "text": "Tech debt - Cancel search flow test cases for Mobility BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2250",
+      "time": "2024-10-08T05:19:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2250",
+      "text": "Tech debt - Home page test cases for Mobility BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2249",
+      "time": "2024-10-08T05:16:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2249",
+      "text": "p2p energy BAP - Add default 'Hi' message when opening whatsapp/becknBot"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2247",
+      "time": "2024-10-08T05:16:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2247",
+      "text": "p2p energy BAP - Alignment of background img & Responsive UI of landing page and application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2246",
+      "time": "2024-10-08T05:16:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2246",
+      "text": "P2P Energy BAP: Landing Page UI Changes - Update \"Powered By\" Icon"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2245",
+      "time": "2024-10-08T05:16:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2245",
+      "text": "P2P Energy BAP: Landing Page UI Changes (Header, Description, Application Logo)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2255",
+      "time": "2024-10-08T12:45:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2255",
+      "text": "feat(mobility-bap): add cypress tests for mobility home page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2258",
+      "time": "2024-10-08T16:52:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2258",
+      "text": "fix(policy-admin): fix validation issue in create policy form"
     }
   ],
   "open_prs": [],

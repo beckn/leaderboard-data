@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-10-08T10:19:33Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#249",
+      "time": "2024-10-08T10:19:33Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/249",
+      "text": "empty response for any path apart from /search and /on_search"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
