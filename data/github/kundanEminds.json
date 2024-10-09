@@ -2912,6 +2912,27 @@
       "time": "2024-10-07T05:44:00Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2240",
       "text": "feat(DSEP): cypress text case for my learing page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2248",
+      "time": "2024-10-08T05:16:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2248",
+      "text": "Cypress E2E Test Cases for jobDetailsPage in DSEP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2240",
+      "time": "2024-10-08T12:00:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2240",
+      "text": "feat(DSEP): cypress text case for my learing page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2251",
+      "time": "2024-10-08T12:05:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2251",
+      "text": "feat(DSEP): cypress text case for job search"
     }
   ],
   "open_prs": [],

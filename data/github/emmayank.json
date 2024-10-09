@@ -3654,6 +3654,34 @@
       "time": "2024-09-18T08:09:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2137",
       "text": "Policyadmin Deployment in Staging Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#236",
+      "time": "2024-10-08T16:32:07Z",
+      "link": "https://github.com/beckn/protocol-server/issues/236",
+      "text": "Release new version of protocol server"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#235",
+      "time": "2024-10-08T16:32:01Z",
+      "link": "https://github.com/beckn/protocol-server/issues/235",
+      "text": "Testing protocol server with the test plan"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#234",
+      "time": "2024-10-08T16:31:54Z",
+      "link": "https://github.com/beckn/protocol-server/issues/234",
+      "text": "Creating test plan for protocol server new changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#25",
+      "time": "2024-10-08T16:42:57Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/25",
+      "text": "Update approach document of dynamic sandbox for dynamic catalogue generation using generative ai"
     }
   ],
   "open_prs": [],

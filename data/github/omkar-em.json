@@ -2317,6 +2317,20 @@
       "time": "2024-09-16T07:55:07Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2111",
       "text": "Strapi - Incorrect BPP URL configured in Strapi production environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2254",
+      "time": "2024-10-08T10:22:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2254",
+      "text": "Policy Portal - Title and description fields give error even when they meet the minimum character requirement"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2253",
+      "time": "2024-10-08T08:35:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2253",
+      "text": "Open Spark - p2p uei - CORS error encountered when searching for prosumer in Open Spark app"
     }
   ],
   "open_prs": [],
