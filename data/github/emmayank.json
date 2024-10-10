@@ -3682,6 +3682,48 @@
       "time": "2024-10-08T16:42:57Z",
       "link": "https://github.com/beckn/beckn-sandbox/issues/25",
       "text": "Update approach document of dynamic sandbox for dynamic catalogue generation using generative ai"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#117",
+      "time": "2024-10-09T10:46:01Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/117",
+      "text": "Beckn-gemini-bot enhancement - switching between flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#116",
+      "time": "2024-10-09T10:45:55Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/116",
+      "text": "Beckn-gemini-bot enhancement - retrial mechanism incase of error"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#115",
+      "time": "2024-10-09T10:45:49Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/115",
+      "text": "Beckn-gemini bot enhancement - adding support for voice / video/ image input"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#114",
+      "time": "2024-10-09T10:45:42Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/114",
+      "text": "Beckn-gemini bot enhancement - controlling json / code output"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#113",
+      "time": "2024-10-09T10:45:33Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/113",
+      "text": "Beckn-gemini-bot enhancement - preserving chat context"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#112",
+      "time": "2024-09-24T14:58:35Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/112",
+      "text": "P2P Energy Usecase : trgger the beckn-gemini-bot webhook for order confirmation to prosumer"
     }
   ],
   "open_prs": [],

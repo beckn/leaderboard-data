@@ -1197,6 +1197,13 @@
       "time": "2024-09-19T12:56:39Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2174",
       "text": "Cypress R&D to get proper html reports instead of just screenshots"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#231",
+      "time": "2024-10-09T03:38:13Z",
+      "link": "https://github.com/beckn/protocol-server/pull/231",
+      "text": "raising and sending exception back in case of bap client"
     }
   ],
   "open_prs": [],

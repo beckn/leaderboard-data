@@ -2331,6 +2331,34 @@
       "time": "2024-10-08T08:35:20Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2253",
       "text": "Open Spark - p2p uei - CORS error encountered when searching for prosumer in Open Spark app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2264",
+      "time": "2024-10-09T10:22:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2264",
+      "text": "Mobility - Driver name mismatch in rider app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2263",
+      "time": "2024-10-09T10:20:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2263",
+      "text": "Mobility - Driver is not receiving pop-up to accept rides in staging environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2114",
+      "time": "2024-09-17T06:29:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2114",
+      "text": "Policy Portal - Admin portal left side panel is not responsive on smaller screens"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2095",
+      "time": "2024-09-12T04:56:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2095",
+      "text": "Mobility - Both drivers displayed after completing a ride and searching for another ride, only the nearby driver should be shown"
     }
   ],
   "open_prs": [],
