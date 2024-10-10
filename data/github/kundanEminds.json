@@ -2933,6 +2933,20 @@
       "time": "2024-10-08T12:05:42Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2251",
       "text": "feat(DSEP): cypress text case for job search"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2261",
+      "time": "2024-10-09T09:39:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2261",
+      "text": "Cypress E2E Test Cases for Job Application Form For DSEP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2262",
+      "time": "2024-10-09T09:42:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2262",
+      "text": "feat(DSEP): cypress text case for job apply page"
     }
   ],
   "open_prs": [],

@@ -1687,6 +1687,20 @@
       "time": "2024-10-08T16:52:00Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2258",
       "text": "fix(policy-admin): fix validation issue in create policy form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2260",
+      "time": "2024-10-09T06:38:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2260",
+      "text": "Tech debt - Catalog screen flow test cases for Mobility BAP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2259",
+      "time": "2024-10-09T05:02:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2259",
+      "text": "Develop 1.1.0"
     }
   ],
   "open_prs": [],

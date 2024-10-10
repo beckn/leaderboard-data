@@ -868,6 +868,13 @@
       "time": "2024-10-01T04:48:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2221",
       "text": "Mobility Bug: Agent and Vehicle Details Not Returned in Status Call"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#237",
+      "time": "2024-10-09T03:40:50Z",
+      "link": "https://github.com/beckn/protocol-server/pull/237",
+      "text": "Develop"
     }
   ],
   "open_prs": [],
