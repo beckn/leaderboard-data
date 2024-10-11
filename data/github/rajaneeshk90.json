@@ -1232,6 +1232,34 @@
       "time": "2024-10-07T15:27:43Z",
       "link": "https://github.com/beckn/beckn-onix/pull/247",
       "text": "Add Markdown version of Beckn-ONIX Specification "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#250",
+      "time": "2024-10-10T05:48:01Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/250",
+      "text": "IGM: Initial research for creating Specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#251",
+      "time": "2024-10-10T07:41:45Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/251",
+      "text": "Swagger integration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#253",
+      "time": "2024-10-10T07:43:14Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/253",
+      "text": "Adding the markdown version of the Beckn Specification document in the repo"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#254",
+      "time": "2024-10-10T14:46:23Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/254",
+      "text": "Adding mobility layer2 config created with ONDC rules"
     }
   ],
   "open_prs": [],

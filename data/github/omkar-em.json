@@ -2359,6 +2359,55 @@
       "time": "2024-09-12T04:56:43Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2095",
       "text": "Mobility - Both drivers displayed after completing a ride and searching for another ride, only the nearby driver should be shown"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2278",
+      "time": "2024-10-10T14:43:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2278",
+      "text": "Policy Portal- Date validation is failing, allowing backdated policies to be created and applied"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2277",
+      "time": "2024-10-10T14:41:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2277",
+      "text": "Policies - Disputed filter is not working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2276",
+      "time": "2024-10-10T14:39:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2276",
+      "text": "Policies - Policy filter options should only include \"All,\" \"Applied,\" \"Disputed,\" and \"New\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2275",
+      "time": "2024-10-10T14:35:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2275",
+      "text": "policy portal - Country and city are not in sync in Policy Portal's new policy creation form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2274",
+      "time": "2024-10-10T14:19:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2274",
+      "text": "'From and To Date' Validation Issue in Policy Creation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2271",
+      "time": "2024-10-10T09:53:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2271",
+      "text": "EC - \"Video does not exist\" message is showing in EC applications"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2270",
+      "time": "2024-10-10T09:52:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2270",
+      "text": "Smart Cities - \"Video does not exist\" message is showing for \"A World Without Beckn\" tab in Smart Cities application"
     }
   ],
   "open_prs": [],

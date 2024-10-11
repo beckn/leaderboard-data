@@ -3724,6 +3724,13 @@
       "time": "2024-09-24T14:58:35Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/112",
       "text": "P2P Energy Usecase : trgger the beckn-gemini-bot webhook for order confirmation to prosumer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#26",
+      "time": "2024-10-10T09:54:54Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/26",
+      "text": "Catalogue generation in Sandbox using Gen-AI"
     }
   ],
   "open_prs": [],
