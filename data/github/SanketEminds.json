@@ -77,6 +77,13 @@
       "time": "2024-10-03T12:32:50Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2238",
       "text": "Negative Flow Testing for Himalaya"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2272",
+      "time": "2024-10-10T10:43:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2272",
+      "text": "Irrelevant search results displayed for keyword search in OSC dev environment"
     }
   ],
   "open_prs": [],

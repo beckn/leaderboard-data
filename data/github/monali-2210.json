@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-10-10T07:36:52Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#252",
+      "time": "2024-10-10T07:36:52Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/252",
+      "text": "feat: added AWS managed service provisioning"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
