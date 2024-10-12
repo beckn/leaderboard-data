@@ -2408,6 +2408,41 @@
       "time": "2024-10-10T09:52:43Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2270",
       "text": "Smart Cities - \"Video does not exist\" message is showing for \"A World Without Beckn\" tab in Smart Cities application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2284",
+      "time": "2024-10-11T11:49:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2284",
+      "text": "Automation Testing for City of Lights"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2283",
+      "time": "2024-10-11T11:49:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2283",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2282",
+      "time": "2024-10-11T11:49:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2282",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2281",
+      "time": "2024-10-11T11:49:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2281",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2279",
+      "time": "2024-10-11T04:14:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2279",
+      "text": "Demo of Policy Portal"
     }
   ],
   "open_prs": [],

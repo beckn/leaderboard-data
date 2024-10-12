@@ -1260,6 +1260,20 @@
       "time": "2024-10-10T14:46:23Z",
       "link": "https://github.com/beckn/beckn-onix/pull/254",
       "text": "Adding mobility layer2 config created with ONDC rules"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#255",
+      "time": "2024-10-11T05:38:12Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/255",
+      "text": "fixing indentation in the cancel request rule"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/mobility#85",
+      "time": "2024-10-11T05:32:27Z",
+      "link": "https://github.com/beckn/mobility/pull/85",
+      "text": "L2 config sample: Fixing indentation in the cancel request rule"
     }
   ],
   "open_prs": [],
