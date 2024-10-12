@@ -84,6 +84,13 @@
       "time": "2024-10-10T10:43:37Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2272",
       "text": "Irrelevant search results displayed for keyword search in OSC dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2280",
+      "time": "2024-10-11T11:12:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2280",
+      "text": "Logout does not redirect properly; navigating back renders the home page in EC app"
     }
   ],
   "open_prs": [],
