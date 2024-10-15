@@ -3731,6 +3731,27 @@
       "time": "2024-10-10T09:54:54Z",
       "link": "https://github.com/beckn/beckn-sandbox/issues/26",
       "text": "Catalogue generation in Sandbox using Gen-AI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#99",
+      "time": "2024-09-24T15:00:02Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/99",
+      "text": "Beckn-gemini Bot:General R&D and  Train the gemini model using fine-tuning (A set of input and their outputs)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#147",
+      "time": "2024-10-14T06:06:17Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/147",
+      "text": "Sandbox for hyper beckn- FRD & Architecture"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2156",
+      "time": "2024-09-18T08:51:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2156",
+      "text": "Cypress E2E Test Cases for Order Details Page in DSEP"
     }
   ],
   "open_prs": [],

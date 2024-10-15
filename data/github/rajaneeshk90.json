@@ -1274,6 +1274,27 @@
       "time": "2024-10-11T05:32:27Z",
       "link": "https://github.com/beckn/mobility/pull/85",
       "text": "L2 config sample: Fixing indentation in the cancel request rule"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#257",
+      "time": "2024-10-14T14:00:31Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/257",
+      "text": "Contributions: Creating network schema, example JSON for the open source issue and contribution network"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#256",
+      "time": "2024-10-14T13:59:37Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/256",
+      "text": "IGM: creating specification first draft"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/Unified-Energy-Interface#30",
+      "time": "2024-10-14T06:09:23Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/issues/30",
+      "text": "Integrate Swagger UI in the UEI reposiotry"
     }
   ],
   "open_prs": [],

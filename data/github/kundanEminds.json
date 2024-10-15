@@ -2961,6 +2961,34 @@
       "time": "2024-10-10T07:26:18Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2262",
       "text": "feat(DSEP): cypress text case for job apply page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2265",
+      "time": "2024-10-10T04:38:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2265",
+      "text": "Cypress E2E Test Cases for Job Application Submitted"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2261",
+      "time": "2024-10-09T09:39:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2261",
+      "text": "Cypress E2E Test Cases for Job Application Form For DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2248",
+      "time": "2024-10-08T05:16:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2248",
+      "text": "Cypress E2E Test Cases for jobDetailsPage in DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2241",
+      "time": "2024-10-07T06:01:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2241",
+      "text": "Cypress E2E Test Cases for myLearningOrderHistoryPage  in DSEP"
     }
   ],
   "open_prs": [],

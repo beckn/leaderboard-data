@@ -434,6 +434,13 @@
       "time": "2024-10-04T14:22:56Z",
       "link": "https://github.com/beckn/protocol-server/pull/233",
       "text": "P26 ajv"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#239",
+      "time": "2024-10-14T06:58:26Z",
+      "link": "https://github.com/beckn/protocol-server/pull/239",
+      "text": "SchemaSafe library for OAS all version validation"
     }
   ],
   "open_prs": [],

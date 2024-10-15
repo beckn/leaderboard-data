@@ -1722,6 +1722,13 @@
       "time": "2024-10-10T11:57:34Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2273",
       "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2290",
+      "time": "2024-10-14T11:13:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2290",
+      "text": "feat(mobility-bap): added test cases for search ride form"
     }
   ],
   "open_prs": [],

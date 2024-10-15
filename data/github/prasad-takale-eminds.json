@@ -378,6 +378,13 @@
       "time": "2024-09-26T14:05:11Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2201",
       "text": "AWS Amplify Triggering Build for All Applications Even When Code is Changed for One Application"
+    },
+    {
+      "type": "pr_reviewed",
+      "title": "beckn/beckn-onix#252",
+      "time": "2024-10-10T07:36:52Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/252",
+      "text": "feat: added AWS managed service provisioning"
     }
   ],
   "open_prs": [],

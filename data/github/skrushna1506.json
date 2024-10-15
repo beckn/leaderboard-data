@@ -364,6 +364,48 @@
       "time": "2024-10-10T08:57:01Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2267",
       "text": "feat(dsep): added test cases for dsep"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2289",
+      "time": "2024-10-14T03:19:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2289",
+      "text": "Cypress E2E Test Cases for scholarshipConfirmationPage in  DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2288",
+      "time": "2024-10-14T03:19:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2288",
+      "text": "Cypress E2E Test Cases for applyScholarship in DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2287",
+      "time": "2024-10-14T03:19:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2287",
+      "text": "Cypress E2E Test Cases for scholarshipDetailsPage in  DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2286",
+      "time": "2024-10-14T03:19:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2286",
+      "text": "Cypress E2E Test Cases for scholarshipSearchPage in DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2285",
+      "time": "2024-10-14T03:19:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2285",
+      "text": "Cypress E2E Test Cases for my Scholarship Page in DSEP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2266",
+      "time": "2024-10-07T04:36:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2266",
+      "text": "Cypress E2E Test Cases for jobSearch Page in DSEP"
     }
   ],
   "open_prs": [],
