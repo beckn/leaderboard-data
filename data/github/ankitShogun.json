@@ -1204,6 +1204,34 @@
       "time": "2024-10-09T03:38:13Z",
       "link": "https://github.com/beckn/protocol-server/pull/231",
       "text": "raising and sending exception back in case of bap client"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#144",
+      "time": "2024-10-14T11:20:49Z",
+      "link": "https://github.com/beckn/missions/issues/144",
+      "text": "Completing open belem and open amsterdam implementation guides"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#120",
+      "time": "2024-10-14T15:36:44Z",
+      "link": "https://github.com/beckn/missions/pull/120",
+      "text": "Initial version Open belam implementation guide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2174",
+      "time": "2024-09-19T12:56:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2174",
+      "text": "Cypress R&D to Get Proper HTML Reports Instead of Just Screenshots"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2113",
+      "time": "2024-09-16T11:48:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2113",
+      "text": "Cypress Failing in CI/CD Pipelines – Investigate and Resolve"
     }
   ],
   "open_prs": [],

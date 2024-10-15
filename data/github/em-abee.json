@@ -882,6 +882,13 @@
       "time": "2024-10-10T12:04:55Z",
       "link": "https://github.com/beckn/protocol-server/pull/238",
       "text": "Protocol Server new release - October"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2291",
+      "time": "2024-10-14T13:01:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2291",
+      "text": "Using Gen-AI to Find Intent and Extract Catalog Details"
     }
   ],
   "open_prs": [],
