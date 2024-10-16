@@ -1729,6 +1729,13 @@
       "time": "2024-10-14T11:13:53Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2290",
       "text": "feat(mobility-bap): added test cases for search ride form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2294",
+      "time": "2024-10-15T05:02:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2294",
+      "text": "Tech debt - Payment, order confirmation page for Mobility BAP"
     }
   ],
   "open_prs": [],

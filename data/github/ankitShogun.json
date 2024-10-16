@@ -1232,6 +1232,13 @@
       "time": "2024-09-16T11:48:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2113",
       "text": "Cypress Failing in CI/CD Pipelines – Investigate and Resolve"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2299",
+      "time": "2024-10-15T18:09:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2299",
+      "text": "R&D Langraph and Langchain"
     }
   ],
   "open_prs": [],

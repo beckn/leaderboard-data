@@ -889,6 +889,13 @@
       "time": "2024-10-14T13:01:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2291",
       "text": "Using Gen-AI to Find Intent and Extract Catalog Details"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2298",
+      "time": "2024-10-15T13:40:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2298",
+      "text": "Generate JSON of the Catalog in Defined Format"
     }
   ],
   "open_prs": [],
