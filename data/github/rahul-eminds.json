@@ -441,6 +441,13 @@
       "time": "2024-10-14T06:58:26Z",
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "text": "SchemaSafe library for OAS all version validation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#240",
+      "time": "2024-10-15T10:21:29Z",
+      "link": "https://github.com/beckn/protocol-server/pull/240",
+      "text": "Used schemasafe library for validating all OAS version"
     }
   ],
   "open_prs": [],

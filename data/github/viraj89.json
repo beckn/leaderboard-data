@@ -3822,6 +3822,20 @@
       "time": "2024-09-04T12:42:37Z",
       "link": "https://github.com/beckn/missions/issues/97",
       "text": "Implementation Guides for Open Amsterdam"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#151",
+      "time": "2024-10-15T13:03:46Z",
+      "link": "https://github.com/beckn/missions/issues/151",
+      "text": "Open Networks for Volunteering"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#150",
+      "time": "2024-10-15T09:54:14Z",
+      "link": "https://github.com/beckn/missions/issues/150",
+      "text": "SAMPLE TICKET"
     }
   ],
   "open_prs": [],

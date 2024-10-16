@@ -224,6 +224,41 @@
       "time": "2024-10-04T06:24:36Z",
       "link": "https://github.com/beckn/beckn-onix/issues/238",
       "text": "Enhancing documentations on UEI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#240",
+      "time": "2024-10-04T06:42:43Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/240",
+      "text": "Helping ONDC create a new L2 configs for home services"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#138",
+      "time": "2024-10-04T06:37:33Z",
+      "link": "https://github.com/beckn/missions/issues/138",
+      "text": "KT session for Avil Awate for the missions role"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#452",
+      "time": "2024-10-04T06:47:13Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/452",
+      "text": "Define disability and accessibility taggroups, tags for Purple Economy"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/Unified-Energy-Interface#33",
+      "time": "2024-10-04T06:32:01Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/issues/33",
+      "text": "Helping with the implementation of UEI Interoperability - Network Launch with Kazam, PULSE etc"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/Unified-Energy-Interface#32",
+      "time": "2024-10-04T06:24:36Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/issues/32",
+      "text": "Enhancing documentations on UEI"
     }
   ],
   "open_prs": [],

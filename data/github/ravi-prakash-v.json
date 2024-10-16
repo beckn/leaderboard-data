@@ -1792,6 +1792,20 @@
       "time": "2024-04-06T17:16:05Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/63",
       "text": "Generate accurate search requests based on conversation history using Instructor.js"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#268",
+      "time": "2024-10-15T10:13:33Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/268",
+      "text": "Add cred management flows on Beckn-ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#457",
+      "time": "2024-10-15T09:59:41Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/457",
+      "text": "Add creds attribute to Item, Payments, Fulfillment, and other relevant schemas"
     }
   ],
   "open_prs": [],

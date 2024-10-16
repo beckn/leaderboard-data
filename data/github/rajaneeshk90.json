@@ -1295,6 +1295,125 @@
       "time": "2024-10-14T06:09:23Z",
       "link": "https://github.com/beckn/Unified-Energy-Interface/issues/30",
       "text": "Integrate Swagger UI in the UEI reposiotry"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#269",
+      "time": "2024-10-15T12:45:31Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/269",
+      "text": "Adding Mobility Layer2 config in the Beckn-ONIX repository"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#262",
+      "time": "2024-10-15T06:19:01Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/262",
+      "text": "Specification for Search Provider"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#261",
+      "time": "2024-10-15T06:09:28Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/261",
+      "text": "HyperBeckn RFC: Architecture"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#259",
+      "time": "2024-10-15T06:00:29Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/259",
+      "text": "Specification for Network Observability"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#244",
+      "time": "2024-10-04T18:36:36Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/244",
+      "text": "Integrate swagger UI in the beckn-onix repository"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#266",
+      "time": "2024-09-05T12:08:30Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/266",
+      "text": "Mobility Layer2 config: check out the issues with validation with openAPI version 3.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#455",
+      "time": "2024-10-15T07:32:24Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/455",
+      "text": "Restructure spec repos to allow more interactive learning of the spec"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#454",
+      "time": "2024-10-15T07:29:34Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/454",
+      "text": "Design specifications for Open Data platform"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#451",
+      "time": "2024-10-15T06:50:17Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/451",
+      "text": "Protocol-Specification Version 1.2 release"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#450",
+      "time": "2024-10-15T06:08:19Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/450",
+      "text": "Negotiation and Auction Flow using core specification: Stress test and Publish RFC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#453",
+      "time": "2024-10-15T05:58:22Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/453",
+      "text": "Open Source Contributions: Research, discussion and draft of Specification"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#456",
+      "time": "2024-10-14T14:00:31Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/456",
+      "text": "Contributions: Creating network schema, example JSON for the open source issue and contribution network"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/Unified-Energy-Interface#36",
+      "time": "2024-10-15T12:48:57Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/issues/36",
+      "text": "Adding Layer2 configs(3.0.0 version) for the UEI EV charging and P2P energy trade use cases."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/Unified-Energy-Interface#30",
+      "time": "2024-10-14T06:09:23Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/issues/30",
+      "text": "Integrate Swagger UI in the UEI reposiotry"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/Unified-Energy-Interface#31",
+      "time": "2024-09-10T04:59:28Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/issues/31",
+      "text": "UEI specification: review an existing PR, remove issues, add changes suggested by RAVI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/Unified-Energy-Interface#34",
+      "time": "2024-10-15T10:23:37Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/34",
+      "text": "Adding swagger ui support in the UEI repository"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/Unified-Energy-Interface#35",
+      "time": "2024-10-15T11:52:19Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/35",
+      "text": "Adding the swagger link in the README file"
     }
   ],
   "open_prs": [],

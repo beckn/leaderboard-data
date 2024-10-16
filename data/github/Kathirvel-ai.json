@@ -7,6 +7,48 @@
       "time": "2024-10-08T06:37:38Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2252",
       "text": "AWS landscape optimization"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2296",
+      "time": "2024-10-15T08:00:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2296",
+      "text": "UAI: Implementation Guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2295",
+      "time": "2024-10-15T07:56:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2295",
+      "text": "UAI: Project Kickoff"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#149",
+      "time": "2024-10-15T08:03:39Z",
+      "link": "https://github.com/beckn/missions/issues/149",
+      "text": "UAI: Sandbox Setup"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#148",
+      "time": "2024-10-15T08:03:10Z",
+      "link": "https://github.com/beckn/missions/issues/148",
+      "text": "UAI: Create Implementation Guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#147",
+      "time": "2024-10-15T08:02:12Z",
+      "link": "https://github.com/beckn/missions/issues/147",
+      "text": "UAI: Example JSONs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#146",
+      "time": "2024-10-15T08:01:37Z",
+      "link": "https://github.com/beckn/missions/issues/146",
+      "text": "UAI: Project Kickoff"
     }
   ],
   "open_prs": [],

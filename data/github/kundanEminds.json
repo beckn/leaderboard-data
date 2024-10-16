@@ -2989,6 +2989,13 @@
       "time": "2024-10-07T06:01:29Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2241",
       "text": "Cypress E2E Test Cases for myLearningOrderHistoryPage  in DSEP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2297",
+      "time": "2024-10-15T12:05:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2297",
+      "text": "feat(POLICY-ADMIN): cypress test cases for login and forgot password"
     }
   ],
   "open_prs": [],

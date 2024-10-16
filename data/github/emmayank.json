@@ -3752,6 +3752,62 @@
       "time": "2024-09-18T08:51:12Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2156",
       "text": "Cypress E2E Test Cases for Order Details Page in DSEP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#267",
+      "time": "2024-10-15T07:35:27Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/267",
+      "text": "Search Provider Development"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#265",
+      "time": "2024-10-15T07:05:09Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/265",
+      "text": "Beckn ONIX Support & Enhancement for Core elements."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#264",
+      "time": "2024-10-15T07:03:06Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/264",
+      "text": "Reputation System Development for Beckn ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#263",
+      "time": "2024-10-15T07:02:18Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/263",
+      "text": "Issue & Grievance Management(IGM) for Beckn ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#145",
+      "time": "2024-08-13T09:00:09Z",
+      "link": "https://github.com/beckn/missions/issues/145",
+      "text": "On Call Support for UEI Work Shop"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#119",
+      "time": "2024-10-15T07:07:00Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/119",
+      "text": "AI Assistant for Real-Time Developer Support."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#118",
+      "time": "2024-10-15T07:04:17Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/118",
+      "text": "Launch of Beckn AI Agent service in reference applications"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#27",
+      "time": "2024-10-15T06:59:35Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/27",
+      "text": "Dynamic Catalog generation for Sandbox using Generative AI"
     }
   ],
   "open_prs": [],
