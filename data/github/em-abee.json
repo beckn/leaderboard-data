@@ -896,6 +896,20 @@
       "time": "2024-10-15T13:40:28Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2298",
       "text": "Generate JSON of the Catalog in Defined Format"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#238",
+      "time": "2024-10-16T03:34:51Z",
+      "link": "https://github.com/beckn/protocol-server/pull/238",
+      "text": "Protocol Server new release - October"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2307",
+      "time": "2024-10-16T13:38:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2307",
+      "text": "Create a Catalog Generation Engine"
     }
   ],
   "open_prs": [],

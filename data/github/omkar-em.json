@@ -2443,6 +2443,48 @@
       "time": "2024-10-11T04:14:07Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2279",
       "text": "Demo of Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2312",
+      "time": "2024-10-16T15:46:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2312",
+      "text": "Policy Portal - Unable to reset password for Policy Portal in prod environment, API is failing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2311",
+      "time": "2024-10-16T15:09:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2311",
+      "text": "Policy Portal - Text for failure page is not visible in Policy Portal"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2310",
+      "time": "2024-10-16T15:06:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2310",
+      "text": "Policy Portal - Create policy section is down in Policy Portal staging environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2303",
+      "time": "2024-10-16T05:38:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2303",
+      "text": "EC - Search is giving empty response in dev environment apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2302",
+      "time": "2024-10-16T05:25:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2302",
+      "text": "Negative Flow Testing for City of Light"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2301",
+      "time": "2024-10-16T05:25:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2301",
+      "text": "Happy Flow Testing for City of Light"
     }
   ],
   "open_prs": [],
