@@ -2996,6 +2996,13 @@
       "time": "2024-10-15T12:05:11Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2297",
       "text": "feat(POLICY-ADMIN): cypress test cases for login and forgot password"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2297",
+      "time": "2024-10-16T07:52:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2297",
+      "text": "feat(POLICY-ADMIN): cypress test cases for login and forgot password"
     }
   ],
   "open_prs": [],

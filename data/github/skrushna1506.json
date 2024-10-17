@@ -420,6 +420,20 @@
       "time": "2024-10-15T05:00:31Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2292",
       "text": "Cypress E2E Test Cases for myJobsOrderHistory in DSEP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2306",
+      "time": "2024-10-16T11:57:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2306",
+      "text": "Cypress E2E Test Cases for policy admin Home page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2300",
+      "time": "2024-10-16T07:53:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2300",
+      "text": "feat(dsep): added test cases for dsep"
     }
   ],
   "open_prs": [],

@@ -3836,6 +3836,27 @@
       "time": "2024-10-15T09:54:14Z",
       "link": "https://github.com/beckn/missions/issues/150",
       "text": "SAMPLE TICKET"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#152",
+      "time": "2024-10-16T06:16:50Z",
+      "link": "https://github.com/beckn/missions/issues/152",
+      "text": "Automating the Reporting Mechanism of GitHub Issues and Iterations using alternate ways"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2309",
+      "time": "2024-10-16T14:34:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2309",
+      "text": "Sanity Testing for 3 BAPs Apps in Forest Conservation Project"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2308",
+      "time": "2024-10-16T14:34:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2308",
+      "text": "Sanity Testing for 3 BAPs Apps in Climate Resilience Project"
     }
   ],
   "open_prs": [],

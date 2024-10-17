@@ -1239,6 +1239,13 @@
       "time": "2024-10-15T18:09:13Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2299",
       "text": "R&D Langraph and Langchain"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#120",
+      "time": "2024-10-16T13:54:07Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/120",
+      "text": "Setting up langgraph"
     }
   ],
   "open_prs": [],
