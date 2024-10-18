@@ -2485,6 +2485,27 @@
       "time": "2024-10-16T05:25:23Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2301",
       "text": "Happy Flow Testing for City of Light"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2315",
+      "time": "2024-10-17T15:02:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2315",
+      "text": "DSEP -  Pricing mismatch on checkout page in DSEP application when multiple courses are bought"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2314",
+      "time": "2024-10-17T13:53:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2314",
+      "text": "Policy Portal - Dispute policies should be shown in filter and should not be applied"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2313",
+      "time": "2024-10-17T13:47:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2313",
+      "text": "Policy Portal - Password is not resetting when clicking the link received in email in Policy Portal"
     }
   ],
   "open_prs": [],

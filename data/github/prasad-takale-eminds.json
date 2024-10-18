@@ -385,6 +385,27 @@
       "time": "2024-10-10T07:36:52Z",
       "link": "https://github.com/beckn/beckn-onix/pull/252",
       "text": "feat: added AWS managed service provisioning"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#271",
+      "time": "2024-10-17T12:56:10Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/271",
+      "text": "Add option to install all Beckn components"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#270",
+      "time": "2024-10-17T12:54:15Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/270",
+      "text": "Registry role"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#273",
+      "time": "2024-10-17T13:07:47Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/273",
+      "text": "Add support for installing all components"
     }
   ],
   "open_prs": [],
