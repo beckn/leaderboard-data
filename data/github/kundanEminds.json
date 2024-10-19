@@ -3003,6 +3003,27 @@
       "time": "2024-10-16T07:52:08Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2297",
       "text": "feat(POLICY-ADMIN): cypress test cases for login and forgot password"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2318",
+      "time": "2024-10-18T12:42:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2318",
+      "text": "Cypress E2E Test Cases for Policy Admin Create Geofence Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2317",
+      "time": "2024-10-18T12:42:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2317",
+      "text": "Cypress E2E Test Cases for Policy Admin Create New Policy Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2316",
+      "time": "2024-10-18T12:42:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2316",
+      "text": "Cypress E2E Test Cases for Policy Admin Login Page and Forgot Password"
     }
   ],
   "open_prs": [],
