@@ -1932,6 +1932,13 @@
       "time": "2024-09-30T16:14:11Z",
       "link": "https://github.com/beckn/transactional-ai-bap/pull/106",
       "text": "Added: Image processing and Improved prompts"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#121",
+      "time": "2024-10-20T15:56:14Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/121",
+      "text": "Provide Technical Support for Beckn Gemini in Google Event"
     }
   ],
   "open_prs": [],
