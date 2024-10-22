@@ -2506,6 +2506,27 @@
       "time": "2024-10-17T13:47:24Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2313",
       "text": "Policy Portal - Password is not resetting when clicking the link received in email in Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2321",
+      "time": "2024-10-21T04:48:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2321",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2320",
+      "time": "2024-10-21T04:48:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2320",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2319",
+      "time": "2024-10-21T04:48:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2319",
+      "text": "Daily Application Testing"
     }
   ],
   "open_prs": [],

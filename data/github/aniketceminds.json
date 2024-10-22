@@ -1750,6 +1750,13 @@
       "time": "2024-10-16T11:14:56Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2305",
       "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2323",
+      "time": "2024-10-21T09:53:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2323",
+      "text": "feat(p2p-energy): added functionality and UI for login"
     }
   ],
   "open_prs": [],
