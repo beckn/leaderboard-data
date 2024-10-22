@@ -3808,6 +3808,153 @@
       "time": "2024-10-15T06:59:35Z",
       "link": "https://github.com/beckn/beckn-sandbox/issues/27",
       "text": "Dynamic Catalog generation for Sandbox using Generative AI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#168",
+      "time": "2024-10-21T10:02:27Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/168",
+      "text": "Adding /beckn.json in BAP & BPP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#167",
+      "time": "2024-10-21T10:02:22Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/167",
+      "text": "Integrate Dhiway SDK for credentials verification"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#166",
+      "time": "2024-10-21T10:02:17Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/166",
+      "text": "Integrate Dhiway SDK for credentials signing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#165",
+      "time": "2024-10-21T10:02:12Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/165",
+      "text": "Integrate View credential API in Openspark BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#164",
+      "time": "2024-10-21T10:02:06Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/164",
+      "text": "Integrate Upload Credential API in Openspark BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#163",
+      "time": "2024-10-21T10:02:00Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/163",
+      "text": "Create an endpoint to view my credentials ( BAP & BPP)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#162",
+      "time": "2024-10-21T10:01:54Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/162",
+      "text": "Enable login, myorder API for Openspark BAP using Strapi"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#161",
+      "time": "2024-10-21T10:01:49Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/161",
+      "text": "Create an Endpoint to Upload Credentials for prosumer(BPP) & consumer(BAP)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#160",
+      "time": "2024-10-21T10:01:38Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/160",
+      "text": "Define Credential Schema in Strapi ( BPP / BAP)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#159",
+      "time": "2024-10-21T10:01:30Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/159",
+      "text": "Create a postman collection for updated endpoints in GCL"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#158",
+      "time": "2024-10-21T10:01:25Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/158",
+      "text": "Create a postman collection for updated endpoints in protocol server"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#157",
+      "time": "2024-10-21T10:01:18Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/157",
+      "text": "Enahnce the L2 configuration for energy to have the new endpoints and schema"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#156",
+      "time": "2024-10-21T10:01:12Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/156",
+      "text": "Enhance protocol server & GCL to add the /on_cred endpoint - BAP/BPP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#155",
+      "time": "2024-10-21T10:01:06Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/155",
+      "text": "Enhance protocol server & GCL to add the /cred endpoint- BAP / BPP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#154",
+      "time": "2024-10-21T10:01:00Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/154",
+      "text": "Release v1.3 of core specification"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#153",
+      "time": "2024-10-21T10:00:52Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/153",
+      "text": "Design the schema for the beckn.json"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#152",
+      "time": "2024-10-21T10:00:48Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/152",
+      "text": "Enhance the context schema to have the verified (true / false) flag for toggling safe search"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#151",
+      "time": "2024-10-21T10:00:41Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/151",
+      "text": "Design Specification for /cred & /on_cred endpoint"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#150",
+      "time": "2024-10-21T10:00:36Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/150",
+      "text": "Create Outcome Visualization & userjourney for Hyperbeckn Energy usecase"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#149",
+      "time": "2024-10-21T10:00:31Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/149",
+      "text": "Review /about endpoint with Stakeholder"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#148",
+      "time": "2024-10-21T09:45:50Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/148",
+      "text": "Create a detailed product requirement document for Hyperbeckn Energy usecase"
     }
   ],
   "open_prs": [],

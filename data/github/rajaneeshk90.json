@@ -1421,6 +1421,27 @@
       "time": "2024-10-18T05:42:16Z",
       "link": "https://github.com/beckn/protocol-specifications/issues/458",
       "text": "Add about/ endpoint in the protocol specification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#460",
+      "time": "2024-10-21T05:38:39Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/460",
+      "text": "Update Credentials Schema to Support Verifiable Credentials"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#461",
+      "time": "2024-10-21T06:36:13Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/461",
+      "text": "Enhance the context schema to have the verified (true / false) flag added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#462",
+      "time": "2024-10-21T13:23:05Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/462",
+      "text": "separating the cred and on_cred underlying schema objects"
     }
   ],
   "open_prs": [],

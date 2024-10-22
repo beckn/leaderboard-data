@@ -3024,6 +3024,13 @@
       "time": "2024-10-18T12:42:39Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2316",
       "text": "Cypress E2E Test Cases for Policy Admin Login Page and Forgot Password"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2322",
+      "time": "2024-10-21T06:40:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2322",
+      "text": "feat(POLICY-ADMIN): cypress test cases for create new policy and geof…"
     }
   ],
   "open_prs": [],
