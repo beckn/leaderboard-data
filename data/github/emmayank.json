@@ -3955,6 +3955,13 @@
       "time": "2024-10-21T09:45:50Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/148",
       "text": "Create a detailed product requirement document for Hyperbeckn Energy usecase"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#169",
+      "time": "2024-10-22T06:13:13Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/169",
+      "text": "Design BAP and BPP user journey"
     }
   ],
   "open_prs": [],
