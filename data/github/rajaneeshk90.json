@@ -1442,6 +1442,13 @@
       "time": "2024-10-21T13:23:05Z",
       "link": "https://github.com/beckn/protocol-specifications/pull/462",
       "text": "separating the cred and on_cred underlying schema objects"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#463",
+      "time": "2024-10-22T07:22:54Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/463",
+      "text": "Hyperbeckn changes"
     }
   ],
   "open_prs": [],

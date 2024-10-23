@@ -434,6 +434,20 @@
       "time": "2024-10-16T07:53:25Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2300",
       "text": "feat(dsep): added test cases for dsep"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2325",
+      "time": "2024-10-22T10:10:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2325",
+      "text": "Adding Data Test IDs for Cypress Test Cases in Taxi BPP Application"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2324",
+      "time": "2024-10-22T08:11:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2324",
+      "text": "feat(taxiBpp): added data test ids"
     }
   ],
   "open_prs": [],
