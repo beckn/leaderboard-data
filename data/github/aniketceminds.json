@@ -1757,6 +1757,13 @@
       "time": "2024-10-21T09:53:49Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2323",
       "text": "feat(p2p-energy): added functionality and UI for login"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2327",
+      "time": "2024-10-23T12:19:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2327",
+      "text": "feat(open-spark): project setup & initiate authentication screens"
     }
   ],
   "open_prs": [],

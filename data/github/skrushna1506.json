@@ -448,6 +448,13 @@
       "time": "2024-10-22T08:11:35Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2324",
       "text": "feat(taxiBpp): added data test ids"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2326",
+      "time": "2024-10-23T06:52:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2326",
+      "text": "Feat/uts policy admin homepage"
     }
   ],
   "open_prs": [],
