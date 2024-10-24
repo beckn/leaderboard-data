@@ -1449,6 +1449,48 @@
       "time": "2024-10-22T07:22:54Z",
       "link": "https://github.com/beckn/protocol-specifications/pull/463",
       "text": "Hyperbeckn changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#464",
+      "time": "2024-10-23T05:35:53Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/464",
+      "text": "Hyperbeckn changes: Adding Evidence field in the credential schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#465",
+      "time": "2024-10-23T10:28:09Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/465",
+      "text": "updating the VC object schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#466",
+      "time": "2024-10-23T10:40:30Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/466",
+      "text": "reintroducing the id and type fields in the credential object "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#468",
+      "time": "2024-10-23T13:03:16Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/468",
+      "text": "Adding trust in transactions using credentials"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#469",
+      "time": "2024-10-23T13:24:53Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/469",
+      "text": "Enhance the context schema to have a verified (true / false) flag "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#470",
+      "time": "2024-10-23T13:57:17Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/470",
+      "text": "Define a schema for the beckn.json document"
     }
   ],
   "open_prs": [],
