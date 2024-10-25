@@ -910,6 +910,13 @@
       "time": "2024-10-16T13:38:01Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2307",
       "text": "Create a Catalog Generation Engine"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#241",
+      "time": "2024-10-24T03:34:07Z",
+      "link": "https://github.com/beckn/protocol-server/pull/241",
+      "text": "Cred endpoint"
     }
   ],
   "open_prs": [],

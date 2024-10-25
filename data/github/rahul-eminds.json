@@ -448,6 +448,20 @@
       "time": "2024-10-15T10:21:29Z",
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "text": "Used schemasafe library for validating all OAS version"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#164",
+      "time": "2024-10-24T13:35:23Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/164",
+      "text": "Added beckn-trade-bpp plugin apis"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-strapi-bpp#11",
+      "time": "2024-10-24T13:33:38Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/11",
+      "text": "Added beckn-trade-bpp plugin and related schema changes"
     }
   ],
   "open_prs": [],
