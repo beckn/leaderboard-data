@@ -1491,6 +1491,13 @@
       "time": "2024-10-23T13:57:17Z",
       "link": "https://github.com/beckn/protocol-specifications/pull/470",
       "text": "Define a schema for the beckn.json document"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/Unified-Energy-Interface#39",
+      "time": "2024-10-24T06:36:20Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
+      "text": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs."
     }
   ],
   "open_prs": [],

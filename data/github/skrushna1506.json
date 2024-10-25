@@ -455,6 +455,27 @@
       "time": "2024-10-23T06:52:06Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2326",
       "text": "Feat/uts policy admin homepage"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2330",
+      "time": "2024-10-24T14:32:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2330",
+      "text": "Tech Debt - Cypress E2E Test Cases for Contact Support Page in Mobility BPP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2324",
+      "time": "2024-10-24T05:22:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2324",
+      "text": "feat(taxiBpp): added data test ids"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2326",
+      "time": "2024-10-24T06:24:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2326",
+      "text": "Feat/uts policy admin homepage"
     }
   ],
   "open_prs": [],

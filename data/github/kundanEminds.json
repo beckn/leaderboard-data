@@ -3038,6 +3038,13 @@
       "time": "2024-10-23T06:41:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2322",
       "text": "feat(POLICY-ADMIN): cypress test cases for create new policy and geof…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2329",
+      "time": "2024-10-24T06:26:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2329",
+      "text": "feat(DRIVER-APP): cypress test cases for auth page for driver app"
     }
   ],
   "open_prs": [],
