@@ -91,6 +91,13 @@
       "time": "2024-10-11T11:12:12Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2280",
       "text": "Logout does not redirect properly; navigating back renders the home page in EC app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2331",
+      "time": "2024-10-25T08:39:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2331",
+      "text": "Irrelevant Results Across Entire EC Apps in Dev Environment"
     }
   ],
   "open_prs": [],

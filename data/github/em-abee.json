@@ -917,6 +917,20 @@
       "time": "2024-10-24T03:34:07Z",
       "link": "https://github.com/beckn/protocol-server/pull/241",
       "text": "Cred endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#93",
+      "time": "2024-10-25T11:20:41Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/93",
+      "text": "Cred support"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#241",
+      "time": "2024-10-25T11:16:52Z",
+      "link": "https://github.com/beckn/protocol-server/pull/241",
+      "text": "Cred endpoint"
     }
   ],
   "open_prs": [],
