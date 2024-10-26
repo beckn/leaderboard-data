@@ -1799,6 +1799,20 @@
       "time": "2024-10-24T05:19:33Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2328",
       "text": "feat(open-spark): modified code to select menu & acct type selection …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#165",
+      "time": "2024-10-25T10:03:06Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/165",
+      "text": "feat: added consumer, producer log api service"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-bap-user-strapi#9",
+      "time": "2024-10-25T08:09:35Z",
+      "link": "https://github.com/beckn/beckn-bap-user-strapi/pull/9",
+      "text": "feat: modified code to add new schemas for log producer, consumer det…"
     }
   ],
   "open_prs": [],

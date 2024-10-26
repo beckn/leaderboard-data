@@ -3045,6 +3045,20 @@
       "time": "2024-10-24T06:26:09Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2329",
       "text": "feat(DRIVER-APP): cypress test cases for auth page for driver app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2333",
+      "time": "2024-10-25T12:13:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2333",
+      "text": "Cypress E2E Test Cases for Taxi BPP Landing Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2332",
+      "time": "2024-10-25T10:26:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2332",
+      "text": "Cypress E2E Test Cases for Taxi BPP Login Page"
     }
   ],
   "open_prs": [],
