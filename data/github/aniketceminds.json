@@ -1813,6 +1813,20 @@
       "time": "2024-10-25T08:09:35Z",
       "link": "https://github.com/beckn/beckn-bap-user-strapi/pull/9",
       "text": "feat: modified code to add new schemas for log producer, consumer det…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#166",
+      "time": "2024-10-26T11:15:35Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/166",
+      "text": "fix: logic of statistic of produc. consump."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#167",
+      "time": "2024-10-26T12:45:24Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/167",
+      "text": "fix: modified query to get the customer data"
     }
   ],
   "open_prs": [],
