@@ -469,6 +469,27 @@
       "time": "2024-10-25T11:31:45Z",
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/11",
       "text": "Added beckn-trade-bpp plugin and related schema changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#164",
+      "time": "2024-10-26T07:53:36Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/164",
+      "text": "Added beckn-trade-bpp plugin apis"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#168",
+      "time": "2024-10-26T12:30:49Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/168",
+      "text": "Added logs for energy trade and other cleanup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#169",
+      "time": "2024-10-26T14:58:12Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/169",
+      "text": "Modified catalogue flow in beckn energy"
     }
   ],
   "open_prs": [],
