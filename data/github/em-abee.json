@@ -931,6 +931,13 @@
       "time": "2024-10-25T11:16:52Z",
       "link": "https://github.com/beckn/protocol-server/pull/241",
       "text": "Cred endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#170",
+      "time": "2024-10-27T05:54:46Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/170",
+      "text": "Added trusted source check"
     }
   ],
   "open_prs": [],
