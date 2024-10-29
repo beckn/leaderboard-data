@@ -98,6 +98,13 @@
       "time": "2024-10-25T08:39:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2331",
       "text": "Irrelevant Results Across Entire EC Apps in Dev Environment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2339",
+      "time": "2024-10-28T13:06:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2339",
+      "text": "feat(DSEP): end to end testing and happy flow of dsep app"
     }
   ],
   "open_prs": [],

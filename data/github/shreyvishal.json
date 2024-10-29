@@ -1939,6 +1939,34 @@
       "time": "2024-10-20T15:56:14Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/121",
       "text": "Provide Technical Support for Beckn Gemini in Google Event"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#174",
+      "time": "2024-10-28T17:19:15Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/174",
+      "text": "Modified: JSONATA mapping"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#175",
+      "time": "2024-10-28T17:22:55Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/175",
+      "text": "Added: Beckn-trade-bap Plugin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-bap-user-strapi#10",
+      "time": "2024-10-28T17:30:46Z",
+      "link": "https://github.com/beckn/beckn-bap-user-strapi/pull/10",
+      "text": "Added: Schema Changes for Beckn-trade-bap"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#242",
+      "time": "2024-10-28T18:02:52Z",
+      "link": "https://github.com/beckn/protocol-server/pull/242",
+      "text": "Added: Static File For Beckn.json"
     }
   ],
   "open_prs": [],

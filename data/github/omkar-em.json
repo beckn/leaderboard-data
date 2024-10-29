@@ -2527,6 +2527,20 @@
       "time": "2024-10-21T04:48:03Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2319",
       "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2338",
+      "time": "2024-10-28T09:34:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2338",
+      "text": "bpp - Able to sign up multiple users with the same mobile number"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2337",
+      "time": "2024-10-28T09:31:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2337",
+      "text": "bpp - Able to sign up without first_name or last_name in /signup API on BPP side"
     }
   ],
   "open_prs": [],

@@ -490,6 +490,20 @@
       "time": "2024-10-26T14:58:12Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/169",
       "text": "Modified catalogue flow in beckn energy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#172",
+      "time": "2024-10-28T06:36:14Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/172",
+      "text": "Added apis for beckn trade and other code cleanup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#173",
+      "time": "2024-10-28T10:35:44Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/173",
+      "text": "Added upload-cred api for beckn trade and other bug fixes and cleanup"
     }
   ],
   "open_prs": [],

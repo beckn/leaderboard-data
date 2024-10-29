@@ -119,6 +119,13 @@
       "time": "2024-08-30T13:04:29Z",
       "link": "https://github.com/beckn/beckn-onix/issues/200",
       "text": "One Click deployment of Beckn ONIX in AWS"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#129",
+      "time": "2024-09-20T08:18:07Z",
+      "link": "https://github.com/beckn/missions/issues/129",
+      "text": "Beckn Starter Kit V3.0 Document Review & Rework"
     }
   ],
   "open_prs": [],
