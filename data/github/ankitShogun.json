@@ -1246,6 +1246,27 @@
       "time": "2024-10-16T13:54:07Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/120",
       "text": "Setting up langgraph"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2299",
+      "time": "2024-10-15T18:09:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2299",
+      "text": "R&D Langraph and Langchain"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#120",
+      "time": "2024-10-16T13:54:07Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/120",
+      "text": "Setting up langgraph and tried to run the example usecases"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#223",
+      "time": "2024-10-28T12:46:11Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/223",
+      "text": "Discussions and all the calls related to Hyperbeckn"
     }
   ],
   "open_prs": [],

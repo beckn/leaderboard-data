@@ -3059,6 +3059,20 @@
       "time": "2024-10-25T10:26:43Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2332",
       "text": "Cypress E2E Test Cases for Taxi BPP Login Page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2335",
+      "time": "2024-10-28T08:41:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2335",
+      "text": "feat(DRIVER-APP): cypress test cases for landing page with new ride d…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2336",
+      "time": "2024-10-28T08:42:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2336",
+      "text": "feat(DSEP): fixed price issue in dsep"
     }
   ],
   "open_prs": [],

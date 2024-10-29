@@ -4326,6 +4326,13 @@
       "time": "2024-10-24T15:49:19Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/170",
       "text": "Hyperbeckn - Review & Signoff from Stakeholder"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#222",
+      "time": "2024-10-28T05:04:08Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/222",
+      "text": "Adding Utility company in decentralized directory"
     }
   ],
   "open_prs": [],
