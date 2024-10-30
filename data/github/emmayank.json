@@ -4333,6 +4333,13 @@
       "time": "2024-10-28T05:04:08Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/222",
       "text": "Adding Utility company in decentralized directory"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#278",
+      "time": "2024-10-14T06:06:17Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/278",
+      "text": "Sandbox for hyper beckn- FRD & Architecture"
     }
   ],
   "open_prs": [],

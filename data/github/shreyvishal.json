@@ -1967,6 +1967,41 @@
       "time": "2024-10-28T18:02:52Z",
       "link": "https://github.com/beckn/protocol-server/pull/242",
       "text": "Added: Static File For Beckn.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#176",
+      "time": "2024-10-29T05:08:07Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/176",
+      "text": "Added: Uncomment for verify certificate"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#177",
+      "time": "2024-10-29T06:37:04Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/177",
+      "text": "Addded: Try Catch for On_cred"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#178",
+      "time": "2024-10-29T07:30:50Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/178",
+      "text": "Feat/p2p trade enhance"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#179",
+      "time": "2024-10-29T07:41:07Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/179",
+      "text": "Feat/beckn trade bap"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#180",
+      "time": "2024-10-29T08:32:15Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/180",
+      "text": "Added: Some Changes"
     }
   ],
   "open_prs": [],

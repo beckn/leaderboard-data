@@ -3073,6 +3073,90 @@
       "time": "2024-10-28T08:42:22Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2336",
       "text": "feat(DSEP): fixed price issue in dsep"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2350",
+      "time": "2024-10-29T12:09:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2350",
+      "text": "Cypress E2E Test Cases for Taxi BPP - Looking for New Ride Flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2349",
+      "time": "2024-10-29T12:09:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2349",
+      "text": "Cypress E2E Test Cases for Taxi BPP - End Ride Flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2348",
+      "time": "2024-10-29T12:09:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2348",
+      "text": "Cypress E2E Test Cases for Taxi BPP - Start Ride Flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2347",
+      "time": "2024-10-29T12:08:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2347",
+      "text": "Cypress E2E Test Cases for Taxi BPP - Reached Pick-Up Location Flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2333",
+      "time": "2024-10-25T12:13:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2333",
+      "text": "Cypress E2E Test Cases for Taxi BPP Landing Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2332",
+      "time": "2024-10-25T10:26:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2332",
+      "text": "Cypress E2E Test Cases for Taxi BPP Login Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2318",
+      "time": "2024-10-18T12:42:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2318",
+      "text": "Cypress E2E Test Cases for Policy Admin Create Geofence Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2317",
+      "time": "2024-10-18T12:42:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2317",
+      "text": "Cypress E2E Test Cases for Policy Admin Create New Policy Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2316",
+      "time": "2024-10-18T12:42:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2316",
+      "text": "Cypress E2E Test Cases for Policy Admin Login Page and Forgot Password"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2340",
+      "time": "2024-10-29T05:03:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2340",
+      "text": "feat(DRIVER-APP): cypress test cases for pick up location in driver app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2342",
+      "time": "2024-10-29T05:44:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2342",
+      "text": "feat: cypress test cases for start ride in driver app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2343",
+      "time": "2024-10-29T07:49:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2343",
+      "text": "feat(POLICY-ADMIN): test cases for create geofence"
     }
   ],
   "open_prs": [],

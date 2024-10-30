@@ -126,6 +126,13 @@
       "time": "2024-09-20T08:18:07Z",
       "link": "https://github.com/beckn/missions/issues/129",
       "text": "Beckn Starter Kit V3.0 Document Review & Rework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#28",
+      "time": "2024-10-29T06:13:08Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/28",
+      "text": "Internal Knowledge Transfer & Upskilling Session on Beckn Protocol"
     }
   ],
   "open_prs": [],

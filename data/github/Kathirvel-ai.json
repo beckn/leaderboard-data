@@ -49,6 +49,34 @@
       "time": "2024-10-15T08:01:37Z",
       "link": "https://github.com/beckn/missions/issues/146",
       "text": "UAI: Project Kickoff"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#153",
+      "time": "2024-10-29T06:13:58Z",
+      "link": "https://github.com/beckn/missions/issues/153",
+      "text": "UAI - Winroom (Nov 19-21)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#277",
+      "time": "2024-10-29T06:34:08Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/277",
+      "text": "Beckn One: Sandbox Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#276",
+      "time": "2024-10-29T06:25:29Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/276",
+      "text": "Beckn One: P2P energy trading Reference application implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#275",
+      "time": "2024-10-29T06:19:14Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/275",
+      "text": "Beckn-ONIX infra: Optimization of AWS usage"
     }
   ],
   "open_prs": [],
