@@ -2177,6 +2177,27 @@
       "time": "2024-09-13T16:11:08Z",
       "link": "https://github.com/beckn/beckn-onix/issues/222",
       "text": "Add Layer 2 config prompt back to installation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#134",
+      "time": "2024-07-12T05:39:56Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/134",
+      "text": "Network configuration URL for gateway during installation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#133",
+      "time": "2024-07-12T05:37:44Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/133",
+      "text": "Network configuration URL for registry during installation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#18",
+      "time": "2024-03-27T13:39:23Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/18",
+      "text": "Discovery: Network configuration and other options"
     }
   ],
   "open_prs": [],

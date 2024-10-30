@@ -504,6 +504,13 @@
       "time": "2024-10-28T10:35:44Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/173",
       "text": "Added upload-cred api for beckn trade and other bug fixes and cleanup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#181",
+      "time": "2024-10-29T09:07:12Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/181",
+      "text": "Added multiple files in create der and domain name support and other …"
     }
   ],
   "open_prs": [],

@@ -3864,6 +3864,13 @@
       "time": "2024-09-06T06:04:45Z",
       "link": "https://github.com/beckn/missions/issues/104",
       "text": "Upgrade Open Amsterdam Project to Beckn Protocol 1.1 and ONIX Compliance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#279",
+      "time": "2024-10-29T11:52:33Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/279",
+      "text": "Evaluate Tekdi Catalogs for BPP Strapi Integration"
     }
   ],
   "open_prs": [],
