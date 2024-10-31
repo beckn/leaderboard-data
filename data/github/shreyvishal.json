@@ -2002,6 +2002,13 @@
       "time": "2024-10-29T08:32:15Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/180",
       "text": "Added: Some Changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#185",
+      "time": "2024-10-30T09:48:05Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/185",
+      "text": "Fixed: Some bugs"
     }
   ],
   "open_prs": [],
