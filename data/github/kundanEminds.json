@@ -3157,6 +3157,34 @@
       "time": "2024-10-29T07:49:36Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2343",
       "text": "feat(POLICY-ADMIN): test cases for create geofence"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2342",
+      "time": "2024-10-30T06:54:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2342",
+      "text": "feat: cypress test cases for start ride in driver app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2343",
+      "time": "2024-10-30T06:53:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2343",
+      "text": "feat(POLICY-ADMIN): test cases for create geofence"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2351",
+      "time": "2024-10-30T11:03:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2351",
+      "text": "feat(TAXI-BPP): cypress test cases for end ride in driver app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2352",
+      "time": "2024-10-30T11:03:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2352",
+      "text": "feat(TAXI-BPP): cypress test cases for looking new ride in driver app"
     }
   ],
   "open_prs": [],

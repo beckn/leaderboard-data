@@ -525,6 +525,13 @@
       "time": "2024-10-29T05:38:52Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2341",
       "text": "feat(taxi_bpp): added test cases for taxi bpp"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2341",
+      "time": "2024-10-30T06:24:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2341",
+      "text": "feat(taxi_bpp): added test cases for taxi bpp"
     }
   ],
   "open_prs": [],

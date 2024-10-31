@@ -1827,6 +1827,20 @@
       "time": "2024-10-26T12:45:24Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/167",
       "text": "fix: modified query to get the customer data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#182",
+      "time": "2024-10-30T07:15:34Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/182",
+      "text": "fix: modified code to generate more production for prosumers"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#183",
+      "time": "2024-10-30T08:36:45Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/183",
+      "text": "fix: modified get customer code payload to acccept role"
     }
   ],
   "open_prs": [],

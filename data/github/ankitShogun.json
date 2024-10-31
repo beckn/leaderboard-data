@@ -1267,6 +1267,34 @@
       "time": "2024-10-28T12:46:11Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/223",
       "text": "Discussions and all the calls related to Hyperbeckn"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#122",
+      "time": "2024-10-30T12:12:28Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/122",
+      "text": "Adding langgraph to the current beckn-agent repo"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#226",
+      "time": "2024-10-30T12:07:53Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/226",
+      "text": "Creating and testing Beckn one postman collection"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#225",
+      "time": "2024-10-30T12:04:33Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/225",
+      "text": "Postman collection verification and POCs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#224",
+      "time": "2024-10-30T12:00:43Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/224",
+      "text": "Verifying all postman collections and continuous discussion with the Dhiway team"
     }
   ],
   "open_prs": [],
