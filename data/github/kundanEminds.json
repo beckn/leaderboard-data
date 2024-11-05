@@ -3185,6 +3185,27 @@
       "time": "2024-10-30T11:03:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2352",
       "text": "feat(TAXI-BPP): cypress test cases for looking new ride in driver app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2357",
+      "time": "2024-11-04T08:12:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2357",
+      "text": "Cypress E2E Test Cases and Add Test IDs for P2P-Energy Landing Page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2358",
+      "time": "2024-11-04T08:15:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2358",
+      "text": "feat(P2P-ENERGY): cypress test cases and added test ids for p2p energ…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2361",
+      "time": "2024-11-04T11:20:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2361",
+      "text": "feat(DRAGON-FOODS): added dragon-foods project in ui workspace"
     }
   ],
   "open_prs": [],

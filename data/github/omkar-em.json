@@ -2562,6 +2562,27 @@
       "time": "2024-10-29T09:51:34Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2344",
       "text": "Bpp - In BPP side /trade API, user is able to provide negative price and quantity"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2356",
+      "time": "2024-11-04T06:54:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2356",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2355",
+      "time": "2024-11-04T06:54:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2355",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2354",
+      "time": "2024-11-04T06:54:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2354",
+      "text": "Daily Application Testing"
     }
   ],
   "open_prs": [],
