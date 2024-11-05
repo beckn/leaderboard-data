@@ -105,6 +105,13 @@
       "time": "2024-10-28T13:06:34Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2339",
       "text": "feat(DSEP): end to end testing and happy flow of dsep app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2360",
+      "time": "2024-11-04T11:08:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2360",
+      "text": "Unable to Login to Policy Admin - 502 Error in Dev Environment"
     }
   ],
   "open_prs": [],

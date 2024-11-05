@@ -2009,6 +2009,13 @@
       "time": "2024-10-30T09:48:05Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/185",
       "text": "Fixed: Some bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#186",
+      "time": "2024-11-04T11:03:59Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/186",
+      "text": "P2p demo"
     }
   ],
   "open_prs": [],
