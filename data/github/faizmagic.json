@@ -469,6 +469,13 @@
       "time": "2024-07-24T07:16:48Z",
       "link": "https://github.com/beckn/missions/issues/8",
       "text": "VISTAAR: Create Implementation guide Vistaar"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#155",
+      "time": "2024-11-05T10:35:36Z",
+      "link": "https://github.com/beckn/missions/issues/155",
+      "text": "Project Lighthouse - Kick Off"
     }
   ],
   "open_prs": [],

@@ -4340,6 +4340,321 @@
       "time": "2024-10-14T06:06:17Z",
       "link": "https://github.com/beckn/beckn-onix/issues/278",
       "text": "Sandbox for hyper beckn- FRD & Architecture"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2404",
+      "time": "2024-11-05T11:42:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2404",
+      "text": "Climate data | BPP | Create Postman collection for GCL with tags in search, select, init and confirm API's"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2403",
+      "time": "2024-11-05T11:14:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2403",
+      "text": "Create 3 beckn.json for BAP, BPP1, BPP2"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2402",
+      "time": "2024-11-05T11:13:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2402",
+      "text": "Redeployment of Protocol Server (BAP), Strapi (BPP1 & BPP2), Strapi-Plugins, and GCL in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2401",
+      "time": "2024-11-05T11:13:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2401",
+      "text": "Add Beckn.json in BAP, BPP1, BPP2"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2400",
+      "time": "2024-11-05T11:12:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2400",
+      "text": "Setting up BPP2 (strapi 2) in Dev"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2399",
+      "time": "2024-11-05T11:07:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2399",
+      "text": "Climate data | End to End QA of Enivirogrowth"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2398",
+      "time": "2024-11-05T11:07:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2398",
+      "text": "Climate data | End to End QA of State Forest Department"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2397",
+      "time": "2024-11-05T11:07:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2397",
+      "text": "Climate data | End to End QA of HarmoniAid"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2396",
+      "time": "2024-11-05T11:07:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2396",
+      "text": "Climate data | End to End QA of SkyAnalytics"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2395",
+      "time": "2024-11-05T11:07:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2395",
+      "text": "Climate data | End to End QA of Dragon Foods"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2394",
+      "time": "2024-11-05T10:59:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2394",
+      "text": "Climate data | BPP | Strapi re-deployment after schema changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2393",
+      "time": "2024-11-05T10:59:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2393",
+      "text": "Climate data | BAP | Strapi re-deployment after schema changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2392",
+      "time": "2024-11-05T10:59:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2392",
+      "text": "Climate data | BAP | Earth Support Initiative UI deployment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2391",
+      "time": "2024-11-05T10:59:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2391",
+      "text": "Climate data | BAP | Enivirogrowth UI deployment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2390",
+      "time": "2024-11-05T10:59:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2390",
+      "text": "Climate data | BAP | State Forest Department UI deployment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2389",
+      "time": "2024-11-05T10:58:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2389",
+      "text": "Climate data | BAP | HarmoniAid UI deployment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2388",
+      "time": "2024-11-05T10:58:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2388",
+      "text": "Climate data | BAP | SkyAnalytics UI deployment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2387",
+      "time": "2024-11-05T10:58:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2387",
+      "text": "Climate data | BAP | Dragon Foods UI deployment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2386",
+      "time": "2024-11-05T10:58:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2386",
+      "text": "Climate data | BAP | Replicating changes for other five BAPs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2385",
+      "time": "2024-11-05T10:58:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2385",
+      "text": "Climate data | BAP | Change in Strapi to accomodate new schema for item tags"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2384",
+      "time": "2024-11-05T10:58:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2384",
+      "text": "Climate data | BAP | Handling of placing order from multiple provider"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2383",
+      "time": "2024-11-05T10:58:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2383",
+      "text": "Climate data | BAP | My Order page &  API implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2382",
+      "time": "2024-11-05T10:58:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2382",
+      "text": "Climate data | BAP | Confirm (checkout) page Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2381",
+      "time": "2024-11-05T10:58:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2381",
+      "text": "Climate data | BAP | Cart Page Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2380",
+      "time": "2024-11-05T10:58:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2380",
+      "text": "Climate data | BAP | Product detail page Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2379",
+      "time": "2024-11-05T10:57:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2379",
+      "text": "Climate data | BAP | Search Page Implementation  with / search API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2378",
+      "time": "2024-11-05T10:57:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2378",
+      "text": "Climate data | BAP | Home Page Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2377",
+      "time": "2024-11-05T10:57:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2377",
+      "text": "Climate data | BAP | Auth Page implementation with auth APi Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2376",
+      "time": "2024-11-05T10:57:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2376",
+      "text": "Climate data | BAP | Project setup using UI building block"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2375",
+      "time": "2024-11-05T10:57:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2375",
+      "text": "Climate data | BPP | Create Postman collection with tags in search, select, init and confirm API's"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2374",
+      "time": "2024-11-05T10:57:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2374",
+      "text": "Climate data | BPP | Create catalogs for all 6 apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2373",
+      "time": "2024-11-05T10:57:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2373",
+      "text": "Climate data | BPP | Make changes in GCL to accept tags in confirm API"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2372",
+      "time": "2024-11-05T10:57:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2372",
+      "text": "Climate data | BPP | Make changes in GCL to accept tags in init API"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2371",
+      "time": "2024-11-05T10:57:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2371",
+      "text": "Climate data | BPP | Make changes in GCL to accept tags in select API"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2370",
+      "time": "2024-11-05T10:56:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2370",
+      "text": "Climate data | BPP | Make changes in GCL to accept tags in on_search API"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2369",
+      "time": "2024-11-05T10:56:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2369",
+      "text": "Climate data | BPP | Make changes in confirm API to accept tags and store in order table"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2368",
+      "time": "2024-11-05T10:56:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2368",
+      "text": "Climate data | BPP | Make changes in init API to accept tags"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2367",
+      "time": "2024-11-05T10:56:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2367",
+      "text": "Climate data | BPP | Make changes in select API to accept tags"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2366",
+      "time": "2024-11-05T10:56:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2366",
+      "text": "Climate data | BPP | Make changes in Order schema to incorporate tags with order"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2364",
+      "time": "2024-11-05T10:24:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2364",
+      "text": "Climate data | BPP | Identify changes in search to send tags under item"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#227",
+      "time": "2024-11-05T11:16:29Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/227",
+      "text": "Design VC Schemas for Energy use cases"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#222",
+      "time": "2024-10-28T05:04:08Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/222",
+      "text": "Adding Utility company in decentralized directory"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#214",
+      "time": "2024-10-24T15:59:50Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/214",
+      "text": "Verfiable Credential Integration - integrate Dhiway API in BPP for certificate issueing & verfication"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#213",
+      "time": "2024-10-24T15:59:45Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/213",
+      "text": "Verfiable Credential Integration - integrate Dhiway API in BAP for certificate issueing & verfication"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#172",
+      "time": "2024-10-24T15:49:28Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/172",
+      "text": "Adding all HyperBeckn related assets to Confluence page"
     }
   ],
   "open_prs": [],

@@ -546,6 +546,20 @@
       "time": "2024-11-04T10:02:55Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2359",
       "text": "feat(p2p): added data test ids in p2p app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2353",
+      "time": "2024-11-05T06:12:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2353",
+      "text": "feat(mobility-app): added Test cases for mobility app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2359",
+      "time": "2024-11-05T06:14:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2359",
+      "text": "feat(p2p): added data test ids in p2p app"
     }
   ],
   "open_prs": [],

@@ -3206,6 +3206,20 @@
       "time": "2024-11-04T11:20:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2361",
       "text": "feat(DRAGON-FOODS): added dragon-foods project in ui workspace"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2361",
+      "time": "2024-11-05T06:08:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2361",
+      "text": "feat(DRAGON-FOODS): added dragon-foods project in ui workspace"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2407",
+      "time": "2024-11-05T12:30:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2407",
+      "text": "feat(P2P-ENERGY): fixed p2p domain name p2p-trading into p2p_trading"
     }
   ],
   "open_prs": [],

@@ -112,6 +112,27 @@
       "time": "2024-11-04T11:08:05Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2360",
       "text": "Unable to Login to Policy Admin - 502 Error in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2406",
+      "time": "2024-11-05T12:17:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2406",
+      "text": "End-to-End Testing for CityOfAfrica using Cypress"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2405",
+      "time": "2024-11-05T12:17:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2405",
+      "text": "End-to-End Testing for Smart Cities using Cypress"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2408",
+      "time": "2024-11-05T13:10:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2408",
+      "text": "test: add end-to-end test cases"
     }
   ],
   "open_prs": [],
