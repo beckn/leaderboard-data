@@ -3871,6 +3871,20 @@
       "time": "2024-10-29T11:52:33Z",
       "link": "https://github.com/beckn/beckn-onix/issues/279",
       "text": "Evaluate Tekdi Catalogs for BPP Strapi Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#280",
+      "time": "2024-11-05T14:13:26Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/280",
+      "text": "Beckn One Documentation for Oct 30"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2365",
+      "time": "2024-11-05T10:48:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2365",
+      "text": "UX Designs for Open Spark App"
     }
   ],
   "open_prs": [],

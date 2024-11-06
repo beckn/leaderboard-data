@@ -1295,6 +1295,20 @@
       "time": "2024-10-30T12:00:43Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/224",
       "text": "Verifying all postman collections and continuous discussion with the Dhiway team"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#123",
+      "time": "2024-11-05T17:39:48Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/123",
+      "text": "Rebuilding Transactional AI bot using langgraph"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#122",
+      "time": "2024-10-30T12:12:28Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/122",
+      "text": "Adding langgraph to the current beckn-agent repo"
     }
   ],
   "open_prs": [],

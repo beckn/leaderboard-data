@@ -2583,6 +2583,41 @@
       "time": "2024-11-04T06:54:05Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2354",
       "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2411",
+      "time": "2024-11-05T14:33:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2411",
+      "text": "OpenSpark - application is failing at init api"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2410",
+      "time": "2024-11-05T14:28:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2410",
+      "text": "OpenSpark -  Images are not loading in search results when searching for prosumer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2409",
+      "time": "2024-11-05T14:22:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2409",
+      "text": "OpenSpark - application gives invalid schema error when location is not fetched while trying to find prosumer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2363",
+      "time": "2024-11-05T08:02:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2363",
+      "text": "Test Case Creation for Hyperbeckn"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2362",
+      "time": "2024-11-05T08:01:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2362",
+      "text": "API Testing for Hyperbeckn"
     }
   ],
   "open_prs": [],
