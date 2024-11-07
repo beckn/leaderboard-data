@@ -4655,6 +4655,55 @@
       "time": "2024-10-24T15:49:28Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/172",
       "text": "Adding all HyperBeckn related assets to Confluence page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2427",
+      "time": "2024-11-06T15:26:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2427",
+      "text": "Climate data | End to End QA of Earth Support Initiative"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2426",
+      "time": "2024-11-06T15:25:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2426",
+      "text": "Climate data | Test case for all 6 applications"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2425",
+      "time": "2024-11-06T13:03:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2425",
+      "text": "Climate data | BAP | Replicating changes in Earth Support Initiative BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2424",
+      "time": "2024-11-06T13:03:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2424",
+      "text": "Climate data | BAP | Replicating changes in Enivirogrowth BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2423",
+      "time": "2024-11-06T13:03:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2423",
+      "text": "Climate data | BAP | Replicating changes in State Forest Department BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2422",
+      "time": "2024-11-06T13:03:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2422",
+      "text": "Climate data | BAP | Replicating changes in HarmoniAid BAP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#228",
+      "time": "2024-11-06T12:38:19Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/228",
+      "text": "AWS Infra Optimization - Based on discussion with stakeholder"
     }
   ],
   "open_prs": [],

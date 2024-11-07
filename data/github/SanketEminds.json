@@ -133,6 +133,20 @@
       "time": "2024-11-05T13:10:13Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2408",
       "text": "test: add end-to-end test cases"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2280",
+      "time": "2024-10-11T11:12:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2280",
+      "text": "Logout does not redirect properly; navigating back renders the home page in EC app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2408",
+      "time": "2024-11-06T04:57:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2408",
+      "text": "test: add end-to-end test cases"
     }
   ],
   "open_prs": [],

@@ -2016,6 +2016,20 @@
       "time": "2024-11-04T11:03:59Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/186",
       "text": "P2p demo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2420",
+      "time": "2024-11-06T11:59:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2420",
+      "text": "BAP-Non-Beckn - Handle Deployment and Re-deployments of MDM and BAP Strapi Plugins and Application Continuation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2419",
+      "time": "2024-11-06T11:56:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2419",
+      "text": "BAP-Non-Beckn - Handle Deployment and Re-deployments of MDM and BAP Strapi Plugins and Application"
     }
   ],
   "open_prs": [],
