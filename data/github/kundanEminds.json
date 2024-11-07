@@ -3220,6 +3220,27 @@
       "time": "2024-11-05T12:30:48Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2407",
       "text": "feat(P2P-ENERGY): fixed p2p domain name p2p-trading into p2p_trading"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2358",
+      "time": "2024-11-06T04:59:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2358",
+      "text": "feat(P2P-ENERGY): cypress test cases and added test ids for p2p energ…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2416",
+      "time": "2024-11-06T07:29:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2416",
+      "text": "feat(DRAGON-FOODS): created product details page checkbox ui in common"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2418",
+      "time": "2024-11-06T10:42:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2418",
+      "text": "feat: implemented single and multi select checkbot functionality in o…"
     }
   ],
   "open_prs": [],

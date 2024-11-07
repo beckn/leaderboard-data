@@ -560,6 +560,13 @@
       "time": "2024-11-05T06:14:10Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2359",
       "text": "feat(p2p): added data test ids in p2p app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2417",
+      "time": "2024-11-06T07:37:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2417",
+      "text": "feat(dragon foods): implemented UI for auth and homepage"
     }
   ],
   "open_prs": [],

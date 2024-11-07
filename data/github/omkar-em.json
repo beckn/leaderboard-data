@@ -2618,6 +2618,48 @@
       "time": "2024-11-05T08:01:29Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2362",
       "text": "API Testing for Hyperbeckn"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2421",
+      "time": "2024-11-06T12:17:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2421",
+      "text": "Policy Portal-Error Message and Text Overlapping."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2415",
+      "time": "2024-11-06T07:16:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2415",
+      "text": "Happy Flow Testing for CityOfAfrica using Cypress"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2414",
+      "time": "2024-11-06T07:15:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2414",
+      "text": "Happy Flow Testing for Smart Cities using Cypress"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2315",
+      "time": "2024-10-17T15:02:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2315",
+      "text": "DSEP -  Pricing mismatch on checkout page in DSEP application when multiple courses are bought"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2276",
+      "time": "2024-10-10T14:39:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2276",
+      "text": "Policies - Policy filter options should only include \"All,\" \"Applied,\" \"Disputed,\" and \"New\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2275",
+      "time": "2024-10-10T14:35:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2275",
+      "text": "policy portal - Country and city are not in sync in Policy Portal's new policy creation form"
     }
   ],
   "open_prs": [],
