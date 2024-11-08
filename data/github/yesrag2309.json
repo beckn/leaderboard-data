@@ -133,6 +133,13 @@
       "time": "2024-10-29T06:13:08Z",
       "link": "https://github.com/beckn/beckn-sandbox/issues/28",
       "text": "Internal Knowledge Transfer & Upskilling Session on Beckn Protocol"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2431",
+      "time": "2024-09-04T10:41:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2431",
+      "text": "Reference Application: Climate Resilience Project  - Migration to Experience Centre"
     }
   ],
   "open_prs": [],

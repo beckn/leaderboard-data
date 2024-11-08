@@ -567,6 +567,13 @@
       "time": "2024-11-06T07:37:11Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2417",
       "text": "feat(dragon foods): implemented UI for auth and homepage"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2428",
+      "time": "2024-11-07T09:30:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2428",
+      "text": "feat(climate_data): added logic for frequently access card"
     }
   ],
   "open_prs": [],
