@@ -1498,6 +1498,34 @@
       "time": "2024-10-24T06:36:20Z",
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "text": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#458",
+      "time": "2024-10-18T05:42:16Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/458",
+      "text": "Add about/ endpoint in the protocol specification"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#231",
+      "time": "2024-11-07T06:45:20Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/231",
+      "text": "Session for Protocol Specification"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#230",
+      "time": "2024-11-07T06:39:53Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/230",
+      "text": "Create example JSONs for cred and on_cred api endpoints for UEI P2P Hyperbeckn implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#229",
+      "time": "2024-11-07T05:18:45Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/229",
+      "text": "Update in the VC schema, beckn.json in protocol specification based on the  discussions with the development team"
     }
   ],
   "open_prs": [],

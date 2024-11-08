@@ -518,6 +518,13 @@
       "time": "2024-10-30T08:38:32Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/184",
       "text": "Added bug fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#188",
+      "time": "2024-11-07T06:22:09Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/188",
+      "text": "Added tag support for climate resilience in search, select and init"
     }
   ],
   "open_prs": [],

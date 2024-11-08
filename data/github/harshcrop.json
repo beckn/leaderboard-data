@@ -112,6 +112,20 @@
       "time": "2024-10-07T09:43:07Z",
       "link": "https://github.com/beckn/missions/issues/141",
       "text": "Win Room 2024 Planning"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#142",
+      "time": "2024-10-07T09:52:02Z",
+      "link": "https://github.com/beckn/missions/issues/142",
+      "text": "Create Master PPT for Devfest 2024"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2430",
+      "time": "2024-11-07T07:12:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2430",
+      "text": "Create New Repos for Tekdi"
     }
   ],
   "open_prs": [],

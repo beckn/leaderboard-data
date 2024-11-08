@@ -2660,6 +2660,20 @@
       "time": "2024-10-10T14:35:01Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2275",
       "text": "policy portal - Country and city are not in sync in Policy Portal's new policy creation form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2439",
+      "time": "2024-11-07T10:28:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2439",
+      "text": "P2P UEI - Whatsapp Chatbot is not working, gives error while buying energy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2438",
+      "time": "2024-11-07T10:25:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2438",
+      "text": "OpenSpark - application is failing at search & init api"
     }
   ],
   "open_prs": [],

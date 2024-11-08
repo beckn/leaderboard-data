@@ -4704,6 +4704,13 @@
       "time": "2024-11-06T12:38:19Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/228",
       "text": "AWS Infra Optimization - Based on discussion with stakeholder"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#283",
+      "time": "2024-08-21T05:40:41Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/283",
+      "text": "Beckn Onix: Network observability dashboard for Beckn - Product Requirements ver 1.1"
     }
   ],
   "open_prs": [],

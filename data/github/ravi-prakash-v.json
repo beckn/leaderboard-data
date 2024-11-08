@@ -1806,6 +1806,13 @@
       "time": "2024-10-15T09:59:41Z",
       "link": "https://github.com/beckn/protocol-specifications/issues/457",
       "text": "Add creds attribute to Item, Payments, Fulfillment, and other relevant schemas"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#457",
+      "time": "2024-10-15T09:59:41Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/457",
+      "text": "Add creds attribute to Item, Payments, Fulfillment, and other relevant schemas"
     }
   ],
   "open_prs": [],

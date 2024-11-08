@@ -3885,6 +3885,34 @@
       "time": "2024-11-05T10:48:45Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2365",
       "text": "UX Designs for Open Spark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#282",
+      "time": "2024-11-07T05:02:06Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/282",
+      "text": "Beckn Onix: Beckn One - Specification Ver 1.1 Documentation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2434",
+      "time": "2024-11-07T04:50:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2434",
+      "text": "Reference Application: P2P Energy Trading - Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2433",
+      "time": "2024-10-16T06:16:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2433",
+      "text": "Reporting for Pipeline & Flow Management   - Establishing Requirements Clarity"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2432",
+      "time": "2024-10-15T13:03:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2432",
+      "text": "Open Networks for Volunteering - Establish Requirements Clarity"
     }
   ],
   "open_prs": [],
