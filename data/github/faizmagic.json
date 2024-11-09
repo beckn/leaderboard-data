@@ -476,6 +476,20 @@
       "time": "2024-11-05T10:35:36Z",
       "link": "https://github.com/beckn/missions/issues/155",
       "text": "Project Lighthouse - Kick Off"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#160",
+      "time": "2024-11-08T06:25:13Z",
+      "link": "https://github.com/beckn/missions/issues/160",
+      "text": "UAI: L2 Config"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#159",
+      "time": "2024-11-08T06:00:54Z",
+      "link": "https://github.com/beckn/missions/issues/159",
+      "text": "UEI: Update and release new version 1.1 of L2 config"
     }
   ],
   "open_prs": [],

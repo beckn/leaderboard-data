@@ -574,6 +574,69 @@
       "time": "2024-11-07T09:30:12Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2428",
       "text": "feat(climate_data): added logic for frequently access card"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2448",
+      "time": "2024-11-08T04:59:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2448",
+      "text": "Cypress E2E test cases for the Checkout page(P2P energy)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2447",
+      "time": "2024-11-08T04:59:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2447",
+      "text": "Add Data test ids in P2P energy App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2446",
+      "time": "2024-11-08T04:59:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2446",
+      "text": "Tech Debt - Cypress E2E Test Cases for Cancel Ride Page in Mobility BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2445",
+      "time": "2024-11-08T04:58:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2445",
+      "text": "Tech debt - Cypress E2E test Cases for FeedbackPage For Mobility Bpp"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2444",
+      "time": "2024-11-08T04:58:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2444",
+      "text": "Tech debt - Cypress E2E test Cases for Ride Details Page(taxi fare ) For Mobility Bpp"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2443",
+      "time": "2024-11-08T04:58:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2443",
+      "text": "Cypress E2E Test Cases for Taxi-BPP Profile Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2442",
+      "time": "2024-11-08T04:58:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2442",
+      "text": "Cypress E2E Test Cases for Taxi-BPP My Rides Page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2450",
+      "time": "2024-11-08T07:30:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2450",
+      "text": "feat(dragon_food): implemented order request page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2454",
+      "time": "2024-11-08T11:36:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2454",
+      "text": "fix(dragon_food): delete unwanted images and some code"
     }
   ],
   "open_prs": [],

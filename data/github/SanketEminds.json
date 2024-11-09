@@ -168,6 +168,20 @@
       "time": "2024-11-07T06:24:12Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2429",
       "text": "Error While Generating ChatGPT List when Switching from Tourism to Retail (Himalaya and City of Lights)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2453",
+      "time": "2024-11-08T09:24:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2453",
+      "text": "UEI-Authentication Error on UI Screen in Kazam App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2449",
+      "time": "2024-11-08T05:38:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2449",
+      "text": "DSNP-Application error causing crash in DSNP app when checking Order History"
     }
   ],
   "open_prs": [],
