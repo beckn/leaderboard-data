@@ -2674,6 +2674,34 @@
       "time": "2024-11-07T10:25:35Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2438",
       "text": "OpenSpark - application is failing at search & init api"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2473",
+      "time": "2024-11-08T12:10:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2473",
+      "text": "Negative Flow Testing for Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2465",
+      "time": "2024-11-08T11:23:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2465",
+      "text": "End-to-End Automation of Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2462",
+      "time": "2024-11-08T10:34:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2462",
+      "text": "Open Spark Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2278",
+      "time": "2024-10-10T14:43:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2278",
+      "text": "Policy Portal- Date validation is failing, allowing backdated policies to be created and applied"
     }
   ],
   "open_prs": [],

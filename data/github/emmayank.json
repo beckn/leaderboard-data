@@ -4711,6 +4711,104 @@
       "time": "2024-08-21T05:40:41Z",
       "link": "https://github.com/beckn/beckn-onix/issues/283",
       "text": "Beckn Onix: Network observability dashboard for Beckn - Product Requirements ver 1.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2471",
+      "time": "2024-11-08T11:44:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2471",
+      "text": "Cypress E2E Test Cases for Order Confirmation Page (P2P Energy App)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2470",
+      "time": "2024-11-08T11:44:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2470",
+      "text": "Cypress E2E Test Cases for Payment Page (P2P Energy App)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2469",
+      "time": "2024-11-08T11:43:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2469",
+      "text": "Cypress E2E Test Cases for P2P-Energy (Open Spark) Cart Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2468",
+      "time": "2024-11-08T11:43:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2468",
+      "text": "Cypress E2E Test Cases for P2P-Energy (Open Spark) Product Details Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2467",
+      "time": "2024-11-08T11:42:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2467",
+      "text": "Cypress E2E Test Cases for P2P-Energy (Open Spark) Search Product Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2466",
+      "time": "2024-11-08T11:42:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2466",
+      "text": "Cypress E2E Test Cases  for P2P-Energy (Open Spark) Landing Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2463",
+      "time": "2024-11-08T10:39:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2463",
+      "text": "Migration of Beckn Gemini Application from Google Instance to Dev Instance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2460",
+      "time": "2024-11-08T10:29:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2460",
+      "text": "Setup New WordPress EC2 Instances"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2459",
+      "time": "2024-11-08T10:29:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2459",
+      "text": "Fixed Registry Issue in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2458",
+      "time": "2024-11-08T10:28:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2458",
+      "text": "Fixed Gateway Issue in Dev and Redeployed/Re-registered All Dev BAP and BPP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2457",
+      "time": "2024-11-08T10:28:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2457",
+      "text": "Investigating Search Failure Issue in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2456",
+      "time": "2024-11-08T10:28:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2456",
+      "text": "Deploy New BAP Strapi for Mock-MDM on Existing Infrastructure"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2455",
+      "time": "2024-11-08T10:26:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2455",
+      "text": "Test Cases Creation for Open Spark UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#125",
+      "time": "2024-11-08T16:10:32Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/125",
+      "text": "P2P UEI - WhatsApp Chatbot Error During Energy Selling"
     }
   ],
   "open_prs": [],

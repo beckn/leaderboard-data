@@ -1309,6 +1309,20 @@
       "time": "2024-10-30T12:12:28Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/122",
       "text": "Adding langgraph to the current beckn-agent repo"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#124",
+      "time": "2024-11-08T14:18:16Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/124",
+      "text": "Rebuilding Transactional AI bot using langgraph - Writing flows using langraph and replacing if/else"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#123",
+      "time": "2024-11-05T17:39:48Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/123",
+      "text": "Rebuilding Transactional AI bot using langgraph - Creating factory methods for different LLM provider"
     }
   ],
   "open_prs": [],

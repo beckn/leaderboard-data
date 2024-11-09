@@ -1876,6 +1876,34 @@
       "time": "2024-11-07T09:58:18Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2437",
       "text": "feat(dragon-foods): added new comp., pages using common pckg & custom…"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2464",
+      "time": "2024-11-08T10:41:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2464",
+      "text": "Cypress test - Mobility BAP search ride form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2461",
+      "time": "2024-11-08T10:31:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2461",
+      "text": "MDM-non-beckn - Enhancement of consumption & production log API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2452",
+      "time": "2024-11-08T08:24:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2452",
+      "text": "fix(dragon-foods): fix code and ui designs and some functionality"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2472",
+      "time": "2024-11-08T12:03:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2472",
+      "text": "fix(policy-admin): fix issue relatd to failure page text not vsible"
     }
   ],
   "open_prs": [],
