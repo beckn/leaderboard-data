@@ -1526,6 +1526,27 @@
       "time": "2024-11-07T05:18:45Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/229",
       "text": "Update in the VC schema, beckn.json in protocol specification based on the  discussions with the development team"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#165",
+      "time": "2024-11-11T13:12:04Z",
+      "link": "https://github.com/beckn/missions/issues/165",
+      "text": "Update example JSON in the UAI: equipment purchase use case"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#164",
+      "time": "2024-11-11T13:05:51Z",
+      "link": "https://github.com/beckn/missions/issues/164",
+      "text": "Update the UEI: EV charging layer 2 configuration: Restrict addition of new fields in the payload jsons by NPs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#162",
+      "time": "2024-11-11T10:03:16Z",
+      "link": "https://github.com/beckn/missions/pull/162",
+      "text": "Add additionalProperties: false to UEI Layer 2 Configuration "
     }
   ],
   "open_prs": [],

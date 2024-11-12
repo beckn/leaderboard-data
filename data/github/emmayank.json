@@ -4809,6 +4809,41 @@
       "time": "2024-11-08T16:10:32Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/125",
       "text": "P2P UEI - WhatsApp Chatbot Error During Energy Selling"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2460",
+      "time": "2024-11-08T10:29:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2460",
+      "text": "Setup New WordPress EC2 Instances"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2459",
+      "time": "2024-11-08T10:29:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2459",
+      "text": "Fixed Registry Issue in Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2458",
+      "time": "2024-11-08T10:28:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2458",
+      "text": "Fixed Gateway Issue in Dev and Redeployed/Re-registered All Dev BAP and BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2457",
+      "time": "2024-11-08T10:28:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2457",
+      "text": "Investigating Search Failure Issue in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#126",
+      "time": "2024-11-11T09:53:05Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/126",
+      "text": "End to End working of Beckn gemini P2P usecase using langraph"
     }
   ],
   "open_prs": [],

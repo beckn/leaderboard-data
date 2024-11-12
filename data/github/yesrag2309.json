@@ -140,6 +140,27 @@
       "time": "2024-09-04T10:41:18Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2431",
       "text": "Reference Application: Climate Resilience Project  - Migration to Experience Centre"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#163",
+      "time": "2024-11-11T11:18:13Z",
+      "link": "https://github.com/beckn/missions/issues/163",
+      "text": "UEI Implementation Guide V1.1 Internal Review & Rework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#161",
+      "time": "2024-11-11T05:24:05Z",
+      "link": "https://github.com/beckn/missions/issues/161",
+      "text": "UAI: Create Implementation Guide Version 0.1-Review and Rework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#285",
+      "time": "2024-11-11T07:00:15Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/285",
+      "text": "Beckn Onix: Network observability dashboard for Beckn - Product Requirements ver 0.3-Review and Rework"
     }
   ],
   "open_prs": [],

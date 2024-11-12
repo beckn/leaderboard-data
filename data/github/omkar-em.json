@@ -2723,6 +2723,132 @@
       "time": "2024-10-16T15:09:05Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2311",
       "text": "Policy Portal - Text for failure page is not visible in Policy Portal"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2438",
+      "time": "2024-11-07T10:25:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2438",
+      "text": "OpenSpark - application is failing at search & init api"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2421",
+      "time": "2024-11-06T12:17:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2421",
+      "text": "Policy Portal-Error Message and Text Overlapping."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2411",
+      "time": "2024-11-05T14:33:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2411",
+      "text": "OpenSpark - application is failing at search & init api"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2363",
+      "time": "2024-11-05T08:02:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2363",
+      "text": "Test Case Creation for Hyperbeckn"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2362",
+      "time": "2024-11-05T08:01:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2362",
+      "text": "API Testing for Hyperbeckn"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2344",
+      "time": "2024-10-29T09:51:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2344",
+      "text": "Bpp - In BPP side /trade API, user is able to provide negative price and quantity"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2338",
+      "time": "2024-10-28T09:34:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2338",
+      "text": "bpp - Able to sign up multiple users with the same mobile number"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2337",
+      "time": "2024-10-28T09:31:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2337",
+      "text": "bpp - Able to sign up without first_name or last_name in /signup API on BPP side"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2321",
+      "time": "2024-10-21T04:48:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2321",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2320",
+      "time": "2024-10-21T04:48:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2320",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2319",
+      "time": "2024-10-21T04:48:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2319",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2277",
+      "time": "2024-10-10T14:41:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2277",
+      "text": "Policies - Disputed filter is not working"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2274",
+      "time": "2024-10-10T14:19:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2274",
+      "text": "Policy Portal -  'From and To Date' Validation Issue in Policy Creation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2264",
+      "time": "2024-10-09T10:22:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2264",
+      "text": "Mobility - Driver name mismatch in rider app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2263",
+      "time": "2024-10-09T10:20:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2263",
+      "text": "Mobility - Driver is not receiving pop-up to accept rides in staging environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2254",
+      "time": "2024-10-08T10:22:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2254",
+      "text": "Policy Portal - Title and description fields give error even when they meet the minimum character requirement"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1461",
+      "time": "2024-07-03T09:11:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1461",
+      "text": "Load Testing for Beckn Application (Horizontal Scaling)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1414",
+      "time": "2024-06-26T15:07:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1414",
+      "text": "Load Testing for Beckn Application (Vertical Scaling)"
     }
   ],
   "open_prs": [],

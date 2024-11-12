@@ -1904,6 +1904,41 @@
       "time": "2024-11-08T12:03:40Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2472",
       "text": "fix(policy-admin): fix issue relatd to failure page text not vsible"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2464",
+      "time": "2024-11-08T10:41:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2464",
+      "text": "Cypress test - Mobility BAP search ride form"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2210",
+      "time": "2024-09-30T04:55:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2210",
+      "text": "Disable Apply & Dispute Buttons for Active and Inactive Policies - Mobility Policies / QuarantineZone Page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2474",
+      "time": "2024-11-11T03:14:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2474",
+      "text": "fix(policy-admin): fix error message overlapping issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2477",
+      "time": "2024-11-11T07:23:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2477",
+      "text": "fix(dragon-foods): added missing imgs to topsheet header"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2480",
+      "time": "2024-11-11T10:46:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2480",
+      "text": "fix(dsnp): fix import issues in dsnp files"
     }
   ],
   "open_prs": [],

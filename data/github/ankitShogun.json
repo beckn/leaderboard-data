@@ -1323,6 +1323,13 @@
       "time": "2024-11-05T17:39:48Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/123",
       "text": "Rebuilding Transactional AI bot using langgraph - Creating factory methods for different LLM provider"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#225",
+      "time": "2024-10-30T12:04:33Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/225",
+      "text": "Postman collection verification and POCs"
     }
   ],
   "open_prs": [],
