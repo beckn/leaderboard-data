@@ -413,6 +413,13 @@
       "time": "2024-10-18T05:32:07Z",
       "link": "https://github.com/beckn/beckn-onix/pull/274",
       "text": "Add support for installing all components"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#271",
+      "time": "2024-10-17T12:56:10Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/271",
+      "text": "Add option to install all Beckn components"
     }
   ],
   "open_prs": [],

@@ -3913,6 +3913,34 @@
       "time": "2024-10-15T13:03:46Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2432",
       "text": "Open Networks for Volunteering - Establish Requirements Clarity"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#286",
+      "time": "2024-11-11T07:30:13Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/286",
+      "text": "Beckn Onix: Beckn One - Specification Ver 0.2 Documentation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2309",
+      "time": "2024-10-16T14:34:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2309",
+      "text": "Sanity Testing for 3 BAPs Apps in Forest Conservation Project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2308",
+      "time": "2024-10-16T14:34:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2308",
+      "text": "Sanity Testing for 3 BAPs Apps in Climate Resilience Project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#143",
+      "time": "2024-09-13T05:51:51Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/143",
+      "text": "Detailed analysis of all the AWS instances on draw.io"
     }
   ],
   "open_prs": [],

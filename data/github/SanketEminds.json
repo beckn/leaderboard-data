@@ -182,6 +182,34 @@
       "time": "2024-11-08T05:38:38Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2449",
       "text": "DSNP-Application error causing crash in DSNP app when checking Order History"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2479",
+      "time": "2024-11-11T09:08:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2479",
+      "text": "Mobility-Search Results Not Appearing in Development Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2478",
+      "time": "2024-11-11T07:41:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2478",
+      "text": "P2P Energy-WhatsApp Bot Accepting PDF File Format Instead of Showing Error"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2475",
+      "time": "2024-11-11T07:05:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2475",
+      "text": "P2P Energy-Unable to Sell Energy on WhatsApp Bot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2236",
+      "time": "2024-11-11T06:31:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2236",
+      "text": "feat: cypress test cases"
     }
   ],
   "open_prs": [],

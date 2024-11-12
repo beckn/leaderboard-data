@@ -3248,6 +3248,48 @@
       "time": "2024-11-07T09:29:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2418",
       "text": "feat: implemented single and multi select checkbot functionality in o…"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2357",
+      "time": "2024-11-04T08:12:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2357",
+      "text": "Cypress E2E Test Cases and Add Test IDs for P2P-Energy Landing Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2350",
+      "time": "2024-10-29T12:09:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2350",
+      "text": "Cypress E2E Test Cases for Taxi BPP - Looking for New Ride Flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2349",
+      "time": "2024-10-29T12:09:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2349",
+      "text": "Cypress E2E Test Cases for Taxi BPP - End Ride Flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2348",
+      "time": "2024-10-29T12:09:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2348",
+      "text": "Cypress E2E Test Cases for Taxi BPP - Start Ride Flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2347",
+      "time": "2024-10-29T12:08:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2347",
+      "text": "Cypress E2E Test Cases for Taxi BPP - Reached Pick-Up Location Flow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2476",
+      "time": "2024-11-11T07:40:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2476",
+      "text": "feat(DRAGON-FOODS): fixed some ui for dragon foods"
     }
   ],
   "open_prs": [],
