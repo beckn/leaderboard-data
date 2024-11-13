@@ -84,6 +84,13 @@
       "time": "2024-10-29T06:25:29Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2435",
       "text": "Reference Application: P2P Energy Trading - UI/UX & PRD Preparation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#275",
+      "time": "2024-10-29T06:19:14Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/275",
+      "text": "Infra Optimization - AWS usage"
     }
   ],
   "open_prs": [],

@@ -945,6 +945,13 @@
       "time": "2024-10-28T06:50:56Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/171",
       "text": "Updated code for trusted source"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#189",
+      "time": "2024-11-12T05:36:37Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/189",
+      "text": "Save tags as json in order table"
     }
   ],
   "open_prs": [],

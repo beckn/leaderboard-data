@@ -1547,6 +1547,20 @@
       "time": "2024-11-11T10:03:16Z",
       "link": "https://github.com/beckn/missions/pull/162",
       "text": "Add additionalProperties: false to UEI Layer 2 Configuration "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#166",
+      "time": "2024-11-12T08:33:28Z",
+      "link": "https://github.com/beckn/missions/pull/166",
+      "text": "UAI: Implementation guide for Advisory, Equpment_Rent, and Equipment_Purchase use cases"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#167",
+      "time": "2024-11-12T19:06:39Z",
+      "link": "https://github.com/beckn/missions/pull/167",
+      "text": "Updating the UAI implementation guide examples"
     }
   ],
   "open_prs": [],
