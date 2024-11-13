@@ -1939,6 +1939,13 @@
       "time": "2024-11-11T10:46:21Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2480",
       "text": "fix(dsnp): fix import issues in dsnp files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2481",
+      "time": "2024-11-12T15:09:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2481",
+      "text": "feat(harmoni-aids): added code to setup harmoni aids app"
     }
   ],
   "open_prs": [],

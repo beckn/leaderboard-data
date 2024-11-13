@@ -210,6 +210,27 @@
       "time": "2024-11-11T06:31:59Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2236",
       "text": "feat: cypress test cases"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2486",
+      "time": "2024-11-12T12:34:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2486",
+      "text": "Automation of Driver App for City of Africa Using Cypress"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2485",
+      "time": "2024-11-12T12:33:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2485",
+      "text": "Automation of Driver App for City of Light Using Cypress"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2484",
+      "time": "2024-11-12T09:27:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2484",
+      "text": "DSEP-Scholarship Results Not Showing in Staging Environment"
     }
   ],
   "open_prs": [],

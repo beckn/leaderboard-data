@@ -3290,6 +3290,13 @@
       "time": "2024-11-11T07:40:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2476",
       "text": "feat(DRAGON-FOODS): fixed some ui for dragon foods"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2483",
+      "time": "2024-11-12T08:02:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2483",
+      "text": "feat(SKY-ANALYTICS): replicate sky analytics app in ui workspace"
     }
   ],
   "open_prs": [],
