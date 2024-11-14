@@ -2849,6 +2849,27 @@
       "time": "2024-06-26T15:07:26Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1414",
       "text": "Load Testing for Beckn Application (Vertical Scaling)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2492",
+      "time": "2024-11-13T06:57:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2492",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2491",
+      "time": "2024-11-13T06:57:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2491",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2490",
+      "time": "2024-11-13T06:57:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2490",
+      "text": "Daily Application Testing"
     }
   ],
   "open_prs": [],

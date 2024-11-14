@@ -539,6 +539,13 @@
       "time": "2024-11-12T11:55:50Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/190",
       "text": "Added climate order support"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#94",
+      "time": "2024-11-13T10:59:06Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/94",
+      "text": "Fixed climate select issue"
     }
   ],
   "open_prs": [],
