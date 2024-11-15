@@ -4844,6 +4844,13 @@
       "time": "2024-11-11T09:53:05Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/126",
       "text": "End to End working of Beckn gemini P2P usecase using langraph"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2498",
+      "time": "2024-11-14T05:09:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2498",
+      "text": "P2P Reference application : Combining seller and consumer with one strapi"
     }
   ],
   "open_prs": [],

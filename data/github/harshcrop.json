@@ -133,6 +133,27 @@
       "time": "2024-11-08T08:06:54Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2451",
       "text": "Solana Hackathon Winner List"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2503",
+      "time": "2024-11-14T11:15:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2503",
+      "text": "documents (planning, tech readiness and/or any assets repository) for hackathon"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2500",
+      "time": "2024-11-14T08:05:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2500",
+      "text": "Open Networks Volunteering"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2499",
+      "time": "2024-11-14T08:04:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2499",
+      "text": "Github Cleanup Continue"
     }
   ],
   "open_prs": [],
