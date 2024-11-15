@@ -1995,6 +1995,13 @@
       "time": "2024-11-13T15:48:19Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2494",
       "text": "feat(dragon-foods): integrated /cofirm api to dragon foods"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#187",
+      "time": "2024-11-14T06:03:03Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/187",
+      "text": "Generate custom catalog on user request"
     }
   ],
   "open_prs": [],

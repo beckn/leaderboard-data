@@ -231,6 +231,13 @@
       "time": "2024-11-12T09:27:48Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2484",
       "text": "DSEP-Scholarship Results Not Showing in Staging Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2502",
+      "time": "2024-11-14T10:55:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2502",
+      "text": "UEI-Estimate Screen - Generating Estimate Button Stuck and UI Elements Missing"
     }
   ],
   "open_prs": [],

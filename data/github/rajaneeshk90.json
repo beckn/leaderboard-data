@@ -1575,6 +1575,20 @@
       "time": "2024-11-13T09:28:10Z",
       "link": "https://github.com/beckn/missions/pull/169",
       "text": "Updating the example json in the UAI equipment rental use case"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#158",
+      "time": "2024-11-14T11:23:19Z",
+      "link": "https://github.com/beckn/missions/pull/158",
+      "text": "Improvement in uei implementation guide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#162",
+      "time": "2024-11-14T11:23:36Z",
+      "link": "https://github.com/beckn/missions/pull/162",
+      "text": "Add additionalProperties: false to UEI Layer 2 Configuration "
     }
   ],
   "open_prs": [],

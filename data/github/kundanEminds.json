@@ -3304,6 +3304,13 @@
       "time": "2024-11-13T09:43:00Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2483",
       "text": "feat(SKY-ANALYTICS): replicate sky analytics app in ui workspace"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2501",
+      "time": "2024-11-14T10:22:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2501",
+      "text": "feat(DRAGON-FOODS): implementd order history"
     }
   ],
   "open_prs": [],
