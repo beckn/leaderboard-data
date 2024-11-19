@@ -4858,6 +4858,34 @@
       "time": "2024-11-11T09:53:05Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/126",
       "text": "End to End working of Beckn gemini P2P usecase using langraph"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#171",
+      "time": "2024-10-24T15:49:24Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/171",
+      "text": "Define registry schema for DeDi"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#170",
+      "time": "2024-10-24T15:49:19Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/170",
+      "text": "Hyperbeckn - Review & Signoff from Stakeholder"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#148",
+      "time": "2024-10-21T09:45:50Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/148",
+      "text": "Create a detailed product requirement document for OpenSpark"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#117",
+      "time": "2024-08-13T09:07:46Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/117",
+      "text": "/about endpoint for network participants"
     }
   ],
   "open_prs": [],

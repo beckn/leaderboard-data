@@ -3311,6 +3311,27 @@
       "time": "2024-11-14T10:22:16Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2501",
       "text": "feat(DRAGON-FOODS): implementd order history"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2517",
+      "time": "2024-11-18T12:00:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2517",
+      "text": "Climate data | BAP | Implement Payment page with API integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2516",
+      "time": "2024-11-18T12:00:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2516",
+      "text": "Climate Data | BAP | Implement Checkout Page with API Integration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2510",
+      "time": "2024-11-18T10:38:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2510",
+      "text": "feat(DRAGON-FOODS): implementd checkout and payment page in dragon foods"
     }
   ],
   "open_prs": [],

@@ -2002,6 +2002,48 @@
       "time": "2024-11-14T06:03:03Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/187",
       "text": "Generate custom catalog on user request"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2294",
+      "time": "2024-10-15T05:02:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2294",
+      "text": "Tech debt - Cypress E2E test Cases for  PaymentPage For Mobility Bpp"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2504",
+      "time": "2024-11-18T04:59:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2504",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2507",
+      "time": "2024-11-18T06:38:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2507",
+      "text": "fix(dragon-foods): fixed error messages for respective regex check in …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2508",
+      "time": "2024-11-18T07:50:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2508",
+      "text": "fix(dragon-foods): modified code to add description to signinpage and…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2509",
+      "time": "2024-11-18T08:31:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2509",
+      "text": "fix(dragon-foods): enable disable proceed btn on checkbox selection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2515",
+      "time": "2024-11-18T11:54:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2515",
+      "text": "fix(dragon-foods): fixed issues of checkout page related to payment calc"
     }
   ],
   "open_prs": [],

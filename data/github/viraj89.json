@@ -3962,6 +3962,13 @@
       "time": "2024-11-13T06:05:47Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2489",
       "text": "Open Spark - Reference Application: P2P Energy Trading - UI/UX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#245",
+      "time": "2024-10-07T09:15:56Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/245",
+      "text": "Issue Grievance Module (IGM) - Documentation v0.1"
     }
   ],
   "open_prs": [],

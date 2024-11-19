@@ -2870,6 +2870,20 @@
       "time": "2024-11-13T06:57:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2490",
       "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2506",
+      "time": "2024-11-18T05:49:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2506",
+      "text": "Dragon Foods - In sign-up flow, error messages for password fields are incorrect"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2505",
+      "time": "2024-11-18T05:40:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2505",
+      "text": "Dragon Foods - On sign-in screen, subtitle, placeholders, \"Powered by Beckn\" text, and \"Welcome back!\" are missing or incorrect"
     }
   ],
   "open_prs": [],
