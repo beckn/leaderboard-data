@@ -637,6 +637,27 @@
       "time": "2024-11-08T11:36:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2454",
       "text": "fix(dragon_food): delete unwanted images and some code"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2514",
+      "time": "2024-11-18T11:07:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2514",
+      "text": "UI Improvement for Order Request Page (Dragon Foods App)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2330",
+      "time": "2024-10-24T14:32:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2330",
+      "text": "Tech Debt - Cypress E2E Test Cases for Contact Support Page in Mobility BPP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2513",
+      "time": "2024-11-18T11:50:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2513",
+      "text": "fix(dragonFoods ): improved order request page UI"
     }
   ],
   "open_prs": [],
