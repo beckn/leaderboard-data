@@ -2030,6 +2030,20 @@
       "time": "2024-11-06T11:56:48Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2419",
       "text": "BAP-Non-Beckn - Handle Deployment and Re-deployments of MDM and BAP Strapi Plugins and Application"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#196",
+      "time": "2024-11-19T08:36:05Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/196",
+      "text": "Added: Optional Chaining for select and init"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#197",
+      "time": "2024-11-19T10:17:31Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/197",
+      "text": "Custom catalog via genai"
     }
   ],
   "open_prs": [],

@@ -4886,6 +4886,125 @@
       "time": "2024-08-13T09:07:46Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/117",
       "text": "/about endpoint for network participants"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#288",
+      "time": "2024-11-19T06:35:39Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/288",
+      "text": "On-Call Support with Decharge Network Team to Fix Beckn-Onix GUI Related Issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#244",
+      "time": "2024-11-19T06:38:57Z",
+      "link": "https://github.com/beckn/protocol-server/issues/244",
+      "text": "Debug PS Issue in BOC Environment and Added Layer to Config"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#243",
+      "time": "2024-11-19T06:34:03Z",
+      "link": "https://github.com/beckn/protocol-server/issues/243",
+      "text": "Debugging BAP Protocol Server Issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#194",
+      "time": "2024-11-19T08:16:53Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/194",
+      "text": "Merging consumer & prosumer flow : End to End QA of new Unified plugin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#193",
+      "time": "2024-11-19T08:16:48Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/193",
+      "text": "Merging consumer & prosumer flow : Code changes & Install Unified plugin in the new strapi"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#192",
+      "time": "2024-11-19T08:16:42Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/192",
+      "text": "Merging consumer & prosumer flow : Import tables and their corresponding schema files of BPP and BAP in the new strapi"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#191",
+      "time": "2024-11-19T08:16:35Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/191",
+      "text": "Merging consumer & prosumer flow : Common table identification & Impact Analysis"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#195",
+      "time": "2024-11-19T08:16:27Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/195",
+      "text": "Merging consumer & prosumer flow : Initialise new Strapi instance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2529",
+      "time": "2024-11-19T06:43:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2529",
+      "text": "Cypress Refactoring for Retail Amplify Support"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2528",
+      "time": "2024-11-19T06:42:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2528",
+      "text": "API Testing for Climate Postman Collection"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2527",
+      "time": "2024-11-19T06:35:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2527",
+      "text": "Deployment of Strapi from `climate-resilience-tag-support` Branch in Dev"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2525",
+      "time": "2024-11-19T06:33:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2525",
+      "text": "Add Layer 2 Configuration for Climate Data to Protocol Server"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2524",
+      "time": "2024-11-19T06:30:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2524",
+      "text": "Domain and Spec File Addition Related Changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2523",
+      "time": "2024-11-19T06:30:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2523",
+      "text": "Select Not Working on Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2522",
+      "time": "2024-11-19T06:29:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2522",
+      "text": "Climate Resilience Deployment and Its Related Issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#30",
+      "time": "2024-11-19T07:55:03Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/30",
+      "text": "Setup Dynamic sandbox in BOC for UAI usecase"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#29",
+      "time": "2024-11-19T06:37:40Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/29",
+      "text": "Setup Strapi in BOC Environment"
     }
   ],
   "open_prs": [],

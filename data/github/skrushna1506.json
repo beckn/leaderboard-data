@@ -658,6 +658,13 @@
       "time": "2024-11-18T11:50:32Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2513",
       "text": "fix(dragonFoods ): improved order request page UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2531",
+      "time": "2024-11-19T08:09:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2531",
+      "text": "fix(harmony_aid): changes done as per figma"
     }
   ],
   "open_prs": [],
