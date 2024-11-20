@@ -2884,6 +2884,13 @@
       "time": "2024-11-18T05:40:11Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2505",
       "text": "Dragon Foods - On sign-in screen, subtitle, placeholders, \"Powered by Beckn\" text, and \"Welcome back!\" are missing or incorrect"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2313",
+      "time": "2024-10-17T13:47:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2313",
+      "text": "Policy Portal - Password is not resetting when clicking the link received in email in Policy Portal"
     }
   ],
   "open_prs": [],

@@ -546,6 +546,20 @@
       "time": "2024-11-13T10:59:06Z",
       "link": "https://github.com/beckn/generic-client-layer/pull/94",
       "text": "Fixed climate select issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#198",
+      "time": "2024-11-19T11:18:33Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/198",
+      "text": "Added tag support for provider and code changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#95",
+      "time": "2024-11-19T11:09:02Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/95",
+      "text": "Added tag support for provider"
     }
   ],
   "open_prs": [],

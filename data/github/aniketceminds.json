@@ -2044,6 +2044,41 @@
       "time": "2024-11-18T11:54:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2515",
       "text": "fix(dragon-foods): fixed issues of checkout page related to payment calc"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2521",
+      "time": "2024-11-19T06:17:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2521",
+      "text": "Climate data | BAP | Replicating changes in State Forest Department BAP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2518",
+      "time": "2024-11-19T05:26:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2518",
+      "text": "feat(ESI): initiated the earth support init. forest app for deployement"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2519",
+      "time": "2024-11-19T06:05:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2519",
+      "text": "feat(state-forest-dept): initiated the state forest dept forest app f…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2520",
+      "time": "2024-11-19T06:07:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2520",
+      "text": "feat(envirogrowth): initiated the envirogrowth forest app for deploye…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2533",
+      "time": "2024-11-19T09:13:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2533",
+      "text": "feat(ESI): modified code to chnge color scme for this app and some UI…"
     }
   ],
   "open_prs": [],
