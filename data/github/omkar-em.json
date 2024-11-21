@@ -2891,6 +2891,104 @@
       "time": "2024-10-17T13:47:24Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2313",
       "text": "Policy Portal - Password is not resetting when clicking the link received in email in Policy Portal"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2551",
+      "time": "2024-11-20T10:05:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2551",
+      "text": "Dragon Foods - Request history section shows incorrect/hardcoded data for \"Date of Data Requested\" and \"Request Status\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2549",
+      "time": "2024-11-20T05:49:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2549",
+      "text": "xs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2548",
+      "time": "2024-11-20T05:47:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2548",
+      "text": "Dragon Foods - Request history section shows incorrect/hardcoded data for \"Date of Data Requested\" and \"Request Status\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2547",
+      "time": "2024-11-20T05:28:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2547",
+      "text": "Dragon Foods - Order confirmation page missing email address in \"The dataset will be shared via the chosen mode\" section"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2546",
+      "time": "2024-11-20T05:24:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2546",
+      "text": "Dragon Foods - Order confirmation page logo alignment and text styling issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2544",
+      "time": "2024-11-20T05:20:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2544",
+      "text": "Dragon Foods - Text is overlapping in billing and shipping page in desktop mode, remove shipping from page title"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2542",
+      "time": "2024-11-20T05:14:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2542",
+      "text": "Dragon Foods - Add padding to request overview section and increase width of cart list section"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2540",
+      "time": "2024-11-20T05:09:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2540",
+      "text": "Dragon Foods - Able to proceed without selecting all mandatory fields"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2539",
+      "time": "2024-11-20T05:00:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2539",
+      "text": "Dragon Foods - Service details page has elliptical title, missing product image, provider name, and provider info section"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2538",
+      "time": "2024-11-20T04:33:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2538",
+      "text": "Dragon Foods - Hyperlink for Terms and Conditions page is missing in product description page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2537",
+      "time": "2024-11-20T04:30:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2537",
+      "text": "Dragon Foods - Scrollbar is present in search results when it is not required"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2536",
+      "time": "2024-11-20T04:27:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2536",
+      "text": "Dragon Foods - Search result cards width are not in sync with Figma, missing short description and license info"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2535",
+      "time": "2024-11-20T04:22:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2535",
+      "text": "Dragon Foods - Image is not loading in search results"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2506",
+      "time": "2024-11-18T05:49:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2506",
+      "text": "Dragon Foods - In sign-up flow, error messages for password fields are incorrect"
     }
   ],
   "open_prs": [],

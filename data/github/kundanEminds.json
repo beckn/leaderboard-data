@@ -3339,6 +3339,13 @@
       "time": "2024-11-19T08:09:43Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2530",
       "text": "feat(SKY-ANALYTICS): replicate sky analytics app in ui workspace and …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2550",
+      "time": "2024-11-20T16:45:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2550",
+      "text": "feat(ENIVIROGROWTH): replicate sky enivirogrowth in ui workspace and …"
     }
   ],
   "open_prs": [],

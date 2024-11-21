@@ -245,6 +245,13 @@
       "time": "2024-11-18T10:36:05Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2512",
       "text": "Scholarship Search Not Working in DSEP Staging Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2543",
+      "time": "2024-11-20T05:16:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2543",
+      "text": "profiles?populate API fails when applying for a scholarship in the DSEP app in staging env."
     }
   ],
   "open_prs": [],

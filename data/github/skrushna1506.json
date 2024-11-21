@@ -665,6 +665,13 @@
       "time": "2024-11-19T08:09:59Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2531",
       "text": "fix(harmony_aid): changes done as per figma"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2545",
+      "time": "2024-11-20T16:44:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2545",
+      "text": "feat(stateForestDepartment): replicating project"
     }
   ],
   "open_prs": [],

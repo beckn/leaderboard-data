@@ -560,6 +560,13 @@
       "time": "2024-11-19T11:09:02Z",
       "link": "https://github.com/beckn/generic-client-layer/pull/95",
       "text": "Added tag support for provider"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#199",
+      "time": "2024-11-20T07:45:55Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/199",
+      "text": "Added status in order response"
     }
   ],
   "open_prs": [],
