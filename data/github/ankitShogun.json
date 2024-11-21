@@ -1330,6 +1330,20 @@
       "time": "2024-10-30T12:04:33Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/225",
       "text": "Postman collection verification and POCs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#175",
+      "time": "2024-11-20T12:42:52Z",
+      "link": "https://github.com/beckn/missions/issues/175",
+      "text": "Beckn UAI Win room 20th Nov"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#174",
+      "time": "2024-11-20T12:42:02Z",
+      "link": "https://github.com/beckn/missions/issues/174",
+      "text": "Beckn UAI Win room 19th Nov"
     }
   ],
   "open_prs": [],
