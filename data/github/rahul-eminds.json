@@ -567,6 +567,13 @@
       "time": "2024-11-20T07:45:55Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/199",
       "text": "Added status in order response"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#200",
+      "time": "2024-11-21T17:18:36Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/200",
+      "text": "Added logic for login signup for trade bap and bpp for common strapi"
     }
   ],
   "open_prs": [],

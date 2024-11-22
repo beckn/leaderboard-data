@@ -252,6 +252,55 @@
       "time": "2024-11-20T05:16:08Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2543",
       "text": "profiles?populate API fails when applying for a scholarship in the DSEP app in staging env."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2567",
+      "time": "2024-11-21T14:44:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2567",
+      "text": "Powered by Beckn\" Text Overlaps with Frequently Accessed Items"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2563",
+      "time": "2024-11-21T10:20:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2563",
+      "text": "Incorrect Text Displayed on Request Overview Page in HarmoniAid and Sky Analytics"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2562",
+      "time": "2024-11-21T10:16:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2562",
+      "text": "Missing Cart Icon on Request Overview Page in Dragon Food and Earth-Support-Initiative Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2560",
+      "time": "2024-11-21T09:11:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2560",
+      "text": "HarmoniAid-Missing Text for \"Create New Workflow\" Button in Request History Tab."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2559",
+      "time": "2024-11-21T08:48:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2559",
+      "text": "Harmoni Aid App-Order API Failing While Placing an Order."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2558",
+      "time": "2024-11-21T08:29:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2558",
+      "text": "Sky Analytics App-Order API Failing While Placing an Order."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2557",
+      "time": "2024-11-21T08:20:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2557",
+      "text": "Sky Analytics -  Images Not Loading After Search"
     }
   ],
   "open_prs": [],
