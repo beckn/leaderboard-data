@@ -2989,6 +2989,27 @@
       "time": "2024-11-18T05:49:19Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2506",
       "text": "Dragon Foods - In sign-up flow, error messages for password fields are incorrect"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2566",
+      "time": "2024-11-21T11:32:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2566",
+      "text": "Climate Apps - Old requests are showing at the top instead of the latest requests in request history"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2565",
+      "time": "2024-11-21T11:28:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2565",
+      "text": "Climate apps - Incorrect total on billing page when multiple items are added to the cart and init is already called"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2505",
+      "time": "2024-11-18T05:40:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2505",
+      "text": "Dragon Foods - On sign-in screen, subtitle, placeholders, \"Powered by Beckn\" text, and \"Welcome back!\" are missing or incorrect"
     }
   ],
   "open_prs": [],

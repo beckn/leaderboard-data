@@ -952,6 +952,13 @@
       "time": "2024-11-12T05:36:37Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/189",
       "text": "Save tags as json in order table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-bap-bpp#1",
+      "time": "2024-11-21T06:19:34Z",
+      "link": "https://github.com/beckn/strapi-bap-bpp/pull/1",
+      "text": "migrate beckn bap user strapi"
     }
   ],
   "open_prs": [],

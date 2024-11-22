@@ -2100,6 +2100,55 @@
       "time": "2024-11-20T17:17:39Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2553",
       "text": "feat: integrated status api call in climate, forest apps"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2554",
+      "time": "2024-11-21T05:59:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2554",
+      "text": "fix(dragon-foods): fix product card to constomize the size of card"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2555",
+      "time": "2024-11-21T06:00:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2555",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2556",
+      "time": "2024-11-21T06:27:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2556",
+      "text": "fix: modified code in search component for all climate, forest apps"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2561",
+      "time": "2024-11-21T10:14:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2561",
+      "text": "fix: fixes the minor issue of ui design and functional"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2564",
+      "time": "2024-11-21T10:30:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2564",
+      "text": "fix: modified code in climate forest apps in product page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2568",
+      "time": "2024-11-21T15:58:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2568",
+      "text": "fix: modified code to add validation in product details page before p…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2569",
+      "time": "2024-11-21T17:51:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2569",
+      "text": "fix: modified code in product page for term & cond text link"
     }
   ],
   "open_prs": [],
