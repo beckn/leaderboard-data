@@ -2044,6 +2044,13 @@
       "time": "2024-11-19T10:17:31Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/197",
       "text": "Custom catalog via genai"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2577",
+      "time": "2024-11-22T11:32:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2577",
+      "text": "Sandbox 2.0: Enable GEN AI Catalogue Generation"
     }
   ],
   "open_prs": [],

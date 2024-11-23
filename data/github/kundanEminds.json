@@ -3346,6 +3346,13 @@
       "time": "2024-11-20T16:45:27Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2550",
       "text": "feat(ENIVIROGROWTH): replicate sky enivirogrowth in ui workspace and …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#211",
+      "time": "2024-11-22T06:09:06Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/211",
+      "text": "added climate and forest app in experience center"
     }
   ],
   "open_prs": [],

@@ -2198,6 +2198,13 @@
       "time": "2024-03-27T13:39:23Z",
       "link": "https://github.com/beckn/beckn-onix/issues/18",
       "text": "Discovery: Network configuration and other options"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#17",
+      "time": "2024-03-27T11:58:08Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/17",
+      "text": "Create a DIY section on the website - Discovery"
     }
   ],
   "open_prs": [],
