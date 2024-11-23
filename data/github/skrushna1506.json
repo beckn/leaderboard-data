@@ -672,6 +672,20 @@
       "time": "2024-11-20T16:44:44Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2545",
       "text": "feat(stateForestDepartment): replicating project"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2570",
+      "time": "2024-11-22T05:37:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2570",
+      "text": "fix(climateData): all apps bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2571",
+      "time": "2024-11-22T06:13:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2571",
+      "text": "fix: cart icon missing in all app"
     }
   ],
   "open_prs": [],
