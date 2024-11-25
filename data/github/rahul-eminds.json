@@ -574,6 +574,27 @@
       "time": "2024-11-21T17:18:36Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/200",
       "text": "Added logic for login signup for trade bap and bpp for common strapi"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2583",
+      "time": "2024-11-24T10:06:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2583",
+      "text": "Adding Support for Provider Tags"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2582",
+      "time": "2024-11-24T10:05:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2582",
+      "text": "Changes in login and signup api of beckn trade for common strapi bap and bpp"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2581",
+      "time": "2024-11-24T09:58:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2581",
+      "text": "Status Related Changes and Support for Climate Resilience"
     }
   ],
   "open_prs": [],
