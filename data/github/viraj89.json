@@ -3976,6 +3976,34 @@
       "time": "2024-11-19T11:47:28Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2534",
       "text": "Open Spark - Buyer Dashboard and Trade Preferences Implementation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#87",
+      "time": "2024-08-22T05:55:20Z",
+      "link": "https://github.com/beckn/missions/issues/87",
+      "text": "Create Implementation Guide for Vistaar v1.1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#81",
+      "time": "2024-08-19T11:02:57Z",
+      "link": "https://github.com/beckn/missions/issues/81",
+      "text": "Implementation Guide for Open Belem v0.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#233",
+      "time": "2024-11-25T08:13:49Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/233",
+      "text": "Infosys Team: On-Call Support: Debugging and Configuration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#234",
+      "time": "2024-11-25T08:09:55Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/234",
+      "text": "UAI WinRoom: Debugging and Setup Activities"
     }
   ],
   "open_prs": [],

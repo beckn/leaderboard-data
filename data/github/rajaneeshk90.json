@@ -1610,6 +1610,76 @@
       "time": "2024-11-20T10:21:37Z",
       "link": "https://github.com/beckn/missions/pull/173",
       "text": "Ragav uai implementation guide branch"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#180",
+      "time": "2024-11-25T05:40:14Z",
+      "link": "https://github.com/beckn/missions/issues/180",
+      "text": "UAI and UEI: Add network details in the implementation guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#179",
+      "time": "2024-11-25T05:40:03Z",
+      "link": "https://github.com/beckn/missions/issues/179",
+      "text": "UEI implementation guide: moving connector specification details from fulfillment to items tags"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#165",
+      "time": "2024-11-11T13:12:04Z",
+      "link": "https://github.com/beckn/missions/issues/165",
+      "text": "Update example JSON in the UAI: equipment purchase use case"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#164",
+      "time": "2024-11-11T13:05:51Z",
+      "link": "https://github.com/beckn/missions/issues/164",
+      "text": "Update the UEI: EV charging layer 2 configuration: Restrict addition of new fields in the payload jsons by NPs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#182",
+      "time": "2024-11-25T14:25:36Z",
+      "link": "https://github.com/beckn/missions/pull/182",
+      "text": "Update in the UEI: EV charging implementation guide"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#290",
+      "time": "2024-11-25T05:39:46Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/290",
+      "text": "Beckn-ONIX specification : review calls for the changes done"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#289",
+      "time": "2024-11-25T05:16:14Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/289",
+      "text": "Beckn-ONIX specification: version v0.2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#453",
+      "time": "2024-10-15T05:58:22Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/453",
+      "text": "Open Source Contributions: Research, discussion and draft of Specification"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#456",
+      "time": "2024-10-14T14:00:31Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/456",
+      "text": "Contributions: Creating network schema, example JSON for the open source issue and contribution network"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#232",
+      "time": "2024-11-25T05:40:44Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/232",
+      "text": "Open Network for Volunteers: Review of the level 2 arch diagram"
     }
   ],
   "open_prs": [],

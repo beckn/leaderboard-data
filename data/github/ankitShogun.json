@@ -1358,6 +1358,41 @@
       "time": "2024-11-22T12:50:06Z",
       "link": "https://github.com/beckn/missions/issues/177",
       "text": "Beckn UAI Win room 22nd Nov"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#177",
+      "time": "2024-11-22T12:50:06Z",
+      "link": "https://github.com/beckn/missions/issues/177",
+      "text": "Beckn UAI Win room 22nd Nov"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#176",
+      "time": "2024-11-21T12:03:33Z",
+      "link": "https://github.com/beckn/missions/issues/176",
+      "text": "Beckn UAI Win room 21st Nov"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#175",
+      "time": "2024-11-20T12:42:52Z",
+      "link": "https://github.com/beckn/missions/issues/175",
+      "text": "Beckn UAI Win room 20th Nov"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#174",
+      "time": "2024-11-20T12:42:02Z",
+      "link": "https://github.com/beckn/missions/issues/174",
+      "text": "Beckn UAI Win room 19th Nov"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#127",
+      "time": "2024-11-25T08:52:15Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/127",
+      "text": "Beckn-Langraph (Correction in flows part 1)"
     }
   ],
   "open_prs": [],

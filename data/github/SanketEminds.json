@@ -343,6 +343,20 @@
       "time": "2024-11-22T07:15:47Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2573",
       "text": "Terms and Conditions Repetition Issue in Sky Analytics App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2563",
+      "time": "2024-11-21T10:20:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2563",
+      "text": "Incorrect Text Displayed on Request Overview Page in HarmoniAid and Sky Analytics"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2587",
+      "time": "2024-11-25T11:36:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2587",
+      "text": "Merge pull request #2586 from beckn/fix/issue-order-history-desc"
     }
   ],
   "open_prs": [],

@@ -2051,6 +2051,27 @@
       "time": "2024-11-22T11:32:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2577",
       "text": "Sandbox 2.0: Enable GEN AI Catalogue Generation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#33",
+      "time": "2024-11-25T12:21:41Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/33",
+      "text": "Feat/sandbox2.0 pc"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#34",
+      "time": "2024-11-25T12:53:07Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/34",
+      "text": "Added: PC for GenAI DHP Diaganostics"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#201",
+      "time": "2024-11-25T09:33:04Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/201",
+      "text": "Added: Tag and Category Relation on AI Catalog Generation"
     }
   ],
   "open_prs": [],

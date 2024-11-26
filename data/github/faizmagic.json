@@ -490,6 +490,20 @@
       "time": "2024-11-08T06:00:54Z",
       "link": "https://github.com/beckn/missions/issues/159",
       "text": "UEI: Update and release new version 1.1 of L2 config"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#160",
+      "time": "2024-11-08T06:25:13Z",
+      "link": "https://github.com/beckn/missions/issues/160",
+      "text": "UAI: Implementation Guide Version 0.1 L2 Config"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#159",
+      "time": "2024-11-08T06:00:54Z",
+      "link": "https://github.com/beckn/missions/issues/159",
+      "text": "UEI: Updates in the implementation guide, updates in the L2 config"
     }
   ],
   "open_prs": [],
