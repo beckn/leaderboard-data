@@ -3017,6 +3017,27 @@
       "time": "2024-11-22T13:53:50Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2580",
       "text": "Climate Apps Demo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2588",
+      "time": "2024-11-25T12:18:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2588",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2546",
+      "time": "2024-11-20T05:24:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2546",
+      "text": "Dragon Foods - Order confirmation page logo alignment and text styling issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2544",
+      "time": "2024-11-20T05:20:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2544",
+      "text": "Dragon Foods - Text is overlapping in billing and shipping page in desktop mode, remove shipping from page title"
     }
   ],
   "open_prs": [],

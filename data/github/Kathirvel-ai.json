@@ -91,6 +91,20 @@
       "time": "2024-10-29T06:19:14Z",
       "link": "https://github.com/beckn/beckn-onix/issues/275",
       "text": "Infra Optimization - AWS usage"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#153",
+      "time": "2024-10-29T06:13:58Z",
+      "link": "https://github.com/beckn/missions/issues/153",
+      "text": "UAI - Winroom (Nov 19-21)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#149",
+      "time": "2024-10-15T08:03:39Z",
+      "link": "https://github.com/beckn/missions/issues/149",
+      "text": "UAI: Sandbox Setup"
     }
   ],
   "open_prs": [],

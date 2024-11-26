@@ -168,6 +168,20 @@
       "time": "2024-11-18T09:27:31Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2511",
       "text": "Open Networks for Volunteering-Level-1 Architecture Document"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#181",
+      "time": "2024-11-25T07:35:33Z",
+      "link": "https://github.com/beckn/missions/issues/181",
+      "text": "UAI-Support eNAM with the implementation process"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#178",
+      "time": "2024-11-25T05:21:07Z",
+      "link": "https://github.com/beckn/missions/issues/178",
+      "text": "UEI Implementation Guide V1.3"
     }
   ],
   "open_prs": [],

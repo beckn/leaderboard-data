@@ -5005,6 +5005,34 @@
       "time": "2024-11-19T06:37:40Z",
       "link": "https://github.com/beckn/beckn-sandbox/issues/29",
       "text": "Setup Strapi in BOC Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#110",
+      "time": "2024-09-10T09:57:25Z",
+      "link": "https://github.com/beckn/missions/issues/110",
+      "text": "Implementation Guides for Open Kenya"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2523",
+      "time": "2024-11-19T06:30:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2523",
+      "text": "Select Not Working on Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#127",
+      "time": "2024-08-21T05:26:04Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/127",
+      "text": "Deploy the changes to BOC env only with the created branch"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#125",
+      "time": "2024-08-21T05:25:49Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/125",
+      "text": "Migrate DB from Dev Strapi to BOC"
     }
   ],
   "open_prs": [],
