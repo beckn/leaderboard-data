@@ -686,6 +686,41 @@
       "time": "2024-11-22T06:13:02Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2571",
       "text": "fix: cart icon missing in all app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2592",
+      "time": "2024-11-26T06:41:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2592",
+      "text": "fix(climateData): fixed all apps bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2593",
+      "time": "2024-11-26T08:53:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2593",
+      "text": "fix(climatedata): fix height for cards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2595",
+      "time": "2024-11-26T09:53:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2595",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2596",
+      "time": "2024-11-26T10:02:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2596",
+      "text": "fix: card hiegth issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2597",
+      "time": "2024-11-26T10:03:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2597",
+      "text": "Develop 1.1.0"
     }
   ],
   "open_prs": [],

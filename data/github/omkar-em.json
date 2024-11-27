@@ -3038,6 +3038,27 @@
       "time": "2024-11-20T05:20:38Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2544",
       "text": "Dragon Foods - Text is overlapping in billing and shipping page in desktop mode, remove shipping from page title"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2594",
+      "time": "2024-11-26T08:27:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2594",
+      "text": "Dragon Foods - BAP order API is failing  markdown Copy code"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2591",
+      "time": "2024-11-26T05:00:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2591",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2590",
+      "time": "2024-11-26T04:59:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2590",
+      "text": "Weekly Application Testing"
     }
   ],
   "open_prs": [],

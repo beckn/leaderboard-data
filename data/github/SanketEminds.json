@@ -357,6 +357,34 @@
       "time": "2024-11-25T11:36:13Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2587",
       "text": "Merge pull request #2586 from beckn/fix/issue-order-history-desc"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2599",
+      "time": "2024-11-26T11:25:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2599",
+      "text": "Climate Data-Search Text Disappears After Clicking Search Button in All Climate App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2598",
+      "time": "2024-11-26T11:10:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2598",
+      "text": "Climate Data-Invalid Zip Code Error Popup Not Displaying in All Climate App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2478",
+      "time": "2024-11-11T07:41:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2478",
+      "text": "P2P Energy-WhatsApp Bot Accepting PDF File Format Instead of Showing Error"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2475",
+      "time": "2024-11-11T07:05:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2475",
+      "text": "P2P Energy-Unable to Sell Energy on WhatsApp Bot"
     }
   ],
   "open_prs": [],

@@ -182,6 +182,13 @@
       "time": "2024-11-25T05:21:07Z",
       "link": "https://github.com/beckn/missions/issues/178",
       "text": "UEI Implementation Guide V1.3"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2589",
+      "time": "2024-11-26T04:45:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2589",
+      "text": "Open Networks for Volunteering-Level-2 Architecture Document"
     }
   ],
   "open_prs": [],

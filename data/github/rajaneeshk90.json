@@ -1680,6 +1680,48 @@
       "time": "2024-11-25T05:40:44Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/232",
       "text": "Open Network for Volunteers: Review of the level 2 arch diagram"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#186",
+      "time": "2024-11-26T17:08:28Z",
+      "link": "https://github.com/beckn/missions/issues/186",
+      "text": "Implementation guide for UPPCL: P2P energy trading version 0.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#185",
+      "time": "2024-11-26T03:41:13Z",
+      "link": "https://github.com/beckn/missions/issues/185",
+      "text": "UEI: Implementation Guide: Version 1.3: time-based,, energy unit-based and money-based charging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#184",
+      "time": "2024-11-26T03:34:48Z",
+      "link": "https://github.com/beckn/missions/issues/184",
+      "text": "UAI: Implementation guide: version 1.0.1: Add network details in the implementation guide"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#180",
+      "time": "2024-11-25T05:40:14Z",
+      "link": "https://github.com/beckn/missions/issues/180",
+      "text": "UEI: Implementation guide: version 1.3: Add network details in the implementation guide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#183",
+      "time": "2024-11-26T03:02:11Z",
+      "link": "https://github.com/beckn/missions/pull/183",
+      "text": "minor: adding x-core-version field in the document metadata"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#291",
+      "time": "2024-11-26T03:53:31Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/291",
+      "text": "Beckn One: IGM Specification version 0.1: Review and Feedback"
     }
   ],
   "open_prs": [],
