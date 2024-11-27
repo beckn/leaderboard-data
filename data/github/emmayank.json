@@ -5033,6 +5033,27 @@
       "time": "2024-08-21T05:25:49Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/125",
       "text": "Migrate DB from Dev Strapi to BOC"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#117",
+      "time": "2024-10-09T10:46:01Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/117",
+      "text": "Beckn-gemini-bot enhancement - switching between flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#116",
+      "time": "2024-10-09T10:45:55Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/116",
+      "text": "Beckn-gemini-bot enhancement - retrial mechanism incase of error"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#115",
+      "time": "2024-10-09T10:45:49Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/115",
+      "text": "Beckn-gemini bot enhancement - adding support for voice / video/ image input"
     }
   ],
   "open_prs": [],

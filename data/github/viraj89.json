@@ -4004,6 +4004,97 @@
       "time": "2024-11-25T08:09:55Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/234",
       "text": "UAI WinRoom: Debugging and Setup Activities"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#293",
+      "time": "2024-11-26T16:23:43Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/293",
+      "text": "Beckn Onix: Beckn One - Specification Documentation v0.3"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#292",
+      "time": "2024-11-26T16:17:08Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/292",
+      "text": "Update Documentation for Issue Grievance Module (IGM) to v0.3"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2601",
+      "time": "2024-11-26T16:29:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2601",
+      "text": "OpenSpark Reference App and Experience Center (EC) Deployment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2600",
+      "time": "2024-11-26T16:26:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2600",
+      "text": "Climate Resilience Sign Off and Go Live"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#243",
+      "time": "2024-11-26T16:10:51Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/243",
+      "text": "Setup and Configure BAP-PS for WinRoom Environment 21 Nov"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#242",
+      "time": "2024-11-26T16:09:44Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/242",
+      "text": "Provision and Deploy EC2 Instances for Gateway and Registry in UAI WinRoom Setup"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#241",
+      "time": "2024-11-26T16:08:22Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/241",
+      "text": "Deploy BAP-BPP Strapi in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#240",
+      "time": "2024-11-26T16:08:08Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/240",
+      "text": "Add URLs of All Six Climate Apps (Dev & Staging) to Experience Center Jenkins Pipeline"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#239",
+      "time": "2024-11-26T16:06:42Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/239",
+      "text": "DevOps Support for Beckn UAI Win Room on 22nd Nov"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#238",
+      "time": "2024-11-26T16:05:54Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/238",
+      "text": "Migration of Strapi Dev MySQL Database to Staging Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#237",
+      "time": "2024-11-26T16:04:54Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/237",
+      "text": "Configured Layer2 Configuration for Climate App in BPP-Strapi-Staging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#236",
+      "time": "2024-11-26T16:04:03Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/236",
+      "text": "Provide Support for WinRoom Call to Facilitate Sandbox Deployment Nov 25"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#235",
+      "time": "2024-11-26T16:02:14Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/235",
+      "text": "Deploy Sandbox API for UAI on New T2.Medium Instance"
     }
   ],
   "open_prs": [],
