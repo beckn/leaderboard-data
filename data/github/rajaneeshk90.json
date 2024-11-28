@@ -1722,6 +1722,13 @@
       "time": "2024-11-26T03:53:31Z",
       "link": "https://github.com/beckn/beckn-onix/issues/291",
       "text": "Beckn One: IGM Specification version 0.1: Review and Feedback"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#294",
+      "time": "2024-11-27T04:49:11Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/294",
+      "text": "Beckn One: Network observability Specification version 0.1: Review and Feedback"
     }
   ],
   "open_prs": [],

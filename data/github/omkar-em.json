@@ -3059,6 +3059,41 @@
       "time": "2024-11-26T04:59:58Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2590",
       "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2566",
+      "time": "2024-11-21T11:32:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2566",
+      "text": "Climate Apps - Old requests are showing at the top instead of the latest requests in request history"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2542",
+      "time": "2024-11-20T05:14:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2542",
+      "text": "Dragon Foods - Add padding to request overview section and increase width of cart list section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2537",
+      "time": "2024-11-20T04:30:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2537",
+      "text": "Dragon Foods - Scrollbar is present in search results when it is not required"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2270",
+      "time": "2024-10-10T09:52:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2270",
+      "text": "Smart Cities - \"Video does not exist\" message is showing for \"A World Without Beckn\" tab in Smart Cities application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#814",
+      "time": "2024-04-30T11:27:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/814",
+      "text": "Smart Gambia - Driver login showing error"
     }
   ],
   "open_prs": [],

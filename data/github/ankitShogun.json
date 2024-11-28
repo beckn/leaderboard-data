@@ -1393,6 +1393,13 @@
       "time": "2024-11-25T08:52:15Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/127",
       "text": "Beckn-Langraph (Correction in flows part 1)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#187",
+      "time": "2024-11-27T08:07:45Z",
+      "link": "https://github.com/beckn/missions/pull/187",
+      "text": "feat: Implementation guide"
     }
   ],
   "open_prs": [],
