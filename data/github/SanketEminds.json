@@ -385,6 +385,48 @@
       "time": "2024-11-11T07:05:47Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2475",
       "text": "P2P Energy-Unable to Sell Energy on WhatsApp Bot"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2579",
+      "time": "2024-11-22T11:51:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2579",
+      "text": "Update Text on Empty Order History in Climate Resilience and Forest Conservation Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2576",
+      "time": "2024-11-22T11:00:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2576",
+      "text": "Replace \"Send Request\" with \"Proceed\" on Request Overview Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2575",
+      "time": "2024-11-22T10:54:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2575",
+      "text": " Update Payment Text in All Climate and Forest Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2574",
+      "time": "2024-11-22T08:39:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2574",
+      "text": "Frequently Accessed Results Misalignment Issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2567",
+      "time": "2024-11-21T14:44:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2567",
+      "text": "Powered by Beckn\" Text Overlaps with Frequently Accessed Items"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2562",
+      "time": "2024-11-21T10:16:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2562",
+      "text": "Missing Cart Icon on Request Overview Page in Dragon Food and Earth-Support-Initiative Apps"
     }
   ],
   "open_prs": [],

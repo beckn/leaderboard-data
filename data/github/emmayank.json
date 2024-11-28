@@ -5054,6 +5054,13 @@
       "time": "2024-10-09T10:45:49Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/115",
       "text": "Beckn-gemini bot enhancement - adding support for voice / video/ image input"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2423",
+      "time": "2024-11-06T13:03:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2423",
+      "text": "Climate data | BAP | Replicating changes in State Forest Department BAP"
     }
   ],
   "open_prs": [],

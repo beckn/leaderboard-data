@@ -4095,6 +4095,13 @@
       "time": "2024-11-26T16:02:14Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/235",
       "text": "Deploy Sandbox API for UAI on New T2.Medium Instance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2602",
+      "time": "2024-11-27T09:45:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2602",
+      "text": "UX Designs required in Implementation Guides"
     }
   ],
   "open_prs": [],

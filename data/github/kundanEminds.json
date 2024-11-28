@@ -3353,6 +3353,20 @@
       "time": "2024-11-22T06:09:06Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/211",
       "text": "added climate and forest app in experience center"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#212",
+      "time": "2024-11-27T09:36:23Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/212",
+      "text": "added right section btn climate and forest app in experience center"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#213",
+      "time": "2024-11-27T09:36:54Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/213",
+      "text": "Develop 1.1.0"
     }
   ],
   "open_prs": [],
