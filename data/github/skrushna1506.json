@@ -721,6 +721,13 @@
       "time": "2024-11-26T10:03:32Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2597",
       "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2612",
+      "time": "2024-11-28T09:59:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2612",
+      "text": "fix: fixed issue"
     }
   ],
   "open_prs": [],

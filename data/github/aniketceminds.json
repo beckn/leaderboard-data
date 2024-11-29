@@ -2184,6 +2184,13 @@
       "time": "2024-11-27T11:59:37Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2603",
       "text": "fix(dragon-foods): modified code in checkout page to call init api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2606",
+      "time": "2024-11-28T06:34:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2606",
+      "text": "fix: init payload method to handle invalid zipcode check"
     }
   ],
   "open_prs": [],
