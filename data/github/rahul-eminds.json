@@ -595,6 +595,20 @@
       "time": "2024-11-24T09:58:13Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2581",
       "text": "Status Related Changes and Support for Climate Resilience"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#202",
+      "time": "2024-11-28T05:36:51Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/202",
+      "text": "Fixed issue related to common strapi bpp apis"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#203",
+      "time": "2024-11-28T05:58:51Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/203",
+      "text": "Added role in signup"
     }
   ],
   "open_prs": [],

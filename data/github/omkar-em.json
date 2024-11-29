@@ -3094,6 +3094,41 @@
       "time": "2024-04-30T11:27:26Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/814",
       "text": "Smart Gambia - Driver login showing error"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2616",
+      "time": "2024-11-28T11:23:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2616",
+      "text": "Unified Plugin - /login API is not working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2614",
+      "time": "2024-11-28T10:44:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2614",
+      "text": "Climate Apps - Change prefilled data of Anand to Lisa"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2609",
+      "time": "2024-11-28T05:53:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2609",
+      "text": "Unified Plugin - /signUp API is not assigning user role"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2608",
+      "time": "2024-11-28T04:51:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2608",
+      "text": "Climate Apps Testing on Staging Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2607",
+      "time": "2024-11-28T04:49:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2607",
+      "text": "Postman testing for GEN AI Catalogue Generation Strapi Sandbox 2.0 for city-of-light"
     }
   ],
   "open_prs": [],

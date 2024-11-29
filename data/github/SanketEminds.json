@@ -427,6 +427,27 @@
       "time": "2024-11-21T10:16:01Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2562",
       "text": "Missing Cart Icon on Request Overview Page in Dragon Food and Earth-Support-Initiative Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2617",
+      "time": "2024-11-28T13:20:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2617",
+      "text": "Retail Cypress - Update Failing Test Cases"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2615",
+      "time": "2024-11-28T11:18:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2615",
+      "text": "Application error on clicking \"Order Details\" button in Tourism and OSC App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2611",
+      "time": "2024-11-28T06:50:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2611",
+      "text": "UI Theme Inconsistency in Harmony Aid, State Forest, and Earth Support Applications"
     }
   ],
   "open_prs": [],
