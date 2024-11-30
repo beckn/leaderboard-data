@@ -2072,6 +2072,13 @@
       "time": "2024-11-25T09:33:04Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/201",
       "text": "Added: Tag and Category Relation on AI Catalog Generation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2577",
+      "time": "2024-11-22T11:32:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2577",
+      "text": "Sandbox 2.0: Enable GEN AI Catalogue Generation"
     }
   ],
   "open_prs": [],

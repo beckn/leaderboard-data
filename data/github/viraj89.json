@@ -4123,6 +4123,20 @@
       "time": "2024-11-28T05:57:25Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2610",
       "text": "UX Design - Instructions Pop-Up for Climate Apps in Experience Center (EC)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#233",
+      "time": "2024-11-25T08:13:49Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/233",
+      "text": "Infosys Team: On-Call Support: Debugging and Configuration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#234",
+      "time": "2024-11-25T08:09:55Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/234",
+      "text": "UAI WinRoom: Debugging and Setup Activities"
     }
   ],
   "open_prs": [],
