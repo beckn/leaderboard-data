@@ -448,6 +448,97 @@
       "time": "2024-11-28T06:50:13Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2611",
       "text": "UI Theme Inconsistency in Harmony Aid, State Forest, and Earth Support Applications"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2625",
+      "time": "2024-11-29T12:04:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2625",
+      "text": "Bug Creation and Testing During Regression Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2624",
+      "time": "2024-11-29T12:04:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2624",
+      "text": "Regression Testing on Forest Conservation Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2623",
+      "time": "2024-11-29T12:04:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2623",
+      "text": "Regression Testing on Climate Resilience Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2618",
+      "time": "2024-11-29T04:27:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2618",
+      "text": "Nov 22nd WinRoom for Climate Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2573",
+      "time": "2024-11-22T07:15:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2573",
+      "text": "Terms and Conditions Repetition Issue in Sky Analytics App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2560",
+      "time": "2024-11-21T09:11:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2560",
+      "text": "HarmoniAid-Missing Text for \"Create New Workflow\" Button in Request History Tab."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2559",
+      "time": "2024-11-21T08:48:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2559",
+      "text": "Harmoni Aid App-Order API Failing While Placing an Order."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2558",
+      "time": "2024-11-21T08:29:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2558",
+      "text": "Sky Analytics App-Order API Failing While Placing an Order."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2557",
+      "time": "2024-11-21T08:20:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2557",
+      "text": "Sky Analytics -  Images Not Loading After Search"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2486",
+      "time": "2024-11-12T12:34:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2486",
+      "text": "Automation of Driver App for City of Africa Using Cypress"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2485",
+      "time": "2024-11-12T12:33:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2485",
+      "text": "Automation of Driver App for City of Light Using Cypress"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2484",
+      "time": "2024-11-12T09:27:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2484",
+      "text": "DSEP-Scholarship Results Not Showing in Staging Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2479",
+      "time": "2024-11-11T09:08:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2479",
+      "text": "Mobility-Search Results Not Appearing in Development Environment"
     }
   ],
   "open_prs": [],

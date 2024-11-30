@@ -609,6 +609,27 @@
       "time": "2024-11-28T05:58:51Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/203",
       "text": "Added role in signup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#204",
+      "time": "2024-11-29T06:39:00Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/204",
+      "text": "Fixed issue related to common strapi consumer apis"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2583",
+      "time": "2024-11-24T10:06:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2583",
+      "text": "Adding Support for Provider Tags"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2581",
+      "time": "2024-11-24T09:58:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2581",
+      "text": "Status Related Changes and Support for Climate Resilience"
     }
   ],
   "open_prs": [],

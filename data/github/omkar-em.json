@@ -3129,6 +3129,62 @@
       "time": "2024-11-28T04:49:02Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2607",
       "text": "Postman testing for GEN AI Catalogue Generation Strapi Sandbox 2.0 for city-of-light"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2621",
+      "time": "2024-11-29T06:12:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2621",
+      "text": "Unified Plugin - Consumer flow /signUp API is not assigning user role"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2551",
+      "time": "2024-11-20T10:05:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2551",
+      "text": "Dragon Foods - Request history section shows incorrect/hardcoded data for \"Date of Data Requested\" and \"Request Status\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2547",
+      "time": "2024-11-20T05:28:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2547",
+      "text": "Dragon Foods - Order confirmation page missing email address in \"The dataset will be shared via the chosen mode\" section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2540",
+      "time": "2024-11-20T05:09:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2540",
+      "text": "Dragon Foods - Able to proceed without selecting all mandatory fields"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2539",
+      "time": "2024-11-20T05:00:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2539",
+      "text": "Dragon Foods - Service details page has elliptical title, missing product image, provider name, and provider info section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2538",
+      "time": "2024-11-20T04:33:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2538",
+      "text": "Dragon Foods - Hyperlink for Terms and Conditions page is missing in product description page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2536",
+      "time": "2024-11-20T04:27:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2536",
+      "text": "Dragon Foods - Search result cards width are not in sync with Figma, missing short description and license info"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2535",
+      "time": "2024-11-20T04:22:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2535",
+      "text": "Dragon Foods - Image is not loading in search results"
     }
   ],
   "open_prs": [],

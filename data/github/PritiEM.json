@@ -3234,6 +3234,13 @@
       "time": "2024-07-01T10:31:10Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1848",
       "text": "SAMPLE "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2619",
+      "time": "2024-11-29T04:56:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2619",
+      "text": "On-Call Support for UAI Win Room and Strapi Deployment"
     }
   ],
   "open_prs": [],

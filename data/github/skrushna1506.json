@@ -728,6 +728,13 @@
       "time": "2024-11-28T09:59:42Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2612",
       "text": "fix: fixed issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2514",
+      "time": "2024-11-18T11:07:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2514",
+      "text": "UI Improvement for Order Request Page (Dragon Foods App)"
     }
   ],
   "open_prs": [],

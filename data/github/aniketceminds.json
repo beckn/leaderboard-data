@@ -2191,6 +2191,41 @@
       "time": "2024-11-28T06:34:04Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2606",
       "text": "fix: init payload method to handle invalid zipcode check"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2521",
+      "time": "2024-11-19T06:17:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2521",
+      "text": "Climate data | BAP | Replicating changes in State Forest Department BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2497",
+      "time": "2024-11-13T15:49:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2497",
+      "text": "Climate data | BAP | Dragon foods Confirm API Integration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2496",
+      "time": "2024-11-13T15:49:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2496",
+      "text": "Climate data | BAP | Dragon foods Init API Integration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2495",
+      "time": "2024-11-13T15:49:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2495",
+      "text": "Climate data | BAP | Dragon foods Select API Integration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2487",
+      "time": "2024-11-13T06:01:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2487",
+      "text": "Climate data | BAP | Dragon foods Search API integration"
     }
   ],
   "open_prs": [],
