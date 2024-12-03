@@ -189,6 +189,13 @@
       "time": "2024-11-26T04:45:22Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2589",
       "text": "Open Networks for Volunteering-Level-2 Architecture Document"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#181",
+      "time": "2024-11-25T07:35:33Z",
+      "link": "https://github.com/beckn/missions/issues/181",
+      "text": "UAI-Support eNAM & Carnot with the implementation process"
     }
   ],
   "open_prs": [],

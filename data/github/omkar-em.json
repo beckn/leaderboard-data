@@ -3185,6 +3185,13 @@
       "time": "2024-11-20T04:22:19Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2535",
       "text": "Dragon Foods - Image is not loading in search results"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2626",
+      "time": "2024-12-02T04:46:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2626",
+      "text": "Gen AI Catalogue Generation - /search API is not working, catalogue is not generating"
     }
   ],
   "open_prs": [],

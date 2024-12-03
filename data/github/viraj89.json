@@ -4137,6 +4137,97 @@
       "time": "2024-11-25T08:09:55Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/234",
       "text": "UAI WinRoom: Debugging and Setup Activities"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#83",
+      "time": "2024-08-19T11:03:13Z",
+      "link": "https://github.com/beckn/missions/issues/83",
+      "text": "Create Implementation Guide for Open Amsterdam Project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#82",
+      "time": "2024-08-19T11:03:05Z",
+      "link": "https://github.com/beckn/missions/issues/82",
+      "text": "Implementation Guide for Open Kenya v0.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2629",
+      "time": "2024-12-02T05:05:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2629",
+      "text": "OpenSpark: SignUp Page UI for OpenSpark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2628",
+      "time": "2024-12-02T05:05:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2628",
+      "text": "OpenSpark: SignIn Page UI for OpenSpark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2627",
+      "time": "2024-12-02T05:05:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2627",
+      "text": "OpenSpark: Welcome Page UI for OpenSpark App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2610",
+      "time": "2024-11-28T05:57:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2610",
+      "text": "UX Design - Instructions Pop-Up for Climate Apps in Experience Center (EC)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2602",
+      "time": "2024-11-27T09:45:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2602",
+      "text": "UX Designs required in Implementation Guides"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2365",
+      "time": "2024-11-05T10:48:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2365",
+      "text": "UX Designs for Open Spark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#248",
+      "time": "2024-12-02T08:19:08Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/248",
+      "text": "On-Call Support for Decharge Team"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#247",
+      "time": "2024-12-02T08:19:01Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/247",
+      "text": "Debug and Fix Sandbox Issue in UAI Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#246",
+      "time": "2024-12-02T08:18:55Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/246",
+      "text": "UAI WinRoom: Debugging and Setup Activities"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#245",
+      "time": "2024-12-02T08:14:58Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/245",
+      "text": "Beckn - Search Requests Return Empty Unless BPP ID is Specified"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#244",
+      "time": "2024-12-02T08:09:00Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/244",
+      "text": "DevOps - Deployment Architecture Diagram for Fide's Infrastructure"
     }
   ],
   "open_prs": [],

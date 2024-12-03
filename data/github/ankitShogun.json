@@ -1400,6 +1400,20 @@
       "time": "2024-11-27T08:07:45Z",
       "link": "https://github.com/beckn/missions/pull/187",
       "text": "feat: Implementation guide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#191",
+      "time": "2024-12-02T12:45:32Z",
+      "link": "https://github.com/beckn/missions/pull/191",
+      "text": "Implementation guide open amsterdam"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#192",
+      "time": "2024-12-02T16:49:21Z",
+      "link": "https://github.com/beckn/missions/pull/192",
+      "text": "feat: open kenya implementation guide version 1"
     }
   ],
   "open_prs": [],

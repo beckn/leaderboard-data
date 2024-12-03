@@ -455,6 +455,13 @@
       "time": "2024-11-25T08:52:20Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2585",
       "text": "Debugged registry.becknprotocol.io Issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#296",
+      "time": "2024-12-02T12:17:32Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/296",
+      "text": "Feature/Prompt user for domain input"
     }
   ],
   "open_prs": [],

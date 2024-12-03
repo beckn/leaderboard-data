@@ -2205,6 +2205,20 @@
       "time": "2024-03-27T11:58:08Z",
       "link": "https://github.com/beckn/beckn-onix/issues/17",
       "text": "Create a DIY section on the website - Discovery"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#184",
+      "time": "2024-08-21T06:25:58Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/184",
+      "text": "Installation should check if the user is part of the docker group"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#176",
+      "time": "2024-08-12T06:42:22Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/176",
+      "text": "Create a solution for synchronizing users with subscriber_ids of Beckn-ONIX installed PS"
     }
   ],
   "open_prs": [],

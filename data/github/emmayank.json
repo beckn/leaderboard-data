@@ -5257,6 +5257,34 @@
       "time": "2024-09-10T11:01:16Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2074",
       "text": "Enable GEN AI Catalogue Generation Strapi Sandbox 2.0 for dhp:diagnostics"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#209",
+      "time": "2024-09-02T03:22:46Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/209",
+      "text": "Update Key Generation Logging for BAP Setup in Beckn ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#208",
+      "time": "2024-09-02T03:19:11Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/208",
+      "text": "Add Docker Command Permission Validation During Beckn ONIX Installation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#206",
+      "time": "2024-09-02T03:12:59Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/206",
+      "text": "Add URL Validator Throughout Beckn ONIX Installation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#205",
+      "time": "2024-09-02T03:08:38Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/205",
+      "text": "Add Validation for Registry URL Suffix During Beckn ONIX Setup"
     }
   ],
   "open_prs": [],

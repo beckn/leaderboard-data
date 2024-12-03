@@ -2226,6 +2226,27 @@
       "time": "2024-11-13T06:01:26Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2487",
       "text": "Climate data | BAP | Dragon foods Search API integration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2630",
+      "time": "2024-12-02T05:48:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2630",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2632",
+      "time": "2024-12-02T10:33:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2632",
+      "text": "feat(open-spark): added UI signIn, signUp functionality"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2633",
+      "time": "2024-12-02T12:08:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2633",
+      "text": "feat(open-spark): /login, /signup api integration"
     }
   ],
   "open_prs": [],

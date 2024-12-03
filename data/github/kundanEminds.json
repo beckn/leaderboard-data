@@ -3388,6 +3388,34 @@
       "time": "2024-11-29T07:15:52Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/214",
       "text": "fixed ui"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2620",
+      "time": "2024-12-02T05:16:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2620",
+      "text": "fix: updated the pre filled data with lisa credential"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2622",
+      "time": "2024-12-02T05:18:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2622",
+      "text": "feat(P2P-ENERGY): added cypress test case for open spark landing page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#215",
+      "time": "2024-12-02T07:58:26Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/215",
+      "text": "Added instruction pop for all climate app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#216",
+      "time": "2024-12-02T08:38:29Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/216",
+      "text": "Develop 1.1.0"
     }
   ],
   "open_prs": [],
