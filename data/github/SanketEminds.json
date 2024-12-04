@@ -539,6 +539,20 @@
       "time": "2024-11-11T09:08:01Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2479",
       "text": "Mobility-Search Results Not Appearing in Development Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2635",
+      "time": "2024-12-03T05:58:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2635",
+      "text": "Focus Issue on First Video in Full-Screen Mode for Climate Resilience and Forest Conservation Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2634",
+      "time": "2024-12-03T05:53:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2634",
+      "text": "Experience Center - Harmoni aid App Displaying Blank in Staging Environment"
     }
   ],
   "open_prs": [],

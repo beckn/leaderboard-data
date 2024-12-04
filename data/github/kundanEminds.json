@@ -3416,6 +3416,27 @@
       "time": "2024-12-02T08:38:29Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/216",
       "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#217",
+      "time": "2024-12-03T05:39:24Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/217",
+      "text": "removed a world with beckn tab from climate apps"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#218",
+      "time": "2024-12-03T06:07:07Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/218",
+      "text": "fixed focus issue on video"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#219",
+      "time": "2024-12-03T07:35:22Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/219",
+      "text": "Develop 1.1.0"
     }
   ],
   "open_prs": [],

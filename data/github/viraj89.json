@@ -4228,6 +4228,13 @@
       "time": "2024-12-02T08:09:00Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/244",
       "text": "DevOps - Deployment Architecture Diagram for Fide's Infrastructure"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#249",
+      "time": "2024-12-03T12:14:28Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/249",
+      "text": "Infosys - Protocol Server implementation for ONEST"
     }
   ],
   "open_prs": [],

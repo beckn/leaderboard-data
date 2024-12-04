@@ -2247,6 +2247,13 @@
       "time": "2024-12-02T12:08:23Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2633",
       "text": "feat(open-spark): /login, /signup api integration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2636",
+      "time": "2024-12-03T07:32:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2636",
+      "text": "feat(open-spark): modified code to add profile section and functionality"
     }
   ],
   "open_prs": [],

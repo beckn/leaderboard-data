@@ -105,6 +105,20 @@
       "time": "2024-10-15T08:03:39Z",
       "link": "https://github.com/beckn/missions/issues/149",
       "text": "UAI: Sandbox Setup"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#194",
+      "time": "2024-12-03T17:08:43Z",
+      "link": "https://github.com/beckn/missions/issues/194",
+      "text": "UAI Tech Support"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#193",
+      "time": "2024-12-03T11:26:15Z",
+      "link": "https://github.com/beckn/missions/issues/193",
+      "text": "UAI | Schemes Implementation Guide update"
     }
   ],
   "open_prs": [],

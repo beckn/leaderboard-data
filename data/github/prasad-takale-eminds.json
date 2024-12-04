@@ -462,6 +462,13 @@
       "time": "2024-12-02T12:17:32Z",
       "link": "https://github.com/beckn/beckn-onix/pull/296",
       "text": "Feature/Prompt user for domain input"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#297",
+      "time": "2024-12-03T10:55:03Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/297",
+      "text": "Feature/onix menu"
     }
   ],
   "open_prs": [],
