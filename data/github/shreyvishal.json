@@ -2079,6 +2079,13 @@
       "time": "2024-11-22T11:32:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2577",
       "text": "Sandbox 2.0: Enable GEN AI Catalogue Generation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#35",
+      "time": "2024-12-03T10:46:03Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/35",
+      "text": "Added: PC for GenAI DHP Diaganostics"
     }
   ],
   "open_prs": [],
