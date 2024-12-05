@@ -1729,6 +1729,20 @@
       "time": "2024-11-27T04:49:11Z",
       "link": "https://github.com/beckn/beckn-onix/issues/294",
       "text": "Beckn One: Network observability Specification version 0.1: Review and Feedback"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#195",
+      "time": "2024-12-04T04:59:05Z",
+      "link": "https://github.com/beckn/missions/issues/195",
+      "text": "UPPCL: API specification for Trust Layer: version 0.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#298",
+      "time": "2024-12-04T05:54:30Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/298",
+      "text": "Beckn-One: Trust Layer(Persistence Layer) API specification v0.1"
     }
   ],
   "open_prs": [],
