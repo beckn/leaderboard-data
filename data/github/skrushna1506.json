@@ -742,6 +742,27 @@
       "time": "2024-12-02T05:55:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2631",
       "text": "feat(open-spark): ui implementation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2664",
+      "time": "2024-12-04T10:54:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2664",
+      "text": "Climate Data | BAP | Replicating Changes: Checkout, Order Confirmation, and Payment in HarmoniAid BAP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2651",
+      "time": "2024-12-04T07:13:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2651",
+      "text": "Feat/open spark dashboard date range buying preference"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2669",
+      "time": "2024-12-04T11:49:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2669",
+      "text": "feat(open-spark): api integration for dashboard page"
     }
   ],
   "open_prs": [],

@@ -553,6 +553,48 @@
       "time": "2024-12-03T05:53:49Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2634",
       "text": "Experience Center - Harmoni aid App Displaying Blank in Staging Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2672",
+      "time": "2024-12-04T16:40:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2672",
+      "text": "End-to-End Automation Testing of Sky Analytics App in Cypress"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2671",
+      "time": "2024-12-04T16:40:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2671",
+      "text": "End-to-End Testing of Dragon Food App in Cypress"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2670",
+      "time": "2024-12-04T12:05:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2670",
+      "text": "Application error on clicking \"Order Details\" button in Tourism and OSC App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2611",
+      "time": "2024-11-28T06:50:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2611",
+      "text": "UI Theme Inconsistency in Harmony Aid, State Forest, and Earth Support Applications"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2599",
+      "time": "2024-11-26T11:25:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2599",
+      "text": "Climate Data-Search Text Disappears After Clicking Search Button in All Climate App"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2665",
+      "time": "2024-12-04T11:09:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2665",
+      "text": "test(dragon-food): add e2e tests for Dragon Food"
     }
   ],
   "open_prs": [],

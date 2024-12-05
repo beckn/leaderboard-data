@@ -4235,6 +4235,41 @@
       "time": "2024-12-03T12:14:28Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/249",
       "text": "Infosys - Protocol Server implementation for ONEST"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#255",
+      "time": "2024-12-04T09:51:01Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/255",
+      "text": "On-Call Support for UAI WinRoom: Deployment of BPP-PS (28th-29th November 2024)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#254",
+      "time": "2024-12-04T09:50:07Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/254",
+      "text": "Update draw.io Diagram to Reflect Current EC2 Instance Status"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#253",
+      "time": "2024-12-04T09:47:34Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/253",
+      "text": "Terminate Stopped EC2 Instances for Cost Optimization"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#252",
+      "time": "2024-12-04T09:46:34Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/252",
+      "text": "Migrate beckn-gemini-ueip2p.becknprotocol.io Application to GCL-dev Instance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#251",
+      "time": "2024-12-04T09:45:35Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/251",
+      "text": "Create Google Sheet for Listing Stopped Instances with Details"
     }
   ],
   "open_prs": [],

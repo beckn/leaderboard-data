@@ -3437,6 +3437,27 @@
       "time": "2024-12-03T07:35:22Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/219",
       "text": "Develop 1.1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2668",
+      "time": "2024-12-04T11:32:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2668",
+      "text": "Reference Application: Forest Conservation Project - Migration to Experience Centre"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2667",
+      "time": "2024-12-04T11:28:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2667",
+      "text": "Reference Application: Climate Resilience Project - Migration to Experience Centre"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2663",
+      "time": "2024-12-04T11:08:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2663",
+      "text": "feat(P2P-ENERGY): added cypress test case for open spark search page"
     }
   ],
   "open_prs": [],

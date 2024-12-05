@@ -2254,6 +2254,20 @@
       "time": "2024-12-03T07:32:38Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2636",
       "text": "feat(open-spark): modified code to add profile section and functionality"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2650",
+      "time": "2024-12-04T06:45:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2650",
+      "text": "feat(open-spark): modified code to add mycred page and modifid code i…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2666",
+      "time": "2024-12-04T11:08:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2666",
+      "text": "fix(open-spark): modified code to fix cosmetic chnge in hompge"
     }
   ],
   "open_prs": [],
