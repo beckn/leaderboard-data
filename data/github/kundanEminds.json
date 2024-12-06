@@ -3458,6 +3458,20 @@
       "time": "2024-12-04T11:08:49Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2663",
       "text": "feat(P2P-ENERGY): added cypress test case for open spark search page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2675",
+      "time": "2024-12-05T10:16:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2675",
+      "text": "feat(DSNP): fixed order history issue and footer css"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2684",
+      "time": "2024-12-05T10:16:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2684",
+      "text": "feat(P2P-ENERGY): added cypress test case for open spark product deta…"
     }
   ],
   "open_prs": [],

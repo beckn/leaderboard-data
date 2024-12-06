@@ -1414,6 +1414,13 @@
       "time": "2024-12-02T16:49:21Z",
       "link": "https://github.com/beckn/missions/pull/192",
       "text": "feat: open kenya implementation guide version 1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#128",
+      "time": "2024-12-05T13:06:13Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/128",
+      "text": "Langraph Implementation: Analysing and fixing the consumer flow"
     }
   ],
   "open_prs": [],

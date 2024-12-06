@@ -469,6 +469,13 @@
       "time": "2024-12-03T10:55:03Z",
       "link": "https://github.com/beckn/beckn-onix/pull/297",
       "text": "Feature/onix menu"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#301",
+      "time": "2024-12-05T10:27:41Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/301",
+      "text": "Feature/app update"
     }
   ],
   "open_prs": [],

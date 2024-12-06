@@ -2268,6 +2268,13 @@
       "time": "2024-12-04T11:08:24Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2666",
       "text": "fix(open-spark): modified code to fix cosmetic chnge in hompge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2685",
+      "time": "2024-12-05T10:15:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2685",
+      "text": "feat(open-spark): modified code to add fie upload func"
     }
   ],
   "open_prs": [],
