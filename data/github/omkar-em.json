@@ -3192,6 +3192,13 @@
       "time": "2024-12-02T04:46:12Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2626",
       "text": "Gen AI Catalogue Generation - /search API is not working, catalogue is not generating"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2674",
+      "time": "2024-12-05T05:40:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2674",
+      "text": "User Guide for Climate & forest apps"
     }
   ],
   "open_prs": [],

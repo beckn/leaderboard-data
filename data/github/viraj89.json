@@ -4270,6 +4270,13 @@
       "time": "2024-12-04T09:45:35Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/251",
       "text": "Create Google Sheet for Listing Stopped Instances with Details"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#302",
+      "time": "2024-12-05T13:23:09Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/302",
+      "text": "[UAI] - Tech Implementation Support from Ankit"
     }
   ],
   "open_prs": [],

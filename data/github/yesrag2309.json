@@ -196,6 +196,41 @@
       "time": "2024-11-25T07:35:33Z",
       "link": "https://github.com/beckn/missions/issues/181",
       "text": "UAI-Support eNAM & Carnot with the implementation process"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#198",
+      "time": "2024-12-05T06:33:00Z",
+      "link": "https://github.com/beckn/missions/issues/198",
+      "text": "UAI Missions Tech Support"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#197",
+      "time": "2024-12-05T06:30:41Z",
+      "link": "https://github.com/beckn/missions/issues/197",
+      "text": "UEI Implementation Guide V1.4"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#300",
+      "time": "2024-12-05T06:45:24Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/300",
+      "text": "Beckn One: Specification V0.3"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#299",
+      "time": "2024-12-05T05:11:18Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/299",
+      "text": "Beckn ONIX: Production Grade Upgrade Kick-off"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2676",
+      "time": "2024-12-05T06:53:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2676",
+      "text": "Beckn One: Open Network Volunteering V1.0"
     }
   ],
   "open_prs": [],

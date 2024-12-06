@@ -595,6 +595,13 @@
       "time": "2024-12-04T11:09:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2665",
       "text": "test(dragon-food): add e2e tests for Dragon Food"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2673",
+      "time": "2024-12-05T05:28:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2673",
+      "text": "Search Results Not Displayed in Sky Analytics App"
     }
   ],
   "open_prs": [],

@@ -5481,6 +5481,62 @@
       "time": "2024-11-05T10:57:49Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2377",
       "text": "Climate data | BAP | Auth Page implementation with auth APi Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2683",
+      "time": "2024-12-05T08:03:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2683",
+      "text": "Openspark | Backend | Create new Endpoint to get trade preference by prosumer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2682",
+      "time": "2024-12-05T08:03:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2682",
+      "text": "Openspark | Backend | Changes in get dashboard API"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2681",
+      "time": "2024-12-05T08:03:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2681",
+      "text": "Openspark | Backend | Create new endpoint to update trade by ID"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2680",
+      "time": "2024-12-05T08:03:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2680",
+      "text": "Openspark | Backend | Create new Endpoint to delete a credential by ID"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2679",
+      "time": "2024-12-05T08:03:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2679",
+      "text": "Openspark | Backend | Changes in signup API"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2678",
+      "time": "2024-12-05T08:03:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2678",
+      "text": "Openspark | Backend | Create new API to update user's profile detail"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2677",
+      "time": "2024-12-05T08:03:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2677",
+      "text": "Openspark | Backend | Create new API to get user's profile detail"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2637",
+      "time": "2024-12-03T12:42:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2637",
+      "text": "Openspark - User selection page"
     }
   ],
   "open_prs": [],
