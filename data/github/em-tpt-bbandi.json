@@ -189,6 +189,20 @@
       "time": "2024-07-23T05:21:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1552",
       "text": "Setup UEI Environment for BAP, BPP, Registry, Gateway, and Sandbox"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2689",
+      "time": "2024-12-06T11:00:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2689",
+      "text": "Automated MySQL DB Backup Script for Strapi with Cron Job"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2688",
+      "time": "2024-12-06T11:00:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2688",
+      "text": "Automated H2 DB Backup Script for Registry Containers with Cron Job Configuration"
     }
   ],
   "open_prs": [],

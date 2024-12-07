@@ -763,6 +763,13 @@
       "time": "2024-12-04T11:49:21Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2669",
       "text": "feat(open-spark): api integration for dashboard page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2690",
+      "time": "2024-12-06T11:11:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2690",
+      "text": "feat(open-spark): added changes as per figma for my ders page"
     }
   ],
   "open_prs": [],

@@ -602,6 +602,27 @@
       "time": "2024-12-05T05:28:15Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2673",
       "text": "Search Results Not Displayed in Sky Analytics App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2691",
+      "time": "2024-12-06T11:15:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2691",
+      "text": "End-to-End Automation Testing for Harmoni Aid App Using Cypress"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2587",
+      "time": "2024-12-06T19:29:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2587",
+      "text": "fix: modified code in retail cypress code for failure of tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2687",
+      "time": "2024-12-06T09:00:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2687",
+      "text": "Sky analytics e2e testing"
     }
   ],
   "open_prs": [],

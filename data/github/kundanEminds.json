@@ -3472,6 +3472,13 @@
       "time": "2024-12-05T10:16:40Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2684",
       "text": "feat(P2P-ENERGY): added cypress test case for open spark product deta…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2686",
+      "time": "2024-12-06T07:57:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2686",
+      "text": "feat(P2P-ENERGY): added cypress test case for open spark cart  page i…"
     }
   ],
   "open_prs": [],
