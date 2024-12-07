@@ -630,6 +630,13 @@
       "time": "2024-11-24T09:58:13Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2581",
       "text": "Status Related Changes and Support for Climate Resilience"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#205",
+      "time": "2024-12-06T11:48:43Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/205",
+      "text": "Added openspark backend changes"
     }
   ],
   "open_prs": [],
