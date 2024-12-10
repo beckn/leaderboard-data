@@ -637,6 +637,55 @@
       "time": "2024-12-06T11:48:43Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/205",
       "text": "Added openspark backend changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#206",
+      "time": "2024-12-09T04:35:26Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/206",
+      "text": "Made changes for openspark backend"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#207",
+      "time": "2024-12-09T07:42:33Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/207",
+      "text": "Fixed issue in dashboard api of bap and bpp"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2698",
+      "time": "2024-12-09T05:09:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2698",
+      "text": "Common Strapi | Prosumer Flow | Profile Creation - \"Title Required\" Error Preventing User Profile Creation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2697",
+      "time": "2024-12-09T05:09:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2697",
+      "text": "Common Strapi | Prosumer Flow | Signup API - Users Unable to Complete Signup Process"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2696",
+      "time": "2024-12-09T05:09:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2696",
+      "text": "Common Strapi | Prosumer Flow | Login API - \"User Not Found\" Error During Login"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2695",
+      "time": "2024-12-09T05:09:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2695",
+      "text": "BPP Deployment for Climate Resilience on Staging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2694",
+      "time": "2024-12-09T05:09:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2694",
+      "text": "Non-Beckn API Testing for Common Strapi BAP-BPP"
     }
   ],
   "open_prs": [],

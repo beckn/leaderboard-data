@@ -2282,6 +2282,13 @@
       "time": "2024-12-06T19:28:42Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2693",
       "text": "feat(open-spark): modified code to add trade details page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2704",
+      "time": "2024-12-09T13:05:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2704",
+      "text": "fix(open-spark): modified code in date-selection to fix calender date…"
     }
   ],
   "open_prs": [],

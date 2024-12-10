@@ -770,6 +770,20 @@
       "time": "2024-12-06T11:11:29Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2690",
       "text": "feat(open-spark): added changes as per figma for my ders page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2690",
+      "time": "2024-12-09T06:15:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2690",
+      "text": "feat(open-spark): added changes as per figma for my ders page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2703",
+      "time": "2024-12-09T13:06:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2703",
+      "text": "feat(open-spark): api integration for my ders page"
     }
   ],
   "open_prs": [],
