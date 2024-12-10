@@ -3220,6 +3220,48 @@
       "time": "2024-11-21T11:28:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2565",
       "text": "Climate apps - Incorrect total on billing page when multiple items are added to the cart and init is already called"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2707",
+      "time": "2024-12-09T14:14:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2707",
+      "text": "End-to-End Automation Testing of Earth Support Initiative App Using Cypress"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2706",
+      "time": "2024-12-09T14:13:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2706",
+      "text": "End-to-End Automation Testing of EnviroGrowth App Using Cypress"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2705",
+      "time": "2024-12-09T14:13:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2705",
+      "text": "End-to-End Automation Testing of State Forest Department App Using Cypress"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2700",
+      "time": "2024-12-09T06:40:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2700",
+      "text": "Climate Apps - Scrollbar is showing on payment page when it's not required"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2699",
+      "time": "2024-12-09T06:25:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2699",
+      "text": "Himalaya - Network error while generating shopping list in retail app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2626",
+      "time": "2024-12-02T04:46:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2626",
+      "text": "Gen AI Catalogue Generation - /search API is not working, catalogue is not generating"
     }
   ],
   "open_prs": [],

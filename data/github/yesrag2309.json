@@ -231,6 +231,13 @@
       "time": "2024-12-05T06:53:57Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2676",
       "text": "Beckn One: Open Network Volunteering V1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#178",
+      "time": "2024-11-25T05:21:07Z",
+      "link": "https://github.com/beckn/missions/issues/178",
+      "text": "UEI Implementation Guide V1.3"
     }
   ],
   "open_prs": [],

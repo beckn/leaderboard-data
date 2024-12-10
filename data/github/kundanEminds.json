@@ -3479,6 +3479,27 @@
       "time": "2024-12-06T07:57:04Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2686",
       "text": "feat(P2P-ENERGY): added cypress test case for open spark cart  page i…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2686",
+      "time": "2024-12-09T04:06:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2686",
+      "text": "feat(P2P-ENERGY): added cypress test case for open spark cart  page i…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2701",
+      "time": "2024-12-09T13:06:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2701",
+      "text": "fix: fixed scroll issue on firefox for climate apps"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#220",
+      "time": "2024-12-09T06:47:47Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/220",
+      "text": "Staging 1.1.0"
     }
   ],
   "open_prs": [],

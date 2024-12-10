@@ -1421,6 +1421,34 @@
       "time": "2024-12-05T13:06:13Z",
       "link": "https://github.com/beckn/transactional-ai-bap/issues/128",
       "text": "Langraph Implementation: Analysing and fixing the consumer flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#200",
+      "time": "2024-12-09T13:36:15Z",
+      "link": "https://github.com/beckn/missions/issues/200",
+      "text": "UAI Bap issue debuggging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#129",
+      "time": "2024-12-09T13:35:57Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/129",
+      "text": "Langraph Implementation - Deploying initial version and testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#128",
+      "time": "2024-12-05T13:06:13Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/128",
+      "text": "Langraph Implementation: Analysing and fixing the consumer flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#256",
+      "time": "2024-12-09T07:05:47Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/256",
+      "text": "Beckn UAI Win room 25th Nov"
     }
   ],
   "open_prs": [],

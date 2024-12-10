@@ -5537,6 +5537,13 @@
       "time": "2024-12-03T12:42:53Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2637",
       "text": "Openspark - User selection page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#126",
+      "time": "2024-08-21T05:25:58Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/126",
+      "text": "Reference Application: Sandbox 2.0"
     }
   ],
   "open_prs": [],

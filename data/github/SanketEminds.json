@@ -623,6 +623,27 @@
       "time": "2024-12-06T09:00:24Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2687",
       "text": "Sky analytics e2e testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2615",
+      "time": "2024-11-28T11:18:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2615",
+      "text": "Application error on clicking \"Order Details\" button in Tourism and OSC App"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2687",
+      "time": "2024-12-09T04:07:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2687",
+      "text": "Sky analytics e2e testing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2702",
+      "time": "2024-12-09T13:06:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2702",
+      "text": "Harmoni aid e2e testing"
     }
   ],
   "open_prs": [],

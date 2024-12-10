@@ -126,6 +126,13 @@
       "time": "2024-12-03T11:26:15Z",
       "link": "https://github.com/beckn/missions/issues/193",
       "text": "UAI | Schemes Implementation Guide update"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#199",
+      "time": "2024-12-09T09:10:21Z",
+      "link": "https://github.com/beckn/missions/issues/199",
+      "text": "UAI Implementation Guide update"
     }
   ],
   "open_prs": [],
