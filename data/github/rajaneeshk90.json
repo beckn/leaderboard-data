@@ -1778,6 +1778,27 @@
       "time": "2024-11-25T05:40:44Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/232",
       "text": "Open Network for Volunteers: Review of the level 1 arch diagram"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#203",
+      "time": "2024-12-10T13:17:24Z",
+      "link": "https://github.com/beckn/missions/issues/203",
+      "text": "UPPCL: Changes in the Documentation of the new Observability Layer endpoints  created"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#304",
+      "time": "2024-12-10T13:22:11Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/304",
+      "text": "Volunteers: Internal review of the level2 architecture: API specification "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#303",
+      "time": "2024-12-10T13:08:34Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/303",
+      "text": "Volunteers: Architecture Diagram: changes in the level0 and level1 documents based on the change in the scope"
     }
   ],
   "open_prs": [],

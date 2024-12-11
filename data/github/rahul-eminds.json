@@ -686,6 +686,13 @@
       "time": "2024-12-09T05:09:07Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2694",
       "text": "Non-Beckn API Testing for Common Strapi BAP-BPP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#208",
+      "time": "2024-12-10T07:01:19Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/208",
+      "text": "Added and modified apis for user credentials"
     }
   ],
   "open_prs": [],

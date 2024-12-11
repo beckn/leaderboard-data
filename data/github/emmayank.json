@@ -5544,6 +5544,20 @@
       "time": "2024-08-21T05:25:58Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/126",
       "text": "Reference Application: Sandbox 2.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2719",
+      "time": "2024-12-10T13:09:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2719",
+      "text": "Deploy Climate and Forest Apps in Production Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2718",
+      "time": "2024-12-10T13:09:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2718",
+      "text": "Climate apps to production and old tekdi link redirect to EC prod and instance down"
     }
   ],
   "open_prs": [],

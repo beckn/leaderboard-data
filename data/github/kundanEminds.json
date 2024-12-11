@@ -3500,6 +3500,13 @@
       "time": "2024-12-09T06:47:47Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/220",
       "text": "Staging 1.1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2708",
+      "time": "2024-12-10T04:35:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2708",
+      "text": "Move EC Staging to Production"
     }
   ],
   "open_prs": [],
