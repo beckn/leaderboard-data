@@ -238,6 +238,20 @@
       "time": "2024-11-25T05:21:07Z",
       "link": "https://github.com/beckn/missions/issues/178",
       "text": "UEI Implementation Guide V1.3"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#202",
+      "time": "2024-12-10T10:40:00Z",
+      "link": "https://github.com/beckn/missions/issues/202",
+      "text": "UAI Missions Tech Support"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#201",
+      "time": "2024-12-10T10:32:23Z",
+      "link": "https://github.com/beckn/missions/issues/201",
+      "text": "Implementation Guides: Review & Re-work"
     }
   ],
   "open_prs": [],

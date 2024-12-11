@@ -2289,6 +2289,20 @@
       "time": "2024-12-09T13:05:55Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2704",
       "text": "fix(open-spark): modified code in date-selection to fix calender date…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2504",
+      "time": "2024-12-10T05:19:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2504",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2709",
+      "time": "2024-12-10T06:56:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2709",
+      "text": "feat(open-spark): integrated the cred APIs and profile section APIs"
     }
   ],
   "open_prs": [],
