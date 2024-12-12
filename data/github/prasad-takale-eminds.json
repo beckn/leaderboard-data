@@ -476,6 +476,48 @@
       "time": "2024-12-05T10:27:41Z",
       "link": "https://github.com/beckn/beckn-onix/pull/301",
       "text": "Feature/app update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#295",
+      "time": "2024-12-11T09:07:29Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/295",
+      "text": "Add username/password authentication for PS deployment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#296",
+      "time": "2024-12-11T09:07:29Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/296",
+      "text": "Feature/Prompt user for domain input"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#297",
+      "time": "2024-12-11T09:07:29Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/297",
+      "text": "Feature/onix menu"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#301",
+      "time": "2024-12-11T09:07:28Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/301",
+      "text": "Feature/app update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#305",
+      "time": "2024-12-11T10:21:26Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/305",
+      "text": "feat #271: Add support for installing all components (Registry, Gatew…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#306",
+      "time": "2024-12-11T11:50:31Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/306",
+      "text": "Develop"
     }
   ],
   "open_prs": [],

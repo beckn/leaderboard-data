@@ -784,6 +784,20 @@
       "time": "2024-12-09T13:06:52Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2703",
       "text": "feat(open-spark): api integration for my ders page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2723",
+      "time": "2024-12-11T04:56:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2723",
+      "text": "feat(open-spark): api integration for open spark"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2736",
+      "time": "2024-12-11T14:27:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2736",
+      "text": "fix(open-spark): fixed issue which discussed during demo call"
     }
   ],
   "open_prs": [],

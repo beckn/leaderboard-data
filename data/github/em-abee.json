@@ -959,6 +959,13 @@
       "time": "2024-11-21T06:19:34Z",
       "link": "https://github.com/beckn/strapi-bap-bpp/pull/1",
       "text": "migrate beckn bap user strapi"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#96",
+      "time": "2024-12-11T10:17:35Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/96",
+      "text": "Develop"
     }
   ],
   "open_prs": [],

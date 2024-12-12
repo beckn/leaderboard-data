@@ -693,6 +693,13 @@
       "time": "2024-12-10T07:01:19Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/208",
       "text": "Added and modified apis for user credentials"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#209",
+      "time": "2024-12-11T04:37:14Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/209",
+      "text": "Added update trade by id for bap"
     }
   ],
   "open_prs": [],

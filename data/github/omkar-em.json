@@ -3290,6 +3290,69 @@
       "time": "2024-12-10T08:22:14Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2710",
       "text": "Landgraph - WhatsApp chatbot bill image is not processing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2735",
+      "time": "2024-12-11T12:08:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2735",
+      "text": "Climate Apps - Trim the search string in payload when excess space is given (at begining or end)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2734",
+      "time": "2024-12-11T12:07:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2734",
+      "text": "State Forest Department - Excess spacing in provider details, UI not in sync with other apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2728",
+      "time": "2024-12-11T05:13:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2728",
+      "text": "Climate Apps - Getting CORS error in apps intermittently"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2725",
+      "time": "2024-12-11T05:05:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2725",
+      "text": "Testing Climate and Forest Apps in Production Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2724",
+      "time": "2024-12-11T05:04:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2724",
+      "text": "Langraph Implementation: WhatsApp Chatbot Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2722",
+      "time": "2024-12-11T04:54:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2722",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2721",
+      "time": "2024-12-11T04:54:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2721",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2713",
+      "time": "2024-12-10T09:26:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2713",
+      "text": "Langraph - WhatsApp chatbot bill image is not processing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2700",
+      "time": "2024-12-09T06:40:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2700",
+      "text": "Climate Apps - Scrollbar is showing on payment page when it's not required"
     }
   ],
   "open_prs": [],
