@@ -3507,6 +3507,20 @@
       "time": "2024-12-10T04:35:21Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2708",
       "text": "Move EC Staging to Production"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2732",
+      "time": "2024-12-11T10:46:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2732",
+      "text": "feat(P2P-ENERGY): added cypress test case for open spark checkout  pa…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2733",
+      "time": "2024-12-11T11:41:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2733",
+      "text": "fix: fixed search bar spacing issue on search input"
     }
   ],
   "open_prs": [],
