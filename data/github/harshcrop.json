@@ -182,6 +182,13 @@
       "time": "2024-11-14T08:05:40Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2500",
       "text": "Open Networks Volunteering"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-exp-guide-ui#209",
+      "time": "2024-09-10T11:05:57Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/issues/209",
+      "text": "Fix scrollbar is in the middle of the \"select-experience\" page"
     }
   ],
   "open_prs": [],

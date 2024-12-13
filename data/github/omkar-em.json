@@ -3353,6 +3353,20 @@
       "time": "2024-12-09T06:40:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2700",
       "text": "Climate Apps - Scrollbar is showing on payment page when it's not required"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2760",
+      "time": "2024-12-12T14:01:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2760",
+      "text": "Climate Apps - /order, /init, and /status APIs are not working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2744",
+      "time": "2024-12-12T05:49:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2744",
+      "text": "Gen AI Catalogue Generation - /select API is not working, giving empty response"
     }
   ],
   "open_prs": [],
