@@ -721,6 +721,62 @@
       "time": "2024-12-11T13:33:55Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2716",
       "text": "Forest conservation e2e testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2759",
+      "time": "2024-12-12T13:49:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2759",
+      "text": "DSEP-Search Results Not Displayed in Scholarship and Job Sections"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2758",
+      "time": "2024-12-12T13:48:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2758",
+      "text": "Tourism & OSC app-App Crash on Accessing Order History"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2756",
+      "time": "2024-12-12T11:38:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2756",
+      "text": "EC Apps-Search Functionality Not Working Across All EC Apps in Production"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2749",
+      "time": "2024-12-12T07:28:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2749",
+      "text": "Climate & Forest-Search Functionality Not Working in Climate and Forest Conservation Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2748",
+      "time": "2024-12-12T07:15:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2748",
+      "text": "Climate & Forest apps-Font Discrepancy in Price and Rating Filters"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2730",
+      "time": "2024-12-11T08:22:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2730",
+      "text": "Climate & Forest App-Register API Redirecting to Dev Environment During Sign-In in Sky Analytics App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2673",
+      "time": "2024-12-05T05:28:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2673",
+      "text": "Search Results Not Displayed in Sky Analytics App"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2755",
+      "time": "2024-12-12T11:38:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2755",
+      "text": "fix: update test ids for all product page"
     }
   ],
   "open_prs": [],

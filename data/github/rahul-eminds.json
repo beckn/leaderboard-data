@@ -700,6 +700,34 @@
       "time": "2024-12-11T04:37:14Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/209",
       "text": "Added update trade by id for bap"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#210",
+      "time": "2024-12-12T05:16:45Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/210",
+      "text": "Fixed admin login issue and added role in login api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#211",
+      "time": "2024-12-12T06:13:05Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/211",
+      "text": "Fixed openspark bap issues related to cred and update user profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#212",
+      "time": "2024-12-12T08:56:50Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/212",
+      "text": "Added changes for openspark bap"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#213",
+      "time": "2024-12-12T10:21:22Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/213",
+      "text": "Fixed issue related consumer signup"
     }
   ],
   "open_prs": [],

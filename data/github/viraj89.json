@@ -4291,6 +4291,13 @@
       "time": "2024-11-26T16:23:43Z",
       "link": "https://github.com/beckn/beckn-onix/issues/293",
       "text": "Beckn Onix: Beckn One - Specification Documentation v0.3"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#257",
+      "time": "2024-12-12T12:55:22Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/257",
+      "text": "Setup Subdomain and Update DNS Records for UKI Microsite"
     }
   ],
   "open_prs": [],

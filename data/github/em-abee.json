@@ -966,6 +966,13 @@
       "time": "2024-12-11T10:17:35Z",
       "link": "https://github.com/beckn/generic-client-layer/pull/96",
       "text": "Develop"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2737",
+      "time": "2024-12-12T04:59:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2737",
+      "text": "Open Network for Volunteering: Trust Layer API Specification Document"
     }
   ],
   "open_prs": [],

@@ -798,6 +798,13 @@
       "time": "2024-12-11T14:27:56Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2736",
       "text": "fix(open-spark): fixed issue which discussed during demo call"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2736",
+      "time": "2024-12-12T05:02:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2736",
+      "text": "fix(open-spark): fixed issue which discussed during demo call"
     }
   ],
   "open_prs": [],

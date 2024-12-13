@@ -3521,6 +3521,34 @@
       "time": "2024-12-11T11:41:33Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2733",
       "text": "fix: fixed search bar spacing issue on search input"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2732",
+      "time": "2024-12-12T07:41:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2732",
+      "text": "feat(P2P-ENERGY): added cypress test case for open spark checkout  pa…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2733",
+      "time": "2024-12-12T05:01:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2733",
+      "text": "fix: fixed search bar spacing issue on search input"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2743",
+      "time": "2024-12-12T07:39:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2743",
+      "text": "fix: added min height on short description area for state forest dep"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2750",
+      "time": "2024-12-12T07:39:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2750",
+      "text": "fix: fixed font discrepancy in price and rating filters"
     }
   ],
   "open_prs": [],

@@ -2086,6 +2086,69 @@
       "time": "2024-12-03T10:46:03Z",
       "link": "https://github.com/beckn/beckn-sandbox/pull/35",
       "text": "Added: PC for GenAI DHP Diaganostics"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#214",
+      "time": "2024-12-12T13:41:46Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/214",
+      "text": "Fixed: Ir-relevant catalog generation and added code to create tag-gr…"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2747",
+      "time": "2024-12-12T06:30:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2747",
+      "text": "Enable GEN AI Strapi Sandbox 2.0 for vistaar"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2746",
+      "time": "2024-12-12T06:30:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2746",
+      "text": "Enable GEN AI Strapi Sandbox 2.0 for odr"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2745",
+      "time": "2024-12-12T06:30:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2745",
+      "text": "Enable GEN AI Strapi Sandbox 2.0 for mobility"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2742",
+      "time": "2024-12-12T05:14:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2742",
+      "text": "On-Call Support with Tekdi Team - 4th November"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2741",
+      "time": "2024-12-12T05:13:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2741",
+      "text": "Fix Irrelevant Catalog Generation in Sandbox 2.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2740",
+      "time": "2024-12-12T05:13:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2740",
+      "text": "Enable Strapi Sandbox for UAI Environment with Gen AI Catalogue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2739",
+      "time": "2024-12-12T05:12:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2739",
+      "text": "Beckn UAI WinRoom call on 29th November"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2738",
+      "time": "2024-12-12T05:09:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2738",
+      "text": "Beckn UAI Win room 25th Nov"
     }
   ],
   "open_prs": [],

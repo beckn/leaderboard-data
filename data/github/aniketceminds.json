@@ -2317,6 +2317,41 @@
       "time": "2024-12-11T08:04:00Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2729",
       "text": "fix(open-spark): modified code to fix cosmetci UI and code level bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2751",
+      "time": "2024-12-12T07:39:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2751",
+      "text": "feat(open-spark): modified code to impl admin bap flow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2752",
+      "time": "2024-12-12T16:56:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2752",
+      "text": "fix(open-spark): modified code to fix minor cosmetic css issues"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2753",
+      "time": "2024-12-12T10:15:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2753",
+      "text": "Revert \"Forest conservation e2e testing\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2754",
+      "time": "2024-12-12T10:25:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2754",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2757",
+      "time": "2024-12-12T11:49:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2757",
+      "text": "fix: climate, forest app cors error fix"
     }
   ],
   "open_prs": [],

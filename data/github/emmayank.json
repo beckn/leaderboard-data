@@ -5558,6 +5558,20 @@
       "time": "2024-12-10T13:09:31Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2718",
       "text": "Climate apps to production and old tekdi link redirect to EC prod and instance down"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#308",
+      "time": "2024-12-12T09:53:49Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/308",
+      "text": "Beckn onix v0.5"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#130",
+      "time": "2024-12-12T05:35:46Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/130",
+      "text": "Transactional AI: Multi-Model Beckn AI Agent"
     }
   ],
   "open_prs": [],
