@@ -2149,6 +2149,27 @@
       "time": "2024-12-12T05:09:54Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2738",
       "text": "Beckn UAI Win room 25th Nov"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2768",
+      "time": "2024-12-13T14:04:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2768",
+      "text": "Enabling GenAI Sandbox for UAI: Equipment Sales"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2767",
+      "time": "2024-12-13T14:04:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2767",
+      "text": "Enabling GenAI Sandbox for UAI: Schemes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2766",
+      "time": "2024-12-13T14:04:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2766",
+      "text": "Enabling GenAI Sandbox for UAI: Equipment Renting"
     }
   ],
   "open_prs": [],

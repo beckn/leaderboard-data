@@ -3367,6 +3367,34 @@
       "time": "2024-12-12T05:49:11Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2744",
       "text": "Gen AI Catalogue Generation - /select API is not working, giving empty response"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2765",
+      "time": "2024-12-13T11:44:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2765",
+      "text": "OSC - App crashing on order details page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2763",
+      "time": "2024-12-13T05:07:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2763",
+      "text": "Langraph - Trading bill message showing NaN values"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2762",
+      "time": "2024-12-13T05:04:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2762",
+      "text": "Langraph - WhatsApp bot giving response with curly brackets, not properly formatted"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2715",
+      "time": "2024-12-10T11:33:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2715",
+      "text": "Langraph - Chatbot transaction is not moving as expected"
     }
   ],
   "open_prs": [],

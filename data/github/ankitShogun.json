@@ -1449,6 +1449,27 @@
       "time": "2024-12-09T07:05:47Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/256",
       "text": "Beckn UAI Win room 25th Nov"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#200",
+      "time": "2024-12-09T13:36:15Z",
+      "link": "https://github.com/beckn/missions/issues/200",
+      "text": "UAI Bap issue debugging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#129",
+      "time": "2024-12-09T13:35:57Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/129",
+      "text": "Langraph Implementation - Deploying initial version and testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#258",
+      "time": "2024-12-13T11:59:56Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/258",
+      "text": "Experience center release note analysis"
     }
   ],
   "open_prs": [],

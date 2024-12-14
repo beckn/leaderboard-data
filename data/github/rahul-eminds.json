@@ -728,6 +728,20 @@
       "time": "2024-12-12T10:21:22Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/213",
       "text": "Fixed issue related consumer signup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-bap-bpp#2",
+      "time": "2024-12-13T11:41:52Z",
+      "link": "https://github.com/beckn/strapi-bap-bpp/pull/2",
+      "text": "Created new tables for conflicting collection and other schema mod fo…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#215",
+      "time": "2024-12-13T08:25:42Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/215",
+      "text": "Fixed conflict tables issue for common strapi and other bug fixes"
     }
   ],
   "open_prs": [],
