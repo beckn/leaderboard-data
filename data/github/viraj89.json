@@ -4298,6 +4298,125 @@
       "time": "2024-12-12T12:55:22Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/257",
       "text": "Setup Subdomain and Update DNS Records for UKI Microsite"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#325",
+      "time": "2024-12-13T11:59:51Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/325",
+      "text": "Create Engineering Plan and Move to GitHub Issues for Beckn Onix Project"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#324",
+      "time": "2024-12-13T11:56:06Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/324",
+      "text": "QA Strategy for Beckn Onix Project"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#323",
+      "time": "2024-12-13T11:55:17Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/323",
+      "text": "DevOps Strategy for Beckn Onix Project"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#322",
+      "time": "2024-12-13T11:54:00Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/322",
+      "text": "Resource Allocation Plan for Beckn Onix Project"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#321",
+      "time": "2024-12-13T10:40:48Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/321",
+      "text": "Add Extensibility Features with Lifecycle Hooks and Middleware Support"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#320",
+      "time": "2024-12-13T10:40:03Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/320",
+      "text": "Enable Dynamic API Routing with Centralized Management"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#319",
+      "time": "2024-12-13T10:39:58Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/319",
+      "text": "Design and Implement a Plugin System for Modular Functionality"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#318",
+      "time": "2024-12-13T10:39:52Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/318",
+      "text": "Core Framework - Implement Foundational Layer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#317",
+      "time": "2024-12-13T09:59:04Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/317",
+      "text": "Building a Core Modular Framework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#316",
+      "time": "2024-12-13T08:56:26Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/316",
+      "text": "Finalize the Tech Stack - Go vs Node.js"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#315",
+      "time": "2024-12-13T08:56:16Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/315",
+      "text": "Build an Experience Layer Using CLI for Beckn-Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#314",
+      "time": "2024-12-13T08:56:09Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/314",
+      "text": "High-Level Design Document for Beckn Onix Kernel (Level 1)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#313",
+      "time": "2024-12-13T08:56:03Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/313",
+      "text": "Low-Level Design Document for Beckn Onix Kernel (Level 1)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#312",
+      "time": "2024-12-13T08:55:55Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/312",
+      "text": "Outcome Visualization for Beckn Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#311",
+      "time": "2024-12-13T08:55:48Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/311",
+      "text": "Beckn Onix PRD Documentation with Functional Use Cases v0.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#310",
+      "time": "2024-12-13T08:55:39Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/310",
+      "text": "Wiki Page for Beckn Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#309",
+      "time": "2024-12-13T08:55:30Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/309",
+      "text": "GitHub Repo Setup"
     }
   ],
   "open_prs": [],

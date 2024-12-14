@@ -2352,6 +2352,20 @@
       "time": "2024-12-12T11:49:03Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2757",
       "text": "fix: climate, forest app cors error fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2761",
+      "time": "2024-12-13T08:07:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2761",
+      "text": "fix: modified code to fix cors err in climate, forest apps"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2764",
+      "time": "2024-12-13T09:43:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2764",
+      "text": "fix: removed garuda pckg from all apps"
     }
   ],
   "open_prs": [],
