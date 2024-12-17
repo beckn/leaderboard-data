@@ -252,6 +252,13 @@
       "time": "2024-12-10T10:32:23Z",
       "link": "https://github.com/beckn/missions/issues/201",
       "text": "Implementation Guides: Review & Re-work"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#204",
+      "time": "2024-12-16T12:25:31Z",
+      "link": "https://github.com/beckn/missions/issues/204",
+      "text": "UPPCL Implementation Guide V0.1"
     }
   ],
   "open_prs": [],

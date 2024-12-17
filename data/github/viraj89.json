@@ -4417,6 +4417,13 @@
       "time": "2024-12-13T08:55:30Z",
       "link": "https://github.com/beckn/beckn-onix/issues/309",
       "text": "GitHub Repo Setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2600",
+      "time": "2024-11-26T16:26:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2600",
+      "text": "Climate Resilience Sign Off and Go Live"
     }
   ],
   "open_prs": [],

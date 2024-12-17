@@ -3395,6 +3395,55 @@
       "time": "2024-12-10T11:33:03Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2715",
       "text": "Langraph - Chatbot transaction is not moving as expected"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2776",
+      "time": "2024-12-16T08:10:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2776",
+      "text": "UAI GenAI Catalogue - /status API is giving categories in provider which are not given in API documentation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2775",
+      "time": "2024-12-16T07:34:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2775",
+      "text": "UAI GenAI Catalogue - Newly generated item price is showing 0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2774",
+      "time": "2024-12-16T05:33:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2774",
+      "text": "Testing for Enabling GenAI Sandbox for UAI: Schemes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2773",
+      "time": "2024-12-16T05:33:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2773",
+      "text": "Testing for Enabling GenAI Sandbox for UAI: Equipment Sales"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2772",
+      "time": "2024-12-16T05:33:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2772",
+      "text": "Testing for Enabling GenAI Sandbox for UAI: Equipment Renting"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2771",
+      "time": "2024-12-16T05:32:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2771",
+      "text": "Test Prod Environment Response Time for PS Docker Image Changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2770",
+      "time": "2024-12-16T05:28:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2770",
+      "text": "Winroom for Climate Apps"
     }
   ],
   "open_prs": [],
