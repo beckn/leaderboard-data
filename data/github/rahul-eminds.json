@@ -742,6 +742,41 @@
       "time": "2024-12-13T08:25:42Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/215",
       "text": "Fixed conflict tables issue for common strapi and other bug fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#97",
+      "time": "2024-12-17T13:51:20Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/97",
+      "text": "Fixed status tag issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#98",
+      "time": "2024-12-17T13:53:09Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/98",
+      "text": "Fixed status tag issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#216",
+      "time": "2024-12-17T10:24:44Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/216",
+      "text": "Added fixes for openspark apis"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#217",
+      "time": "2024-12-17T10:57:26Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/217",
+      "text": "Modified trade response"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-bap-bpp#3",
+      "time": "2024-12-17T10:21:00Z",
+      "link": "https://github.com/beckn/strapi-bap-bpp/pull/3",
+      "text": "Modified schema for openspark"
     }
   ],
   "open_prs": [],
