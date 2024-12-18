@@ -2373,6 +2373,20 @@
       "time": "2024-12-14T07:20:39Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2769",
       "text": "fix(open-spark): fix styling in comp in dashboard, trade, my der page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2785",
+      "time": "2024-12-17T13:45:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2785",
+      "text": "fix(open-spark): fixed minor functinal chnges in dashboard, trade det…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2786",
+      "time": "2024-12-17T18:27:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2786",
+      "text": "feat(open-spark): modified code to add update trade api"
     }
   ],
   "open_prs": [],

@@ -3549,6 +3549,20 @@
       "time": "2024-12-12T07:39:55Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2750",
       "text": "fix: fixed font discrepancy in price and rating filters"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2778",
+      "time": "2024-12-17T04:47:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2778",
+      "text": "feat(P2P-ENERGY): added cypress test case for open spark confirmation…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2780",
+      "time": "2024-12-17T12:05:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2780",
+      "text": "feat(OPEN-SPARK): fixed prefix value of buying preference input and l…"
     }
   ],
   "open_prs": [],

@@ -525,6 +525,20 @@
       "time": "2024-12-12T05:09:35Z",
       "link": "https://github.com/beckn/beckn-onix/pull/306",
       "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#326",
+      "time": "2024-12-17T09:57:43Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/326",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#327",
+      "time": "2024-12-17T10:25:29Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/327",
+      "text": "Fix exact domain matching logic in shell script"
     }
   ],
   "open_prs": [],

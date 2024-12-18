@@ -812,6 +812,27 @@
       "time": "2024-12-16T12:58:55Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2777",
       "text": "fix(open-spark): on dashboard current trade data text should be based  on role"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2784",
+      "time": "2024-12-17T13:23:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2784",
+      "text": "Fixed Cosmetic Changes and Updated Functionalities in Open Spark"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2777",
+      "time": "2024-12-17T04:47:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2777",
+      "text": "fix(open-spark): on dashboard current trade data text should be based  on role"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2782",
+      "time": "2024-12-17T12:25:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2782",
+      "text": "fix(open-spark): trade api route changes and other cosmetic changes"
     }
   ],
   "open_prs": [],
