@@ -3563,6 +3563,27 @@
       "time": "2024-12-17T12:05:45Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2780",
       "text": "feat(OPEN-SPARK): fixed prefix value of buying preference input and l…"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2791",
+      "time": "2024-12-18T09:55:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2791",
+      "text": "Fix Prefix Value of Buying Preference Input and Layout"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2788",
+      "time": "2024-12-18T07:24:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2788",
+      "text": "feat(OPEN-SPARK): fixed prefix decrement value of buying preference i…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2789",
+      "time": "2024-12-18T08:51:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2789",
+      "text": "fix(OPEN-SPARK): added kwh on input"
     }
   ],
   "open_prs": [],

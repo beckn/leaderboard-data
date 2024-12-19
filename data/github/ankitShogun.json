@@ -1470,6 +1470,20 @@
       "time": "2024-12-13T11:59:56Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/258",
       "text": "Experience center release note analysis"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#258",
+      "time": "2024-12-13T11:59:56Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/258",
+      "text": "Experience center release note analysis"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#221",
+      "time": "2024-12-18T13:22:43Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
+      "text": "Release notes update"
     }
   ],
   "open_prs": [],

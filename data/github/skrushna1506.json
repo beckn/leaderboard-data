@@ -833,6 +833,20 @@
       "time": "2024-12-17T12:25:23Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2782",
       "text": "fix(open-spark): trade api route changes and other cosmetic changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2787",
+      "time": "2024-12-18T06:58:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2787",
+      "text": "fix(open-spark): fixed document issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2790",
+      "time": "2024-12-18T09:55:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2790",
+      "text": "fix(open-spark): current trade will be result of 0th position"
     }
   ],
   "open_prs": [],
