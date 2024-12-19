@@ -791,6 +791,27 @@
       "time": "2024-12-17T12:28:02Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2783",
       "text": "fix: update test ids for all cart pages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2794",
+      "time": "2024-12-18T13:08:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2794",
+      "text": "Open Spark -Trade API Failing During Order Update/Edit"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2793",
+      "time": "2024-12-18T12:52:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2793",
+      "text": "Open Spark V2-Current Status Section Not Responsive on Mobile"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2792",
+      "time": "2024-12-18T12:40:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2792",
+      "text": "Open Spark V2-Lock Demand Button Should Be Disabled in Consumer Admin Flow"
     }
   ],
   "open_prs": [],
