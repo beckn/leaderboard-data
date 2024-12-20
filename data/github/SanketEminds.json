@@ -812,6 +812,13 @@
       "time": "2024-12-18T12:40:46Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2792",
       "text": "Open Spark V2-Lock Demand Button Should Be Disabled in Consumer Admin Flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2797",
+      "time": "2024-12-19T05:31:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2797",
+      "text": "Open Spark -Sign-Up Failure in Open Spark App"
     }
   ],
   "open_prs": [],
