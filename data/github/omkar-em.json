@@ -3444,6 +3444,27 @@
       "time": "2024-12-16T05:28:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2770",
       "text": "Winroom for Climate Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2798",
+      "time": "2024-12-19T05:32:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2798",
+      "text": "UAI - In quantity getting unit as \"kWh\" in /select, /init calls which is irrelevant with search term"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2796",
+      "time": "2024-12-19T05:13:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2796",
+      "text": "UAI - Getting 200 response & response body for /status API for invalid method - GET"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2773",
+      "time": "2024-12-16T05:33:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2773",
+      "text": "Testing for Enabling GenAI Sandbox for UAI: Equipment Sales"
     }
   ],
   "open_prs": [],

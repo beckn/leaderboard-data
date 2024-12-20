@@ -5579,6 +5579,286 @@
       "time": "2024-12-03T14:31:27Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2781",
       "text": "Open Spark - Admin journey - Trade detail page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#50",
+      "time": "2024-12-19T16:45:24Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/50",
+      "text": "Enabling GenAI Sandbox for Industry 4.0 - Packaging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#49",
+      "time": "2024-12-19T16:42:29Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/49",
+      "text": "Enabling GenAI Sandbox for Retail"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#48",
+      "time": "2024-12-19T16:42:23Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/48",
+      "text": "Enabling GenAI Sandbox for DENT:EV"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#47",
+      "time": "2024-12-19T16:42:17Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/47",
+      "text": "Enabling GenAI Sandbox for DSEP:Scholarships"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#46",
+      "time": "2024-12-19T16:42:10Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/46",
+      "text": "Enabling GenAI Sandbox for DSEP:Jobs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#45",
+      "time": "2024-12-19T16:42:02Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/45",
+      "text": "Enabling GenAI Sandbox for DSEP:Mentorship"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#44",
+      "time": "2024-12-19T16:41:54Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/44",
+      "text": "Enabling GenAI Sandbox for UEI:EV"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#43",
+      "time": "2024-12-19T16:41:45Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/43",
+      "text": "Enabling GenAI Sandbox for ODR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#42",
+      "time": "2024-12-19T13:12:44Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/42",
+      "text": "Testing for Enabling GenAI Sandbox for DHP Pharmacy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#41",
+      "time": "2024-12-19T13:11:24Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/41",
+      "text": "Testing for Enabling GenAI Sandbox for Vistar"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#40",
+      "time": "2024-12-19T13:11:17Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/40",
+      "text": "Testing for Enabling GenAI Sandbox for UEI: EV"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#39",
+      "time": "2024-12-19T13:11:07Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/39",
+      "text": "Testing for Enabling GenAI Sandbox for ODR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#38",
+      "time": "2024-12-19T13:10:56Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/38",
+      "text": "Testing for Enabling GenAI Sandbox for Industry 4.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-sandbox#37",
+      "time": "2024-12-19T13:10:16Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/37",
+      "text": "Testing for Enabling GenAI Sandbox for DHP Diagnostics"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#329",
+      "time": "2024-12-19T13:35:05Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/329",
+      "text": "End-to-End QA of Beckn Onix from beckn-onix-v0.5 Branch"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#328",
+      "time": "2024-12-19T13:32:54Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/328",
+      "text": "Create Release Note and Prepare for Release of Beckn-Onix v0.5"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2817",
+      "time": "2024-12-19T16:50:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2817",
+      "text": "Investigate and Resolve 504 Gateway Timeout Error in Gateway-Prod Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2816",
+      "time": "2024-12-19T16:50:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2816",
+      "text": "Redeploy Unified-Strapi Dev with Latest Code Changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2815",
+      "time": "2024-12-19T16:48:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2815",
+      "text": "Deploy Open-Spark Dev in AWS Amplify"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2814",
+      "time": "2024-12-19T16:48:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2814",
+      "text": "Create Test Docker Image of PS to Reduce RAM Utilization"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2813",
+      "time": "2024-12-19T16:48:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2813",
+      "text": "Configure GitHub Actions to Avoid Unnecessary Builds in AWS Amplify"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2812",
+      "time": "2024-12-19T16:47:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2812",
+      "text": "Debugging UI Application Build Failure in AWS Amplify"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2811",
+      "time": "2024-12-19T16:47:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2811",
+      "text": "Point Unified-Strapi-Dev to BPP-Strapi2 PS Network"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2810",
+      "time": "2024-12-19T16:46:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2810",
+      "text": "Resize BPP-PS to T2.Medium for Load and Latency Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2809",
+      "time": "2024-12-19T15:55:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2809",
+      "text": "Fixed Issue Related to Trade Migrating to New BPP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2808",
+      "time": "2024-12-19T15:53:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2808",
+      "text": "Openspark: Resolve Common Strapi Conflicting Table Issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2807",
+      "time": "2024-12-19T15:52:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2807",
+      "text": "Openspark: Get Trade Details by ID in Admin Flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2806",
+      "time": "2024-12-19T15:52:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2806",
+      "text": "Openspark: BAP Get and Update User Profile Issue Fix for Admin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2805",
+      "time": "2024-12-19T15:51:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2805",
+      "text": "Openspark: BAP Upload Cred API Issue Fix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2804",
+      "time": "2024-12-19T15:51:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2804",
+      "text": "Openspark: Admin Role Login Bug Fix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2803",
+      "time": "2024-12-19T13:47:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2803",
+      "text": "Troubleshoot Production Issue for Climate Resilience App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2802",
+      "time": "2024-12-19T13:47:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2802",
+      "text": "Setup Strapi for Unified Plugin in OpenSpark"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2801",
+      "time": "2024-12-19T13:44:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2801",
+      "text": "End-to-End QA for OpenSpark Backend APIs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2800",
+      "time": "2024-12-19T13:25:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2800",
+      "text": "End to End QA  - OpenSpark V2 Application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2799",
+      "time": "2024-12-19T13:07:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2799",
+      "text": "Testing with QA and Fixing Bugs for OpenSpark"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#262",
+      "time": "2024-12-19T16:47:28Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/262",
+      "text": "created a new t2.medium instance for testing beckn-onix using branch beckn-onix-v0.5 features/improvements and did DNS & Nginx configuration for testing it using Postman"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#261",
+      "time": "2024-12-19T13:06:35Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/261",
+      "text": "Level One Documentation for Trust Layer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#260",
+      "time": "2024-12-19T13:05:59Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/260",
+      "text": "Create Flow Diagram for Trust Layer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#259",
+      "time": "2024-12-19T13:04:37Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/259",
+      "text": "Daily Sync-Up Call with Open Volunteering (Week of Dec 9)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/reference-sandbox#3",
+      "time": "2024-12-19T13:10:31Z",
+      "link": "https://github.com/beckn/reference-sandbox/issues/3",
+      "text": "Testing for Enabling GenAI Sandbox for DHP Pharmacy"
     }
   ],
   "open_prs": [],
