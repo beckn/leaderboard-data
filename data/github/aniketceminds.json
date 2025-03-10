@@ -2387,6 +2387,979 @@
       "time": "2024-12-17T18:27:07Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2786",
       "text": "feat(open-spark): modified code to add update trade api"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#268",
+      "time": "2025-01-20T13:14:17Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/268",
+      "text": "Render Offer Catalogues & ordering process in  Pass Culture Application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3446",
+      "time": "2025-03-10T05:33:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3446",
+      "text": "Peer-to-Peer OpenSpark Trade App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3445",
+      "time": "2025-03-10T05:33:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3445",
+      "text": "Winroom: Bug Fixes for Spark App (10th Mar to 13th Mar)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3388",
+      "time": "2025-03-04T05:34:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3388",
+      "text": "Winroom: Bug Fixes for Spark App (3rd Mar to 5th Mar)  "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3387",
+      "time": "2025-03-04T05:23:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3387",
+      "text": "Winroom: Bug Fixes for Spark App (28th Feb)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3128",
+      "time": "2025-02-07T06:36:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3128",
+      "text": "Set Up New Wallet App: Initialize Project in DEV Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3127",
+      "time": "2025-02-07T06:36:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3127",
+      "text": "Connect with Umang for Design and Flow Understanding | Wallet App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3126",
+      "time": "2025-02-07T06:35:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3126",
+      "text": "Review Venky's Video on DID Beckn One Flow for Understanding"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3111",
+      "time": "2025-02-03T07:26:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3111",
+      "text": "Openspark v2 - Add UI changes to My cred, My Trades, Trade details page as per Figma"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3110",
+      "time": "2025-02-03T07:24:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3110",
+      "text": "Openspark v2 - Add new page for My Preferences"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3109",
+      "time": "2025-02-03T07:24:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3109",
+      "text": "Openspark v2 - Add UI changes to Buy, Sell Energy Page as Per Figma"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2933",
+      "time": "2025-01-08T05:38:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2933",
+      "text": "Cypress E2E Test Cases for OrderHistory Page - Sky Analytics"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2932",
+      "time": "2025-01-08T05:37:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2932",
+      "text": "Cypress E2E Test Cases for OrderConfirmation Page - Sky Analytics"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2906",
+      "time": "2025-01-06T12:16:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2906",
+      "text": "Cypress E2E Test Cases for Checkout Page - Sky Analytics"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2905",
+      "time": "2025-01-06T12:15:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2905",
+      "text": "Cypress E2E Test Cases for Payment Page - Sky Analytics"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2904",
+      "time": "2025-01-06T12:15:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2904",
+      "text": "Cypress E2E Test Cases for Cart Page - Sky Analytics"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2903",
+      "time": "2025-01-06T12:15:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2903",
+      "text": "Cypress E2E Test Cases for Product Page - Sky Analytics"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2901",
+      "time": "2025-01-06T12:11:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2901",
+      "text": "Cypress E2E Test Cases for Home Page - Sky Analytics"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2870",
+      "time": "2025-01-03T08:20:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2870",
+      "text": "Cypress E2E Test Cases for Auth Page - Sky Analytics"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2867",
+      "time": "2025-01-02T12:50:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2867",
+      "text": "Cypress E2E Test Cases for Search Page - Sky Analytics"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2866",
+      "time": "2025-01-02T12:47:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2866",
+      "text": "Open Spark App Release Note"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2754",
+      "time": "2024-12-31T07:36:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2754",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2863",
+      "time": "2025-01-02T04:46:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2863",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2864",
+      "time": "2025-01-13T05:28:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2864",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2869",
+      "time": "2025-01-03T11:10:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2869",
+      "text": "feat(sky-analytics): added tests for search and auth page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2898",
+      "time": "2025-01-06T09:25:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2898",
+      "text": "fix(open-spark): fixes error handling & editing buy/sell pref. page h…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2902",
+      "time": "2025-01-06T12:15:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2902",
+      "text": "feat(open-spark): added tests for home page of sky analytics"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2908",
+      "time": "2025-01-06T13:08:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2908",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2910",
+      "time": "2025-01-07T10:56:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2910",
+      "text": "feat(sky-analytics): added tests for product details page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2911",
+      "time": "2025-01-07T11:38:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2911",
+      "text": "feat(sky-analytics): added tests for cart page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2930",
+      "time": "2025-01-08T05:10:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2930",
+      "text": "feat(sky-analytics): added tests for checkout page and mock data fo i…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2931",
+      "time": "2025-01-08T05:13:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2931",
+      "text": "feat(sky-analytics): added tests for payment page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2935",
+      "time": "2025-01-09T06:08:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2935",
+      "text": "feat(sky-analytics): added tests for orderConfim. and history"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2944",
+      "time": "2025-01-09T04:26:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2944",
+      "text": "fix(open-spark): fix code to get the utilities company from server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2948",
+      "time": "2025-01-09T06:51:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2948",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2951",
+      "time": "2025-01-09T09:18:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2951",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2960",
+      "time": "2025-01-10T06:14:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2960",
+      "text": "fix(open-spark): fixed issues of admin dashb. & cred UI fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#2966",
+      "time": "2025-01-13T08:25:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
+      "text": "Cypress amplify testing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2967",
+      "time": "2025-01-13T09:20:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2967",
+      "text": "feat(open-spark): modified code to add info icon for externl link in …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2968",
+      "time": "2025-01-13T09:21:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2968",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2970",
+      "time": "2025-01-15T04:18:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2970",
+      "text": "fix(open-spark): modified external info url in headers component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2973",
+      "time": "2025-01-15T05:59:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2973",
+      "text": "fix(open-spark): modified code in dashboard css fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2974",
+      "time": "2025-01-15T06:57:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2974",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3009",
+      "time": "2025-01-21T12:04:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3009",
+      "text": "feat(retail): modified the retail app name to open commerce"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3020",
+      "time": "2025-01-21T15:30:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3020",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3021",
+      "time": "2025-01-21T15:46:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3021",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3023",
+      "time": "2025-01-21T17:21:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3023",
+      "text": "fix(retail): modified ocde to handle external url order details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3024",
+      "time": "2025-01-22T04:47:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3024",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3025",
+      "time": "2025-01-22T05:41:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3025",
+      "text": "fix(retail): fixed price calc issue in payment details section"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3026",
+      "time": "2025-01-22T05:42:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3026",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3027",
+      "time": "2025-01-22T09:10:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3027",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3076",
+      "time": "2025-01-27T14:01:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3076",
+      "text": "feat(open-spark-admin): project setup for admin portal open-spark"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3078",
+      "time": "2025-01-30T05:55:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3078",
+      "text": "feat(open-spark): chnges for enhnc. of single login/register for all …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3102",
+      "time": "2025-02-03T09:34:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3102",
+      "text": "fix(open-spark): modified code to merge dahboard for prosumer and con…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3112",
+      "time": "2025-02-03T11:20:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3112",
+      "text": "feat(open-spark): modified code for enhancement of dashboard for buy …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3114",
+      "time": "2025-02-03T12:28:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3114",
+      "text": "feat(open-spark-admin): modified code of login screen of admin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3115",
+      "time": "2025-02-04T05:38:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3115",
+      "text": "fix(open-spark-admin): modified code to handle login with new API for…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3116",
+      "time": "2025-02-04T07:15:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3116",
+      "text": "fix(open-spark-admin): modified code to fix profile APIs and auth fix…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3120",
+      "time": "2025-02-04T12:35:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3120",
+      "text": "feat(open-spark): add screens for My Fund related pages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3122",
+      "time": "2025-02-05T05:31:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3122",
+      "text": "fix(open-spark): modified code to fix dashbord data fetch call"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3123",
+      "time": "2025-02-05T14:15:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3123",
+      "text": "fix(open-spark): modified code to add withdrawal flow screens"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3133",
+      "time": "2025-02-10T03:58:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3133",
+      "text": "feat(unified-wallet): init project & added screens for Assets, transa…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3136",
+      "time": "2025-02-10T10:25:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3136",
+      "text": "feat(unified-wallet): modifiec code to add sub screens for wallet, tr…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3137",
+      "time": "2025-02-11T05:35:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3137",
+      "text": "feat(unified-wallet): modified code to add re-usable Catalogue compon…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3153",
+      "time": "2025-02-13T04:27:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3153",
+      "text": "feat(unified-wallet): modified code to add api integration add doc"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3158",
+      "time": "2025-02-13T10:03:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3158",
+      "text": "feat(unified-wallet): modified code to integrate upload cred, phyical…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3161",
+      "time": "2025-02-13T17:46:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3161",
+      "text": "feat(unified-wallet): modified code to add api integration of my cred…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3162",
+      "time": "2025-02-14T06:20:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3162",
+      "text": "feat(unified-wallet): modified code to integrte fetch transaction api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3163",
+      "time": "2025-02-14T09:39:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3163",
+      "text": "fix(unified-wallet): modified code to clear form data while create ne…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3164",
+      "time": "2025-02-14T10:16:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3164",
+      "text": "fix(unified-wallet): removed energy assets option from my assets page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3174",
+      "time": "2025-02-16T06:11:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3174",
+      "text": "feat(open-spark): modified code to add api itegration of connect wallet"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3178",
+      "time": "2025-02-16T13:44:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3178",
+      "text": "fix(unified-wallet): rendered transactions with new deisgns"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3179",
+      "time": "2025-02-16T17:18:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3179",
+      "text": "fix(unified-wallet): modified code to add attesttaion data handling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3183",
+      "time": "2025-02-17T11:17:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3183",
+      "text": "fix(open-spark): modified code to fix bugs in rental service, search"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3185",
+      "time": "2025-02-17T12:24:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3185",
+      "text": "fix(unified-wallet): modified code to fix bug for cred renderer items"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3187",
+      "time": "2025-02-17T14:21:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3187",
+      "text": "fix(open-spark): modified code to fix product details page data hndling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3189",
+      "time": "2025-02-17T18:14:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3189",
+      "text": "fix(unified-wallet): modified code to fix order details render"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3204",
+      "time": "2025-02-18T07:45:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3204",
+      "text": "fix: modified code to fix bugs in order flow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3205",
+      "time": "2025-02-18T08:16:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3205",
+      "text": "fix(open-spark-search-rental): modified code to add chnges for order …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3206",
+      "time": "2025-02-18T10:53:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3206",
+      "text": "feat(open-spark): modified code to add new consumer flow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3208",
+      "time": "2025-02-18T13:01:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3208",
+      "text": "fix(unified-wallet): modified code to fix ehancemnet chnge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3211",
+      "time": "2025-02-18T15:15:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3211",
+      "text": "fix(open-spark): modified code to fix the enhacemnet and ui chnges"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3213",
+      "time": "2025-02-18T17:12:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3213",
+      "text": "fix(unified-wallet): bug fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3214",
+      "time": "2025-02-18T19:18:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3214",
+      "text": "fix(open-spark): added order details page for all the orders"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3216",
+      "time": "2025-02-18T20:17:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3216",
+      "text": "fix(open-spark-solaris): modified code to fix rental services flow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3218",
+      "time": "2025-02-18T23:37:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3218",
+      "text": "fix(open-spark): modified code to fix place order flow with EMI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3220",
+      "time": "2025-02-19T05:35:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3220",
+      "text": "fix(open-spark): modified code to add confirm api in emi form submit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3222",
+      "time": "2025-02-19T05:54:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3222",
+      "text": "fix(open-spark): modified css and layout of cart items"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3225",
+      "time": "2025-02-19T08:13:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3225",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3226",
+      "time": "2025-02-19T08:16:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3226",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3227",
+      "time": "2025-02-19T08:44:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3227",
+      "text": "fix(open-spark): modified code to fix catalogue rendeirng"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3228",
+      "time": "2025-02-19T08:45:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3228",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3229",
+      "time": "2025-02-19T08:46:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3229",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3230",
+      "time": "2025-02-19T09:17:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3230",
+      "text": "fix(open-spark): fix logout issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3231",
+      "time": "2025-02-19T09:18:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3231",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3237",
+      "time": "2025-02-21T07:57:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3237",
+      "text": "fix: modified code of becknified comp product-card"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3238",
+      "time": "2025-02-21T07:57:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3238",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3239",
+      "time": "2025-02-21T07:58:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3239",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3240",
+      "time": "2025-02-21T08:51:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3240",
+      "text": "fix: payment breakup fix if no breakup show total cost"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3241",
+      "time": "2025-02-21T08:52:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3241",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3242",
+      "time": "2025-02-21T09:45:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3242",
+      "text": "fix(unified-wallet): modified code to add upload file api integration…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3243",
+      "time": "2025-02-21T09:45:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3243",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3252",
+      "time": "2025-02-25T07:08:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3252",
+      "text": "fix: common component searchAndDiscover code chnges to make it flexible"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3253",
+      "time": "2025-02-25T07:14:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3253",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3254",
+      "time": "2025-02-25T07:15:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3254",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3264",
+      "time": "2025-02-25T14:43:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3264",
+      "text": "fix(open-spark): modified code to fix enhancement chnges and bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3265",
+      "time": "2025-02-25T15:00:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3265",
+      "text": "fix(unified-wallet): modified code to chnge loader msg of fetcing emis"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3266",
+      "time": "2025-02-25T17:59:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3266",
+      "text": "fix(unified-wallet): modifed ocde to fix order placing with timestamp…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3331",
+      "time": "2025-02-27T03:26:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3331",
+      "text": "fix(unified-wallet): modified code to fix datetime issue in all docum…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3332",
+      "time": "2025-02-27T05:52:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3332",
+      "text": "fix(open-spark): modifed code to fix dattime issue and payment round off"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3346",
+      "time": "2025-02-28T05:53:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3346",
+      "text": "fix(lean-ease): modified code to add logout func"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3347",
+      "time": "2025-02-28T05:54:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3347",
+      "text": "fix(unified-wallet): modified code to add validation for url field in…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3351",
+      "time": "2025-02-28T06:23:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3351",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3352",
+      "time": "2025-02-28T06:24:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3352",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3360",
+      "time": "2025-02-28T11:55:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3360",
+      "text": "fix(open-spark): modified code to fix payment calc and added validt t…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3363",
+      "time": "2025-02-28T14:29:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3363",
+      "text": "fix(open-spark): modified code to fix total amt of order in history"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3365",
+      "time": "2025-03-03T08:55:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3365",
+      "text": "fix(unified-wallet): modified code to fix time issue in doc and payment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3366",
+      "time": "2025-03-03T11:17:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3366",
+      "text": "fix(unified-wallet): fixed minor issues in wallet transaction sction"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3369",
+      "time": "2025-03-03T13:09:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3369",
+      "text": "fix(open-spark): modified code to fix finance confirm api issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3403",
+      "time": "2025-03-04T15:48:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3403",
+      "text": "fix(unified-wallet): modified code in order details page app crashing…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3404",
+      "time": "2025-03-04T17:27:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3404",
+      "text": "fix(unified-wallet): modified code to correct calc of payment in orde…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3413",
+      "time": "2025-03-05T08:24:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3413",
+      "text": "fix(open-spark): modified code to fix loan amout missmatch issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3414",
+      "time": "2025-03-05T10:38:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3414",
+      "text": "fix(open-spark): modidfied code to fix order confirm payment issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3427",
+      "time": "2025-03-09T06:37:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3427",
+      "text": "fix(unified-wallet): modified code to fix date in physicl assets doc"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3428",
+      "time": "2025-03-10T11:36:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3428",
+      "text": "feat(open-spark-p2p): initialize the peer to peer openspark app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3429",
+      "time": "2025-03-09T09:41:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3429",
+      "text": "fix(unified-wallet): modified code to fix date formater in connections"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3430",
+      "time": "2025-03-09T09:43:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3430",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3431",
+      "time": "2025-03-09T09:57:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3431",
+      "text": "fix(unified-wallet): owner details issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3444",
+      "time": "2025-03-10T05:24:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3444",
+      "text": "fix(open-spark-solaris): modified code to filter out the vault assets"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#223",
+      "time": "2025-01-21T04:25:22Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/223",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#224",
+      "time": "2025-01-21T04:25:50Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/224",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#230",
+      "time": "2025-01-30T09:27:31Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/230",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#231",
+      "time": "2025-01-30T09:27:57Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/231",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#233",
+      "time": "2025-01-31T05:54:14Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/233",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#234",
+      "time": "2025-01-31T06:01:38Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/234",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#237",
+      "time": "2025-02-19T09:19:31Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/237",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#238",
+      "time": "2025-02-19T09:20:21Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/238",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#240",
+      "time": "2025-02-19T10:22:21Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/240",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#241",
+      "time": "2025-02-19T10:23:14Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/241",
+      "text": "Staging 1.1.0"
     }
   ],
   "open_prs": [],

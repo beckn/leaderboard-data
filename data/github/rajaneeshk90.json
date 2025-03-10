@@ -1799,6 +1799,251 @@
       "time": "2024-12-10T13:08:34Z",
       "link": "https://github.com/beckn/beckn-onix/issues/303",
       "text": "Volunteers: Architecture Diagram: changes in the level0 and level1 documents based on the change in the scope"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#259",
+      "time": "2025-03-10T05:10:06Z",
+      "link": "https://github.com/beckn/missions/issues/259",
+      "text": "Missions and Protocol specification: Issues, PRs, Bugs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#253",
+      "time": "2025-03-06T17:15:12Z",
+      "link": "https://github.com/beckn/missions/issues/253",
+      "text": "Review existing PRs raised by community in missions git repository, merge"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#252",
+      "time": "2025-03-06T15:02:16Z",
+      "link": "https://github.com/beckn/missions/issues/252",
+      "text": "Fix: Broken links, typos, example errors in missions git repo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#250",
+      "time": "2025-03-06T07:10:24Z",
+      "link": "https://github.com/beckn/missions/issues/250",
+      "text": "Close pending PRs in protocol specification repository"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#249",
+      "time": "2025-03-06T05:30:16Z",
+      "link": "https://github.com/beckn/missions/issues/249",
+      "text": "Generic implementation guide covering all the scenarios that can occur in a Beckn transaction"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#248",
+      "time": "2025-03-06T04:07:22Z",
+      "link": "https://github.com/beckn/missions/issues/248",
+      "text": "Layer2 configs in openAPI version 3.1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#242",
+      "time": "2025-03-04T05:05:45Z",
+      "link": "https://github.com/beckn/missions/issues/242",
+      "text": "UKI: winroom support for example JSON doubts on scheme discovery use case"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#241",
+      "time": "2025-03-04T04:50:27Z",
+      "link": "https://github.com/beckn/missions/issues/241",
+      "text": "UKI: Improve discovery of schemes and benefits"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#235",
+      "time": "2025-02-19T05:15:29Z",
+      "link": "https://github.com/beckn/missions/issues/235",
+      "text": "UKI: Split knowledge advisory implementation guide into 4 sub guides: add details in the new guides"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#230",
+      "time": "2025-02-14T04:22:00Z",
+      "link": "https://github.com/beckn/missions/issues/230",
+      "text": "UKI: Improve discovery of scheme/benefit eligibility: internal ticket"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#229",
+      "time": "2025-02-14T04:21:53Z",
+      "link": "https://github.com/beckn/missions/issues/229",
+      "text": "UEI: Mission: Labotek, Nunam"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#228",
+      "time": "2025-02-13T06:21:33Z",
+      "link": "https://github.com/beckn/missions/issues/228",
+      "text": "UEI: Solar rooftop installation use case NP setup and JSONs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#226",
+      "time": "2025-02-11T17:22:44Z",
+      "link": "https://github.com/beckn/missions/issues/226",
+      "text": "UKI: improve existing implementation guides based on the JSON payload shared by NPs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#225",
+      "time": "2025-02-11T17:22:35Z",
+      "link": "https://github.com/beckn/missions/issues/225",
+      "text": "UKI: Split knowledge advisory implementation guide into 4 sub guides"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#223",
+      "time": "2025-02-05T05:57:46Z",
+      "link": "https://github.com/beckn/missions/issues/223",
+      "text": "UKI : Improve discovery of scheme/benefit eligibility Iteration ticket"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#217",
+      "time": "2025-01-22T08:52:57Z",
+      "link": "https://github.com/beckn/missions/issues/217",
+      "text": "UKI : Improve discovery of scheme/benefit eligibility-Internal"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#216",
+      "time": "2025-01-22T08:32:37Z",
+      "link": "https://github.com/beckn/missions/issues/216",
+      "text": "P2P Energy Trading: Discussion and Documentation of a new flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#215",
+      "time": "2025-01-21T14:45:26Z",
+      "link": "https://github.com/beckn/missions/issues/215",
+      "text": "P2P Energy Trade: Flow document, visulaization, open points"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#203",
+      "time": "2024-12-10T13:17:24Z",
+      "link": "https://github.com/beckn/missions/issues/203",
+      "text": "UPPCL: Changes in the Documentation of the new Observability Layer endpoints  created"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#186",
+      "time": "2024-11-26T17:08:28Z",
+      "link": "https://github.com/beckn/missions/issues/186",
+      "text": "Implementation guide for UPPCL: P2P energy trading version 1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#227",
+      "time": "2025-02-13T06:17:48Z",
+      "link": "https://github.com/beckn/missions/pull/227",
+      "text": "initial draft of the layer2 configuration for p2p energy trade"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#237",
+      "time": "2025-02-24T05:04:16Z",
+      "link": "https://github.com/beckn/missions/pull/237",
+      "text": "Ragav uai implementation guide branch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#238",
+      "time": "2025-02-24T08:40:09Z",
+      "link": "https://github.com/beckn/missions/pull/238",
+      "text": "updating the weather data use case as per the NP requirements in UAI …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#244",
+      "time": "2025-03-05T10:12:22Z",
+      "link": "https://github.com/beckn/missions/pull/244",
+      "text": "UEI: EV charging use case: Layer2 config in openAPI 3.1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#245",
+      "time": "2025-03-05T10:21:29Z",
+      "link": "https://github.com/beckn/missions/pull/245",
+      "text": "Ragav uai implementation guide branch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#251",
+      "time": "2025-03-06T14:50:39Z",
+      "link": "https://github.com/beckn/missions/pull/251",
+      "text": "Layer2 configs 3.1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#254",
+      "time": "2025-03-07T12:16:46Z",
+      "link": "https://github.com/beckn/missions/pull/254",
+      "text": "Agriculture: Retail use case layer2 config in openAPI 3.1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#255",
+      "time": "2025-03-07T12:27:34Z",
+      "link": "https://github.com/beckn/missions/pull/255",
+      "text": "fixing example jsons context in UAI and UEI implementation guides"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#439",
+      "time": "2025-01-08T15:56:44Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/439",
+      "text": "Core v1.1.1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#406",
+      "time": "2025-02-25T13:01:31Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/406",
+      "text": "Create Layer2 config in OpenAPI 3.1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#349",
+      "time": "2025-01-13T12:24:05Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/349",
+      "text": "Layer2 configuration for UPPCL P2P energy trading"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#304",
+      "time": "2024-12-10T13:22:11Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/304",
+      "text": "Volunteers: Internal review of the level2 architecture: API specification "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#303",
+      "time": "2024-12-10T13:08:34Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/303",
+      "text": "Volunteers: Architecture Diagram: changes in the level0 and level1 documents based on the change in the scope"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#265",
+      "time": "2025-01-15T04:51:08Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/265",
+      "text": "Review existing PRs on Protocol specification Github repository"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3382",
+      "time": "2025-03-04T04:52:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3382",
+      "text": "Solar Panel Service discovery: Example JSON, discussions and calls"
     }
   ],
   "open_prs": [],

@@ -5859,6 +5859,1357 @@
       "time": "2024-12-19T13:10:31Z",
       "link": "https://github.com/beckn/reference-sandbox/issues/3",
       "text": "Testing for Enabling GenAI Sandbox for DHP Pharmacy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#240",
+      "time": "2025-02-26T10:29:11Z",
+      "link": "https://github.com/beckn/missions/issues/240",
+      "text": "Support Participants in Winroom for UKI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#239",
+      "time": "2025-02-26T10:27:50Z",
+      "link": "https://github.com/beckn/missions/issues/239",
+      "text": "Support Participants in Winroom for UKI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#236",
+      "time": "2025-02-21T08:44:09Z",
+      "link": "https://github.com/beckn/missions/issues/236",
+      "text": "Update Starter Kit / Troubleshooting guide based on new release : Beckn ONIX"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#222",
+      "time": "2025-01-24T08:20:27Z",
+      "link": "https://github.com/beckn/missions/issues/222",
+      "text": "Add Machine Configuration in starter kit"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#218",
+      "time": "2025-01-22T09:44:06Z",
+      "link": "https://github.com/beckn/missions/issues/218",
+      "text": "UEI : Implementation Guide for Demand notes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#212",
+      "time": "2025-01-15T07:51:55Z",
+      "link": "https://github.com/beckn/missions/issues/212",
+      "text": "Add telemetry specification  & sample configuration in Beckn starter kit"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#210",
+      "time": "2025-01-08T08:00:29Z",
+      "link": "https://github.com/beckn/missions/issues/210",
+      "text": "Implementation Guide review & update"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#209",
+      "time": "2025-01-07T09:15:46Z",
+      "link": "https://github.com/beckn/missions/issues/209",
+      "text": "Weekly mission update"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#208",
+      "time": "2025-01-07T09:12:50Z",
+      "link": "https://github.com/beckn/missions/issues/208",
+      "text": "Tech Support For Mission"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#405",
+      "time": "2025-02-21T08:53:20Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/405",
+      "text": "Test End-to-End Beckn ONIX After the New Release"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#329",
+      "time": "2024-12-19T13:35:05Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/329",
+      "text": "End-to-End QA of Beckn Onix from beckn-onix-v0.5 Branch"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#328",
+      "time": "2024-12-19T13:32:54Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/328",
+      "text": "Create Release Note and Prepare for Release of Beckn-Onix v0.5"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#283",
+      "time": "2024-08-21T05:40:41Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/283",
+      "text": "Beckn Onix: Network observability dashboard for Beckn - Product Requirements ver 0.3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#308",
+      "time": "2025-02-21T08:14:45Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/308",
+      "text": "Beckn onix v0.5"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-sandbox#42",
+      "time": "2024-12-19T13:12:44Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/42",
+      "text": "Testing for Enabling GenAI Sandbox for DHP Pharmacy"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-sandbox#41",
+      "time": "2024-12-19T13:11:24Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/41",
+      "text": "Testing for Enabling GenAI Sandbox for Vistar"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-sandbox#40",
+      "time": "2024-12-19T13:11:17Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/40",
+      "text": "Testing for Enabling GenAI Sandbox for UEI: EV"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-sandbox#39",
+      "time": "2024-12-19T13:11:07Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/39",
+      "text": "Testing for Enabling GenAI Sandbox for ODR"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-sandbox#38",
+      "time": "2024-12-19T13:10:56Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/38",
+      "text": "Testing for Enabling GenAI Sandbox for Industry 4.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-sandbox#37",
+      "time": "2024-12-19T13:10:16Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/37",
+      "text": "Testing for Enabling GenAI Sandbox for DHP Diagnostics"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-sandbox#26",
+      "time": "2024-10-10T09:54:54Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/26",
+      "text": "Dynamic Catalog generation for Sandbox using Generative AI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-sandbox#20",
+      "time": "2024-09-02T05:18:17Z",
+      "link": "https://github.com/beckn/beckn-sandbox/issues/20",
+      "text": "CMS/Dynamic Sandbox V2.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#272",
+      "time": "2025-03-09T10:06:15Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/272",
+      "text": "Explore & Perform a POC using YaCy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#266",
+      "time": "2025-01-15T08:03:39Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/266",
+      "text": "Reference Application : Go-Live Open spark V2"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#264",
+      "time": "2025-01-09T13:26:38Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/264",
+      "text": "Repository cleanup & readme update"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#263",
+      "time": "2025-01-08T08:10:44Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/263",
+      "text": "Run the Pass Culture Application on Local Machine"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#262",
+      "time": "2024-12-19T16:47:28Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/262",
+      "text": "created a new t2.medium instance for testing beckn-onix using branch beckn-onix-v0.5 features/improvements and did DNS & Nginx configuration for testing it using Postman"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#259",
+      "time": "2024-12-19T13:04:37Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/259",
+      "text": "Daily Sync-Up Call with Open Volunteering (Week of Dec 9)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#139",
+      "time": "2024-09-04T15:59:26Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/139",
+      "text": "Approach document review for Sandbox2.0 mocking"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#129",
+      "time": "2024-08-21T05:40:23Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/129",
+      "text": "CMS/Dynamic Sandbox V2.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#250",
+      "time": "2025-03-10T05:42:21Z",
+      "link": "https://github.com/beckn/protocol-server/issues/250",
+      "text": "Create a sample UI implementing 2 search APIs (Protocol Server & GCL) for PS-Search API Enhancement"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#248",
+      "time": "2025-03-05T12:23:57Z",
+      "link": "https://github.com/beckn/protocol-server/issues/248",
+      "text": "Protocol Server Latency Optimization - Code changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#247",
+      "time": "2025-03-04T06:40:06Z",
+      "link": "https://github.com/beckn/protocol-server/issues/247",
+      "text": "Protocol Server : Search Optimization"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#246",
+      "time": "2025-03-04T06:37:10Z",
+      "link": "https://github.com/beckn/protocol-server/issues/246",
+      "text": "Protocol Server Review for Optimization"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#245",
+      "time": "2025-02-26T10:11:17Z",
+      "link": "https://github.com/beckn/protocol-server/issues/245",
+      "text": "Protocol Server Latency Optimization - Approach Note"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-10T06:03:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448",
+      "text": "Identify and Validate Changes in Strapi for Dynamic Price & Tax Calculation in Price Breakup"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3436",
+      "time": "2025-03-09T10:18:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3436",
+      "text": "Winroom: Bug Fixes for Spark App (5th Mar & 7th Mar)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3435",
+      "time": "2025-03-09T10:16:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3435",
+      "text": "Winroom: Bug Fixes for Spark App (3rd Mar to 7th Mar)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3434",
+      "time": "2025-03-09T10:15:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3434",
+      "text": "User Guide Creation for Energy App - Spark, Solaris, Vault, Lendeasae"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3433",
+      "time": "2025-03-09T10:13:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3433",
+      "text": "Winroom: Bug Fixes for Spark App (3rd Mar to 6th Mar)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3432",
+      "time": "2025-03-09T10:08:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3432",
+      "text": "Winroom: Bug Fixes for Spark App (3rd Mar to 7th Mar)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3391",
+      "time": "2025-03-04T06:29:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3391",
+      "text": "Reference Application : Experience center enhancement v1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3358",
+      "time": "2025-02-28T11:03:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3358",
+      "text": "Architecture for building a tool Beckn BAP and BPP apps "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3357",
+      "time": "2025-02-28T10:53:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3357",
+      "text": "Reference Application : Seller App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3344",
+      "time": "2025-02-27T09:03:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3344",
+      "text": "Approach Note for New Authentication Method"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3343",
+      "time": "2025-02-27T08:56:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3343",
+      "text": "Lend ease : Login endpoint setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3342",
+      "time": "2025-02-27T08:54:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3342",
+      "text": "Lendease: Get Catalogue by Category Endpoint"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3340",
+      "time": "2025-02-27T06:47:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3340",
+      "text": "Winroom (18th - 19th Feb) - Energy Demo: Developer Participation & Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3339",
+      "time": "2025-02-27T06:46:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3339",
+      "text": "Winroom (18th - 19th Feb) - Energy Demo: Developer Participation & Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3338",
+      "time": "2025-02-27T06:46:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3338",
+      "text": "Winroom (18th - 19th Feb) - Energy Demo: Developer Participation & Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3337",
+      "time": "2025-02-27T06:46:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3337",
+      "text": "Winroom (17th - 19th Feb) - Energy Demo: Developer Participation & Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3336",
+      "time": "2025-02-27T06:46:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3336",
+      "text": "Winroom (18th - 19th Feb) - Energy Demo: Developer Participation & Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3335",
+      "time": "2025-02-27T06:39:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3335",
+      "text": "Implement Mobile Number & OTP-Based Login and Update Signup Form with API Integration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3334",
+      "time": "2025-02-27T06:25:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3334",
+      "text": "Figma Screen for Mobile Number & OTP-Based Login and Updated Signup Form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3333",
+      "time": "2025-02-27T06:18:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3333",
+      "text": "Add Support in Strapi for Login / Signup using OTP  "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3330",
+      "time": "2025-02-26T18:22:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3330",
+      "text": "Vault App  - UI/UX screen development"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3329",
+      "time": "2025-02-26T18:20:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3329",
+      "text": "Lendease App  - UI/UX screen development"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3328",
+      "time": "2025-02-26T18:17:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3328",
+      "text": "Solaris App  - UI/UX screen development"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3327",
+      "time": "2025-02-26T18:15:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3327",
+      "text": "Spark App  - UI/UX screen development"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3326",
+      "time": "2025-02-26T18:10:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3326",
+      "text": "End to end testing of lendease application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3325",
+      "time": "2025-02-26T17:54:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3325",
+      "text": "End to end testing of vault application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3324",
+      "time": "2025-02-26T17:52:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3324",
+      "text": "End to end testing of solaris application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3323",
+      "time": "2025-02-26T17:49:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3323",
+      "text": "End to end testing of spark application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3322",
+      "time": "2025-02-26T17:46:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3322",
+      "text": "Create testcase for Lendease Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3321",
+      "time": "2025-02-26T17:45:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3321",
+      "text": "Create testcase for Vault Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3320",
+      "time": "2025-02-26T17:43:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3320",
+      "text": "Create testcase for Solaris Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3319",
+      "time": "2025-02-26T17:41:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3319",
+      "text": "Create testcase for Spark Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3318",
+      "time": "2025-02-26T17:36:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3318",
+      "text": "Vault : Deploy Application to all three environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3317",
+      "time": "2025-02-26T17:35:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3317",
+      "text": "Lendease : Deploy Application to all three environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3316",
+      "time": "2025-02-26T17:35:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3316",
+      "text": "Solaris : Deploy Application to all three environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3315",
+      "time": "2025-02-26T17:35:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3315",
+      "text": "Spark : Deploy Application to all three environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3314",
+      "time": "2025-02-26T17:26:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3314",
+      "text": "Feedback: Spark App : Implement Caching for Search Results"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3313",
+      "time": "2025-02-26T17:23:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3313",
+      "text": "Create Experience Page for Energy demo"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3312",
+      "time": "2025-02-26T17:21:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3312",
+      "text": "Energy Demo: Implement Feedback & Changes from First Review - Spark Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3311",
+      "time": "2025-02-26T17:03:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3311",
+      "text": "Energy Demo: Implement Feedback & Changes from First Review"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3310",
+      "time": "2025-02-26T16:55:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3310",
+      "text": "Spark App - Provide Rental Service - My Services (My Catalogue)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3309",
+      "time": "2025-02-26T16:43:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3309",
+      "text": "Spark App - Provide Rental Service - Forms & API Integration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3308",
+      "time": "2025-02-26T16:40:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3308",
+      "text": "Spark App - Provide Rental Service - Import Batteries from Wallet"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3307",
+      "time": "2025-02-26T16:26:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3307",
+      "text": "Wallet : My Connections- Get My Connections & API Integration "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3306",
+      "time": "2025-02-26T16:21:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3306",
+      "text": "Wallet: My Assets - Get My Assets & API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3305",
+      "time": "2025-02-26T16:12:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3305",
+      "text": "Wallet: Get My Transactions & API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3304",
+      "time": "2025-02-26T16:07:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3304",
+      "text": "Wallet: My Profile & API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3303",
+      "time": "2025-02-26T16:01:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3303",
+      "text": "Wallet: Add new Assets (Add new document) - API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3302",
+      "time": "2025-02-26T15:24:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3302",
+      "text": "Wallet: Add new connections (Add new document) - API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3301",
+      "time": "2025-02-26T15:10:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3301",
+      "text": "Wallet : Homepage with Navigation to Key Sections"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3300",
+      "time": "2025-02-26T15:06:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3300",
+      "text": "Wallet: Implement Function to Create Subject in one.BecknProtocol.io"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3299",
+      "time": "2025-02-26T15:03:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3299",
+      "text": "Wallet: Public - Private key generation using phone & Storing in state [Internally]"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3298",
+      "time": "2025-02-26T15:00:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3298",
+      "text": "Wallet: Sign in with Phone, OTP - UI Screen"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3297",
+      "time": "2025-02-26T14:55:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3297",
+      "text": "Spark App - Retail Flow - Add Battery to the Wallet"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3296",
+      "time": "2025-02-26T14:23:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3296",
+      "text": "Spark App - My Rental Service & API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3295",
+      "time": "2025-02-26T14:21:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3295",
+      "text": "Spark App - Rental Service - Detail Page, Slot & Order Confirmation & API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3294",
+      "time": "2025-02-26T14:17:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3294",
+      "text": "Spark App - Rental Service Search & API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3293",
+      "time": "2025-02-26T14:14:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3293",
+      "text": "Spark App - Rental Service Homepage"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3292",
+      "time": "2025-02-26T14:07:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3292",
+      "text": "Spark App - Create Catalogue for Battery Financing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3291",
+      "time": "2025-02-26T14:04:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3291",
+      "text": "Spark App - Create Catalogue for Renting Battery (Test Only)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3290",
+      "time": "2025-02-26T14:02:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3290",
+      "text": "Spark App - Create Catalogue for Retail Batteries"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3289",
+      "time": "2025-02-26T13:22:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3289",
+      "text": "Spark App - Postman Collection for Battery Financing Flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3288",
+      "time": "2025-02-26T13:20:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3288",
+      "text": "Spark App- Create New Endpoint to List User's Catalogue (for Battery Renting)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3287",
+      "time": "2025-02-26T13:19:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3287",
+      "text": "Spark App - Create New Endpoint to Publish Catalogue for Renting Battery"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3286",
+      "time": "2025-02-26T13:17:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3286",
+      "text": "Spark App - Code Changes in on_search for EMI Plan Based on Input Amount"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3285",
+      "time": "2025-02-26T13:12:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3285",
+      "text": "Spark App  - Create API Endpoint to Upload Documents and Return Public URL"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3284",
+      "time": "2025-02-26T13:11:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3284",
+      "text": "Vault : Sample API Payload for fetching Battery from Wallet"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3283",
+      "time": "2025-02-26T13:08:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3283",
+      "text": "Spark App - Create Postman Collection for Retail Battery Flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3282",
+      "time": "2025-02-26T13:07:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3282",
+      "text": "Spark App - Changes Required in Select to accept Date and Timeslot for Battery Renting"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3281",
+      "time": "2025-02-26T13:06:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3281",
+      "text": "Spark App - Code Change in Search for Accepting Existing Battery Income for Better Interest"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3280",
+      "time": "2025-02-26T13:04:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3280",
+      "text": "Energy Demo: Implement Feedback & Changes from First Review"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3279",
+      "time": "2025-02-26T12:58:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3279",
+      "text": "Sample Payload for Adding Order Transactions to Wallet"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3278",
+      "time": "2025-02-26T12:55:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3278",
+      "text": "Sample Payload for Adding Battery (New Purchase) to Wallet"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3277",
+      "time": "2025-02-26T12:50:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3277",
+      "text": "OpenSpark v2 - Get My Profile with Profile & Wallet Detail"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3276",
+      "time": "2025-02-26T10:58:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3276",
+      "text": "Spark App - Endpoint to Link Wallet ID to the profile"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3275",
+      "time": "2025-02-26T10:57:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3275",
+      "text": "Spark App - Signup Endpoint (Email, Phone, Password)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3274",
+      "time": "2025-02-26T10:56:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3274",
+      "text": "Spark App- Login Endpoint (Email & Password)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3273",
+      "time": "2025-02-26T10:33:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3273",
+      "text": "Energy Sandbox Demo: Adding and Modifying Catalogue in Strapi BPP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3272",
+      "time": "2025-02-26T10:19:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3272",
+      "text": "Dynamic Price Calculation Using Start and End Timestamps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3271",
+      "time": "2025-02-26T10:18:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3271",
+      "text": "Enhance Search Results with Time Range Filtering and Availability Display"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3270",
+      "time": "2025-02-26T10:16:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3270",
+      "text": "Backend Optimization: Support Start and End Timestamps for Battery Rental Listings"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3269",
+      "time": "2025-02-26T10:15:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3269",
+      "text": "Real-time Calculation of Tax Components for Quote's Items"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3268",
+      "time": "2025-02-26T10:14:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3268",
+      "text": "Backend Optimization: Price Calculation Enhancement"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3071",
+      "time": "2025-01-24T08:54:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3071",
+      "text": "Reference Application : Experience center Audit"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3070",
+      "time": "2025-01-24T08:53:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3070",
+      "text": "Reference Application - Open Spark V2 - Incorporate Updates Based on Demo Feedback"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3060",
+      "time": "2025-01-23T11:45:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3060",
+      "text": "Opensparkv2 - Update screen for credentials, verify credentials & API Integration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3059",
+      "time": "2025-01-23T11:45:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3059",
+      "text": "Openspark v2 - OTP workflow after signup & API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3058",
+      "time": "2025-01-23T11:45:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3058",
+      "text": "Openspark v2 - Show market status in the dashboard & API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3057",
+      "time": "2025-01-23T11:45:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3057",
+      "text": "Openspark v2 - Add new details to Trade detail page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3056",
+      "time": "2025-01-23T11:45:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3056",
+      "text": "Openspark v2 - Create screens related to preference & API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3055",
+      "time": "2025-01-23T11:44:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3055",
+      "text": "OpenSpark v2 - Merge Dashboard for consumer/prosumer within single login"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3054",
+      "time": "2025-01-23T11:44:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3054",
+      "text": "OpenSpark v2 - Create screens releated to funds management & API Integration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3053",
+      "time": "2025-01-23T11:44:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3053",
+      "text": "OpenSpark v2 - Add verified flag in credential object in my credential API"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3052",
+      "time": "2025-01-23T11:44:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3052",
+      "text": "OpenSpark v2 - Add provider detail, consumer detail and provider's credential in trade detail API"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3051",
+      "time": "2025-01-23T11:44:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3051",
+      "text": "OpenSpark v2 - Send OTPverified Flag in login/signup response"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3050",
+      "time": "2025-01-23T11:44:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3050",
+      "text": "OpenSpark V2 - Lock demand API to be only executed when market is open"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3049",
+      "time": "2025-01-23T11:44:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3049",
+      "text": "OpenSpark v2 - Create an endpoint to verify user's credentials"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3048",
+      "time": "2025-01-23T11:44:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3048",
+      "text": "OpenSpark v2 - create a new endpoint to withdraw funds from user's wallet"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3047",
+      "time": "2025-01-23T11:43:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3047",
+      "text": "OpenSpark v2 - Create an endpoint to add funds to user's wallet"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3046",
+      "time": "2025-01-23T11:43:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3046",
+      "text": "OpenSpark v2 - Create a new endpoint to get user's wallet transaction"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3045",
+      "time": "2025-01-23T11:43:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3045",
+      "text": "OpenSpark v2 - Create a new endpoint to get user's wallet balance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3044",
+      "time": "2025-01-23T11:43:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3044",
+      "text": "OpenSpark v2 - Create new endpoint to get user's preference"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3043",
+      "time": "2025-01-23T11:43:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3043",
+      "text": "OpenSpark v2 - Create new endpoint to add user's preference"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3042",
+      "time": "2025-01-23T11:43:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3042",
+      "text": "OpenSpark v2 - Create new endpoint to verify OTP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3041",
+      "time": "2025-01-23T11:43:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3041",
+      "text": "OpenSpark v2 - Create new endpoint to get Market Status"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3040",
+      "time": "2025-01-23T11:43:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3040",
+      "text": "OpenSpark v2 | Admin | Create new Endpoint for changing market status"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3039",
+      "time": "2025-01-23T11:42:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3039",
+      "text": "Openspark v2 - Prosumer / consumer to have single login/signup"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3038",
+      "time": "2025-01-23T11:42:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3038",
+      "text": "OpenSpark v2 | Admin | Add Simulate opening bell / closing bell and show market status for admin flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3037",
+      "time": "2025-01-23T11:42:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3037",
+      "text": "OpenSpark v2 | Admin | Update designs of login / dashboard for admin flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3036",
+      "time": "2025-01-23T11:42:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3036",
+      "text": "OpenSpark v2 | Admin | Separate out the Admin flow to a new application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2936",
+      "time": "2025-01-08T10:49:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2936",
+      "text": "Open Volunteering : Review Trust Layer documentation with Stakeholder"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2909",
+      "time": "2025-01-07T10:31:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2909",
+      "text": "Open Volunteering : Create usecase and user journey flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2817",
+      "time": "2024-12-19T16:50:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2817",
+      "text": "Investigate and Resolve 504 Gateway Timeout Error in Gateway-Prod Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2816",
+      "time": "2024-12-19T16:50:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2816",
+      "text": "Redeploy Unified-Strapi Dev with Latest Code Changes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2815",
+      "time": "2024-12-19T16:48:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2815",
+      "text": "Deploy Open-Spark Dev in AWS Amplify"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2814",
+      "time": "2024-12-19T16:48:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2814",
+      "text": "Create Test Docker Image of PS to Reduce RAM Utilization"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2813",
+      "time": "2024-12-19T16:48:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2813",
+      "text": "Configure GitHub Actions to Avoid Unnecessary Builds in AWS Amplify"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2812",
+      "time": "2024-12-19T16:47:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2812",
+      "text": "Debugging UI Application Build Failure in AWS Amplify"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2811",
+      "time": "2024-12-19T16:47:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2811",
+      "text": "Point Unified-Strapi-Dev to BPP-Strapi2 PS Network"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2810",
+      "time": "2024-12-19T16:46:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2810",
+      "text": "Resize BPP-PS to T2.Medium for Load and Latency Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2809",
+      "time": "2024-12-19T15:55:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2809",
+      "text": "Fixed Issue Related to Trade Migrating to New BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2808",
+      "time": "2024-12-19T15:53:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2808",
+      "text": "Openspark: Resolve Common Strapi Conflicting Table Issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2807",
+      "time": "2024-12-19T15:52:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2807",
+      "text": "Openspark: Get Trade Details by ID in Admin Flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2806",
+      "time": "2024-12-19T15:52:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2806",
+      "text": "Openspark: BAP Get and Update User Profile Issue Fix for Admin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2805",
+      "time": "2024-12-19T15:51:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2805",
+      "text": "Openspark: BAP Upload Cred API Issue Fix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2804",
+      "time": "2024-12-19T15:51:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2804",
+      "text": "Openspark: Admin Role Login Bug Fix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2803",
+      "time": "2024-12-19T13:47:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2803",
+      "text": "Troubleshoot Production Issue for Climate Resilience App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2802",
+      "time": "2024-12-19T13:47:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2802",
+      "text": "Setup Strapi for Unified Plugin in OpenSpark"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2801",
+      "time": "2024-12-19T13:44:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2801",
+      "text": "End-to-End QA for OpenSpark Backend APIs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2800",
+      "time": "2024-12-19T13:25:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2800",
+      "text": "End to End QA  - OpenSpark V2 Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2799",
+      "time": "2024-12-19T13:07:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2799",
+      "text": "Testing with QA and Fixing Bugs for OpenSpark"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2719",
+      "time": "2024-12-10T13:09:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2719",
+      "text": "Deploy Climate and Forest Apps in Production Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2718",
+      "time": "2024-12-10T13:09:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2718",
+      "text": "Climate apps to production and old tekdi link redirect to EC prod and instance down"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2682",
+      "time": "2024-12-05T08:03:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2682",
+      "text": "Openspark | Backend | Changes in get dashboard API"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2681",
+      "time": "2024-12-05T08:03:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2681",
+      "text": "Openspark | Backend | Create new endpoint to update trade by ID"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2680",
+      "time": "2024-12-05T08:03:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2680",
+      "text": "Openspark | Backend | Create new Endpoint to delete a credential by ID"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2661",
+      "time": "2024-12-04T10:31:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2661",
+      "text": "Open Spark - Prosumer journey - Add DER"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2660",
+      "time": "2024-12-04T10:31:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2660",
+      "text": "Open Spark - Prosumer journey - My DERs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2659",
+      "time": "2024-12-04T10:30:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2659",
+      "text": "Open Spark - Prosumer journey - trade detail page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2658",
+      "time": "2024-12-04T10:30:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2658",
+      "text": "Open Spark - Prosumer journey - My trades"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2657",
+      "time": "2024-12-04T10:30:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2657",
+      "text": "Open Spark - Prosumer journey - Delete credentials"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2656",
+      "time": "2024-12-04T10:30:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2656",
+      "text": "Open Spark - Prosumer journey - Upload credentials"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2655",
+      "time": "2024-12-04T10:30:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2655",
+      "text": "Open Spark - Prosumer journey - My credentials"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2654",
+      "time": "2024-12-04T10:30:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2654",
+      "text": "Open Spark - Prosumer journey - My Account"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2653",
+      "time": "2024-12-04T10:30:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2653",
+      "text": "Open Spark - Prosumer Journey - Place sell request"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2652",
+      "time": "2024-12-04T10:30:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2652",
+      "text": "Open Spark - Prosumer journey - Dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2781",
+      "time": "2024-12-03T14:31:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2781",
+      "text": "Open Spark - Admin journey - Trade detail page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2649",
+      "time": "2024-12-03T14:31:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2649",
+      "text": "Open Spark - Admin journey - Lock demand"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2648",
+      "time": "2024-12-03T14:31:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2648",
+      "text": "Open Spark - Admin journey - Dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2644",
+      "time": "2024-12-03T13:16:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2644",
+      "text": "Open Spark - Buyer journey - trade detail page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2642",
+      "time": "2024-12-03T13:16:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2642",
+      "text": "Open Spark - Buyer journey - Delete credentials"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2638",
+      "time": "2024-12-03T13:15:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2638",
+      "text": "Open Spark - Buyer Journey - Place buy request"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2471",
+      "time": "2024-11-08T11:44:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2471",
+      "text": "Cypress E2E Test Cases for Order Confirmation Page (P2P Energy App)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2470",
+      "time": "2024-11-08T11:44:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2470",
+      "text": "Cypress E2E Test Cases for Payment Page (P2P Energy App)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2013",
+      "time": "2024-09-04T12:09:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2013",
+      "text": "Upskilling in Go-Lang"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1568",
+      "time": "2024-07-23T10:35:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1568",
+      "text": "Rider BAP integration with Orders API on dev environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1566",
+      "time": "2024-07-23T10:35:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1566",
+      "text": "Rider BAP integration with track API on dev environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-one#13",
+      "time": "2025-01-24T08:36:21Z",
+      "link": "https://github.com/beckn/beckn-one/issues/13",
+      "text": "Beckn One : DiD Linking POC"
     }
   ],
   "open_prs": [],

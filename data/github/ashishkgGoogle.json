@@ -1,0 +1,77 @@
+{
+  "last_updated": "2025-03-06T08:24:51Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#415",
+      "time": "2025-03-06T08:24:51Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/415",
+      "text": "Design Response Processing Module"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#414",
+      "time": "2025-03-06T08:23:07Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/414",
+      "text": "Request Processing plugin design"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#409",
+      "time": "2025-03-04T12:59:49Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/409",
+      "text": "Integrate Publisher plugin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#408",
+      "time": "2025-03-04T12:35:06Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/408",
+      "text": "Add log package"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#397",
+      "time": "2025-02-11T08:31:54Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/397",
+      "text": "Create tool for building and integrating plugins locally"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#396",
+      "time": "2025-02-11T08:29:35Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/396",
+      "text": "Set Up CI CD Pipelines"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#395",
+      "time": "2025-02-11T07:25:13Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/395",
+      "text": "Add Skeleton Service"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#394",
+      "time": "2025-02-11T07:24:51Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/394",
+      "text": "Add Skeleton service"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#393",
+      "time": "2025-02-11T07:23:59Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/393",
+      "text": "Add service skeleton"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#392",
+      "time": "2025-02-11T07:23:32Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/392",
+      "text": "Set Up the Service Skeleton"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

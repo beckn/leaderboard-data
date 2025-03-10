@@ -7,6 +7,13 @@
       "time": "2024-09-26T06:39:42Z",
       "link": "https://github.com/beckn/protocol-server/pull/232",
       "text": "Updated Schema Validator to support openapi 3.1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#348",
+      "time": "2025-01-10T05:42:46Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/348",
+      "text": "Define Format for Specifying Fields to be Uploaded for Network Observability"
     }
   ],
   "open_prs": [],

@@ -1,0 +1,28 @@
+{
+  "last_updated": "2025-03-06T14:59:13Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#231",
+      "time": "2025-03-06T14:59:13Z",
+      "link": "https://github.com/beckn/missions/pull/231",
+      "text": "fix typos"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#232",
+      "time": "2025-03-06T14:58:19Z",
+      "link": "https://github.com/beckn/missions/pull/232",
+      "text": "fix typos"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#472",
+      "time": "2025-01-10T13:40:47Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/472",
+      "text": "Proofread and improve documentation"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

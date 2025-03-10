@@ -847,6 +847,650 @@
       "time": "2024-12-18T09:55:05Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2790",
       "text": "fix(open-spark): current trade will be result of 0th position"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3392",
+      "time": "2025-03-04T06:34:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3392",
+      "text": "Winroom (17th & 19th Feb) - Energy Demo: Developer Participation & Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3377",
+      "time": "2025-03-04T04:35:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3377",
+      "text": "Winroom: Bug Fixes for Spark App (28th Feb)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3376",
+      "time": "2025-03-03T15:03:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3376",
+      "text": "Spark App: Confirm Rent - Date, Time & Proceed"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3375",
+      "time": "2025-03-03T15:01:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3375",
+      "text": "Winroom: Bug Fixes for Spark App (3rd Mar to 7th Mar)  "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3146",
+      "time": "2025-02-12T13:32:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3146",
+      "text": "Spark App - Retail Flow - My Order & API Integration  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3145",
+      "time": "2025-02-12T13:31:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3145",
+      "text": "OpenSpark V2 - Retail Flow - Order Confirmation & API Integration  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3144",
+      "time": "2025-02-12T13:31:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3144",
+      "text": "Spark App - Get my Profile & API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3143",
+      "time": "2025-02-12T13:31:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3143",
+      "text": "Spark App - Connect Wallet, Permission & API Integration to Link Wallet  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3142",
+      "time": "2025-02-12T13:31:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3142",
+      "text": "Spark App - Homepage  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3138",
+      "time": "2025-02-11T12:21:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3138",
+      "text": "Spark App : Login & SIgnup Screen with API Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3135",
+      "time": "2025-02-10T06:45:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3135",
+      "text": "OpenSpark v2 - Create a Custom Component for FormFieldInput"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3131",
+      "time": "2025-02-07T12:20:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3131",
+      "text": "Openspark v2 - Create Custom Components for Wallet: BalanceCard & TransactionTable"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3067",
+      "time": "2025-01-24T06:26:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3067",
+      "text": "Cypress E2E Test Cases for Profile Page (Admin Flow) - Open Spark"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3033",
+      "time": "2025-01-23T05:03:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3033",
+      "text": "Cypress E2E Test Cases for Trade Details (Consumer and Producer) - Open Spark"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3032",
+      "time": "2025-01-23T05:03:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3032",
+      "text": "Cypress E2E Test Cases for My Credentials (Consumer and Producer) - Open Spark"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2982",
+      "time": "2025-01-17T05:48:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2982",
+      "text": "Cypress E2E Test Cases for My DERs (Consumer and Producer) - Open Spark"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2979",
+      "time": "2025-01-16T04:44:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2979",
+      "text": "Cypress E2E Test Cases for My Trades (Consumer and Producer) - Open Spark"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2972",
+      "time": "2025-01-15T05:44:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2972",
+      "text": "Cypress E2E Test Cases for Profile Page (Consumer and Producer) - Open Spark"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2959",
+      "time": "2025-01-09T16:44:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2959",
+      "text": "Cypress E2E Test Cases for Request History Page - State Forest Conservation (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2958",
+      "time": "2025-01-09T16:44:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2958",
+      "text": "Cypress E2E Test Cases for Order Confirmation Page - State Forest Conservation (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2957",
+      "time": "2025-01-09T16:43:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2957",
+      "text": "Cypress E2E Test Cases for Payment Page - State Forest Conservation (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2956",
+      "time": "2025-01-09T16:43:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2956",
+      "text": "Cypress E2E Test Cases for Checkout Page - State Forest Conservation (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2943",
+      "time": "2025-01-09T03:50:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2943",
+      "text": "Cypress E2E Test Cases for Cart Page - State Forest Conservation (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2942",
+      "time": "2025-01-09T03:49:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2942",
+      "text": "Cypress E2E Test Cases for Product Page - State Forest Conservation (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2941",
+      "time": "2025-01-09T03:48:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2941",
+      "text": "Cypress E2E Test Cases for Search Page - State Forest Conservation (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2940",
+      "time": "2025-01-09T03:48:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2940",
+      "text": "Cypress E2E Test Cases for Homepage - State Forest Conservation (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2939",
+      "time": "2025-01-09T03:47:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2939",
+      "text": "Cypress E2E Test Cases for Sign In and Sign Up Page - State Forest Conservation (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2891",
+      "time": "2025-01-06T05:56:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2891",
+      "text": "Cypress E2E Test Cases for Request History Page - Envirogrowth (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2890",
+      "time": "2025-01-06T05:56:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2890",
+      "text": "Cypress E2E Test Cases for Order Confirmation Page - Envirogrowth (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2889",
+      "time": "2025-01-06T05:56:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2889",
+      "text": "Cypress E2E Test Cases for Payment Page - Envirogrowth (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2888",
+      "time": "2025-01-06T05:56:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2888",
+      "text": "Cypress E2E Test Cases for Checkout Page - Envirogrowth (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2887",
+      "time": "2025-01-06T05:55:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2887",
+      "text": "Cypress E2E Test Cases for Cart Page - Envirogrowth (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2886",
+      "time": "2025-01-06T05:55:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2886",
+      "text": "Cypress E2E Test Cases for Product Page - Envirogrowth (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2885",
+      "time": "2025-01-06T05:55:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2885",
+      "text": "Cypress E2E Test Cases for Search Page - Envirogrowth (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2884",
+      "time": "2025-01-06T05:55:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2884",
+      "text": "Cypress E2E Test Cases for Homepage - Envirogrowth (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2883",
+      "time": "2025-01-06T05:55:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2883",
+      "text": "Cypress E2E Test Cases for Sign In and Sign Up Page - Envirogrowth (Forest Conservation)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2856",
+      "time": "2024-12-30T04:43:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2856",
+      "text": "Cypress E2E Test Cases for Checkout Page - Dragon Foods"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2855",
+      "time": "2024-12-27T13:16:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2855",
+      "text": "Cypress E2E Test Cases for Order Confirmation Page - Dragon Foods"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2854",
+      "time": "2024-12-27T13:16:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2854",
+      "text": "Cypress E2E Test Cases for Payment Page - Dragon Foods"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2853",
+      "time": "2024-12-27T13:16:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2853",
+      "text": "Cypress E2E Test Cases for Cart Page - Dragon Foods"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2843",
+      "time": "2024-12-27T09:11:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2843",
+      "text": "Cypress E2E Test Cases for Request History Page - Dragon Foods"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2835",
+      "time": "2024-12-26T15:44:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2835",
+      "text": "Cypress E2E Test Cases for Search Page - Dragon Foods"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2825",
+      "time": "2024-12-25T06:42:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2825",
+      "text": "Cypress E2E Test Cases for Homepage - Dragon Foods"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2824",
+      "time": "2024-12-25T06:41:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2824",
+      "text": "Cypress E2E Test Cases for Sign In and Sign Up Page - Dragon Foods"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2784",
+      "time": "2024-12-17T13:23:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2784",
+      "text": "Fixed Cosmetic Changes and Updated Functionalities in Open Spark"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2448",
+      "time": "2024-11-08T04:59:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2448",
+      "text": "Cypress E2E test cases for the Checkout page(P2P energy)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2819",
+      "time": "2024-12-20T06:50:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2819",
+      "text": "fix(open-spark): fixed trade api url"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2830",
+      "time": "2024-12-26T05:59:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2830",
+      "text": "feat(dragon-foods): added cypress e2e test cases for dragon foods app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2836",
+      "time": "2024-12-27T05:25:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2836",
+      "text": "feat(dragon-foods): added test cases for dragon foods app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2860",
+      "time": "2024-12-31T05:12:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2860",
+      "text": "feat(open-spark): test cases for open spark app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2861",
+      "time": "2024-12-30T12:55:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2861",
+      "text": "fix(open-spark): fix open spark bugs on dashboard and subheader icon"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2913",
+      "time": "2025-01-08T05:14:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2913",
+      "text": "feat(envirogrowth): added test cases for envirogrowth app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2938",
+      "time": "2025-01-08T14:07:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2938",
+      "text": "fix(open-spark): fixed open spark bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2945",
+      "time": "2025-01-10T08:04:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2945",
+      "text": "feat(state-forest-conservation): added test cases for state forest conservation app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2947",
+      "time": "2025-01-09T05:18:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2947",
+      "text": "fix(open-spark): remove price tag from admin flow also"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2950",
+      "time": "2025-01-09T09:17:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2950",
+      "text": "fix(open-spark): fixed admin page text based on admin role, it should  be energy bought"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2953",
+      "time": "2025-01-10T08:05:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2953",
+      "text": "fix(open-spark): remove price tag from order history trade for consumer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2964",
+      "time": "2025-01-13T04:28:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2964",
+      "text": "fix(open-spark): fixed Open Spark-Update \"My Credential\" Page to Match Figma Design"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2975",
+      "time": "2025-01-16T05:10:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2975",
+      "text": "feat(open-spark): cypress E2E test cases for profile page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2981",
+      "time": "2025-01-20T06:29:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2981",
+      "text": "feat(open-spark): cypress test cases of my trade page for open spark app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#2988",
+      "time": "2025-01-20T06:33:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2988",
+      "text": "Feat/cypress my ders open spark"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3022",
+      "time": "2025-01-24T05:40:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3022",
+      "text": "feat(open-spark): test cases for my credential page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3064",
+      "time": "2025-01-24T06:00:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3064",
+      "text": "feat(open-spark): test cases for trade details page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3075",
+      "time": "2025-01-27T05:21:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3075",
+      "text": "feat(open-spark): added admin profile test cases"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3080",
+      "time": "2025-01-31T06:30:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3080",
+      "text": "fix(ec-app):  Remove option to redirect to request history page from  the same page…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3130",
+      "time": "2025-02-08T17:30:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3130",
+      "text": "feat(open-spark): implemented trade details ui"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3134",
+      "time": "2025-02-11T05:34:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3134",
+      "text": "feat(open-spark): created reusable component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3139",
+      "time": "2025-02-11T16:51:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3139",
+      "text": "feat(open-spark): implemented landing page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3141",
+      "time": "2025-02-12T10:40:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3141",
+      "text": "feat(open-spark): implemented connect wallet and import data flow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3157",
+      "time": "2025-02-13T10:09:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3157",
+      "text": "feat(open-spark): open spark rental flow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3175",
+      "time": "2025-02-16T08:34:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3175",
+      "text": "feat(open-spark): changes for date and time picker"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3180",
+      "time": "2025-02-16T18:15:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3180",
+      "text": "feat: open wallet order details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3186",
+      "time": "2025-02-17T12:32:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3186",
+      "text": "feat: open spark cosmetic changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3221",
+      "time": "2025-02-19T06:00:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3221",
+      "text": "fix(lend-ease): fix cosmetic issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3224",
+      "time": "2025-02-19T08:12:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3224",
+      "text": "fix: added splash in layout"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3260",
+      "time": "2025-02-25T14:53:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3260",
+      "text": "fix: ec bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3267",
+      "time": "2025-02-26T05:11:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3267",
+      "text": "feat(open-sparK): change confirm date time UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3349",
+      "time": "2025-02-27T15:14:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3349",
+      "text": "fix(open-spark): misaligned text on checkout page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3354",
+      "time": "2025-02-28T07:30:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3354",
+      "text": "fix(open-spark): winroom bug fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3359",
+      "time": "2025-02-28T11:53:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3359",
+      "text": "fix(open-spark): fixed win-room bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3364",
+      "time": "2025-03-03T08:55:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3364",
+      "text": "fix(open-spark): fixed win-room bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3368",
+      "time": "2025-03-03T12:08:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3368",
+      "text": "fix(open-spark): fixed open spark secure checkout page issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3400",
+      "time": "2025-03-04T08:40:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3400",
+      "text": "fix(open-spark): fixed issue for open spark winroom"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3415",
+      "time": "2025-03-06T06:15:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3415",
+      "text": "fix(open-spark): ec bug fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3419",
+      "time": "2025-03-06T13:05:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3419",
+      "text": "feat(open-spark): added mobile otp screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3424",
+      "time": "2025-03-07T07:53:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3424",
+      "text": "fix(open-spark): fixed multiple click on add to wallet button on order details page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3425",
+      "time": "2025-03-07T11:37:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3425",
+      "text": "fix(open-spark): fixed winroom bugs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3426",
+      "time": "2025-03-07T12:13:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3426",
+      "text": "fix(lend-ease): fixed url changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#236",
+      "time": "2025-02-19T09:13:43Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/236",
+      "text": "fix: added wallet next image and change text"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#239",
+      "time": "2025-02-19T10:21:19Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/239",
+      "text": "fix: change open spark text weight"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#247",
+      "time": "2025-03-10T04:48:12Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/247",
+      "text": "feat(open-spark): added instruction pop up for open spark"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#248",
+      "time": "2025-03-10T08:09:29Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/248",
+      "text": "fix: cosmetic changes"
     }
   ],
   "open_prs": [],

@@ -119,6 +119,13 @@
       "time": "2024-08-12T07:52:59Z",
       "link": "https://github.com/beckn/protocol-specifications/pull/441",
       "text": "Spell check"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#419",
+      "time": "2025-01-08T16:28:58Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/419",
+      "text": "Fixes from protocol server repo"
     }
   ],
   "open_prs": [],

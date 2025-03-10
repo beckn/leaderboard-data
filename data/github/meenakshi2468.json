@@ -259,6 +259,13 @@
       "time": "2024-10-04T06:24:36Z",
       "link": "https://github.com/beckn/Unified-Energy-Interface/issues/32",
       "text": "Enhancing documentations on UEI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#211",
+      "time": "2024-03-01T07:48:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/211",
+      "text": "Demo on Taxi BPP"
     }
   ],
   "open_prs": [],

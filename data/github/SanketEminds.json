@@ -819,6 +819,538 @@
       "time": "2024-12-19T05:31:10Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2797",
       "text": "Open Spark -Sign-Up Failure in Open Spark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3443",
+      "time": "2025-03-10T05:18:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3443",
+      "text": "Winroom: QA Bug Reporting for Spark App (3rd Mar to 7th Mar)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3348",
+      "time": "2025-02-27T14:22:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3348",
+      "text": "Open Spark-Order history displays the price of a single battery instead of the total price after purchasing multiple quantities."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3345",
+      "time": "2025-02-27T09:27:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3345",
+      "text": "Open Spark-Misaligned Text on Checkout Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3341",
+      "time": "2025-02-27T07:54:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3341",
+      "text": "Open Spark-Lend Ease app-Unable to Click on Profile Icon on Home Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3261",
+      "time": "2025-02-25T12:46:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3261",
+      "text": "Open Spark-Recently Placed Orders Showing at the Bottom in Open Spark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3259",
+      "time": "2025-02-25T11:05:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3259",
+      "text": "Open Spark-Attention Popup Persists After Removing Credential in Vault App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3258",
+      "time": "2025-02-25T10:29:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3258",
+      "text": "OSC App-Order Amount Mismatch."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3257",
+      "time": "2025-02-25T10:24:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3257",
+      "text": "EC Apps-Missing Divider Between Items on Checkout Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3256",
+      "time": "2025-02-25T09:55:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3256",
+      "text": "Open Spark App-Empty Search Text Missing in Open Spark and Open Solaris"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3250",
+      "time": "2025-02-25T05:39:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3250",
+      "text": "Ec Apps-Login Allowed with Similar Mobile & Profile API Failing in EC Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3249",
+      "time": "2025-02-24T11:59:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3249",
+      "text": "## Bug Title: App Crashes While Searching – OSC & ODR (Staging)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3248",
+      "time": "2025-02-24T11:59:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3248",
+      "text": "App Crashes While Searching – OSC & ODR (Staging)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3246",
+      "time": "2025-02-24T08:59:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3246",
+      "text": "Open Commerce App - Product Description Missing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3244",
+      "time": "2025-02-24T08:04:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3244",
+      "text": "EC Apps - Text Overlaps with Dropdown Arrow in Filter Options – All EC Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3236",
+      "time": "2025-02-21T07:30:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3236",
+      "text": "DSEP-Unified App -profiles?populate API Failing for Job and Scholarship"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3235",
+      "time": "2025-02-21T07:24:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3235",
+      "text": "Images Zoomed Too Much in State-Forest-Dep and Enviro Growth Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3234",
+      "time": "2025-02-21T07:20:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3234",
+      "text": "Forest and Climate Apps-Total Amount Showing Zero on Checkout in Forest and Climate Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3233",
+      "time": "2025-02-21T07:13:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3233",
+      "text": "EC Apps Crashing on Prod Env During Search"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3203",
+      "time": "2025-02-18T06:40:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3203",
+      "text": "Open Spark-Logout Button Not Clickable in Open Spark App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3202",
+      "time": "2025-02-18T06:21:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3202",
+      "text": "Open Wallet-Search Icon Display Issue Near \"Select Country\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3200",
+      "time": "2025-02-18T06:02:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3200",
+      "text": "Open Commerce- Incorrect Total Calculation for Multiple Items"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3181",
+      "time": "2025-02-17T04:49:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3181",
+      "text": "Open Wallet-Method of Verification Dropdown Not Appearing Intermittently"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3172",
+      "time": "2025-02-15T12:10:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3172",
+      "text": "Open Wallet-ID Number Validation Missing While Adding Identities"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3171",
+      "time": "2025-02-15T12:03:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3171",
+      "text": "Open Wallet-Identities and Assets Showing Current Time."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3170",
+      "time": "2025-02-15T11:57:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3170",
+      "text": "Open wallet-Empty Page Message Not Centered in Firefox"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3169",
+      "time": "2025-02-15T11:28:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3169",
+      "text": "Open Wallet- Verified Label Appears Too Small in Physical Asset Section"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3168",
+      "time": "2025-02-15T11:22:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3168",
+      "text": "Open Wallet-Missing Validation on URL Field in My Credentials"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3167",
+      "time": "2025-02-15T09:48:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3167",
+      "text": "Open Wallet-Missing Proper Message When Searching Non-Existent Items"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3166",
+      "time": "2025-02-15T09:41:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3166",
+      "text": "Open Wallet-Resend OTP Button Not Working in Open Wallet App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3165",
+      "time": "2025-02-15T09:39:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3165",
+      "text": "Open Wallet- OTP Validation Issue in Open Wallet App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3160",
+      "time": "2025-02-13T15:17:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3160",
+      "text": "Ec Apps-Vendure Catalogue Not Showing in Search Results"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3129",
+      "time": "2025-02-07T06:58:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3129",
+      "text": "Unable to log in to the Industry 4.0 app (Local API Failing)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3105",
+      "time": "2025-01-31T08:19:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3105",
+      "text": "In the Tourism app, clicking on the \"Rate Us\" button after order fulfillment results in a 404 error."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3100",
+      "time": "2025-01-31T04:52:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3100",
+      "text": "CORS Error in Forest & Climate Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3094",
+      "time": "2025-01-31T04:29:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3094",
+      "text": "Search Functionality Failing in All EC Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3082",
+      "time": "2025-01-29T11:59:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3082",
+      "text": "Open commerce app-Incorrect Currency Symbol in Payment Section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2965",
+      "time": "2025-01-13T04:52:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2965",
+      "text": "Open Spark-The text \"(per day)\" needs to be added near \"average,\" as per the Figma design."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2963",
+      "time": "2025-01-10T08:48:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2963",
+      "text": "Open Spark-Update \"My Credential\" Page to Match Figma Design"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2954",
+      "time": "2025-01-09T11:50:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2954",
+      "text": "ODR and Industry 4.0-Orders API Failing with \"This Attribute Must Be Unique\" Error"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2952",
+      "time": "2025-01-09T10:12:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2952",
+      "text": "Open Spark app-Remove Price Display from My Trades/Trade History (Consumer Side)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2949",
+      "time": "2025-01-09T08:27:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2949",
+      "text": "Open Spark App-Unable to Fetch Utility Company - Signup Functionality Blocked"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2929",
+      "time": "2025-01-08T04:54:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2929",
+      "text": "Open Spark App-Align Status Labels in 'My Trades'"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2926",
+      "time": "2025-01-08T04:49:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2926",
+      "text": "Open Spark App-Add Refresh Functionality in Admin Account"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2917",
+      "time": "2025-01-08T04:46:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2917",
+      "text": "Open Spark App-Remove Price Option in Post and Update Trade in Consumer Side"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2915",
+      "time": "2025-01-08T04:44:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2915",
+      "text": "Open Spark App-Replace 'No Trade Found' Image with Loader on Home Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2914",
+      "time": "2025-01-08T04:41:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2914",
+      "text": "Open Spark App-Trades for Today and Tomorrow Not Displaying"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2912",
+      "time": "2025-01-07T11:45:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2912",
+      "text": "Open Spark-Energy Not Deducting After Placing Order in Producer Module"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2907",
+      "time": "2025-01-06T13:00:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2907",
+      "text": "Open Spark-Trade history for the producer is not displaying."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2895",
+      "time": "2025-01-06T07:46:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2895",
+      "text": "Open Spark-Executed Trade Editable in Open Spark Without Proper Error Message"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2894",
+      "time": "2025-01-06T07:12:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2894",
+      "text": "Open Spark-Header text incorrect in buying flow (Consumer)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2893",
+      "time": "2025-01-06T07:05:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2893",
+      "text": "Open Spark-Header text incorrect in buying flow (Consumer)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2892",
+      "time": "2025-01-06T06:59:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2892",
+      "text": "Open Spark-Header text incorrect in buying flow (Consumer)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2871",
+      "time": "2025-01-03T08:57:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2871",
+      "text": "Open Spark-Within the Producer's profile under \"My DERs,\" the DER API is failing."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2868",
+      "time": "2025-01-03T05:48:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2868",
+      "text": "UEI-Authentication Error on UI Screen in Kazam App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2865",
+      "time": "2025-01-02T10:16:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2865",
+      "text": "Open Spark -Duplicate Event in Trade History for Solar Energy Preferences"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2851",
+      "time": "2024-12-27T11:05:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2851",
+      "text": "Open Spark App-Profile Icon Missing on Buying Preference Page."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2837",
+      "time": "2024-12-27T07:04:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2837",
+      "text": "Open Spark App-Get-Utilities\" API Failing During Sign-Up"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2834",
+      "time": "2024-12-26T13:42:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2834",
+      "text": "Open Spark App-New User Incorrectly Receiving Total Energy Units and Consumption Data"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2833",
+      "time": "2024-12-26T13:31:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2833",
+      "text": "Open Spark App-'my_trade' API Failing in Producer Login on Spark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2832",
+      "time": "2024-12-26T12:19:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2832",
+      "text": "Open Spark App-Add \"Go Back to Home\" Button on Empty Order History Page in Spark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2831",
+      "time": "2024-12-26T11:51:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2831",
+      "text": "Open Spark App- Validation for Name and Mobile Number Fields"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2827",
+      "time": "2024-12-25T07:10:26Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2827",
+      "text": "Enable Gen AI Sandbox - No Response from Search API in DHP Diagnostics App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2826",
+      "time": "2024-12-25T07:06:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2826",
+      "text": "Order ID Issue in Ind 4.0 Application Affecting Subsequent API Calls"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2823",
+      "time": "2024-12-24T08:00:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2823",
+      "text": "Tourism App-Footer Beckn Logo Misalignment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2822",
+      "time": "2024-12-24T07:55:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2822",
+      "text": "Open Spark App-Unable to Access Profile Section Post Sign-Up."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2794",
+      "time": "2024-12-18T13:08:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2794",
+      "text": "Open Spark -Trade API Failing During Order Update/Edit"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2793",
+      "time": "2024-12-18T12:52:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2793",
+      "text": "Open Spark V2-Current Status Section Not Responsive on Mobile"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2792",
+      "time": "2024-12-18T12:40:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2792",
+      "text": "Open Spark V2-Lock Demand Button Should Be Disabled in Consumer Admin Flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2758",
+      "time": "2024-12-12T13:48:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2758",
+      "text": "Tourism & OSC app-App Crash on Accessing Order History"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2756",
+      "time": "2024-12-12T11:38:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2756",
+      "text": "EC Apps-Search Functionality Not Working Across All EC Apps in Production"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2749",
+      "time": "2024-12-12T07:28:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2749",
+      "text": "Climate & Forest-Search Functionality Not Working in Climate and Forest Conservation Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2748",
+      "time": "2024-12-12T07:15:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2748",
+      "text": "Climate & Forest apps-Font Discrepancy in Price and Rating Filters"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2731",
+      "time": "2024-12-11T08:55:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2731",
+      "text": "Climate and Forest Apps-Orders API Failing with 400 Bad Request in Harmoni AId App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2726",
+      "time": "2024-12-11T05:06:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2726",
+      "text": "Climate and Forest Apps-Orders API Failing with 400 Bad Request in Climate and Forest Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2712",
+      "time": "2024-12-10T09:11:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2712",
+      "text": "Forest Conservation-The Order History from the dev environment is being displayed in the prod environment for the Earth Support Initiative app."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2429",
+      "time": "2024-11-07T06:24:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2429",
+      "text": "Error While Generating ChatGPT List when Switching from Tourism to Retail (Himalaya and City of Lights)"
     }
   ],
   "open_prs": [],

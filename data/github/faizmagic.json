@@ -504,6 +504,13 @@
       "time": "2024-11-08T06:00:54Z",
       "link": "https://github.com/beckn/missions/issues/159",
       "text": "UEI: Updates in the implementation guide, updates in the L2 config"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#10",
+      "time": "2024-07-24T07:47:32Z",
+      "link": "https://github.com/beckn/missions/issues/10",
+      "text": "VISTAAR: Capacity Building for NP through Masterclass videos"
     }
   ],
   "open_prs": [],

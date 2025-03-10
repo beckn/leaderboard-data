@@ -259,6 +259,27 @@
       "time": "2024-12-16T12:25:31Z",
       "link": "https://github.com/beckn/missions/issues/204",
       "text": "UPPCL Implementation Guide V0.1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#204",
+      "time": "2024-12-16T12:25:31Z",
+      "link": "https://github.com/beckn/missions/issues/204",
+      "text": "UPPCL Implementation Guide V1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#201",
+      "time": "2024-12-10T10:32:23Z",
+      "link": "https://github.com/beckn/missions/issues/201",
+      "text": "Implementation Guides: Review & Re-work"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#300",
+      "time": "2024-12-05T06:45:24Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/300",
+      "text": "Specification for Beckn One v0.5"
     }
   ],
   "open_prs": [],

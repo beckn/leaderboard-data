@@ -189,6 +189,13 @@
       "time": "2024-09-10T11:05:57Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/issues/209",
       "text": "Fix scrollbar is in the middle of the \"select-experience\" page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#143",
+      "time": "2024-10-07T09:52:07Z",
+      "link": "https://github.com/beckn/missions/issues/143",
+      "text": "Get the update for Soalan Hackathon Submissions from Super Team India"
     }
   ],
   "open_prs": [],

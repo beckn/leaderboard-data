@@ -3465,6 +3465,762 @@
       "time": "2024-12-16T05:33:26Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2773",
       "text": "Testing for Enabling GenAI Sandbox for UAI: Equipment Sales"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3439",
+      "time": "2025-03-10T04:42:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3439",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3438",
+      "time": "2025-03-10T04:42:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3438",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3437",
+      "time": "2025-03-10T04:41:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3437",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3385",
+      "time": "2025-03-04T04:58:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3385",
+      "text": "End-to-End Testing of OpenSpark App in Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3384",
+      "time": "2025-03-04T04:58:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3384",
+      "text": "Winroom: Bug Reporting (QA) for Spark App (28th Feb)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3374",
+      "time": "2025-03-03T14:31:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3374",
+      "text": "Winroom Call for EC apps Testing and Bug Fixes (24 feb)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3373",
+      "time": "2025-03-03T14:25:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3373",
+      "text": "Winroom Call for Energy Testing and Bug Fixes (25 feb)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3372",
+      "time": "2025-03-03T14:25:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3372",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3371",
+      "time": "2025-03-03T14:25:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3371",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3370",
+      "time": "2025-03-03T14:25:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3370",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3367",
+      "time": "2025-03-03T12:04:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3367",
+      "text": "Winroom: QA Bug Reporting for Spark App (3rd Mar to 7th Mar)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3251",
+      "time": "2025-02-25T06:04:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3251",
+      "text": "Vendure - Application is down"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3201",
+      "time": "2025-02-18T06:12:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3201",
+      "text": "Spark - Retail Flow - No empty screen for My Orders page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3199",
+      "time": "2025-02-18T05:51:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3199",
+      "text": "Wallet Application - Add new asset bottom sheet - \"Browse file\" should be in green, in sync with app theme"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3198",
+      "time": "2025-02-18T05:40:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3198",
+      "text": "Wallet Application - No validation while adding URL in \"Add new credentials\" bottom sheet"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3197",
+      "time": "2025-02-18T05:29:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3197",
+      "text": "Wallet Application - No option to add multiple files in \"Add new credentials\" bottom sheet"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3195",
+      "time": "2025-02-18T05:22:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3195",
+      "text": "Wallet Application - Energy asset section is missing in My Credentials section"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3194",
+      "time": "2025-02-18T05:15:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3194",
+      "text": "Wallet Application - Getting error while deleting digital ID"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3193",
+      "time": "2025-02-18T05:08:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3193",
+      "text": "Wallet Application - OTP verification bottom screen text does not match Figma"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3192",
+      "time": "2025-02-18T04:50:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3192",
+      "text": "Wallet Application - On home screen, forward navigation icon size should be reduced"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3191",
+      "time": "2025-02-18T04:45:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3191",
+      "text": "Wallet Application - Remove \"the\" from header text on OTP screen"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3190",
+      "time": "2025-02-18T04:42:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3190",
+      "text": "Wallet Application - OTP accepts alphabets and multiple digits in the last box, which should not happen"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3156",
+      "time": "2025-02-13T04:34:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3156",
+      "text": "UEI - Getting connection timeout error in Sheru"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3155",
+      "time": "2025-02-13T04:30:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3155",
+      "text": " Test Cases for the Wallet Feature in Opensparkv2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3154",
+      "time": "2025-02-13T04:29:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3154",
+      "text": "UEI - QR code for WhatsApp connect is missing in Pulse Energy"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3121",
+      "time": "2025-02-05T04:47:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3121",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3119",
+      "time": "2025-02-04T12:24:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3119",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3118",
+      "time": "2025-02-04T12:23:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3118",
+      "text": "OpenSpark v2 - Test Cases Updation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3113",
+      "time": "2025-02-03T12:23:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3113",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3107",
+      "time": "2025-02-03T05:59:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3107",
+      "text": "Received KT from Shreya on Vendure"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3106",
+      "time": "2025-01-31T12:22:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3106",
+      "text": "Received KT from Shreya on Strapi Seller Onboarding"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3101",
+      "time": "2025-01-31T05:09:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3101",
+      "text": "User Guide Creation for Seller Onboarding on Strapi"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3095",
+      "time": "2025-01-31T04:49:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3095",
+      "text": "QA for UEI Application - Adding Instruction Tab"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3092",
+      "time": "2025-01-30T10:07:16Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3092",
+      "text": "EC Audit - Open Commerce - UX Issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3091",
+      "time": "2025-01-30T10:07:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3091",
+      "text": "EC Audit - Open Commerce - Backend Issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3090",
+      "time": "2025-01-30T10:06:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3090",
+      "text": "EC Audit - Open Commerce - Frontend UI Issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3089",
+      "time": "2025-01-30T10:04:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3089",
+      "text": "EC Audit - DSEP Application - UX Issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3088",
+      "time": "2025-01-30T10:03:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3088",
+      "text": "EC Audit - DSEP Application - Backend Issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3087",
+      "time": "2025-01-30T10:02:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3087",
+      "text": "EC Audit - DSEP Application - Frontend UI Issues"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3086",
+      "time": "2025-01-30T09:15:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3086",
+      "text": "UEI - Add instruction tab in UEI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3074",
+      "time": "2025-01-24T15:14:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3074",
+      "text": "UEI - Pulse Energy App - Charger not found issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3072",
+      "time": "2025-01-24T11:09:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3072",
+      "text": "User Guide Creation for Seller Onboarding on Vendure"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3068",
+      "time": "2025-01-24T06:48:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3068",
+      "text": "DSEP App-Sign-in is failing in the DSEP app due to a CORS error."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3065",
+      "time": "2025-01-24T05:30:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3065",
+      "text": "EC Apps - Remove option to redirect to request history page from the same page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3063",
+      "time": "2025-01-24T05:18:46Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3063",
+      "text": "Climate and Forest Apps - After logging out, navigating back allows access to the app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3061",
+      "time": "2025-01-23T12:37:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3061",
+      "text": "Audit for the EC App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3035",
+      "time": "2025-01-23T07:34:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3035",
+      "text": "Tourism app-Search is failing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3034",
+      "time": "2025-01-23T07:23:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3034",
+      "text": "DSEP app-Init and Select Failing During Job Application in DSEP App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3031",
+      "time": "2025-01-23T04:48:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3031",
+      "text": "OpenSpark Demo Preparation and Readiness"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3030",
+      "time": "2025-01-23T04:48:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3030",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3029",
+      "time": "2025-01-23T04:48:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3029",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3028",
+      "time": "2025-01-23T04:48:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3028",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3019",
+      "time": "2025-01-21T14:29:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3019",
+      "text": "Incorrect Price Display After Checkout in Himalayan App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3018",
+      "time": "2025-01-21T14:20:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3018",
+      "text": "Issues with Checkout for Products from STAPI in Kuza One and DSNP Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3017",
+      "time": "2025-01-21T12:57:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3017",
+      "text": "Feedback Page Crashing After Clicking \"Rate Us\" in Tourism App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3014",
+      "time": "2025-01-21T12:07:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3014",
+      "text": "Tourism App-Update Logo in the City of Light App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2998",
+      "time": "2025-01-21T07:14:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2998",
+      "text": "EC - Status API failing across the apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2987",
+      "time": "2025-01-17T07:43:57Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2987",
+      "text": "OpenSparkV2 - Consumer Admin Flow - Negative Scenario - Cypress Automation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2986",
+      "time": "2025-01-17T07:43:08Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2986",
+      "text": "OpenSparkV2 - Consumer Admin Flow - Positive Scenario - Cypress Automation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2985",
+      "time": "2025-01-17T07:42:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2985",
+      "text": "OpenSparkV2 - Consumer Flow - Negative Scenario - Cypress Automation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2984",
+      "time": "2025-01-17T07:42:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2984",
+      "text": "OpenSparkV2 - Prosumer Flow - Positive Scenario - Cypress Automation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2983",
+      "time": "2025-01-17T07:42:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2983",
+      "text": "OpenSparkV2 - Prosumer Flow - Negative Scenario - Cypress Automation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2980",
+      "time": "2025-01-16T12:14:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2980",
+      "text": "OpenSparkV2 - Consumer Flow - Positive Scenario - Cypress Automation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2969",
+      "time": "2025-01-15T04:04:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2969",
+      "text": "OpenSpark v2 - Add \"i\" icon on My DER screen in top right corner redirecting to Link"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2961",
+      "time": "2025-01-10T07:04:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2961",
+      "text": "OpenSpark v2 - Mismatch in total units when summing individual day's consumption after applying date range filter"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2946",
+      "time": "2025-01-09T05:04:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2946",
+      "text": "Open spark v2 - While sign up user is not getting utility comapnies list from API"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2928",
+      "time": "2025-01-08T04:54:49Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2928",
+      "text": "End-to-End QA - OpenSpark V2 Application in Staging Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2925",
+      "time": "2025-01-08T04:48:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2925",
+      "text": "User Guide for OpenSpark V2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2924",
+      "time": "2025-01-08T04:48:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2924",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2923",
+      "time": "2025-01-08T04:48:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2923",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2916",
+      "time": "2025-01-08T04:46:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2916",
+      "text": "OpenSpark v2 - Invalid files should not upload in credentials section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2900",
+      "time": "2025-01-06T11:58:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2900",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2899",
+      "time": "2025-01-06T09:59:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2899",
+      "text": "OpenSpark v2 - PUT request for updating \"trusted source\" value is not updating in DB"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2896",
+      "time": "2025-01-06T08:41:07Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2896",
+      "text": "End-to-End QA in Staging Environment - OpenSpark V2 Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2859",
+      "time": "2024-12-30T04:50:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2859",
+      "text": "Langraph Implementation: WhatsApp Chatbot Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2858",
+      "time": "2024-12-30T04:49:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2858",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2857",
+      "time": "2024-12-30T04:48:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2857",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2852",
+      "time": "2024-12-27T11:46:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2852",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2850",
+      "time": "2024-12-27T10:53:59Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2850",
+      "text": "OpenSpark v2 - When demand is more than supply in lock trade API, it is failing without proper error handling"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2849",
+      "time": "2024-12-27T09:53:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2849",
+      "text": "OpenSpark v2 - In producer, sell button on dashboard should be at the bottom of the page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2847",
+      "time": "2024-12-27T09:41:31Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2847",
+      "text": "OpenSpark v2 - No option to edit preference for producer trade"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2846",
+      "time": "2024-12-27T09:30:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2846",
+      "text": "OpenSpark v2 - In Admin login, locked demand or supply is still visible and clickable, giving empty details"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2845",
+      "time": "2024-12-27T09:24:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2845",
+      "text": "OpenSpark v2 - Filter by Date section is missing in admin login"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2844",
+      "time": "2024-12-27T09:22:27Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2844",
+      "text": "OpenSpark v2 - Admin credentials for producer flow is not working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2841",
+      "time": "2024-12-27T07:57:13Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2841",
+      "text": "OpenSpark v2- Add DER section contains \"lorem ipsum dior\" text , remove it."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2840",
+      "time": "2024-12-27T07:50:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2840",
+      "text": "OpenSpark v2 - In consumer login, unit bought details page - Page title is wrong"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2839",
+      "time": "2024-12-27T07:29:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2839",
+      "text": "End to End QA - OpenSpark V2 Application"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2828",
+      "time": "2024-12-25T07:38:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2828",
+      "text": "Langraph - After payment showing amount \"X\" instead of actual amount, backend logic message displayed (refer screenshot)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2821",
+      "time": "2024-12-21T06:56:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2821",
+      "text": "Gen AI Catalogue Generation - Update Postman collection for variables and request body"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2818",
+      "time": "2024-12-20T05:42:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2818",
+      "text": "OSC - Showing duplicate catalogue, French catalogue in English version of the app"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2774",
+      "time": "2024-12-16T05:33:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2774",
+      "text": "Testing for Enabling GenAI Sandbox for UAI: Schemes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2772",
+      "time": "2024-12-16T05:33:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2772",
+      "text": "Testing for Enabling GenAI Sandbox for UAI: Equipment Renting"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2771",
+      "time": "2024-12-16T05:32:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2771",
+      "text": "Test Prod Environment Response Time for PS Docker Image Changes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2770",
+      "time": "2024-12-16T05:28:30Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2770",
+      "text": "Winroom for Climate Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2765",
+      "time": "2024-12-13T11:44:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2765",
+      "text": "OSC - App crashing on order details page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2763",
+      "time": "2024-12-13T05:07:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2763",
+      "text": "Langraph - Trading bill message showing NaN values"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2762",
+      "time": "2024-12-13T05:04:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2762",
+      "text": "Langraph - WhatsApp bot giving response with curly brackets, not properly formatted"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2760",
+      "time": "2024-12-12T14:01:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2760",
+      "text": "Climate Apps - /order, /init, and /status APIs are not working"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2735",
+      "time": "2024-12-11T12:08:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2735",
+      "text": "Climate Apps - Trim the search string in payload when excess space is given (at begining or end)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2734",
+      "time": "2024-12-11T12:07:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2734",
+      "text": "State Forest Department - Excess spacing in provider details, UI not in sync with other apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2725",
+      "time": "2024-12-11T05:05:02Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2725",
+      "text": "Testing Climate and Forest Apps in Production Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2724",
+      "time": "2024-12-11T05:04:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2724",
+      "text": "Langraph Implementation: WhatsApp Chatbot Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2722",
+      "time": "2024-12-11T04:54:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2722",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2721",
+      "time": "2024-12-11T04:54:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2721",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2717",
+      "time": "2024-12-10T12:16:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2717",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2707",
+      "time": "2024-12-09T14:14:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2707",
+      "text": "End-to-End Automation Testing of Earth Support Initiative App Using Cypress"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2706",
+      "time": "2024-12-09T14:13:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2706",
+      "text": "End-to-End Automation Testing of EnviroGrowth App Using Cypress"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2705",
+      "time": "2024-12-09T14:13:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2705",
+      "text": "End-to-End Automation Testing of State Forest Department App Using Cypress"
     }
   ],
   "open_prs": [],

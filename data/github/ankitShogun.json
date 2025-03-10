@@ -1484,6 +1484,153 @@
       "time": "2024-12-18T13:22:43Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "text": "Release notes update"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#260",
+      "time": "2025-03-10T06:17:37Z",
+      "link": "https://github.com/beckn/missions/issues/260",
+      "text": "call with madhu from the google team"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#258",
+      "time": "2025-03-09T15:01:33Z",
+      "link": "https://github.com/beckn/missions/issues/258",
+      "text": "Implementation guide schema validation using schema validator utility"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#257",
+      "time": "2025-03-09T14:51:15Z",
+      "link": "https://github.com/beckn/missions/issues/257",
+      "text": "Sample "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#256",
+      "time": "2025-03-09T14:45:54Z",
+      "link": "https://github.com/beckn/missions/issues/256",
+      "text": "R&D yacy"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#221",
+      "time": "2025-01-23T13:21:16Z",
+      "link": "https://github.com/beckn/missions/issues/221",
+      "text": "After office hours debugging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#220",
+      "time": "2025-01-23T13:18:40Z",
+      "link": "https://github.com/beckn/missions/issues/220",
+      "text": "Office hours and community calls"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#219",
+      "time": "2025-01-23T13:17:43Z",
+      "link": "https://github.com/beckn/missions/issues/219",
+      "text": "RAG multiple doc upload and indexing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#207",
+      "time": "2025-01-05T06:36:24Z",
+      "link": "https://github.com/beckn/missions/issues/207",
+      "text": "Mission support and debugging (UEI)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#206",
+      "time": "2025-01-05T06:29:44Z",
+      "link": "https://github.com/beckn/missions/pull/206",
+      "text": "feat: Implementation guide updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#213",
+      "time": "2025-01-17T06:03:35Z",
+      "link": "https://github.com/beckn/missions/pull/213",
+      "text": "feat: Adding extra context notes to registry doc"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#243",
+      "time": "2025-03-04T13:09:12Z",
+      "link": "https://github.com/beckn/missions/pull/243",
+      "text": "open-amsterdam imp guide update"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#267",
+      "time": "2025-01-16T15:26:16Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/267",
+      "text": "RAG bot Research and POC for community support"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3449",
+      "time": "2025-03-10T06:23:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3449",
+      "text": "Winroom: Bug Fixes for Spark App (6th Mar & 7th Mar)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3386",
+      "time": "2025-03-04T05:02:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3386",
+      "text": "Weekend work"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3383",
+      "time": "2025-03-04T04:53:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3383",
+      "text": "Discussions & Team Support for Spark App  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3125",
+      "time": "2025-02-07T06:23:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3125",
+      "text": "Identify Reusable Components for Wallet App and List New Component Requirements"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2955",
+      "time": "2025-01-09T12:09:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2955",
+      "text": "Repository Cleanup & Readme Update"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2876",
+      "time": "2025-01-05T06:17:18Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2876",
+      "text": "Beckn UI Workspace Git History Analysis for Release Notes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3420",
+      "time": "2025-03-06T13:07:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3420",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3421",
+      "time": "2025-03-06T13:07:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3421",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#131",
+      "time": "2024-12-20T06:19:29Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/131",
+      "text": "Langraph - Image processing sometimes giving undefined values"
     }
   ],
   "open_prs": [],

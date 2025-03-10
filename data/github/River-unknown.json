@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-02-08T03:19:33Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/Unified-Energy-Interface#41",
+      "time": "2025-02-08T03:19:33Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/41",
+      "text": "docs: Added structured EV charging use case with sequence diagrams & API mappings for Issue #2"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -203,6 +203,48 @@
       "time": "2024-12-06T11:00:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2688",
       "text": "Automated H2 DB Backup Script for Registry Containers with Cron Job Configuration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#387",
+      "time": "2025-01-31T05:06:50Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/387",
+      "text": "Identified Unused Elastic IPs and Released Them Back to AWS"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#340",
+      "time": "2025-01-06T08:42:00Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/340",
+      "text": "Increased Bpp-Unified-Staging Instance from t2.medium to t2.large Due to High CPU Utilization"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#227",
+      "time": "2025-01-06T08:42:50Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/227",
+      "text": "Migrated MySQL Unified-Strapi-Dev Database to Unified-Strapi-Staging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/strapi-plugins#226",
+      "time": "2025-01-06T08:42:35Z",
+      "link": "https://github.com/beckn/strapi-plugins/issues/226",
+      "text": "Deployed Unified-Strapi-Staging on Bpp-Unified-Staging Machine with DNS Entry and Nginx Configuration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3096",
+      "time": "2025-01-31T04:50:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3096",
+      "text": "Debugged and resolved AWS Amplify build failure issue over all apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2897",
+      "time": "2025-01-06T08:41:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2897",
+      "text": "Deployed Openspark-v2 Staging on AWS Amplify with DNS Entry Configuration"
     }
   ],
   "open_prs": [],

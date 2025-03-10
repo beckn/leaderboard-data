@@ -4424,6 +4424,573 @@
       "time": "2024-11-26T16:26:44Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2600",
       "text": "Climate Resilience Sign Off and Go Live"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#234",
+      "time": "2025-02-17T08:07:36Z",
+      "link": "https://github.com/beckn/missions/issues/234",
+      "text": "Outcome Visualization"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#233",
+      "time": "2025-02-17T04:08:40Z",
+      "link": "https://github.com/beckn/missions/issues/233",
+      "text": "Preparation for UKI Winroom Support"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#80",
+      "time": "2024-08-19T11:02:47Z",
+      "link": "https://github.com/beckn/missions/issues/80",
+      "text": "Create Subdomain one.becknprotocol.io and Point to Beckn-One Registry EC2 Instance"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#34",
+      "time": "2024-08-02T14:02:21Z",
+      "link": "https://github.com/beckn/missions/issues/34",
+      "text": "VISTAAR: National Bootcamp"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#32",
+      "time": "2024-08-02T14:02:07Z",
+      "link": "https://github.com/beckn/missions/issues/32",
+      "text": "VISTAAR Sandbox env: Onboarding NP's to sandbox env"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#391",
+      "time": "2025-02-04T09:18:29Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/391",
+      "text": "GitHub Dev Workflow Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#390",
+      "time": "2025-02-04T09:16:57Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/390",
+      "text": "Folder Structure for GitHub - Beckn Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#386",
+      "time": "2025-01-30T10:30:10Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/386",
+      "text": "Protect Branches and Enforce Rules in Beckn-Onix Repositories  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#385",
+      "time": "2025-01-27T08:58:56Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/385",
+      "text": "Postman Collections for Home Services Use Cases"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#384",
+      "time": "2025-01-27T08:57:35Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/384",
+      "text": "Postman Collections for Mobility Use Cases"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#383",
+      "time": "2025-01-27T08:55:29Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/383",
+      "text": "Layer 2 Configuration for Home Services"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#382",
+      "time": "2025-01-27T08:54:46Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/382",
+      "text": "Layer 2 Configuration for Mobility Use Case"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#381",
+      "time": "2025-01-24T08:15:55Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/381",
+      "text": "Database Setup for Beckn Onix Services"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#380",
+      "time": "2025-01-24T08:15:27Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/380",
+      "text": "Performance Tests and V1 Benchmarking for Beckn Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#379",
+      "time": "2025-01-24T08:15:21Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/379",
+      "text": "Integrated Testing for Beckn Onix Services"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#378",
+      "time": "2025-01-24T08:14:46Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/378",
+      "text": "NetworkSideHandler Service Implementation for Beckn Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#377",
+      "time": "2025-01-24T08:14:30Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/377",
+      "text": "ClientSideHandler Service Implementation for Beckn Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#376",
+      "time": "2025-01-24T08:14:08Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/376",
+      "text": "NetworkSideReceiver Service Implementation for Beckn Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#375",
+      "time": "2025-01-24T08:11:26Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/375",
+      "text": "ClientSideReceiver Service Implementation for Beckn Onix"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#374",
+      "time": "2025-01-23T04:41:46Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/374",
+      "text": "Centralized Logging Mechanism"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#373",
+      "time": "2025-01-23T04:41:42Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/373",
+      "text": "Plugin Versioning System"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#372",
+      "time": "2025-01-23T04:41:37Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/372",
+      "text": "Broadcasting/Multicast Capability for Gateway"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#371",
+      "time": "2025-01-23T04:41:32Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/371",
+      "text": "LLD Documentation for Proxy Routing Module Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#370",
+      "time": "2025-01-23T04:41:27Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/370",
+      "text": "GCP specific Cache Module for Performance Optimization"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#369",
+      "time": "2025-01-23T04:41:21Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/369",
+      "text": "Publisher Module Development"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#368",
+      "time": "2025-01-23T04:41:17Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/368",
+      "text": "Response Processing Module Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#367",
+      "time": "2025-01-23T04:41:10Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/367",
+      "text": "Request Processing Module Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#366",
+      "time": "2025-01-22T19:22:48Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/366",
+      "text": "Network Observability Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#365",
+      "time": "2025-01-22T19:22:43Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/365",
+      "text": "Business Telemetry with OpenTelemetry Plugin Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#364",
+      "time": "2025-01-22T19:22:33Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/364",
+      "text": "Cloud Logging Integration for System Monitoring"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#363",
+      "time": "2025-01-22T19:22:29Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/363",
+      "text": "Logging Infrastructure with Configurable Levels and Formats"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#362",
+      "time": "2025-01-22T19:22:24Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/362",
+      "text": "Basic System Monitoring and Telemetry Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#361",
+      "time": "2025-01-22T19:06:47Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/361",
+      "text": "Encryption/Decryption Module "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#360",
+      "time": "2025-01-22T15:27:54Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/360",
+      "text": "GCP-Specific Key Management: Key Generation and Rotation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#359",
+      "time": "2025-01-22T15:26:34Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/359",
+      "text": "Key Management Module"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#358",
+      "time": "2025-01-22T15:24:04Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/358",
+      "text": "Error Handling and Retry/TTL Implementation at Infrastructure Level"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#357",
+      "time": "2025-01-22T15:22:27Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/357",
+      "text": "Beckn Signing Module (Plugin) for Cryptographic Signing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#356",
+      "time": "2025-01-22T15:17:15Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/356",
+      "text": "Dynamic loading of Domain-Specific Validation schema"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#355",
+      "time": "2025-01-22T15:12:02Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/355",
+      "text": "Layer 2 Schema Validation Plugin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#354",
+      "time": "2025-01-22T15:00:03Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/354",
+      "text": "Beckn Onix One-click Deployment Using Terraform Scripts"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#353",
+      "time": "2025-01-22T14:52:03Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/353",
+      "text": "SAMPLE"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#352",
+      "time": "2025-01-22T14:51:11Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/352",
+      "text": "SAMPLE"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#351",
+      "time": "2025-01-22T14:49:53Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/351",
+      "text": "Automated One-Click Deployment for Beckn Onix and Adapter Plugin "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#350",
+      "time": "2025-01-16T08:39:47Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/350",
+      "text": "Analysis and Planning Document for Beckn Onix DevOps Strategy"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#347",
+      "time": "2025-01-08T13:45:13Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/347",
+      "text": "Performance Metrics for L2 Configuration (OpenAPI 3.1)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#346",
+      "time": "2025-01-08T07:31:57Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/346",
+      "text": "POC Framework Non Tech Evaluation of Uber-Go/Fx Against Alternatives"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#345",
+      "time": "2025-01-07T08:29:49Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/345",
+      "text": "POC Framework Non Tech Evaluation: Comparing HashiCorp/go-plugin Against Alternatives"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#344",
+      "time": "2025-01-06T13:43:34Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/344",
+      "text": "POC Implementation: Tech Evaluation of Uber-Go/Fx for Modular Architecture"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#343",
+      "time": "2025-01-06T13:41:28Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/343",
+      "text": "POC Implementation: Tech evaluating HashiCorp/go-plugin for Plugin-Based Architecture"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#342",
+      "time": "2025-01-06T13:33:08Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/342",
+      "text": "Research and Analysis: Framework Supporting Plugin Architecture for Beckn ONIX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#341",
+      "time": "2025-01-06T12:12:20Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/341",
+      "text": "JSON Schema Validation: Benchmarking Analysis, performance and recommendations"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#336",
+      "time": "2025-01-03T07:03:20Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/336",
+      "text": "Develop Beckn Adapter for Transaction Layer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#335",
+      "time": "2025-01-03T07:00:52Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/335",
+      "text": "Network Participant Onboarding Module with subscribe and on_subscribe Endpoints"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#334",
+      "time": "2025-01-02T15:25:28Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/334",
+      "text": "Add Logging and Error Handling to the Core Framework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#333",
+      "time": "2025-01-02T15:24:10Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/333",
+      "text": "Add Plugin-Specific Configuration Support"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#332",
+      "time": "2025-01-02T15:23:03Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/332",
+      "text": "Implement Lifecycle Hooks"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#331",
+      "time": "2025-01-02T15:19:51Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/331",
+      "text": "Add Middleware Manager for Custom Middlewares"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#330",
+      "time": "2024-12-20T07:01:06Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/330",
+      "text": "Design Approach and Library for JSON Validation in Go"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#325",
+      "time": "2024-12-13T11:59:51Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/325",
+      "text": "Create Engineering Plan and Move to GitHub Issues for Beckn Onix Project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#322",
+      "time": "2024-12-13T11:54:00Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/322",
+      "text": "Resource Allocation Plan for Beckn Onix Project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#310",
+      "time": "2024-12-13T08:55:39Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/310",
+      "text": "Wiki Page for Beckn Onix"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#309",
+      "time": "2024-12-13T08:55:30Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/309",
+      "text": "GitHub Repo Setup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#270",
+      "time": "2025-01-31T07:40:38Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/270",
+      "text": "Create Subdomain energy.becknprotocol.io and Link to IP 52.66.179.176"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#269",
+      "time": "2025-01-24T15:32:02Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/269",
+      "text": "Vistaar Registry - Broadcasting Issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#257",
+      "time": "2024-12-12T12:55:22Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/257",
+      "text": "Setup Subdomain and Update DNS Records for UKI Microsite"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#249",
+      "time": "2025-03-06T05:03:10Z",
+      "link": "https://github.com/beckn/protocol-server/issues/249",
+      "text": "Make Changes in GCL to incorporate PS-Search API Enhancement"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3423",
+      "time": "2025-03-07T05:42:09Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3423",
+      "text": "Tech Office Hours for the week of March 10"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3422",
+      "time": "2025-03-07T05:41:58Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3422",
+      "text": "Tech Office Hours for the week of March 3"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3417",
+      "time": "2025-03-06T05:03:29Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3417",
+      "text": "Add Support in Strapi for Login / Signup using OTP"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3412",
+      "time": "2025-03-05T06:02:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3412",
+      "text": "Analysis of 10 Beckn Endpoints for Reference Application  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3411",
+      "time": "2025-03-05T06:01:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3411",
+      "text": "On-Call Support for Haqdarshak"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3410",
+      "time": "2025-03-05T05:58:39Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3410",
+      "text": "Create a Leaderboard Dashboard for GitHub Metrics for Beckn Repos  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3409",
+      "time": "2025-03-05T05:55:38Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3409",
+      "text": "Migration from Existing Beckn Registry to New Beckn One Registry for BOC Env"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3408",
+      "time": "2025-03-05T05:48:54Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3408",
+      "text": "PRD for a tool for building BAP and BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3099",
+      "time": "2025-01-31T04:52:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3099",
+      "text": "OpenSpark - New Requirement Screen"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3098",
+      "time": "2025-01-31T04:52:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3098",
+      "text": "EC Card and Screen for Open Commerce"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3073",
+      "time": "2025-01-24T15:04:03Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3073",
+      "text": "Unified Plugin - Adjust Schemas and APIs to Align with Unified Plugin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1972",
+      "time": "2024-09-02T15:01:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1972",
+      "text": "Display Seller or BPP Information Alongside Driver Details"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#415",
+      "time": "2024-03-29T13:20:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/415",
+      "text": "Project documentation for Mobility BAP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#207",
+      "time": "2024-02-28T14:25:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/207",
+      "text": "Documentation of all artifacts related to this project in Confluence"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#205",
+      "time": "2024-02-28T14:22:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/205",
+      "text": "Installation doc for Taxi driver app and Taxi BPP"
     }
   ],
   "open_prs": [],

@@ -2170,6 +2170,251 @@
       "time": "2024-12-13T14:04:30Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2766",
       "text": "Enabling GenAI Sandbox for UAI: Equipment Renting"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#214",
+      "time": "2025-01-20T15:38:15Z",
+      "link": "https://github.com/beckn/missions/issues/214",
+      "text": "Upskilling in Go-lang"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-sandbox#52",
+      "time": "2024-12-20T11:21:51Z",
+      "link": "https://github.com/beckn/beckn-sandbox/pull/52",
+      "text": "Added: Modified DSEP  postman collection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#99",
+      "time": "2025-01-20T16:40:21Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/99",
+      "text": "Fixed: Tag Structure in jsonata on_actions API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#100",
+      "time": "2025-01-20T16:44:18Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/100",
+      "text": "Fixed: Tag Structure in jsonata on_actions API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#101",
+      "time": "2025-01-21T04:43:56Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/101",
+      "text": "Fixed: Tag Structure in jsonata on_actions API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#102",
+      "time": "2025-01-21T04:47:57Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/102",
+      "text": "Fixed: Tag Structure in jsonata on_actions API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#103",
+      "time": "2025-02-12T13:12:30Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/103",
+      "text": "Added: code in on_search mapping"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#104",
+      "time": "2025-02-12T13:13:08Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/104",
+      "text": "Added: code in on_search mapping"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#105",
+      "time": "2025-02-12T13:16:48Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/105",
+      "text": "Added: code in on_search mapping"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/generic-client-layer#106",
+      "time": "2025-02-12T13:17:19Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/106",
+      "text": "Fix/tag structure "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#107",
+      "time": "2025-02-12T13:17:44Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/107",
+      "text": "Added: code in on_search mapping"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#110",
+      "time": "2025-02-14T12:43:44Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/110",
+      "text": "Feat/add state in fulfillment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#113",
+      "time": "2025-02-19T08:04:05Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/113",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#219",
+      "time": "2024-12-20T08:08:09Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/219",
+      "text": "Fix: for irrelevant Unit creation in new Catalog"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#220",
+      "time": "2024-12-20T08:40:56Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/220",
+      "text": "Added: Fix for Catalog generation for accurate price, stock, unit, va…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#221",
+      "time": "2024-12-20T10:35:25Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/221",
+      "text": "Added: Fix for Catalog generation for accurate price, stock, unit, va…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#222",
+      "time": "2024-12-20T11:07:30Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/222",
+      "text": "Added: Fixed Tag Mappings"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#249",
+      "time": "2025-03-05T19:07:09Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/249",
+      "text": "Added: Mobile Based Login"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#250",
+      "time": "2025-03-05T19:15:37Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/250",
+      "text": "Added: Mobile Based Login"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#251",
+      "time": "2025-03-05T19:18:28Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/251",
+      "text": "Added: Mobile Based Login"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#252",
+      "time": "2025-03-05T19:36:43Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/252",
+      "text": "Added: Mobile Based Login"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3452",
+      "time": "2025-03-10T12:07:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3452",
+      "text": "Winroom: Bug Fixes for Spark App (10th Mar )"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3451",
+      "time": "2025-03-10T07:53:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3451",
+      "text": "Support Call for UEI Domain - Network Participant Testing on UEI Sandbox"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3450",
+      "time": "2025-03-10T07:45:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3450",
+      "text": "Support Call for UAI Domain - Debugging Network Participant Issues in API Transactions"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3447",
+      "time": "2025-03-10T05:47:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3447",
+      "text": "Lead and Migrate FE Open Spark DEG domain APPs (Solaris, Spark APP, Vault, Lend Ease) and BE Apps (GCL, Strapi, Strapi Plugins, DB) from dev to prod"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3407",
+      "time": "2025-03-05T05:18:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3407",
+      "text": "Requirement discussion & technical grooming"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3406",
+      "time": "2025-03-05T04:30:36Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3406",
+      "text": "Create Postman Collection for UKI Domain"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3405",
+      "time": "2025-03-05T04:29:12Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3405",
+      "text": "Energy Sandbox Demo: Backend Changes & Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3362",
+      "time": "2025-02-28T13:22:45Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3362",
+      "text": "Wallet: Create Postman Collection for Interaction with Beckn One  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3132",
+      "time": "2025-02-07T12:41:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3132",
+      "text": "Create Sequence Flow Diagram for the Beckn One Wallet as per documentation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3108",
+      "time": "2025-02-03T07:16:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3108",
+      "text": "Provide KT to Omkar on Vendure"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3103",
+      "time": "2025-01-31T05:33:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3103",
+      "text": "Provide KT to Omkar on Strapi Seller Onboarding"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3097",
+      "time": "2025-01-31T04:51:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3097",
+      "text": "Office hours Call"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#133",
+      "time": "2025-01-20T15:41:43Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/133",
+      "text": "Beckn-gemini-bot enhancement - preserving chat context"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#132",
+      "time": "2025-01-17T14:45:24Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/132",
+      "text": "Understand transactional-ai-bap repository code after langgraph changes"
     }
   ],
   "open_prs": [],

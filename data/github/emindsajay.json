@@ -217,6 +217,41 @@
       "time": "2023-02-22T11:22:16Z",
       "link": "https://github.com/beckn/dsep-unified-bap-api/pull/10",
       "text": "Vivek/structer/change"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#109",
+      "time": "2025-02-14T12:42:53Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/109",
+      "text": "feat: implement state mapping for fulfillment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#111",
+      "time": "2025-02-19T08:04:09Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/111",
+      "text": "feat: add tags in select.jsonata"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#112",
+      "time": "2025-02-17T10:57:00Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/112",
+      "text": "Feat/add tag search mapping"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#243",
+      "time": "2025-02-16T13:38:42Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/243",
+      "text": "feat: rental and finance changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-bap-bpp#10",
+      "time": "2025-02-15T05:12:52Z",
+      "link": "https://github.com/beckn/strapi-bap-bpp/pull/10",
+      "text": "feat: create endpoint to upload doc and return publicly accessible url"
     }
   ],
   "open_prs": [],

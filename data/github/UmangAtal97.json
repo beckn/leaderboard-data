@@ -133,6 +133,55 @@
       "time": "2024-08-09T09:16:47Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/1788",
       "text": "Mission Project 2.0 Research Planning"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3401",
+      "time": "2025-03-04T08:39:17Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3401",
+      "text": "Instruction Pop-Up Page for Energy Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3399",
+      "time": "2025-03-04T08:33:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3399",
+      "text": "Design for BPP Application: Research and Design"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3397",
+      "time": "2025-03-04T08:06:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3397",
+      "text": "Feedback for OpenSpark & Wallet App Designs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3396",
+      "time": "2025-03-04T08:03:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3396",
+      "text": "Dynamic Price Calculations Development for Strapi BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3395",
+      "time": "2025-03-04T08:02:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3395",
+      "text": "Design for BPP Application: Research and Design"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3394",
+      "time": "2025-03-04T07:42:24Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3394",
+      "text": "New Designs for Wallet App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3393",
+      "time": "2025-03-04T07:00:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3393",
+      "text": "Design for OpenSpark V2"
     }
   ],
   "open_prs": [],

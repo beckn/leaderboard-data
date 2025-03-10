@@ -791,6 +791,363 @@
       "time": "2024-12-18T15:43:25Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2795",
       "text": "OpenSpark Cosmetic Changes on Backend Side"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#108",
+      "time": "2025-02-13T05:48:48Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/108",
+      "text": "Confirm issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#223",
+      "time": "2025-01-13T08:37:56Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/223",
+      "text": "Updated readme file for strapi plugins"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#224",
+      "time": "2024-12-30T10:13:38Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/224",
+      "text": "Added update trade pref api for bpp and fixed issue in start trade api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#225",
+      "time": "2025-01-06T03:48:12Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/225",
+      "text": "Fixed der and empty trade resp issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#228",
+      "time": "2025-01-06T10:15:31Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/228",
+      "text": "Fixed update trade issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#229",
+      "time": "2025-01-06T12:55:46Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/229",
+      "text": "fixed issue in get utilities company by dedi"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#230",
+      "time": "2025-01-07T10:12:01Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/230",
+      "text": "Fixed issue related to stock quantity update for seller"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#231",
+      "time": "2025-01-08T13:06:13Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/231",
+      "text": "Fixed issue related to dashboard filter and refactored trade quantity"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#232",
+      "time": "2025-01-10T08:59:29Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/232",
+      "text": "Fixed issue related to dashboard data in openspark"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#233",
+      "time": "2025-01-15T07:08:27Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/233",
+      "text": "Fixed issue in invalid cred upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#234",
+      "time": "2025-01-15T09:54:27Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/234",
+      "text": "Fixed issue in trade apis"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#235",
+      "time": "2025-01-21T05:35:16Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/235",
+      "text": "Added otp worklow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#236",
+      "time": "2025-01-29T11:45:07Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/236",
+      "text": "Added unfied plugin for energy along with its auth apis"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#237",
+      "time": "2025-02-03T11:50:12Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/237",
+      "text": "Added energy-admin plugins and other apis for unified energy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#238",
+      "time": "2025-02-04T10:55:34Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/238",
+      "text": "Added admin and other user apis for openspark"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#239",
+      "time": "2025-02-05T12:26:55Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/239",
+      "text": "Fixed issue related to add and withdraw fund from wallet"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#240",
+      "time": "2025-02-13T04:21:30Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/240",
+      "text": "Added new constant for deg domain"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#241",
+      "time": "2025-02-13T12:01:48Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/241",
+      "text": "Added create and fetch user rent catalogues"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#244",
+      "time": "2025-02-18T08:58:27Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/244",
+      "text": "Added finance plugin and its login api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#245",
+      "time": "2025-02-18T09:59:49Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/245",
+      "text": "Added get finance catalogues api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#246",
+      "time": "2025-02-25T11:33:49Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/246",
+      "text": "Fetched order history in descending order"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#247",
+      "time": "2025-02-28T12:44:21Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/247",
+      "text": "Fixed issue related to beckn status api for openspark"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#248",
+      "time": "2025-03-04T17:26:26Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/248",
+      "text": "Added support to fetch quantity ordered in status api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#253",
+      "time": "2025-03-07T06:19:58Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/253",
+      "text": "Fixed issue related to mobile-login for financer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#254",
+      "time": "2025-03-07T08:36:00Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/254",
+      "text": "Fixed issue where invalid finance user was logging in"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#255",
+      "time": "2025-03-07T10:15:50Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/255",
+      "text": "Fixed login error for energy user"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#256",
+      "time": "2025-03-10T06:39:10Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/256",
+      "text": "Added api to create catalogues for openspark user"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#257",
+      "time": "2025-03-10T09:26:35Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/257",
+      "text": "Fixed issues related to start-trade, signup, and other apis for opens…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-bap-bpp#4",
+      "time": "2025-01-13T12:20:16Z",
+      "link": "https://github.com/beckn/strapi-bap-bpp/pull/4",
+      "text": "Updated readme.md file for common strapi for beckn trade"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-bap-bpp#5",
+      "time": "2025-01-06T09:39:57Z",
+      "link": "https://github.com/beckn/strapi-bap-bpp/pull/5",
+      "text": "Enabled only required plugin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-bap-bpp#6",
+      "time": "2025-01-21T05:33:47Z",
+      "link": "https://github.com/beckn/strapi-bap-bpp/pull/6",
+      "text": "Modified trade bap and user schema"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-bap-bpp#7",
+      "time": "2025-01-29T11:44:46Z",
+      "link": "https://github.com/beckn/strapi-bap-bpp/pull/7",
+      "text": "Modified schema change for unified energy plugin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-bap-bpp#8",
+      "time": "2025-02-03T12:01:47Z",
+      "link": "https://github.com/beckn/strapi-bap-bpp/pull/8",
+      "text": "Updated schemas for unified energy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-bap-bpp#9",
+      "time": "2025-02-13T04:19:13Z",
+      "link": "https://github.com/beckn/strapi-bap-bpp/pull/9",
+      "text": "Added State code and value in fulfilment schema"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3442",
+      "time": "2025-03-10T05:04:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3442",
+      "text": "Dynamic Price Calculations Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3441",
+      "time": "2025-03-10T05:03:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3441",
+      "text": "Dynamic Price Calculations Development for Beckn APIs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3440",
+      "time": "2025-03-10T04:57:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3440",
+      "text": "OpenSpark App: Stage Deployment Efforts & Basic API Testing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3390",
+      "time": "2025-03-04T05:44:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3390",
+      "text": "Protocol Server Review for Optimization"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3389",
+      "time": "2025-03-04T05:37:19Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3389",
+      "text": "UKI: Catalogue Creation & Postman Collection"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3381",
+      "time": "2025-03-04T04:46:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3381",
+      "text": "Dynamic Price Calculation Including Various Price Breakups"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3380",
+      "time": "2025-03-04T04:45:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3380",
+      "text": "POC for Dynamic Price Calculations from Backend"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3379",
+      "time": "2025-03-04T04:45:40Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3379",
+      "text": "OpenSpark: Status API Failing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2991",
+      "time": "2025-01-20T04:50:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2991",
+      "text": "Adding Registry, Namespace, and Records on DeDi and Fixing API to Retrieve Records"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2990",
+      "time": "2025-01-20T04:44:21Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2990",
+      "text": "Simulating OpenSpark Signup OTP Workflow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2881",
+      "time": "2025-01-06T03:13:20Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2881",
+      "text": "Openspark Deployment and Related Efforts in Staging Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2880",
+      "time": "2025-01-06T03:13:05Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2880",
+      "text": "Openspark | API for Updating Trade Preferences for Prosumer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2879",
+      "time": "2025-01-06T03:12:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2879",
+      "text": "README Files with Release Notes for Beckn-Strapi-BPP Repository"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2878",
+      "time": "2025-01-06T03:12:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2878",
+      "text": "README Files with Release Notes for Strapi-BAP-BPP Repository"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#2877",
+      "time": "2025-01-06T03:12:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2877",
+      "text": "Add Release Notes to README File of Strapi Plugins"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2795",
+      "time": "2024-12-18T15:43:25Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2795",
+      "text": "OpenSpark Cosmetic Changes on Backend Side"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-strapi-bpp#12",
+      "time": "2025-01-13T12:23:35Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/12",
+      "text": "Updated readme file for beckn-strapi-bpp repo"
     }
   ],
   "open_prs": [],
