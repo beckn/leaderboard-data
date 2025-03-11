@@ -1491,6 +1491,20 @@
       "time": "2025-03-10T08:09:29Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/248",
       "text": "fix: cosmetic changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3453",
+      "time": "2025-03-10T12:53:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3453",
+      "text": "Winroom: Bug Fixes for Spark App (10th Mar & 13th Mar)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3454",
+      "time": "2025-03-10T13:10:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3454",
+      "text": "fix(open-spark): profile changes"
     }
   ],
   "open_prs": [],

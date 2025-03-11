@@ -623,6 +623,27 @@
       "time": "2024-12-20T07:45:11Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2820",
       "text": "Create Spreadsheet of Running and Stopped EC2 Instances in AWS (Dec 2024)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3457",
+      "time": "2025-03-10T14:12:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3457",
+      "text": "Updated ENV Variables in Experience Center (EC)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3456",
+      "time": "2025-03-10T14:12:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3456",
+      "text": "Weekly DevOps Sheet Creation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3455",
+      "time": "2025-03-10T14:12:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3455",
+      "text": "On-Call Support for Vistaar"
     }
   ],
   "open_prs": [],

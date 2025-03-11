@@ -4991,6 +4991,13 @@
       "time": "2024-02-28T14:22:51Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/205",
       "text": "Installation doc for Taxi driver app and Taxi BPP"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3411",
+      "time": "2025-03-05T06:01:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3411",
+      "text": "On-Call Support for Haqdarshak"
     }
   ],
   "open_prs": [],

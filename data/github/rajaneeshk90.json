@@ -2044,6 +2044,20 @@
       "time": "2025-03-04T04:52:17Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/3382",
       "text": "Solar Panel Service discovery: Example JSON, discussions and calls"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#261",
+      "time": "2025-03-10T12:44:14Z",
+      "link": "https://github.com/beckn/missions/issues/261",
+      "text": "UEI: Implementation Guide for Effective Solarisation: solar square"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#262",
+      "time": "2025-03-10T16:49:34Z",
+      "link": "https://github.com/beckn/missions/pull/262",
+      "text": "add layer2 for Advisory use case"
     }
   ],
   "open_prs": [],

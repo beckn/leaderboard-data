@@ -252,6 +252,13 @@
       "time": "2025-02-15T05:12:52Z",
       "link": "https://github.com/beckn/strapi-bap-bpp/pull/10",
       "text": "feat: create endpoint to upload doc and return publicly accessible url"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#251",
+      "time": "2025-03-10T20:17:04Z",
+      "link": "https://github.com/beckn/protocol-server/pull/251",
+      "text": "feat: Add conditional streaming response handling with error handling…"
     }
   ],
   "open_prs": [],
