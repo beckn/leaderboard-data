@@ -4235,6 +4235,20 @@
       "time": "2025-03-06T05:53:44Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/246",
       "text": "Staging 1.1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3466",
+      "time": "2025-03-11T11:53:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3466",
+      "text": "Winroom: Bug Fixes for Spark App (11th Mar to 13th Mar)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#249",
+      "time": "2025-03-11T11:51:35Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/249",
+      "text": "created seperate instruction modal for open spark apps"
     }
   ],
   "open_prs": [],

@@ -1505,6 +1505,13 @@
       "time": "2025-03-10T13:10:55Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3454",
       "text": "fix(open-spark): profile changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3454",
+      "time": "2025-03-11T05:45:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3454",
+      "text": "fix(open-spark): profile changes"
     }
   ],
   "open_prs": [],

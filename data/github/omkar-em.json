@@ -4221,6 +4221,13 @@
       "time": "2024-12-09T14:13:37Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2705",
       "text": "End-to-End Automation Testing of State Forest Department App Using Cypress"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3459",
+      "time": "2025-03-11T05:02:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3459",
+      "text": "Winroom: QA Bug Reporting for Spark App (10th Mar to 13th Mar)"
     }
   ],
   "open_prs": [],

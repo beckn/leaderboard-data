@@ -3360,6 +3360,55 @@
       "time": "2025-02-19T10:23:14Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/241",
       "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3430",
+      "time": "2025-03-11T07:10:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3430",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3461",
+      "time": "2025-03-11T05:44:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3461",
+      "text": "fix(open-spark): modified code to get only discounted details for sel…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3464",
+      "time": "2025-03-11T07:09:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3464",
+      "text": "fix(open-spark): modified code to fix connect vault app modal config …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3465",
+      "time": "2025-03-11T10:05:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3465",
+      "text": "fix(open-spark-p2p): modified code to get order details of trade and …"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3467",
+      "time": "2025-03-11T12:26:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3467",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3468",
+      "time": "2025-03-11T12:27:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3468",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3469",
+      "time": "2025-03-11T13:15:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3469",
+      "text": "fix(open-spark): all energy app redux index file upted for persisting…"
     }
   ],
   "open_prs": [],

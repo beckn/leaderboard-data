@@ -644,6 +644,13 @@
       "time": "2025-03-10T14:12:33Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/3455",
       "text": "On-Call Support for Vistaar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#418",
+      "time": "2025-03-11T12:11:04Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/418",
+      "text": "Develop"
     }
   ],
   "open_prs": [],

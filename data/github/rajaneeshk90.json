@@ -2058,6 +2058,13 @@
       "time": "2025-03-10T16:49:34Z",
       "link": "https://github.com/beckn/missions/pull/262",
       "text": "add layer2 for Advisory use case"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#263",
+      "time": "2025-03-11T11:19:22Z",
+      "link": "https://github.com/beckn/missions/issues/263",
+      "text": "QuickSell: Creating generic schema for provider, catalog and item for retail and service catalogs"
     }
   ],
   "open_prs": [],

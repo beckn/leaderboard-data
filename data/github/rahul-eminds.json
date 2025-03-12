@@ -1148,6 +1148,13 @@
       "time": "2025-01-13T12:23:35Z",
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/12",
       "text": "Updated readme file for beckn-strapi-bpp repo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3458",
+      "time": "2025-03-11T04:57:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3458",
+      "text": "Winroom: Bug Fixes for Spark App (10th Mar & 13th Mar)"
     }
   ],
   "open_prs": [],
