@@ -7210,6 +7210,83 @@
       "time": "2025-01-24T08:36:21Z",
       "link": "https://github.com/beckn/beckn-one/issues/13",
       "text": "Beckn One : DiD Linking POC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#282",
+      "time": "2025-03-12T07:54:43Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/282",
+      "text": "DeDi Based Registry | API Integration with the Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#281",
+      "time": "2025-03-12T07:53:29Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/281",
+      "text": "DeDi Based Registry | Develop the Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#280",
+      "time": "2025-03-12T07:53:22Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/280",
+      "text": "DeDi Based Registry | Develop non-Beckn API endpoints required for the Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#279",
+      "time": "2025-03-12T07:53:17Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/279",
+      "text": "DeDi Based Registry | Create API documentation for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#278",
+      "time": "2025-03-12T07:53:11Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/278",
+      "text": "DeDi Based Registry | Document /lookup & /subscribe implementation in existing registry framework"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#277",
+      "time": "2025-03-12T07:53:06Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/277",
+      "text": "DeDi Based Registry | Create a strapi pugin for /subscribe & /lookup which will be talking to DeDi endpoint"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#276",
+      "time": "2025-03-12T07:53:01Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/276",
+      "text": "DeDi Based Registry | Create Postman Collection for Registry Operation using DeDi"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#275",
+      "time": "2025-03-12T07:52:55Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/275",
+      "text": "DeDi Based Registry | Define DeDi Schema for Beckn Registry"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#274",
+      "time": "2025-03-12T07:52:49Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/274",
+      "text": "DeDi Based Registry | Document Existing Schema of Beckn Registry in a excel sheet"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#273",
+      "time": "2025-03-12T07:52:45Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/273",
+      "text": "DeDi Based Registry | Document Existing Schema of Beckn Registry in a excel sheet"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3335",
+      "time": "2025-02-27T06:39:50Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3335",
+      "text": "Implement Mobile Number & OTP-Based Login and Update Signup Form with API Integration"
     }
   ],
   "open_prs": [],

@@ -1512,6 +1512,13 @@
       "time": "2025-03-11T05:45:11Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3454",
       "text": "fix(open-spark): profile changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3472",
+      "time": "2025-03-12T12:14:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3472",
+      "text": "fix(open-spark): fixed otp should not take more than 1 digit"
     }
   ],
   "open_prs": [],

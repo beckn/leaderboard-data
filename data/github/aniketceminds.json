@@ -3409,6 +3409,55 @@
       "time": "2025-03-11T13:15:44Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3469",
       "text": "fix(open-spark): all energy app redux index file upted for persisting…"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3446",
+      "time": "2025-03-10T05:33:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3446",
+      "text": "Peer-to-Peer OpenSpark Trade App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3388",
+      "time": "2025-03-04T05:34:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3388",
+      "text": "Winroom: Bug Fixes for Spark App (3rd Mar to 5th Mar)  "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3470",
+      "time": "2025-03-12T07:16:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3470",
+      "text": "fix(open-spark): modified code in store to fix conflicting state naming"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3471",
+      "time": "2025-03-12T08:16:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3471",
+      "text": "fix(open-spark): modified code to fix the routing issue in EC app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3473",
+      "time": "2025-03-12T10:20:35Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3473",
+      "text": "fix(open-spark): revert chnges related to routing issue in EC"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3475",
+      "time": "2025-03-12T10:47:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3475",
+      "text": "fix(open-spark): modified code _app related to routing issue in EC"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3476",
+      "time": "2025-03-12T12:13:42Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3476",
+      "text": "fix(open-spark): modified code to revert the chnges fo routing issue"
     }
   ],
   "open_prs": [],

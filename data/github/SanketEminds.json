@@ -1351,6 +1351,20 @@
       "time": "2024-11-07T06:24:12Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2429",
       "text": "Error While Generating ChatGPT List when Switching from Tourism to Retail (Himalaya and City of Lights)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3474",
+      "time": "2025-03-12T10:25:51Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3474",
+      "text": "Open Commerce App-Order Details Overlapping Issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3348",
+      "time": "2025-02-27T14:22:01Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3348",
+      "text": "Open Spark-Order history displays the price of a single battery instead of the total price after purchasing multiple quantities."
     }
   ],
   "open_prs": [],

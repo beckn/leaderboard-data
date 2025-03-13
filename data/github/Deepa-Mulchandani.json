@@ -7,6 +7,20 @@
       "time": "2025-03-06T06:51:22Z",
       "link": "https://github.com/beckn/beckn-onix/issues/413",
       "text": "Create Error Handling module design"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#420",
+      "time": "2025-03-12T05:40:43Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/420",
+      "text": "Encryption/Decryption Module Implementation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#413",
+      "time": "2025-03-06T06:51:22Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/413",
+      "text": "Create Error Handling module design"
     }
   ],
   "open_prs": [],
