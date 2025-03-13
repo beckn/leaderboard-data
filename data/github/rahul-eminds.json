@@ -1,6 +1,111 @@
 {
-  "last_updated": "2024-07-08T11:40:48Z",
+  "last_updated": "2025-03-13T04:59:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3442",
+      "time": "2025-03-13T04:59:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3442#issuecomment-2719951639",
+      "text": "Did complete end to end testing for beckn APIs flow and non beckn flow from BPP side during catalogue creations."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3236",
+      "time": "2025-03-13T04:49:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3236#issuecomment-2719940570",
+      "text": "![Image](https://github.com/user-attachments/assets/1f10361c-6cde-4f8a-bd7f-c9c68e2a3539)\nFixed the issue. Working now!"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3458",
+      "time": "2025-03-11T05:03:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3458#issuecomment-2712641055",
+      "text": "Worked on Peer to Peer Bug fixes and api changes\nhttps://github.com/beckn/strapi-plugins/pull/255\nhttps://github.com/beckn/strapi-plugins/pull/256\nhttps://github.com/beckn/strapi-plugins/pull/257"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3458",
+      "time": "2025-03-11T04:57:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3458",
+      "text": "Winroom: Bug Fixes for Spark App (10th Mar & 13th Mar)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#257",
+      "time": "2025-03-10T09:26:35Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/257",
+      "text": "Fixed issues related to start-trade, signup, and other apis for opens…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#257",
+      "time": "2025-03-10T09:25:36.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/257",
+      "text": "Fixed issues related to start-trade, signup, and other apis for opens…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#256",
+      "time": "2025-03-10T06:39:10Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/256",
+      "text": "Added api to create catalogues for openspark user"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#256",
+      "time": "2025-03-10T06:38:16.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/256",
+      "text": "Added api to create catalogues for openspark user"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3396",
+      "time": "2025-03-10T05:40:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3396#issuecomment-2709483488",
+      "text": "Code: https://github.com/beckn/strapi-plugins/tree/feat/dynamic-price-calc"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3441",
+      "time": "2025-03-10T05:39:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3441#issuecomment-2709482373",
+      "text": "Code: https://github.com/beckn/strapi-bap-bpp/tree/feat/dynamic-price-calc"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3442",
+      "time": "2025-03-10T05:04:34Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3442",
+      "text": "Dynamic Price Calculations Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3441",
+      "time": "2025-03-10T05:03:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3441",
+      "text": "Dynamic Price Calculations Development for Beckn APIs"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3440",
+      "time": "2025-03-10T05:00:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3440#issuecomment-2709436301",
+      "text": "Updated registry domains, gateway, cache. Added L2 configs on all 4 instances of PS and updated the env and yaml files and scripts. Did basic api testing from postman."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3440",
+      "time": "2025-03-10T04:57:15Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3440",
+      "text": "OpenSpark App: Stage Deployment Efforts & Basic API Testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3435",
+      "time": "2025-03-10T04:50:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3435#issuecomment-2709425205",
+      "text": "Worked on multiple bug fixes for DEG energy and experience center apps\n1. Retail order history data order issue\nVault\n1. Amount is not matching with transactions\n2. Unable to add physical assets - custom_upload Api Failing\n3. Attest API failing\n4. Energy transaction -> order details -> status api failing\nSpark -\n1. search results are not displaying -\n2. Price mismatch, spacing issue in cart page in tata batteries - Downice 48V 100ah\nLendEase-\n3. LendEase - Energy Finance showing N/A data, also tooltip is showing N/A\n"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/protocol-server#207",
@@ -976,20 +1081,6 @@
     },
     {
       "type": "pr_merged",
-      "title": "beckn/strapi-plugins#256",
-      "time": "2025-03-10T06:39:10Z",
-      "link": "https://github.com/beckn/strapi-plugins/pull/256",
-      "text": "Added api to create catalogues for openspark user"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/strapi-plugins#257",
-      "time": "2025-03-10T09:26:35Z",
-      "link": "https://github.com/beckn/strapi-plugins/pull/257",
-      "text": "Fixed issues related to start-trade, signup, and other apis for opens…"
-    },
-    {
-      "type": "pr_merged",
       "title": "beckn/strapi-bap-bpp#4",
       "time": "2025-01-13T12:20:16Z",
       "link": "https://github.com/beckn/strapi-bap-bpp/pull/4",
@@ -1029,27 +1120,6 @@
       "time": "2025-02-13T04:19:13Z",
       "link": "https://github.com/beckn/strapi-bap-bpp/pull/9",
       "text": "Added State code and value in fulfilment schema"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3442",
-      "time": "2025-03-10T05:04:34Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3442",
-      "text": "Dynamic Price Calculations Testing"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3441",
-      "time": "2025-03-10T05:03:47Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3441",
-      "text": "Dynamic Price Calculations Development for Beckn APIs"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3440",
-      "time": "2025-03-10T04:57:15Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3440",
-      "text": "OpenSpark App: Stage Deployment Efforts & Basic API Testing"
     },
     {
       "type": "issue_closed",
@@ -1148,15 +1218,33 @@
       "time": "2025-01-13T12:23:35Z",
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/12",
       "text": "Updated readme file for beckn-strapi-bpp repo"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3458",
-      "time": "2025-03-11T04:57:28Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3458",
-      "text": "Winroom: Bug Fixes for Spark App (10th Mar & 13th Mar)"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/240",
+      "title": "Used schemasafe library for validating all OAS version",
+      "stale_for": 149,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/239",
+      "title": "SchemaSafe library for OAS all version validation",
+      "stale_for": 142,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/leaderboard/pull/2",
+      "title": "GitHub scrapper",
+      "stale_for": 239,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/212",
+      "title": "Openapi implementation using AGV for performance",
+      "stale_for": 142,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

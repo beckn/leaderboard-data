@@ -1,6 +1,62 @@
 {
-  "last_updated": "2024-08-07T06:41:22Z",
+  "last_updated": "2025-03-11T05:45:12.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3454",
+      "time": "2025-03-11T05:45:11Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3454",
+      "text": "fix(open-spark): profile changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3454",
+      "time": "2025-03-10T13:10:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3454",
+      "text": "fix(open-spark): profile changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3453",
+      "time": "2025-03-10T12:53:52Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3453",
+      "text": "Winroom: Bug Fixes for Spark App (10th Mar & 13th Mar)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#248",
+      "time": "2025-03-10T08:09:29Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/248",
+      "text": "fix: cosmetic changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#248",
+      "time": "2025-03-10T08:09:25.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/248",
+      "text": "fix: cosmetic changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3375",
+      "time": "2025-03-10T05:02:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3375#issuecomment-2709438135",
+      "text": "PR for this Task\n\n1. https://github.com/beckn/beckn-ui-workspace/pull/3368\n2. https://github.com/beckn/beckn-ui-workspace/pull/3364\n3. https://github.com/beckn/beckn-ui-workspace/pull/3400\n4. https://github.com/beckn/beckn-ui-workspace/pull/3415\n5. https://github.com/beckn/beckn-ui-workspace/pull/3419\n6. https://github.com/beckn/beckn-ui-workspace/pull/3424\n7. https://github.com/beckn/beckn-ui-workspace/pull/3425\n8. https://github.com/beckn/beckn-exp-guide-ui/pull/247\n\nCC:- @PritiEM @emmayank @omkar-em "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#247",
+      "time": "2025-03-10T04:48:12Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/247",
+      "text": "feat(open-spark): added instruction pop up for open spark"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#247",
+      "time": "2025-03-10T04:29:02.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/247",
+      "text": "feat(open-spark): added instruction pop up for open spark"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#1760",
@@ -1477,41 +1533,6 @@
       "time": "2025-02-19T10:21:19Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/239",
       "text": "fix: change open spark text weight"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/beckn-exp-guide-ui#247",
-      "time": "2025-03-10T04:48:12Z",
-      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/247",
-      "text": "feat(open-spark): added instruction pop up for open spark"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/beckn-exp-guide-ui#248",
-      "time": "2025-03-10T08:09:29Z",
-      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/248",
-      "text": "fix: cosmetic changes"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3453",
-      "time": "2025-03-10T12:53:52Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3453",
-      "text": "Winroom: Bug Fixes for Spark App (10th Mar & 13th Mar)"
-    },
-    {
-      "type": "pr_opened",
-      "title": "beckn/beckn-ui-workspace#3454",
-      "time": "2025-03-10T13:10:55Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3454",
-      "text": "fix(open-spark): profile changes"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/beckn-ui-workspace#3454",
-      "time": "2025-03-11T05:45:11Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3454",
-      "text": "fix(open-spark): profile changes"
     },
     {
       "type": "pr_merged",

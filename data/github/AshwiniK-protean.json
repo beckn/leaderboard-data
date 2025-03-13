@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-03-11T05:10:42.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#355",
+      "time": "2025-03-11T05:10:42.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/355#issuecomment-2712653954",
+      "text": "Update the Initialise function and create test cases corresponding to the modifications made in the updated function and committed the code. @tanyamadaan kindly review the PR at your earliest convenience.\nCc: @viraj89 @Deepa-Mulchandani "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

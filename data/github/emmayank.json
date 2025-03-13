@@ -1,6 +1,34 @@
 {
-  "last_updated": "2024-07-04T13:29:38Z",
+  "last_updated": "2025-03-11T08:14:49.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3409",
+      "time": "2025-03-11T08:14:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3409#issuecomment-2713100052",
+      "text": "**Steps**\n**1. Document Existing Schema for Beckn Registry in a excel sheet** -p1\n2. Define DeDi Schema for Beckn Registry \n3. Create Postman Collection for Registry Operation using DeDi\n4. Create a strapi pugin for /subscribe & /lookup which will be talking to DeDi endpoint --\n5. Document /lookup & /subscribe implementation in existing registry framework\n**5. Create API documentation for Registry UI**  --p1\n6. Develop API Endpointd discussed in point 5\n**7. Create UX for the registry ( Refer the Old registry)** --p1\n8. Create UI for Registry Along with API Integration\n\n\nconnect with suren \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3409",
+      "time": "2025-03-11T06:32:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3409#issuecomment-2712829070",
+      "text": " **Points to Discuss**\n1. This migration is only for BOC or for all environment? because we need to make changes in protocol server to support this.\n2. Will there be any usage of gateway after this migration? if Not who will broadcast the search request\n3. Do we need to update the ONIX script as well to install Beckn one registry instead of legacy beckn registry.\n4. is this a proper decentralization of registry or just a mock implementation. If it is a decentralized system will the registry talk to other registry.\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-10T06:03:22Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448",
+      "text": "Identify and Validate Changes in Strapi for Dynamic Price & Tax Calculation in Price Breakup"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#250",
+      "time": "2025-03-10T05:42:21Z",
+      "link": "https://github.com/beckn/protocol-server/issues/250",
+      "text": "Create a sample UI implementing 2 search APIs (Protocol Server & GCL) for PS-Search API Enhancement"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/protocol-server#202",
@@ -6072,13 +6100,6 @@
     },
     {
       "type": "issue_opened",
-      "title": "beckn/protocol-server#250",
-      "time": "2025-03-10T05:42:21Z",
-      "link": "https://github.com/beckn/protocol-server/issues/250",
-      "text": "Create a sample UI implementing 2 search APIs (Protocol Server & GCL) for PS-Search API Enhancement"
-    },
-    {
-      "type": "issue_opened",
       "title": "beckn/protocol-server#248",
       "time": "2025-03-05T12:23:57Z",
       "link": "https://github.com/beckn/protocol-server/issues/248",
@@ -6104,13 +6125,6 @@
       "time": "2025-02-26T10:11:17Z",
       "link": "https://github.com/beckn/protocol-server/issues/245",
       "text": "Protocol Server Latency Optimization - Approach Note"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3448",
-      "time": "2025-03-10T06:03:22Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448",
-      "text": "Identify and Validate Changes in Strapi for Dynamic Price & Tax Calculation in Price Breakup"
     },
     {
       "type": "issue_opened",
@@ -7289,6 +7303,33 @@
       "text": "Implement Mobile Number & OTP-Based Login and Update Signup Form with API Integration"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
+      "title": "L2Config - EV / EnergyDemand/ Surplus energy",
+      "stale_for": 265,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
+      "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
+      "stale_for": 185,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/local-retail/pull/16",
+      "title": "DSNP & OSM Example Added",
+      "stale_for": 293,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/DSEP-Specification/pull/175",
+      "title": "Validated DSEP Specification with Core v 1.1.0",
+      "stale_for": 315,
+      "labels": [
+        "enhancement"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

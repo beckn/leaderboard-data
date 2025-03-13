@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-09-26T06:39:42Z",
+  "last_updated": "2025-03-11T05:45:10.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-11T05:39:49.000Z",
+      "title": "beckn/beckn-onix#407",
+      "link": "https://github.com/beckn/beckn-onix/pull/407#pullrequestreview-2670064831",
+      "text": "Plugin for schema validation"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/protocol-server#232",

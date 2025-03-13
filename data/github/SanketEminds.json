@@ -1,6 +1,48 @@
 {
-  "last_updated": "2024-09-03T05:58:51Z",
+  "last_updated": "2025-03-13T10:41:24.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3479",
+      "time": "2025-03-13T10:41:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3479",
+      "text": "P2P Energy-Dashboard Data Fetch Failure - Error Message Displayed"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3478",
+      "time": "2025-03-13T10:39:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3478",
+      "text": "P2P Energy -Sell Energy - Empty Page Missing Text and Image"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3477",
+      "time": "2025-03-13T08:51:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3477",
+      "text": "Open Spark App-App Switching Delay and Incorrect Screen Display in Open Spark"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3437",
+      "time": "2025-03-13T04:32:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3437#issuecomment-2719901068",
+      "text": "All daily testing tasks related to this ticket are complete. Tested EC apps, raised bugs, and all bugs have been fixed by the dev team. (@skrushna1506 @rahul-eminds @aniketceminds  ) Below is the list of bugs.\n[Ec app Bug](https://docs.google.com/spreadsheets/d/1KvHC_MAua8rsGkqjmk-d-8iSyTeXUe4PWGS9aRtjj3Q/edit?gid=2120922711#gid=2120922711)\ncc @omkar-em @PritiEM @emmayank "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3443",
+      "time": "2025-03-10T05:38:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3443#issuecomment-2709480767",
+      "text": "Identified issues in the bug room and raised bugs for all of them. Also ensured that QA verified everything is working fine. Tested on the production environment along with development. Below is the list of bugs, closing this ticket.\n[bug list](https://docs.google.com/spreadsheets/d/1IUlXYJRvJ5N0cwdKBsA06KUKxxgrrSAtX0-V1eJL_hI/edit?gid=1537302126#gid=1537302126)\ncc @omkar-em @PritiEM @emmayank "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3443",
+      "time": "2025-03-10T05:18:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3443",
+      "text": "Winroom: QA Bug Reporting for Spark App (3rd Mar to 7th Mar)"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#1975",
@@ -819,13 +861,6 @@
       "time": "2024-12-19T05:31:10Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2797",
       "text": "Open Spark -Sign-Up Failure in Open Spark App"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3443",
-      "time": "2025-03-10T05:18:48Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3443",
-      "text": "Winroom: QA Bug Reporting for Spark App (3rd Mar to 7th Mar)"
     },
     {
       "type": "issue_opened",

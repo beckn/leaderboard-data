@@ -1,6 +1,83 @@
 {
-  "last_updated": "2023-05-16T06:59:47Z",
+  "last_updated": "2025-03-13T05:48:27.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#252",
+      "time": "2025-03-13T05:48:27.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/252#issuecomment-2720053699",
+      "text": "This implementation introduces a **streaming response mechanism** for search requests. When `streamOnSearch` is enabled, responses will be streamed **in real-time** instead of being stored in `SyncCache`. This improves response times and allows clients to process data incrementally.\n\n### **1. Configuration Update**  \n- A new configuration flag `streamOnSearch` is introduced under `app` settings.\n- When `streamOnSearch: true`, the system **streams responses** instead of storing them in the cache.\n\n### **2. Emitting Search Event**\n- When streaming is enabled, responses are emitted using `eventBus`:\n  - If streaming is enabled, `onSearch` event is emitted.  \n  - If disabled, the response is stored in `SyncCache`.\n\n- **Opens a streaming connection** when `streamOnSearch` is enabled.  \n- **Listens to `onSearch` event** and writes responses **as they arrive**.  \n- **Ends the stream** after the `waitTime` timeout.  \n\n## **Testing & Validation**\n- **Enable `streamOnSearch: true`** and verify **real-time responses** are streamed.\n- **Disable `streamOnSearch: false`** and confirm responses are retrieved from `SyncCache`.\n- Validate proper event cleanup to prevent memory leaks."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#254",
+      "time": "2025-03-13T05:45:47.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/254",
+      "text": "Backend Support for the client implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#253",
+      "time": "2025-03-13T05:43:56.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/253",
+      "text": "Test with Multiple BPP"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#252",
+      "time": "2025-03-13T05:38:39.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/252#issuecomment-2720041903",
+      "text": "PR is raised: https://github.com/beckn/protocol-server/pull/251"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#252",
+      "time": "2025-03-13T05:37:26.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/252",
+      "text": "Code implementation"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#248",
+      "time": "2025-03-13T05:33:14.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/248#issuecomment-2720035631",
+      "text": "This implementation introduces a **streaming response mechanism** for search requests. When `streamOnSearch` is enabled, responses will be streamed **in real-time** instead of being stored in `SyncCache`. This improves response times and allows clients to process data incrementally.\n\n### **1. Configuration Update**  \n- A new configuration flag `streamOnSearch` is introduced under `app` settings.\n- When `streamOnSearch: true`, the system **streams responses** instead of storing them in the cache.\n\n### **2. Emitting Search Event**\n- When streaming is enabled, responses are emitted using `eventBus`:\n  - If streaming is enabled, `onSearch` event is emitted.  \n  - If disabled, the response is stored in `SyncCache`.\n\n- **Opens a streaming connection** when `streamOnSearch` is enabled.  \n- **Listens to `onSearch` event** and writes responses **as they arrive**.  \n- **Ends the stream** after the `waitTime` timeout.  \n\n## **Testing & Validation**\n- **Enable `streamOnSearch: true`** and verify **real-time responses** are streamed.\n- **Disable `streamOnSearch: false`** and confirm responses are retrieved from `SyncCache`.\n- Validate proper event cleanup to prevent memory leaks."
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#251",
+      "time": "2025-03-10T20:17:04Z",
+      "link": "https://github.com/beckn/protocol-server/pull/251",
+      "text": "feat: Add conditional streaming response handling with error handling…"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3432",
+      "time": "2025-03-10T05:36:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3432",
+      "text": "Winroom: Bug Fixes for Spark App (3rd Mar to 7th Mar)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3432",
+      "time": "2025-03-10T05:34:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3432#issuecomment-2709476136",
+      "text": "Worked on fix for Lend Ease backend\nFixed a bug related to the renting search filters.\nWinroom bug fixes for showing user profile logo in the Ledease"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#248",
+      "time": "2025-03-10T05:25:42.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/248#issuecomment-2709465700",
+      "text": "Currently, code changes for the implementation are in progress."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#248",
+      "time": "2025-03-10T05:24:44.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/248#issuecomment-2709464515",
+      "text": "Protocol server POC for the search response optimization is completed."
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-sandbox#9",
@@ -252,15 +329,21 @@
       "time": "2025-02-15T05:12:52Z",
       "link": "https://github.com/beckn/strapi-bap-bpp/pull/10",
       "text": "feat: create endpoint to upload doc and return publicly accessible url"
-    },
-    {
-      "type": "pr_opened",
-      "title": "beckn/protocol-server#251",
-      "time": "2025-03-10T20:17:04Z",
-      "link": "https://github.com/beckn/protocol-server/pull/251",
-      "text": "feat: Add conditional streaming response handling with error handling…"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/251",
+      "title": "feat: Add conditional streaming response handling with error handling…",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/bpp-adapter/pull/2",
+      "title": "refactor: remove the untracked data in git cache",
+      "stale_for": 417,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,104 @@
 {
-  "last_updated": "2023-10-30T09:03:17Z",
+  "last_updated": "2025-03-11T12:11:06.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#418",
+      "time": "2025-03-11T12:11:04Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/418",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#418",
+      "time": "2025-03-11T12:10:33.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/418",
+      "text": "Develop"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3455",
+      "time": "2025-03-10T14:32:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3455#issuecomment-2710804625",
+      "text": "In today's call with the Vistaar team, we debugged the Gateway to Registry communication issue.  \n\n- The issue occurred after setting up a new Gateway. The auto-subscribe feature was not working.  \n- We investigated the Nginx configuration and made the necessary changes, but the issue persisted.  \n- Their infrastructure team then performed IP whitelisting on their firewall.  \n- After the IP whitelisting, the issue was resolved."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3455",
+      "time": "2025-03-10T14:12:33Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3455",
+      "text": "On-Call Support for Vistaar"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3455",
+      "time": "2025-03-10T14:25:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3455#issuecomment-2710785074",
+      "text": "The Vistaar team encountered an issue with the newly set up Beckn network for BAP and BPP.  \n\nThey were receiving a `NetworkAdaptor$Domain` error, which was resolved by adding the domain to the network and restarting the gateway."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3456",
+      "time": "2025-03-10T14:18:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3456#issuecomment-2710763249",
+      "text": "Created the DevOps Weekly sheet for the past 3-4 weeks and shared it with the team."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3456",
+      "time": "2025-03-10T14:12:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3456",
+      "text": "Weekly DevOps Sheet Creation"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3457",
+      "time": "2025-03-10T14:16:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3457#issuecomment-2710755635",
+      "text": "Updated the environment variables for Lendlease, Solaris, Vault, and Spark applications, and redeployed them."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3457",
+      "time": "2025-03-10T14:12:47Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3457",
+      "text": "Updated ENV Variables in Experience Center (EC)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3457",
+      "time": "2025-03-10T14:12:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3457",
+      "text": "Updated ENV Variables in Experience Center (EC)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3456",
+      "time": "2025-03-10T14:12:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3456",
+      "text": "Weekly DevOps Sheet Creation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3455",
+      "time": "2025-03-10T14:12:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3455",
+      "text": "On-Call Support for Vistaar"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3411",
+      "time": "2025-03-10T14:12:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3411",
+      "text": "On-Call Support for Haqdarshak"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3411",
+      "time": "2025-03-10T14:10:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3411#issuecomment-2710738628",
+      "text": "The Haqdarshak team encountered a \"request body is too large\" error. We have already updated the 'limit' on the BPP side in the `src/app.ts` file, but the issue persists. To fully resolve this, we need to apply the same change on the BAP side as well.  \n\nThe Haqdarshak team is collaborating with the BAP team to increase the 'limit' at the code level.  \n\n**Action Item:** Add a `limit` variable in the `default.yaml` file to enable easier updates without requiring code changes."
+    },
     {
       "type": "pr_merged",
       "title": "beckn/protocol-server#40",
@@ -625,34 +723,6 @@
       "text": "Create Spreadsheet of Running and Stopped EC2 Instances in AWS (Dec 2024)"
     },
     {
-      "type": "issue_closed",
-      "title": "beckn/beckn-ui-workspace#3457",
-      "time": "2025-03-10T14:12:47Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3457",
-      "text": "Updated ENV Variables in Experience Center (EC)"
-    },
-    {
-      "type": "issue_closed",
-      "title": "beckn/beckn-ui-workspace#3456",
-      "time": "2025-03-10T14:12:41Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3456",
-      "text": "Weekly DevOps Sheet Creation"
-    },
-    {
-      "type": "issue_closed",
-      "title": "beckn/beckn-ui-workspace#3455",
-      "time": "2025-03-10T14:12:33Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3455",
-      "text": "On-Call Support for Vistaar"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/beckn-onix#418",
-      "time": "2025-03-11T12:11:04Z",
-      "link": "https://github.com/beckn/beckn-onix/pull/418",
-      "text": "Develop"
-    },
-    {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#422",
       "time": "2025-03-12T11:00:45Z",
@@ -660,6 +730,13 @@
       "text": "bug/fix: implemented login validation for old registry"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-sandbox/pull/10",
+      "title": "Devops",
+      "stale_for": 217,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

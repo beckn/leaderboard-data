@@ -1,6 +1,217 @@
 {
-  "last_updated": "2024-07-10T06:37:01Z",
+  "last_updated": "2025-03-13T07:53:32.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#250",
+      "time": "2025-03-13T07:53:32.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/250",
+      "text": "fix: modified code to add loading and functional chnges in opnspark f…",
+      "turnaround_time": 16
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#250",
+      "time": "2025-03-13T07:53:17.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/250",
+      "text": "fix: modified code to add loading and functional chnges in opnspark f…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3469",
+      "time": "2025-03-11T13:15:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3469",
+      "text": "fix(open-spark): all energy app redux index file upted for persisting…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3469",
+      "time": "2025-03-11T13:15:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3469",
+      "text": "fix(open-spark): all energy app redux index file upted for persisting…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3468",
+      "time": "2025-03-11T12:27:10Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3468",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3468",
+      "time": "2025-03-11T12:27:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3468",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3467",
+      "time": "2025-03-11T12:26:14Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3467",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-11T11:51:30.000Z",
+      "title": "beckn/beckn-exp-guide-ui#249",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/249#pullrequestreview-2674129756",
+      "text": "created seperate instruction modal for open spark apps"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3445",
+      "time": "2025-03-11T10:13:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3445#issuecomment-2713507758",
+      "text": "Worked on:\n- Need hand pointer on \"Manage loan catalog\" text\n- fixed issue related to render EMI plans according to the selected bank provider and fixes some functional issues in same.\n- Connected with QA and BE team, regarding checkout payment issues\n- OpenSpark Peer2Peer & admin - modified order details page according to Figma designs."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3465",
+      "time": "2025-03-11T10:05:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3465",
+      "text": "fix(open-spark-p2p): modified code to get order details of trade and …"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3465",
+      "time": "2025-03-11T10:05:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3465",
+      "text": "fix(open-spark-p2p): modified code to get order details of trade and …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3430",
+      "time": "2025-03-11T07:10:04Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3430",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3464",
+      "time": "2025-03-11T07:09:44Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3464",
+      "text": "fix(open-spark): modified code to fix connect vault app modal config …"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3464",
+      "time": "2025-03-11T07:09:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3464",
+      "text": "fix(open-spark): modified code to fix connect vault app modal config …"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3445",
+      "time": "2025-03-11T06:21:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3445#issuecomment-2712806980",
+      "text": "Worked on:\n- filtering the assets added from wallet in Solaris app while creating the Catalogue.\n- Added OTPVerification screen in lend-ease app and functional chnages\n- Added token expiry popup and navigation to login page - auth chnges in all the apps\n- WIP: finance search api should get the result according to provider selected"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-11T05:45:07.000Z",
+      "title": "beckn/beckn-ui-workspace#3454",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3454#pullrequestreview-2672910930",
+      "text": "fix(open-spark): profile changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3461",
+      "time": "2025-03-11T05:44:43Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3461",
+      "text": "fix(open-spark): modified code to get only discounted details for sel…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3461",
+      "time": "2025-03-11T05:43:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3461",
+      "text": "fix(open-spark): modified code to get only discounted details for sel…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3428",
+      "time": "2025-03-10T11:36:37Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3428",
+      "text": "feat(open-spark-p2p): initialize the peer to peer openspark app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3446",
+      "time": "2025-03-10T05:42:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3446#issuecomment-2709485647",
+      "text": "<img width=\"822\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/eaea64b6-55d8-4d42-8eec-31d7543d0a49\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3446",
+      "time": "2025-03-10T05:41:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3446#issuecomment-2709484519",
+      "text": "Project is setup and initialised, some API's are failing and required changes in login, signUp APIs. Will connect with @rahul-eminds for this.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3388",
+      "time": "2025-03-10T05:38:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3388#issuecomment-2709481204",
+      "text": "bug fixes for Vault and OpenSpark apps\nhttps://docs.google.com/spreadsheets/d/1IUlXYJRvJ5N0cwdKBsA06KUKxxgrrSAtX0-V1eJL_hI/edit?gid=1537302126#gid=1537302126"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3446",
+      "time": "2025-03-10T05:33:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3446",
+      "text": "Peer-to-Peer OpenSpark Trade App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3445",
+      "time": "2025-03-10T05:33:32Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3445",
+      "text": "Winroom: Bug Fixes for Spark App (10th Mar to 13th Mar)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3348",
+      "time": "2025-03-10T05:32:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3348#issuecomment-2709473347",
+      "text": "<img width=\"822\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/39d7c865-115a-4952-b140-e9e686b0fe63\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3335",
+      "time": "2025-03-10T05:29:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3335#issuecomment-2709469574",
+      "text": "<img width=\"822\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bff583dc-dd79-45bf-b8af-a5745a593d59\" />\n\n<img width=\"822\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d4013ae3-34c4-4777-93b7-a4b06a4b69d6\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3335",
+      "time": "2025-03-10T05:27:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3335#issuecomment-2709467978",
+      "text": "<img width=\"822\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/15e59554-6608-4cbb-9773-7278497db841\" />\n\n<img width=\"822\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4624063d-cc38-405f-976e-4828e5cb4274\" />"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3444",
+      "time": "2025-03-10T05:24:53Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3444",
+      "text": "fix(open-spark-solaris): modified code to filter out the vault assets"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3444",
+      "time": "2025-03-10T05:24:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3444",
+      "text": "fix(open-spark-solaris): modified code to filter out the vault assets"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-10T04:48:06.000Z",
+      "title": "beckn/beckn-exp-guide-ui#247",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/247#pullrequestreview-2669779294",
+      "text": "feat(open-spark): added instruction pop up for open spark"
+    },
     {
       "type": "pr_reviewed",
       "title": "beckn/protocol-server#212",
@@ -2397,20 +2608,6 @@
     },
     {
       "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3446",
-      "time": "2025-03-10T05:33:48Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3446",
-      "text": "Peer-to-Peer OpenSpark Trade App"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3445",
-      "time": "2025-03-10T05:33:32Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3445",
-      "text": "Winroom: Bug Fixes for Spark App (10th Mar to 13th Mar)"
-    },
-    {
-      "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3388",
       "time": "2025-03-04T05:34:04Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/3388",
@@ -3258,13 +3455,6 @@
     },
     {
       "type": "pr_merged",
-      "title": "beckn/beckn-ui-workspace#3428",
-      "time": "2025-03-10T11:36:37Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3428",
-      "text": "feat(open-spark-p2p): initialize the peer to peer openspark app"
-    },
-    {
-      "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3429",
       "time": "2025-03-09T09:41:59Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3429",
@@ -3283,13 +3473,6 @@
       "time": "2025-03-09T09:57:44Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3431",
       "text": "fix(unified-wallet): owner details issue fixed"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/beckn-ui-workspace#3444",
-      "time": "2025-03-10T05:24:53Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3444",
-      "text": "fix(open-spark-solaris): modified code to filter out the vault assets"
     },
     {
       "type": "pr_merged",
@@ -3362,55 +3545,6 @@
       "text": "Staging 1.1.0"
     },
     {
-      "type": "pr_merged",
-      "title": "beckn/beckn-ui-workspace#3430",
-      "time": "2025-03-11T07:10:04Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3430",
-      "text": "Develop 1.1.0"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/beckn-ui-workspace#3461",
-      "time": "2025-03-11T05:44:43Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3461",
-      "text": "fix(open-spark): modified code to get only discounted details for sel…"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/beckn-ui-workspace#3464",
-      "time": "2025-03-11T07:09:44Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3464",
-      "text": "fix(open-spark): modified code to fix connect vault app modal config …"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/beckn-ui-workspace#3465",
-      "time": "2025-03-11T10:05:37Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3465",
-      "text": "fix(open-spark-p2p): modified code to get order details of trade and …"
-    },
-    {
-      "type": "pr_opened",
-      "title": "beckn/beckn-ui-workspace#3467",
-      "time": "2025-03-11T12:26:14Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3467",
-      "text": "Develop 1.1.0"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/beckn-ui-workspace#3468",
-      "time": "2025-03-11T12:27:10Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3468",
-      "text": "Staging 1.1.0"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/beckn-ui-workspace#3469",
-      "time": "2025-03-11T13:15:44Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3469",
-      "text": "fix(open-spark): all energy app redux index file upted for persisting…"
-    },
-    {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#3446",
       "time": "2025-03-10T05:33:48Z",
@@ -3460,6 +3594,19 @@
       "text": "fix(open-spark): modified code to revert the chnges fo routing issue"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3467",
+      "title": "Develop 1.1.0",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
+      "title": "Cypress amplify testing",
+      "stale_for": 57,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

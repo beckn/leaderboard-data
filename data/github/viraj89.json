@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-06-13T17:47:59Z",
+  "last_updated": "2025-03-10T05:33:42.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#249",
+      "time": "2025-03-06T05:03:10Z",
+      "link": "https://github.com/beckn/protocol-server/issues/249",
+      "text": "Make Changes in GCL to incorporate PS-Search API Enhancement"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/protocol-server#176",
@@ -4879,13 +4886,6 @@
       "time": "2024-12-12T12:55:22Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/257",
       "text": "Setup Subdomain and Update DNS Records for UKI Microsite"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/protocol-server#249",
-      "time": "2025-03-06T05:03:10Z",
-      "link": "https://github.com/beckn/protocol-server/issues/249",
-      "text": "Make Changes in GCL to incorporate PS-Search API Enhancement"
     },
     {
       "type": "issue_opened",

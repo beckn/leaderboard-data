@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-06-18T12:48:42Z",
+  "last_updated": "2025-03-13T06:50:31.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3250",
+      "time": "2025-03-13T06:50:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3250#issuecomment-2720152609",
+      "text": "Done\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3466",
+      "time": "2025-03-11T12:19:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3466#issuecomment-2713970817",
+      "text": "<img width=\"1218\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/046cbdd2-7b97-4fae-8abf-5f41eae62b3c\" />\n\n<img width=\"1166\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/98071f68-dbe8-46dc-a44b-13f5545722a4\" />\n\n<img width=\"986\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e06c8f4d-8450-4db2-b1fa-42d81e27e0de\" />\n\n<img width=\"973\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7d575bbf-dd1a-47d7-8da1-d361acabe59e\" />"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3466",
+      "time": "2025-03-11T11:53:28Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3466",
+      "text": "Winroom: Bug Fixes for Spark App (11th Mar to 13th Mar)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#249",
+      "time": "2025-03-11T11:51:35Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/249",
+      "text": "created seperate instruction modal for open spark apps"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#249",
+      "time": "2025-03-11T11:20:33.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/249",
+      "text": "created seperate instruction modal for open spark apps"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#1345",
@@ -4235,22 +4270,33 @@
       "time": "2025-03-06T05:53:44Z",
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/246",
       "text": "Staging 1.1.0"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3466",
-      "time": "2025-03-11T11:53:28Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3466",
-      "text": "Winroom: Bug Fixes for Spark App (11th Mar to 13th Mar)"
-    },
-    {
-      "type": "pr_merged",
-      "title": "beckn/beckn-exp-guide-ui#249",
-      "time": "2025-03-11T11:51:35Z",
-      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/249",
-      "text": "created seperate instruction modal for open spark apps"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/242",
+      "title": "added iframe for open spark",
+      "stale_for": 10,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/policy-admin-ui/pull/7",
+      "title": "css changes for policy details",
+      "stale_for": 735,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/policy-admin-ui/pull/6",
+      "title": "css fixed for geofencing and create policy form",
+      "stale_for": 735,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/policy-admin-ui/pull/5",
+      "title": "policy details page",
+      "stale_for": 735,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

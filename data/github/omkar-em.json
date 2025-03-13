@@ -1,6 +1,83 @@
 {
-  "last_updated": "2024-07-11T12:13:18Z",
+  "last_updated": "2025-03-13T05:04:57.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3434",
+      "time": "2025-03-13T05:04:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3434#issuecomment-2719958378",
+      "text": "Confluence link for LendEase application user guide -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/864059403/User+Guide+-+LendEase"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3459",
+      "time": "2025-03-13T04:53:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3459#issuecomment-2719945175",
+      "text": "Bugs reported were -\nEC --> Resolving the iframe routing issue.\nEC --> apps loading slowly while switching."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3434",
+      "time": "2025-03-13T04:48:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3434#issuecomment-2719939131",
+      "text": "Confluence link for vault application user guide - \nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/864124929/User+Guide+-+Vault+Application"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3439",
+      "time": "2025-03-13T04:22:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3439#issuecomment-2719883091",
+      "text": "Status Update:\nSanity testing for recent bug fixes has been completed. All critical functionality has been verified, and no new issues were identified. The fixes are confirmed to be stable, and the application is ready for further testing or deployment as applicable.\n\nBugs list for current iteration -\n\nhttps://github.com/beckn/beckn-ui-workspace/issues/3129\nhttps://github.com/beckn/beckn-ui-workspace/issues/3348\nhttps://github.com/beckn/beckn-ui-workspace/issues/3436\nhttps://github.com/beckn/beckn-ui-workspace/issues/3160\nhttps://github.com/beckn/beckn-ui-workspace/issues/3234\nhttps://github.com/beckn/beckn-ui-workspace/issues/3375\nhttps://github.com/beckn/beckn-ui-workspace/issues/3435"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3459",
+      "time": "2025-03-11T05:02:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3459",
+      "text": "Winroom: QA Bug Reporting for Spark App (10th Mar to 13th Mar)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3367",
+      "time": "2025-03-03T12:04:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3367",
+      "text": "Winroom: QA Bug Reporting for Spark App (3rd Mar to 7th Mar)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3367",
+      "time": "2025-03-10T05:33:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3367#issuecomment-2709475465",
+      "text": "Following bugs were raised during winroom calls -\n\n\nVault-\n<html><body>\n<!--StartFragment--><google-sheets-html-origin><style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>\n1. Should take only digits in sign in page\n--\n2. add \"-\" on otp screen\n3.  Reduce forward icon size on index/energy assets page (firefox)\n4. On blank connection screen - alignment issue\n5. Add \"company\" in drop down option in add connection -\n6. Hand icon on attested by section where there is nothing clickable\n7. \"Verified\" sign is not visible on connections page\n8. On \"connections\" page time shown is current time\n9. Unable to remove connections\n10. \"Energy assets\" page title is not updated in figma\n11. Numbers are not visible on \"energy assets\" page\n12. add validation on url - energy assets - > add credentials\n13. \"Add new credential\" -> add title to drop down in bottomsheet\n14. after successfull deletion bottomsheet is not closing\n15. physical assets -> click on any asset -> documents (showing hand icon)\n16. physical assets -> click on any asset -> owner details - only mobile no is showing\n17.  physical assets -> click on any asset ->  click on any attested by -> documents images are very small\n18. Provider icon is not visible in transaction history\n19. Energy transaction page title is different than figma\n20. In transcation history -> order details -> progress summary is visible\n21. Profile section is not present in vault\n22. Physcial assets -> doc not uploading\n23. Physical assets -> once doc is uploaded then deleted and another added, unable to \"add\"\n24. Flash screen is appearing number of times in vault\n25. Transaction history - Filters for latest/last 7 days/ custom are not avaialble\n26. In transcation history -> order details -> page crashing\n27. When custom-upload api fails with error message - payload is too large - releveant error should be displayed\nvault app is crashing while checking for transactions\namount is not matching with transactions\nWhen a battery rental is processed for multiple hours, the Order History is showing only 1 hour instead of the actual rented duration.\nAdd document clickability on entire field\n7 March\nUnable to add physical assets - custom_upload Api Failing\nAttest API failing\nEnergy transaction -> order details -> status api failing\n\n<!--EndFragment-->\n</body>\n</html>\n\n\nSpark - \n\n<html><body>\n<!--StartFragment--><google-sheets-html-origin><style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>\n1. Sign up page - allows alphabets on mobile number field - (firefox)\n--\n2. sign up page - Add \"enter your\" in full name section\n3. On sign up page - lable change is not implemented -\n4. Sign up screen - otp screen -> Takes alphabets in otp\n5. After login - connect wallet - \"I don’t have a wallet\" is not present in figma. should we remove it? -\n6. If we connect wallet for which vault is not created - toast is giving geenric error message. should be some more specific message. -\n7. spark - on wallet connection - otp screen hides in micro seconds\n8. Loader screen after fetching info from wallet is not visible\n9. remove \"customer id\" section from profile section\n10. Spacing issue on market place page\n11. Empty my order page\n12. search results are not displaying -\n13. Bottomsheet is not showing in search loader\n14. In product description - title should be search term, lable should be added to \"select qty\"\n15.  Toast msg height is wrong\n16. Cart & billing shipping page - sold by is not visible\n17. cart page - total is not visible\n18.  Checkout page - available emi plans - should have bank icon only or with name\n19.  Checkout page - on wallet sync msg shown should be correct for each bank\n20. checkout page - sync wallet with 1 bank is giving discount in another bank as well\n21. EMI application - loan tenure should not be empty\n22. New payment overview title is not visible - not required.\n23. New payment options % should be in brackets, total amount should be upfront text allignment issue, sold by is not visible, remove line break in order overview\n24. all pages title is checkout\n25. Secure checkout page -  add spacing between otp and resend\n26. My orders  - ordered qty was 2 but showing 1, also payment amount is not correct\n27. UPI payment screen - to is not visible\n28. UPI payment screen - button below 7 is not correct\n29. My rentals - button is visible on landing screen instead of 3 dot menu option -\n30 . Text on my rental page - is not in sync with figma -\n31. rental service - search results are from past\n32. rental service - filter is disabled\n33. Text visible in rental service details is not properly alligned. -\n34. Confirm rent screen - margin bottom is missing\n35. After EMI, in Checkout page, Total price does not have the delivery fee included\nPer Month amount ( 12 month / 9 month) in the EMI catalogue page, and in the dropdown are not matching\nFilters are disabled on search result\nSecure checkout page - Mobile number shown is wrong\nApps in Ex Center are experiencing delays when switching between them.\nsecure checkout page - otp accepts alphabets\nSpark - When 1 product is added , moved till billing and shipping page, then removed and added another product by clicking back on cart page, payment section shows old amounts\nOrder confirmation page failing (depends on previous bug)\nSpark - Users can rent a battery with the same start and end time (e.g., 8 PM to 8 PM), submit button should be disabled\nSpark - payment is wrong in billing and shipping page in rent\nSearch result are not showing for updated catelouge\n4 March\nPrice mismatch, spacing issue in cart page in tata batteries - Downice 48V 100ah\nPrice mismatch between lendease and spark\nCost differnce between order history and order details page\nWhen battery purchased from 2 different providers, emi is not matching\nTry to switch between apps in spark and other without connecting wallet\nShowing details of Lisa in shipping and billing when wallet is not connected\nAddress in shipping details is not matching with one which we signed up\nAble to connect wallet without verifying otp\nProfile is not updating\n\n<!--EndFragment-->\n</body>\n</html>\n\nSolaris-\n<html><body>\n<!--StartFragment--><google-sheets-html-origin><style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>\n1. sign up page - Add \"enter your\" in full name section\n--\n2. Sign up screen - otp screen -> Takes alphabets in otp\n3. If we connect wallet for which vault is not created - toast is giving generic error message. should be some more specific message\n4. Loader screen after fetching info from wallet is not visible\n5. Remove 'next' button while adding battery for renting\n6. Provide rental services - price takes alphabets\n7. Provide rental services - price doesn't save decimal values\n8. Able to add negative value in price in provide rental service using down key\n9. Time shown in \"Provide rental service\" bottomsheet is current time\n10. remove \"pending\" from my services\nAble to connect wallet without verifying otp\n\n<!--EndFragment-->\n</body>\n</html>\n\nLendEase -\n\n<html><body>\n<!--StartFragment--><google-sheets-html-origin><style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>\nDuring EMI, if after discount my interest is 12 %, it is still reflecting 14% in Lendease application\n--\nLoan Amount in Spark and in Lendease are not matching\nIf i am selecting 9 month tenure, it is still showing 12 months in Lenease\nAre we adding processing fee anywhere?\nInitial Payment should be ( Total cost - Approved loan) - because that is what i will pay\nHow loans from different banks differentiated in lendease?\nLendEase - Energy Finance showing N/A data, also tooltip is showing N/A\nLoan Amount in Spark and in Lendease are not matching\nWhere to check icici and axis bank details\nNumber registered on another app allows login in lendease\n\n<!--EndFragment-->\n</body>\n</html>"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3367",
+      "time": "2025-03-10T05:29:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3367#issuecomment-2709469914",
+      "text": "As part of the Winroom session on 4,5,6,7 March, the QA team conducted comprehensive testing of the Spark App, covering functional, UI, and API-related issues. The session lasted 8 hours/day, during which 115+ bugs were identified, documented, and shared with the development team.\n\nCollaborated with Krushna, Aniket, Sanket, Priti, Ajay, Shreya and Rahul for issue resolution. Bug fixing was completed for the dev , staging, prod environment."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3439",
+      "time": "2025-03-10T04:42:06Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3439",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3438",
+      "time": "2025-03-10T04:42:00Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3438",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3437",
+      "time": "2025-03-10T04:41:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3437",
+      "text": "Daily Application Testing"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#1504",
@@ -3468,27 +3545,6 @@
     },
     {
       "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3439",
-      "time": "2025-03-10T04:42:06Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3439",
-      "text": "Perform Sanity Testing on Recent Bug Fixes"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3438",
-      "time": "2025-03-10T04:42:00Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3438",
-      "text": "Weekly Application Testing"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3437",
-      "time": "2025-03-10T04:41:56Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3437",
-      "text": "Daily Application Testing"
-    },
-    {
-      "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3385",
       "time": "2025-03-04T04:58:18Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/3385",
@@ -3535,13 +3591,6 @@
       "time": "2025-03-03T14:25:00Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/3370",
       "text": "Daily Application Testing"
-    },
-    {
-      "type": "issue_closed",
-      "title": "beckn/beckn-ui-workspace#3367",
-      "time": "2025-03-03T12:04:41Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3367",
-      "text": "Winroom: QA Bug Reporting for Spark App (3rd Mar to 7th Mar)"
     },
     {
       "type": "issue_closed",
@@ -4221,13 +4270,6 @@
       "time": "2024-12-09T14:13:37Z",
       "link": "https://github.com/beckn/beckn-ui-workspace/issues/2705",
       "text": "End-to-End Automation Testing of State Forest Department App Using Cypress"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3459",
-      "time": "2025-03-11T05:02:23Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3459",
-      "text": "Winroom: QA Bug Reporting for Spark App (10th Mar to 13th Mar)"
     },
     {
       "type": "issue_closed",

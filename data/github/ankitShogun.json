@@ -1,6 +1,62 @@
 {
-  "last_updated": "2024-06-12T12:49:16Z",
+  "last_updated": "2025-03-10T06:30:08.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#260",
+      "time": "2025-03-10T06:30:08.000Z",
+      "link": "https://github.com/beckn/missions/issues/260#issuecomment-2709561591",
+      "text": "Resolved all her queries regarding current beckn onix implementation and new features in [this](https://docs.google.com/document/d/1LZxgvW6xcur9svtvUScifP-3Wogv_F_hfZiJh1k67_k/edit?tab=t.0) doc"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3422",
+      "time": "2025-03-10T06:25:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3422",
+      "text": "Tech Office Hours for the week of March 3"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#260",
+      "time": "2025-03-10T06:17:37Z",
+      "link": "https://github.com/beckn/missions/issues/260",
+      "text": "call with madhu from the google team"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3449",
+      "time": "2025-03-10T06:24:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3449#issuecomment-2709553556",
+      "text": "Mainly helped the frontend team whenever they were stuck in implementing something"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3449",
+      "time": "2025-03-10T06:23:55Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3449",
+      "text": "Winroom: Bug Fixes for Spark App (6th Mar & 7th Mar)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3449",
+      "time": "2025-03-10T06:23:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3449",
+      "text": "Winroom: Bug Fixes for Spark App (6th Mar & 7th Mar)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#260",
+      "time": "2025-03-10T06:17:38.000Z",
+      "link": "https://github.com/beckn/missions/issues/260",
+      "text": "call with madhu from the google team"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#272",
+      "time": "2025-03-10T06:15:35.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/272#issuecomment-2709540597",
+      "text": "### **Update 1**\n\n- Tried installing YaCy but ran into some issues with dependencies and configuration.  \n- Faced problems with port conflicts and firewall settings, had to troubleshoot.  \n- Finally got YaCy running but still checking if all settings are correct.  \n\n\n---\n\n### **Update 2**  \n\n- Managed to set up YaCy and explored the admin interface.  \n- Started a test crawl but ran into indexing delays, tweaking some settings.  \n- Looked into how YaCy fetches data and how results appear in search.  \n\n\n---\n\n### **Update 3**  \n\n- Ran some test searches, results look okay but need refinement.  \n- Noticed some slow responses, might need optimization later.  \n- Started exploring how to connect YaCy with external sources for product data.  \n\n\nWill post a demo once done"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/protocol-server#170",
@@ -1486,13 +1542,6 @@
       "text": "Release notes update"
     },
     {
-      "type": "issue_closed",
-      "title": "beckn/missions#260",
-      "time": "2025-03-10T06:17:37Z",
-      "link": "https://github.com/beckn/missions/issues/260",
-      "text": "call with madhu from the google team"
-    },
-    {
       "type": "issue_opened",
       "title": "beckn/missions#258",
       "time": "2025-03-09T15:01:33Z",
@@ -1568,13 +1617,6 @@
       "time": "2025-01-16T15:26:16Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/267",
       "text": "RAG bot Research and POC for community support"
-    },
-    {
-      "type": "issue_closed",
-      "title": "beckn/beckn-ui-workspace#3449",
-      "time": "2025-03-10T06:23:55Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3449",
-      "text": "Winroom: Bug Fixes for Spark App (6th Mar & 7th Mar)"
     },
     {
       "type": "issue_closed",

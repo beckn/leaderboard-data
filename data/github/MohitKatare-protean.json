@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-03-11T05:29:32.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#357",
+      "time": "2025-03-11T05:29:32.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/357#issuecomment-2712694266",
+      "text": "1. Review comments on March 10th.\n2. Remove external libraries.\n3. Rename of NewSigner to New.\n4. Remove .so files\n5. Raise the updated PR on march 11th."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#357",
+      "time": "2025-03-11T05:23:20.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/357#issuecomment-2712682013",
+      "text": "1.  Review comments on March 6th.\n2. Chang the directory structure.\n3. Remove external libraries.\n4. Faced an issue with asserting the exported symbol for the plugin and resolved it on March 9th.\n5. Updated the implementation of the plugin manager.\n6. Adding a new folder package for plugin definitions.\n7. Raise the updated PR on March 10th."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

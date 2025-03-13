@@ -1,6 +1,76 @@
 {
-  "last_updated": "2023-07-21T14:21:39Z",
+  "last_updated": "2025-03-10T13:45:03.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3129",
+      "time": "2025-03-10T13:45:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3129#issuecomment-2710648234",
+      "text": "Current Status: The app is running fine now\n\n![Image](https://github.com/user-attachments/assets/1c4d93b6-91b0-4611-822a-85f114374752)\n![Image](https://github.com/user-attachments/assets/6bb70b50-37c3-40ca-8941-fda2b6800e91)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3452",
+      "time": "2025-03-10T13:39:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3452#issuecomment-2710631725",
+      "text": "Current Status: Fixed the bugs that were required and also enabled a functionality that will help to get Reduced Interest Rates for those providers only that is selected in `deg:finance` domain."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3452",
+      "time": "2025-03-10T12:07:56Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3452",
+      "text": "Winroom: Bug Fixes for Spark App (10th Mar )"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3451",
+      "time": "2025-03-10T12:07:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3451#issuecomment-2710366957",
+      "text": "Current Status: Have connected with the NPs along with Meenakshi and have guided them with the [Implementation Guide](https://docs.google.com/document/d/1dr3r8lg7U7-SpkyXS6hD1W2aMBimrS6Pa8dr6NATfyc/edit?tab=t.0#heading=h.fiihkv8t70n)\nAnd cleared their doubts and provided my inputs.\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3451",
+      "time": "2025-03-10T07:53:41Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3451",
+      "text": "Support Call for UEI Domain - Network Participant Testing on UEI Sandbox"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3450",
+      "time": "2025-03-10T07:49:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3450#issuecomment-2709699125",
+      "text": "Current Status: Have connected with NPs of UAI domain i.e. Haq Darshak and Sneha Patil's NP, along with Kathirvel and did the debugging and provided the fix the respective NPs and with that they were able to complete the transactions> Majorly the issue was related to their configuration and health status of Redis instance installed on their machine"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3450",
+      "time": "2025-03-10T07:45:23Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3450",
+      "text": "Support Call for UAI Domain - Debugging Network Participant Issues in API Transactions"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-10T06:05:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448#issuecomment-2709523640",
+      "text": "@rahul-eminds Before any app in a particular Beckn domain is moved to the staging or production environment, approval from Omkar is required to proceed. No deployment should occur without his explicit approval.\n\n\n@omkar-em @SanketEminds please do proper thorough testing before giving approval for any app in any domain "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3447",
+      "time": "2025-03-10T05:49:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3447#issuecomment-2709495704",
+      "text": "Current Status-> All the DEG apps migrated successfully to the PROD env.\n\n<img width=\"1491\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3af98003-c113-4282-982d-fbcd212a929e\" />"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3447",
+      "time": "2025-03-10T05:47:48Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3447",
+      "text": "Lead and Migrate FE Open Spark DEG domain APPs (Solaris, Spark APP, Vault, Lend Ease) and BE Apps (GCL, Strapi, Strapi Plugins, DB) from dev to prod"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/protocol-server#31",
@@ -2317,34 +2387,6 @@
       "time": "2025-03-05T19:36:43Z",
       "link": "https://github.com/beckn/strapi-plugins/pull/252",
       "text": "Added: Mobile Based Login"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3452",
-      "time": "2025-03-10T12:07:56Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3452",
-      "text": "Winroom: Bug Fixes for Spark App (10th Mar )"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3451",
-      "time": "2025-03-10T07:53:41Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3451",
-      "text": "Support Call for UEI Domain - Network Participant Testing on UEI Sandbox"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3450",
-      "time": "2025-03-10T07:45:23Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3450",
-      "text": "Support Call for UAI Domain - Debugging Network Participant Issues in API Transactions"
-    },
-    {
-      "type": "issue_opened",
-      "title": "beckn/beckn-ui-workspace#3447",
-      "time": "2025-03-10T05:47:48Z",
-      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3447",
-      "text": "Lead and Migrate FE Open Spark DEG domain APPs (Solaris, Spark APP, Vault, Lend Ease) and BE Apps (GCL, Strapi, Strapi Plugins, DB) from dev to prod"
     },
     {
       "type": "issue_opened",
