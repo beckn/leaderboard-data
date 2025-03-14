@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-03-13T07:53:32.000Z",
+  "last_updated": "2025-03-13T11:59:08.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3481",
+      "time": "2025-03-13T11:59:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3481",
+      "text": "fix(open-spark-p2p): modified code to fix the cosmetic chnges",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3481",
+      "time": "2025-03-13T11:59:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3481",
+      "text": "fix(open-spark-p2p): modified code to fix the cosmetic chnges"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-exp-guide-ui#250",

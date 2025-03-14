@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-03-11T05:29:32.000Z",
+  "last_updated": "2025-03-13T11:42:50.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#402",
+      "time": "2025-03-13T11:42:50.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/402",
+      "text": "Feature/signing plugin",
+      "turnaround_time": 1981830
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-onix#357",

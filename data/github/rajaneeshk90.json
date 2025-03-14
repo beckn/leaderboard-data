@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-03-11T11:19:46.000Z",
+  "last_updated": "2025-03-13T11:25:32.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#264",
+      "time": "2025-03-13T11:25:32.000Z",
+      "link": "https://github.com/beckn/missions/issues/264",
+      "text": "QuickSell: Creating generic schema for provider, catalog and item for retail and service catalogs-part-2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#263",
+      "time": "2025-03-13T11:24:30.000Z",
+      "link": "https://github.com/beckn/missions/issues/263",
+      "text": "QuickSell: Creating generic schema for provider, catalog and item for retail and service catalogs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#261",
+      "time": "2025-03-13T11:24:07.000Z",
+      "link": "https://github.com/beckn/missions/issues/261",
+      "text": "UEI: Implementation Guide for Effective Solarisation: solar square"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#248",
+      "time": "2025-03-13T11:23:41.000Z",
+      "link": "https://github.com/beckn/missions/issues/248",
+      "text": "Layer2 configs in openAPI version 3.1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#253",
+      "time": "2025-03-13T11:23:28.000Z",
+      "link": "https://github.com/beckn/missions/issues/253",
+      "text": "Review existing PRs raised by community in missions git repository, merge"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#252",
+      "time": "2025-03-13T11:23:16.000Z",
+      "link": "https://github.com/beckn/missions/issues/252",
+      "text": "Fix: Broken links, typos, example errors in missions git repo"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#259",
+      "time": "2025-03-13T11:23:03.000Z",
+      "link": "https://github.com/beckn/missions/issues/259",
+      "text": "Missions and Protocol specification: Issues, PRs, Bugs"
+    },
     {
       "type": "comment_created",
       "title": "beckn/missions#263",
@@ -2113,7 +2162,7 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "title": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs.",
-      "stale_for": 135,
+      "stale_for": 136,
       "labels": []
     },
     {
@@ -2155,7 +2204,7 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/18",
       "title": "Layer2 config for retail domain",
-      "stale_for": 278,
+      "stale_for": 279,
       "labels": []
     },
     {
@@ -2173,7 +2222,7 @@
     {
       "link": "https://github.com/beckn/Industry-4.0-Specifications/pull/9",
       "title": "Validating Industry4.0 Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Industry4.0 specification",
-      "stale_for": 330,
+      "stale_for": 331,
       "labels": []
     },
     {
@@ -2185,7 +2234,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/407",
       "title": "Adding a GitHub action for Beckn core specification to validate meta.yaml, registry.yaml and transaction.yaml files against OpenAPI3.0",
-      "stale_for": 56,
+      "stale_for": 57,
       "labels": []
     },
     {

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-10T13:45:03.000Z",
+  "last_updated": "2025-03-13T12:29:18.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#278",
+      "time": "2025-03-13T12:29:18.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/278#issuecomment-2721091268",
+      "text": "Current Status: Have gone through the existing code in registry for subscribe and lookup API and tried to understand the data flow in the code. And have created 2 docs one for each APIs. \nPFA\n\n[Subscribe Implementation.md](https://github.com/user-attachments/files/19228662/Subscribe.Implementation.md)\n[Lookup Implementation.md](https://github.com/user-attachments/files/19228663/Lookup.Implementation.md)"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3129",
@@ -2459,6 +2466,31 @@
       "text": "Understand transactional-ai-bap repository code after langgraph changes"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/generic-client-layer/pull/106",
+      "title": "Fix/tag structure ",
+      "stale_for": 29,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/191",
+      "title": "Feat/cache spec on boot",
+      "stale_for": 268,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/189",
+      "title": "Feat/cache spec on boot",
+      "stale_for": 142,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
+      "title": "Staging",
+      "stale_for": 386,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

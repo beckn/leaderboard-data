@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-03-13T10:41:24.000Z",
+  "last_updated": "2025-03-13T13:01:18.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3483",
+      "time": "2025-03-13T13:01:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3483",
+      "text": "Ec Apps-ODR App Crashes While Searching"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3482",
+      "time": "2025-03-13T12:28:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3482",
+      "text": "P2P Energy-Fields Missing on Profile Page of Admin"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3480",
+      "time": "2025-03-13T10:44:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3480",
+      "text": "P2P Energy-OTP Screen Allows Invalid Characters"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3479",

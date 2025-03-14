@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-13T05:48:27.000Z",
+  "last_updated": "2025-03-13T14:04:40.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#279",
+      "time": "2025-03-13T14:04:40.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/279#issuecomment-2721384013",
+      "text": "##### Date: 13 March, 2025\n#### Current Status:\n1. Attended the meeting for reviewing the schema and API doc.\n2. Updated the API docs with our new schema.\n\n#### Next Steps:\n1. I will connect with team for updated API document review."
+    },
     {
       "type": "comment_created",
       "title": "beckn/protocol-server#252",
@@ -335,7 +342,7 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/251",
       "title": "feat: Add conditional streaming response handling with error handling…",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
