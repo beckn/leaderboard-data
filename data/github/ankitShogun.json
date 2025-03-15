@@ -1675,6 +1675,13 @@
       "text": "Langraph - Image processing sometimes giving undefined values"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
+      "title": "Release notes update",
+      "stale_for": 86,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
