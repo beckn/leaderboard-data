@@ -7303,6 +7303,33 @@
       "text": "Implement Mobile Number & OTP-Based Login and Update Signup Form with API Integration"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
+      "title": "L2Config - EV / EnergyDemand/ Surplus energy",
+      "stale_for": 268,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
+      "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
+      "stale_for": 187,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/local-retail/pull/16",
+      "title": "DSNP & OSM Example Added",
+      "stale_for": 296,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/DSEP-Specification/pull/175",
+      "title": "Validated DSEP Specification with Core v 1.1.0",
+      "stale_for": 317,
+      "labels": [
+        "enhancement"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

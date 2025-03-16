@@ -30,6 +30,13 @@
       "text": "Proxy Routing Plugin Implementation"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/232",
+      "title": "Updated Schema Validator to support openapi 3.1.0",
+      "stale_for": 145,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

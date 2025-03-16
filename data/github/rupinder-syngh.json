@@ -9,6 +9,19 @@
       "text": "Feat: Added plugin manager, publisher plugin"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/417",
+      "title": "Feat: Added plugin manager, publisher plugin",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/403",
+      "title": "feat: added network service - handler and receiver",
+      "stale_for": 8,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

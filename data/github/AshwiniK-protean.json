@@ -9,6 +9,13 @@
       "text": "Update the Initialise function and create test cases corresponding to the modifications made in the updated function and committed the code. @tanyamadaan kindly review the PR at your earliest convenience.\nCc: @viraj89 @Deepa-Mulchandani "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/407",
+      "title": "Plugin for schema validation",
+      "stale_for": 2,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
