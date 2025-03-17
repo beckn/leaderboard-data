@@ -1,6 +1,300 @@
 {
-  "last_updated": "2025-03-13T05:04:57.000Z",
+  "last_updated": "2025-03-16T17:42:39.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3460",
+      "time": "2025-03-16T17:42:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3460#issuecomment-2727560109",
+      "text": "Comprehensive end-to-end (E2E) testing of the Peer-to-Peer (P2P) OpenSpark Trade App has been successfully completed. The testing covered the entire workflow, including user registration, authentication, asset listing, trade matching, order execution, payment processing, and wallet integration.\n\nDuring testing, the following issues were identified:\nList of Bugs\n\nhttps://github.com/beckn/beckn-ui-workspace/issues/3504\nhttps://github.com/beckn/beckn-ui-workspace/issues/3478\nhttps://github.com/beckn/beckn-ui-workspace/issues/3501\nhttps://github.com/beckn/beckn-ui-workspace/issues/3479\nhttps://github.com/beckn/beckn-ui-workspace/issues/3480\nhttps://github.com/beckn/beckn-ui-workspace/issues/3502\nhttps://github.com/beckn/beckn-ui-workspace/issues/3503\nhttps://github.com/beckn/beckn-ui-workspace/issues/3484\nhttps://github.com/beckn/beckn-ui-workspace/issues/3485\nhttps://github.com/beckn/beckn-ui-workspace/issues/3486\nhttps://github.com/beckn/beckn-ui-workspace/issues/3487\nhttps://github.com/beckn/beckn-ui-workspace/issues/3488\nhttps://github.com/beckn/beckn-ui-workspace/issues/3489\nhttps://github.com/beckn/beckn-ui-workspace/issues/3490\nhttps://github.com/beckn/beckn-ui-workspace/issues/3491\nhttps://github.com/beckn/beckn-ui-workspace/issues/3492\nhttps://github.com/beckn/beckn-ui-workspace/issues/3493\nhttps://github.com/beckn/beckn-ui-workspace/issues/3494\nhttps://github.com/beckn/beckn-ui-workspace/issues/3495\nhttps://github.com/beckn/beckn-ui-workspace/issues/3496\nhttps://github.com/beckn/beckn-ui-workspace/issues/3497\nhttps://github.com/beckn/beckn-ui-workspace/issues/3498\nhttps://github.com/beckn/beckn-ui-workspace/issues/3499\nhttps://github.com/beckn/beckn-ui-workspace/issues/3500\n\nAdmin\nhttps://github.com/beckn/beckn-ui-workspace/issues/3505\nhttps://github.com/beckn/beckn-ui-workspace/issues/3482\nhttps://github.com/beckn/beckn-ui-workspace/issues/3506\nhttps://github.com/beckn/beckn-ui-workspace/issues/3507\nhttps://github.com/beckn/beckn-ui-workspace/issues/3508\nhttps://github.com/beckn/beckn-ui-workspace/issues/3509\nhttps://github.com/beckn/beckn-ui-workspace/issues/3510\nhttps://github.com/beckn/beckn-ui-workspace/issues/3511\nhttps://github.com/beckn/beckn-ui-workspace/issues/3512\nhttps://github.com/beckn/beckn-ui-workspace/issues/3513\n\nClosing this task.\ncc: @SanketEminds @PritiEM @viraj89 @emmayank "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3460",
+      "time": "2025-03-16T17:42:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3460",
+      "text": "End-to-End Testing for Peer-to-Peer OpenSpark Trade App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3513",
+      "time": "2025-03-16T17:39:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3513",
+      "text": "P2P Admin - When page is refreshed in order summary, gives invalid data if order is fulfilled"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3512",
+      "time": "2025-03-16T17:38:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3512",
+      "text": "P2P Admin - On dashboard screen, table column name should be \"Units\" not \"Unit\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3511",
+      "time": "2025-03-16T17:37:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3511",
+      "text": "P2P Admin - When market is closed, lock demand should be disabled"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3510",
+      "time": "2025-03-16T17:36:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3510",
+      "text": "P2P Admin - Sign-in page title is not present in Figma"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3509",
+      "time": "2025-03-16T17:35:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3509",
+      "text": "P2P Admin - reCAPTCHA is missing on sign-in page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3508",
+      "time": "2025-03-16T17:33:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3508",
+      "text": "P2P Admin - Market shows closed in loader screen (while waiting for location permission)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3507",
+      "time": "2025-03-16T17:30:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3507",
+      "text": "P2P Admin - My credentials, My DERs, and My Funds section are missing in profile  markdown Copy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3506",
+      "time": "2025-03-16T17:29:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3506",
+      "text": "P2P Admin - Producer details and producer credentials are missing on trade details"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3505",
+      "time": "2025-03-16T17:27:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3505",
+      "text": "P2P Admin - Zarkhand logo is missing after sign-in on dashboard page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3504",
+      "time": "2025-03-16T17:19:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3504",
+      "text": "P2P Trade Application - Only MDM registered numbers should be able to login, currently able to login with any number"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3503",
+      "time": "2025-03-16T17:16:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3503",
+      "text": "P2P Trade Application - On buying preferences page, direction of \"+\" and \"-\" should change"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3502",
+      "time": "2025-03-16T17:16:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3502",
+      "text": "P2P Trade Application - Getting error \"Failed to fetch dashboard\" for newly signed-up user"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3501",
+      "time": "2025-03-16T17:14:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3501",
+      "text": "P2P Trade Application - My Profile - Customer ID is missing  markdown Copy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3500",
+      "time": "2025-03-16T17:12:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3500",
+      "text": "P2P Trade Application - Average energy consumption should be changed based on date selected"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3499",
+      "time": "2025-03-16T17:12:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3499",
+      "text": "P2P Trade Application - On Sell dashboard, \"Produced\" should be written instead of \"Consumed\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3498",
+      "time": "2025-03-16T17:11:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3498",
+      "text": "P2P Trade Application - On Sell dashboard, \"Energy Production\" should be written instead of \"Energy Produced\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3497",
+      "time": "2025-03-16T17:10:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3497",
+      "text": "P2P Trade Application - \"Price Fixed\" is missing on dashboard screen"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3496",
+      "time": "2025-03-16T17:08:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3496",
+      "text": "P2P Trade Application - On dashboard screen, \"kWh\" is written in parentheses"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3495",
+      "time": "2025-03-16T17:07:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3495",
+      "text": "P2P Trade Application - On select date, mouse pointer should be a hand pointer  markdown Copy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3494",
+      "time": "2025-03-16T17:06:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3494",
+      "text": "P2P Trade Application - Data gets reset on buying/selling preferences page when updating preference"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3493",
+      "time": "2025-03-16T17:05:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3493",
+      "text": "P2P Trade Application - On selling preferences page, title should be \"Sell\"  markdown Copy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3492",
+      "time": "2025-03-16T17:04:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3492",
+      "text": "P2P Trade Application - On buying preferences page, title should be \"Buy\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3491",
+      "time": "2025-03-16T17:03:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3491",
+      "text": "P2P Trade Application - Symbol is missing on alert popup while buying energy  markdown Copy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3490",
+      "time": "2025-03-16T17:02:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3490",
+      "text": "P2P Trade Application - Getting alert popup every time while buying energy"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3489",
+      "time": "2025-03-16T17:01:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3489",
+      "text": "P2P Trade Application - While buying, when updating preferences and clicking \"Save,\" user stays on the same page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3488",
+      "time": "2025-03-16T16:59:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3488",
+      "text": "P2P Trade Application - After placing sell order, user is redirected to buy page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3487",
+      "time": "2025-03-16T16:58:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3487",
+      "text": "P2P Trade Application - Tooltips missing across apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3486",
+      "time": "2025-03-16T16:57:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3486",
+      "text": "P2P Trade Application - Preferences are not visible on \"No. of units Bought\" page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3485",
+      "time": "2025-03-16T16:57:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3485",
+      "text": "P2P Trade Application - Producer details and producer credentials are missing on \"No. of units Bought\" page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3484",
+      "time": "2025-03-16T16:56:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3484",
+      "text": "P2P Trade Application - Logout button logo is different than Figma"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3434",
+      "time": "2025-03-16T15:05:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3434#issuecomment-2727489391",
+      "text": "User guides for all four applications are complete, covering features with step-by-step instructions, screenshots, and FAQs. Confluence links are in previous comments.\n\nClosing this task.\ncc: @SanketEminds @PritiEM  @viraj89 @emmayank "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3434",
+      "time": "2025-03-16T15:05:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3434",
+      "text": "User Guide Creation for Energy App - Spark, Solaris, Vault, Lendeasae"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3434",
+      "time": "2025-03-16T15:03:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3434#issuecomment-2727488181",
+      "text": "Confluence link for spark application user guide -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/863961090/User+Guide+-+Open+Spark"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3434",
+      "time": "2025-03-16T15:02:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3434#issuecomment-2727488026",
+      "text": "Confluence link for Solaris application user guide -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/863862797/User+Guide+-+Solaris+Application"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3439",
+      "time": "2025-03-16T13:32:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3439#issuecomment-2727441221",
+      "text": "On add-on to previous comment following bugs were also tested and closed -\n\nhttps://github.com/beckn/beckn-ui-workspace/issues/3236\nhttps://github.com/beckn/beckn-ui-workspace/issues/3258\nhttps://github.com/beckn/beckn-ui-workspace/issues/3367\n\nClosing this task.\ncc: @PritiEM \n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3439",
+      "time": "2025-03-16T13:32:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3439",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3236",
+      "time": "2025-03-16T13:29:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3236#issuecomment-2727430368",
+      "text": "![Image](https://github.com/user-attachments/assets/bc3ae85d-9fb2-4db1-b3ec-17a1755e0821)\n\n![Image](https://github.com/user-attachments/assets/3075ae75-3f95-4ad1-acf2-0ccbb250f8f5)\n\nWorking now.\nClosing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3236",
+      "time": "2025-03-16T13:29:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3236",
+      "text": "DSEP-Unified App -profiles?populate API Failing for Job and Scholarship"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3258",
+      "time": "2025-03-16T13:25:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3258#issuecomment-2727425024",
+      "text": "![Image](https://github.com/user-attachments/assets/4410f037-1395-4725-b647-fe3493ebb471)\nThis is fixed.\nProceeding to close this task.\nccL @SanketEminds @kundanEminds @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3258",
+      "time": "2025-03-16T13:25:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3258",
+      "text": "OSC App-Order Amount Mismatch."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3434",

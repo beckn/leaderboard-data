@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-13T12:29:18.000Z",
+  "last_updated": "2025-03-16T13:46:48.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#249",
+      "time": "2025-03-16T13:46:48.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/249#issuecomment-2727449525",
+      "text": "### Date: 13 March, 2025\n\n#### Current Status\n- Have Completed POC for GCL to implement streaming of search result, helping in enhancement of search API response time.\n- Commit Link - [Added: Enhancement for Search API by implementing search result](https://github.com/beckn/generic-client-layer/commit/8be7f15450912cf3e812ec9fe3d814e41a7b4bf7)\n\n#### Next Step\n- Will have a internal demo with Mayank.\n- Once approved internally, will have a demo with faiz"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#278",
@@ -2470,25 +2477,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 31,
+      "stale_for": 32,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 270,
+      "stale_for": 271,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 144,
+      "stale_for": 145,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 388,
+      "stale_for": 389,
       "labels": []
     }
   ],

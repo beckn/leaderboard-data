@@ -3613,13 +3613,13 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3467",
       "title": "Develop 1.1.0",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": []
     }
   ],
