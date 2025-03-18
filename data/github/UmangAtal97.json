@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-03-13T14:43:12.000Z",
+  "last_updated": "2025-03-17T03:59:02.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3399",
+      "time": "2025-03-17T03:59:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3399",
+      "text": "Design for BPP Application: Research and Design"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3399",
+      "time": "2025-03-17T03:57:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3399#issuecomment-2728062601",
+      "text": "**Date: March 13, 2025**\n**Current Status**\n1. Had an update meeting with Mayank and Viraj to discuss visualizations for onboarding providers/sellers to the BPP application.\n2. Discussed the method of adding products, including form details.\n\n**Next Steps**\n1. Incorporate insights from the discussion into the design process.\n2. Prepare initial wireframes and prototypes for review."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3089",
+      "time": "2025-03-17T03:49:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3089",
+      "text": "EC Audit - DSEP Application - UX Issues"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3089",

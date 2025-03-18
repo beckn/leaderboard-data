@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-03-11T05:45:12.000Z",
+  "last_updated": "2025-03-17T12:00:34.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3516",
+      "time": "2025-03-17T12:00:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3516",
+      "text": "fix(open-spark-p2p): fixed issue 3480,3483,3491,3495,3496",
+      "turnaround_time": 3930
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3516",
+      "time": "2025-03-17T10:55:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3516",
+      "text": "fix(open-spark-p2p): fixed issue 3480,3483,3491,3495,3496"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3483",
+      "time": "2025-03-17T10:32:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3483#issuecomment-2728997853",
+      "text": "@omkar-em \nwhile searching there is no response from BE side, \n\nbelow is curl URL\n\n```\ncurl 'https://bap-gcl-prod.becknprotocol.io/search' \\\n  -H 'accept: application/json, text/plain, */*' \\\n  -H 'accept-language: en-US,en;q=0.9,mr-IN;q=0.8,mr;q=0.7' \\\n  -H 'content-type: application/json' \\\n  -H 'origin: https://onlinedisputeresolution.becknprotocol.io' \\\n  -H 'priority: u=1, i' \\\n  -H 'referer: https://onlinedisputeresolution.becknprotocol.io/' \\\n  -H 'sec-ch-ua: \"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Google Chrome\";v=\"134\"' \\\n  -H 'sec-ch-ua-mobile: ?0' \\\n  -H 'sec-ch-ua-platform: \"macOS\"' \\\n  -H 'sec-fetch-dest: empty' \\\n  -H 'sec-fetch-mode: cors' \\\n  -H 'sec-fetch-site: same-site' \\\n  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36' \\\n  --data-raw '{\"context\":{\"domain\":\"online-dispute-resolution:0.1.0\"},\"searchString\":\" \",\"category\":{\"name\":\"financial-dispute\"}}'\n```\n\n"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3454",

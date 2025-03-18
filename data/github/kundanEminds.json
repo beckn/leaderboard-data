@@ -1,6 +1,63 @@
 {
-  "last_updated": "2025-03-13T06:50:31.000Z",
+  "last_updated": "2025-03-17T12:50:27.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3517",
+      "time": "2025-03-17T12:50:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3517",
+      "text": "fix(P2P): fixed ui changes bugs",
+      "turnaround_time": 5540
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3517",
+      "time": "2025-03-17T11:18:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3517",
+      "text": "fix(P2P): fixed ui changes bugs"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3499",
+      "time": "2025-03-17T07:20:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3499#issuecomment-2728426255",
+      "text": "<img width=\"467\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/271ecff7-9653-4555-ad69-293f4625d35f\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3498",
+      "time": "2025-03-17T07:19:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3498#issuecomment-2728425269",
+      "text": "<img width=\"445\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/0bb16a69-2fe8-4c08-8dde-bf195ae065c3\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3493",
+      "time": "2025-03-17T07:13:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3493#issuecomment-2728413691",
+      "text": "<img width=\"460\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1460216b-cf18-4476-9ae6-f1c725cff01f\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3492",
+      "time": "2025-03-17T07:11:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3492#issuecomment-2728409762",
+      "text": "<img width=\"516\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fba64b0f-4240-402f-addf-491e676ad560\" />"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3466",
+      "time": "2025-03-17T04:54:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3466",
+      "text": "Winroom: Bug Fixes for Spark App (11th Mar to 13th Mar)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3433",
+      "time": "2025-03-17T04:54:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3433",
+      "text": "Winroom: Bug Fixes for Spark App (3rd Mar to 6th Mar)"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3250",
@@ -4276,25 +4333,25 @@
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/242",
       "title": "added iframe for open spark",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/7",
       "title": "css changes for policy details",
-      "stale_for": 738,
+      "stale_for": 739,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/6",
       "title": "css fixed for geofencing and create policy form",
-      "stale_for": 738,
+      "stale_for": 739,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/5",
       "title": "policy details page",
-      "stale_for": 738,
+      "stale_for": 739,
       "labels": []
     }
   ],

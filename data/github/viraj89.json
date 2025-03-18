@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-10T05:33:42.000Z",
+  "last_updated": "2025-03-17T05:43:27.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3514",
+      "time": "2025-03-17T05:43:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3514",
+      "text": "Beckn - Missing Open Network Telemetry SDK Changes in Protocol Server"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/protocol-server#249",

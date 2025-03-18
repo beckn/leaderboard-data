@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-03-10T06:30:08.000Z",
+  "last_updated": "2025-03-17T16:29:53.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3522",
+      "time": "2025-03-17T16:29:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3522",
+      "text": "Winroom: QA Bug Reporting for Spark App (10th Mar to 13th Mar)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3514",
+      "time": "2025-03-17T13:50:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3514#issuecomment-2729590861",
+      "text": "Date: March 17, 2025\n\nCurrent progress -\n\n* Read the doc and connected with people to get context\n* Reviewed these 2 PRs [#210](https://github.com/beckn/protocol-server/pull/210) and [#209](https://github.com/beckn/protocol-server/pull/210)\n* Have some doubts about the Pr which I need to confirm from multiple people\n\n\nNext Steps\n\n* Understand the missing points from the PR and either comment or merge the PR\n* Have some more context understanding. Most likely will sync with a poc for more context of the project"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#272",
+      "time": "2025-03-17T13:45:11.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/272",
+      "text": "Research & Analysis : Perform a POC using YaCy"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3344",
+      "time": "2025-03-17T13:44:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3344#issuecomment-2729566457",
+      "text": "Please find the details in [this](https://uttermost-maxilla-4da.notion.site/Approach-Note-for-Implementing-Fingerprint-and-TOTP-Based-Authentication-in-Beckn-1b9dc9cb1947803e9109c212bc164406?pvs=4) doc"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3344",
+      "time": "2025-03-17T13:44:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3344",
+      "text": "Approach Note for New Authentication Method"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3423",
+      "time": "2025-03-17T04:56:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3423",
+      "text": "Tech Office Hours for the week of March 10"
+    },
     {
       "type": "comment_created",
       "title": "beckn/missions#260",
@@ -1679,7 +1721,7 @@
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 87,
+      "stale_for": 89,
       "labels": []
     }
   ],

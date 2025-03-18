@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-16T13:46:48.000Z",
+  "last_updated": "2025-03-17T14:18:02.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#277",
+      "time": "2025-03-17T14:18:02.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/277#issuecomment-2729690012",
+      "text": "###Date: March 17, 2025\n####Current status\n- Multiple Calls for Dedi discussion with Suren and Fide Team.\n- Gone through swagger docs for dedi subscribe and lookup\n- Added plugin for registry [Commit Link](https://github.com/beckn/strapi-plugins/commit/ccbd878e923480b76ccb4fba214f1ef9fa3c2e7c)\n\n####Next step\n\n- Will go through the docs and Videos for Implementation of subscribe in ONDC\n- Will move ahead with the implementation\n\n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/protocol-server#249",
@@ -2477,25 +2484,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 32,
+      "stale_for": 33,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 271,
+      "stale_for": 272,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 145,
+      "stale_for": 146,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 389,
+      "stale_for": 390,
       "labels": []
     }
   ],

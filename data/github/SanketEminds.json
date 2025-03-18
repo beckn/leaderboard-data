@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-03-16T15:07:51.000Z",
+  "last_updated": "2025-03-17T13:28:21.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3518",
+      "time": "2025-03-17T13:28:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3518",
+      "text": "Ec apps-Search Failing Across All EC Apps (504 Gateway Timeout)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3515",
+      "time": "2025-03-17T08:47:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3515",
+      "text": "Ec Apps-Dev Env-Search Not Working in All EC Apps"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3345",

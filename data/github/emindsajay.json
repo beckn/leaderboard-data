@@ -342,13 +342,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/251",
       "title": "feat: Add conditional streaming response handling with error handling…",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 420,
+      "stale_for": 421,
       "labels": []
     }
   ],

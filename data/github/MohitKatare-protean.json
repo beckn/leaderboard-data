@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-13T11:42:50.000Z",
+  "last_updated": "2025-03-17T09:17:21.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#424",
+      "time": "2025-03-17T09:17:21.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/424",
+      "text": "Feature/core adapter"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#402",
@@ -24,6 +31,13 @@
       "text": "1.  Review comments on March 6th.\n2. Chang the directory structure.\n3. Remove external libraries.\n4. Faced an issue with asserting the exported symbol for the plugin and resolved it on March 9th.\n5. Updated the implementation of the plugin manager.\n6. Adding a new folder package for plugin definitions.\n7. Raise the updated PR on March 10th."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/424",
+      "title": "Feature/core adapter",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

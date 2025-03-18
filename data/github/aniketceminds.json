@@ -1,6 +1,247 @@
 {
-  "last_updated": "2025-03-13T11:59:08.000Z",
+  "last_updated": "2025-03-17T14:02:51.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3521",
+      "time": "2025-03-17T14:02:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3521",
+      "text": "Configurable Reference App : POC"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3520",
+      "time": "2025-03-17T14:02:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3520",
+      "text": "Energy App : QR Code flow Implementation"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#281",
+      "time": "2025-03-17T13:55:08.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/281#issuecomment-2729606636",
+      "text": "MR: https://github.com/beckn/beckn-ui-workspace/pull/3519"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3519",
+      "time": "2025-03-17T13:54:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3519",
+      "text": "feat(beckn-registry): added registry proj and added all the screens",
+      "turnaround_time": 37
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3519",
+      "time": "2025-03-17T13:53:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3519",
+      "text": "feat(beckn-registry): added registry proj and added all the screens"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#281",
+      "time": "2025-03-17T13:27:24.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/281#issuecomment-2729507849",
+      "text": "<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/56507520-998d-4c9d-98b9-d8da899e3367\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/59e69902-5ad3-45fe-bff9-229ae5c395be\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7abcb59e-0a26-471d-af56-7374054fa2a2\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/48cc6435-0477-451b-9910-db39c0e5179a\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6755f037-c62a-40a7-a498-230180f13106\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/51ad2097-fc79-4aef-b8b2-14ff0774a0e9\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/48a500aa-4de7-47e8-881f-8d8ed0161b13\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f70c7a32-d75b-4035-8346-c734f227684e\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c2643032-7a7b-4879-87f7-9390e432de3a\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c7ddfa3f-33fe-4214-9897-57c93d1bc313\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e80f9a3a-cb65-4d15-95fd-d31067cc088c\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ce5ee2c9-b5f8-4f85-85a1-5df191b1a6c3\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a5d2273a-df32-4844-93de-256d28ee1a5c\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c3507156-6278-4911-be72-473b23d66aeb\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7971ebe4-bc2f-4023-8f98-e0ae5d33dc4a\" />"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-17T12:00:58.000Z",
+      "title": "beckn/beckn-ui-workspace#3517",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3517#pullrequestreview-2690202623",
+      "text": "fix(P2P): fixed ui changes bugs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-17T12:00:29.000Z",
+      "title": "beckn/beckn-ui-workspace#3516",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3516#pullrequestreview-2690201437",
+      "text": "fix(open-spark-p2p): fixed issue 3480,3483,3491,3495,3496"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#252",
+      "time": "2025-03-17T06:16:53.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/252",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#252",
+      "time": "2025-03-17T06:16:46.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/252",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#251",
+      "time": "2025-03-17T06:16:31.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/251",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 46
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#251",
+      "time": "2025-03-17T06:15:46.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/251",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3507",
+      "time": "2025-03-17T06:11:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3507",
+      "text": "P2P Trade Application - My credentials, My DERs, and My Funds section are missing in profile "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3507",
+      "time": "2025-03-17T06:11:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3507#issuecomment-2728277242",
+      "text": "@omkar-em @SanketEminds  As discussed with @emmayank no need of this screens."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3509",
+      "time": "2025-03-17T06:10:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3509#issuecomment-2728275077",
+      "text": "@omkar-em \nNo need of this, we can remove this from Figma @UmangAtal97 "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3510",
+      "time": "2025-03-17T06:08:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3510#issuecomment-2728271894",
+      "text": "@omkar-em \nCheck with  @UmangAtal97 "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3500",
+      "time": "2025-03-17T06:05:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3500#issuecomment-2728266025",
+      "text": "@omkar-em @SanketEminds \nThe average is calculated for current month. Need to mention 'current month' in Average card, this need to be get done from @UmangAtal97 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3497",
+      "time": "2025-03-17T06:01:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3497",
+      "text": "P2P Trade Application - For Buying \"Price Fixed\" is missing on dashboard screen"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3497",
+      "time": "2025-03-17T06:01:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3497#issuecomment-2728258500",
+      "text": "@omkar-em @SanketEminds As we already discussed this part in previous version of P2P app that we have Technical limitations with @emmayank , need to update Figma from @UmangAtal97 "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3490",
+      "time": "2025-03-17T05:55:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3490#issuecomment-2728249905",
+      "text": "If its a case to show the Alert for the first Trade POST, then we have to make changes in BE.\n@omkar-em  @SanketEminds This need to be discuss with @emmayank @viraj89 . And please confirm on this."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3489",
+      "time": "2025-03-17T05:53:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3489",
+      "text": "P2P Trade Application - While buying, when updating preferences and clicking \"Save,\" user stays on the same page"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3489",
+      "time": "2025-03-17T05:53:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3489#issuecomment-2728244920",
+      "text": "This is expected behaviour @omkar-em @SanketEminds , we can ignore this."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3487",
+      "time": "2025-03-17T05:47:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3487#issuecomment-2728237661",
+      "text": "@omkar-em \nGet this changes done in Figma by @UmangAtal97 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3485",
+      "time": "2025-03-17T05:40:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3485",
+      "text": "P2P Trade Application - Producer details and producer credentials are missing on \"No. of units Bought\" page"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3485",
+      "time": "2025-03-17T05:39:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3485#issuecomment-2728228547",
+      "text": "No need to credentials details, as confirmed with @emmayank . For producer details, need to fix from the BE side.\ncc @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3484",
+      "time": "2025-03-17T05:38:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3484#issuecomment-2728226329",
+      "text": "This icon is correct, need to update Figma. @UmangAtal97 please update the icon for Logout. cc @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3482",
+      "time": "2025-03-17T05:33:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3482#issuecomment-2728220458",
+      "text": "No need of Profile section for Admin user, also no UI design is available for this. Please confirm this with @emmayank @viraj89  if required."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3479",
+      "time": "2025-03-17T05:20:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3479#issuecomment-2728205131",
+      "text": "@rahul-eminds  please look into this once. Looks like BE issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3479",
+      "time": "2025-03-17T05:19:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3479#issuecomment-2728204072",
+      "text": "The user is not registered  properly, please register the new user. Use the mobile number from MDM, make sure the MDM has 2 entries of one mobile number for CONSUMER and PRODUCER user type. And use the Same mobile number while registering in Spark."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3477",
+      "time": "2025-03-17T05:16:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3477",
+      "text": "Open Spark App-App Switching Delay and Incorrect Screen Display in Open Spark"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3477",
+      "time": "2025-03-17T05:15:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3477#issuecomment-2728196474",
+      "text": "Added loader to the app switch buttons\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bc8cf0b8-a09e-4fa2-83fe-33d40e8bdf97\" />\n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6a36ec8c-bd67-4110-8ce1-3d2df703db7a\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#281",
+      "time": "2025-03-17T05:13:30.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/281#issuecomment-2728190717",
+      "text": "<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f25982b5-f339-41d7-b354-a1a1f157db7f\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6ff45a5e-94ef-47b5-a374-27b45d9e46e7\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1d728246-19d5-422a-9625-678a6c983920\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/62ba908c-c089-40ba-9bfa-71c6051ace60\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c0b48f91-587a-464b-a14a-69fc76501e02\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/92c19846-21c1-48b0-9cba-61f9914e040f\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f189143a-a8a5-4a3f-b24c-5357b480d076\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a669bfdd-6be9-4c6d-96e3-2c89b175116f\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/18dad878-bea7-4c8f-a426-280b78fc6cfe\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/058d36d6-11d2-4c41-bec6-1a6e6887ea3f\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/0fa10f39-b4b1-47af-ab7e-8ffa50b9eb2a\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/dd842c29-4135-4f64-b49f-825cd89d9fb4\" />\n\n<img width=\"1254\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e64938e6-a177-4546-ad37-75134344b2ea\" />"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3445",
+      "time": "2025-03-17T05:07:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3445",
+      "text": "Winroom: Bug Fixes for Spark App (10th Mar to 13th Mar)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3445",
+      "time": "2025-03-17T05:05:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3445#issuecomment-2728165892",
+      "text": "13th Mar\nWorked on:\n\nEC --> Iframe routing issue is not possible, since it is a technical problem, so here we have added the Loader/Spinner to app switch buttons when user clicks, the loader will stops & button will be selected once the app loaded in iframe.\nWe have already asked to @omkar-em @SanketEminds to test this part.\n\n- Some minor bug of p2p fixed https://docs.google.com/spreadsheets/d/1pIqtSLrg_vi9owNe0mKIlf4votgD3TKVmzFCbu4rlog/edit?pli=1&gid=0#gid=0\n"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3481",
@@ -3613,13 +3854,13 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3467",
       "title": "Develop 1.1.0",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 60,
+      "stale_for": 61,
       "labels": []
     }
   ],

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-03-11T12:11:06.000Z",
+  "last_updated": "2025-03-17T11:54:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#273",
+      "time": "2025-03-17T11:54:37.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/273#issuecomment-2729209259",
+      "text": "No further action is required on this so closing this ticket. "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#273",
+      "time": "2025-03-17T11:54:37.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/273",
+      "text": "DeDi Based Registry | Document Existing Schema of Beckn Registry in a excel sheet"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#418",
@@ -734,7 +748,7 @@
     {
       "link": "https://github.com/beckn/beckn-sandbox/pull/10",
       "title": "Devops",
-      "stale_for": 220,
+      "stale_for": 221,
       "labels": []
     }
   ],

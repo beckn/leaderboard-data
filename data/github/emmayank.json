@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-11T08:14:49.000Z",
+  "last_updated": "2025-03-17T16:48:56.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3523",
+      "time": "2025-03-17T16:48:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3523",
+      "text": "Reference Application : Gap Analysis & Implementation of missing beckn endpoints"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3409",
@@ -7303,6 +7310,33 @@
       "text": "Implement Mobile Number & OTP-Based Login and Update Signup Form with API Integration"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
+      "title": "L2Config - EV / EnergyDemand/ Surplus energy",
+      "stale_for": 270,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
+      "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
+      "stale_for": 189,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/local-retail/pull/16",
+      "title": "DSNP & OSM Example Added",
+      "stale_for": 298,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/DSEP-Specification/pull/175",
+      "title": "Validated DSEP Specification with Core v 1.1.0",
+      "stale_for": 319,
+      "labels": [
+        "enhancement"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }
