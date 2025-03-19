@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-03-17T13:28:21.000Z",
+  "last_updated": "2025-03-18T10:56:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3491",
+      "time": "2025-03-18T10:56:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3491#issuecomment-2732690896",
+      "text": "This is fixed, Closing this.\ncc @omkar-em  @emmayank \n\n![Image](https://github.com/user-attachments/assets/de041ce1-d920-48b3-b9a4-f890925673d9)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3491",
+      "time": "2025-03-18T10:56:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3491",
+      "text": "P2P Trade Application - Symbol is missing on alert popup while buying energy "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3480",
+      "time": "2025-03-18T10:51:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3480#issuecomment-2732672571",
+      "text": "Working fine,\ncc @omkar-em @emmayank \n![Image](https://github.com/user-attachments/assets/a01334f1-baf3-4b2c-82f3-a0d09e0aa709)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3480",
+      "time": "2025-03-18T10:51:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3480",
+      "text": "P2P Energy-OTP Screen Allows Invalid Characters"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3502",
+      "time": "2025-03-18T10:32:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3502#issuecomment-2732590168",
+      "text": "This is resolved, Closing this.\ncc @omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3502",
+      "time": "2025-03-18T10:32:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3502",
+      "text": "P2P Trade Application - Getting error \"Failed to fetch dashboard\" for newly signed-up user"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3504",
+      "time": "2025-03-18T10:30:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3504#issuecomment-2732583556",
+      "text": "This is fixed, Closing this.\n\n![Image](https://github.com/user-attachments/assets/0e09b211-9339-4e4d-ac1e-7cfd36ac04b8)\ncc @omkar-em @emmayank "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3504",
+      "time": "2025-03-18T10:30:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3504",
+      "text": "P2P Trade Application - Only MDM registered numbers should be able to login, currently able to login with any number"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3525",
+      "time": "2025-03-18T06:03:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3525",
+      "text": "P2P Trade Application - Peer-to-Peer (P2P) Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3524",
+      "time": "2025-03-18T06:02:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3524",
+      "text": "EC Tourism App-Order API Failing in Tourism App"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3518",

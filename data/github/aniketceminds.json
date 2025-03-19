@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-03-17T14:02:51.000Z",
+  "last_updated": "2025-03-18T14:13:30.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3520",
+      "time": "2025-03-18T14:13:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3520#issuecomment-2733412801",
+      "text": "WIP: getting error while scanning generated QR\n\n<img width=\"1036\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a0425d57-e704-46f3-8d5a-e1e26199bcdd\" />\n\n<img width=\"1036\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/48893c90-64b7-4641-acce-bdd51bdc376b\" />"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3467",
+      "time": "2025-03-18T04:56:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3467",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 577824
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3521",
@@ -3852,15 +3867,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3467",
-      "title": "Develop 1.1.0",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 61,
+      "stale_for": 62,
       "labels": []
     }
   ],

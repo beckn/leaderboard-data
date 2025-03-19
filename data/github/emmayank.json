@@ -1,6 +1,153 @@
 {
-  "last_updated": "2025-03-17T16:48:56.000Z",
+  "last_updated": "2025-03-18T11:10:33.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#286",
+      "time": "2025-03-18T11:10:33.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/286",
+      "text": "Complete Knowledgebase for devops"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#285",
+      "time": "2025-03-18T11:07:55.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/285",
+      "text": "DeDi Based Registry | Test case documentation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3538",
+      "time": "2025-03-18T11:07:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3538",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3537",
+      "time": "2025-03-18T11:07:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3537",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3536",
+      "time": "2025-03-18T11:07:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3536",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#284",
+      "time": "2025-03-18T11:07:38.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/284",
+      "text": "DeDi Based Registry | End to End QA"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3535",
+      "time": "2025-03-18T11:05:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3535",
+      "text": "DeDi Based Registry | Test case documentation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3534",
+      "time": "2025-03-18T11:05:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3534",
+      "text": "DeDi Based Registry | End to End QA"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3533",
+      "time": "2025-03-18T11:01:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3533",
+      "text": "Energy App - End-to-End QA for QR Code Flow & EMI Flow Validation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3532",
+      "time": "2025-03-18T10:58:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3532",
+      "text": "Leaderboard - QA"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#257",
+      "time": "2025-03-18T10:48:15.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/257",
+      "text": "Protocol Server | Merge & Release : Search Enhancement & Open telemetry SDK"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#255",
+      "time": "2025-03-18T10:42:43.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/255",
+      "text": "Beckn ONIX : Protocol server enhancement"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#136",
+      "time": "2025-03-18T10:08:23.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/136",
+      "text": "Transactional AI : Upgrade the Model to Gemini 2.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3531",
+      "time": "2025-03-18T09:26:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3531",
+      "text": "Reference Application : Experience center enhancement & Bug Fixes - v1.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3530",
+      "time": "2025-03-18T08:53:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3530",
+      "text": "Configurable Reference App - POC Approach Document"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#135",
+      "time": "2025-03-18T08:13:41.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/135",
+      "text": "Beckn AI Chatbot - End-to-End QA Post Migration to Gemini 2.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#134",
+      "time": "2025-03-18T08:08:08.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/134",
+      "text": "Beckn Transaction AI - Migrate to Gemini 2.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3529",
+      "time": "2025-03-18T06:50:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3529",
+      "text": "Update Test Case and User Guide Documentation for QR Code Flow & EMI Flow Validation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3528",
+      "time": "2025-03-18T06:42:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3528",
+      "text": "Energy App : Validation in EMI Flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3527",
+      "time": "2025-03-18T06:34:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3527",
+      "text": "Design for BPP Application: Finalizing UX - v2"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3526",
+      "time": "2025-03-18T06:30:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3526",
+      "text": "Energy App - QR Code Flow UI Design Changes"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3523",
@@ -7314,25 +7461,25 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 270,
+      "stale_for": 271,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 189,
+      "stale_for": 190,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 298,
+      "stale_for": 299,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 319,
+      "stale_for": 320,
       "labels": [
         "enhancement"
       ]

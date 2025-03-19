@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-03-17T03:59:02.000Z",
+  "last_updated": "2025-03-18T06:52:34.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3527",
+      "time": "2025-03-18T06:52:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3527#issuecomment-2731872848",
+      "text": "Current Status\n\n1. Reviewed the Excel provided by Rajaneesh.\n\n2. Creating New and Updating existing flows accordingly.\n\n3. Had a design review call with Mayank and Viraj.\n\nNext Steps\n\n1. Finalize the updated flows.\n\n2. Incorporate feedback from the call into the designs.\n\n3. Validate changes and ensure alignment with requirements.\n\n4. Share for review and feedback."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3526",
+      "time": "2025-03-18T06:48:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3526",
+      "text": "Energy App - QR Code Flow UI Design Changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3526",
+      "time": "2025-03-18T06:48:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3526#issuecomment-2731861899",
+      "text": "All the designs are completed please find the proof of the work as below:\n\n1. QR code in order details in spark:\n\n![Image](https://github.com/user-attachments/assets/e585670b-1e5c-489e-a669-45f90678f8fd)\n\n2.  Scan QR code provision in Solaris App:\n\n![Image](https://github.com/user-attachments/assets/533e43eb-d063-40ea-bae5-e12c60472b26)\n\nAll the designs are aligning with direction provided from Mayank \n"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#3399",

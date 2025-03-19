@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-17T14:18:02.000Z",
+  "last_updated": "2025-03-18T14:24:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#277",
+      "time": "2025-03-18T14:24:59.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/277#issuecomment-2733450448",
+      "text": "### Date: March 18, 2025\n#### Current status\n- Internal Calls for DEDI implementation discussion\n- Have created schema for network-subscribers\n- Have Created successful POC for encrypting and decrypting payload using public and private key\n- Modified plugin for registry [Commit Link](https://github.com/beckn/strapi-plugins/commit/49c07cc5488e9ff27c99e1f7169fcff6e2310173)\n\n####Next step\n\n- Will Create plugin APIs for subscribe and link it with DeDI\n- Will move ahead with the implementation\n\n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#277",
@@ -2484,25 +2491,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 272,
+      "stale_for": 273,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 146,
+      "stale_for": 147,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 390,
+      "stale_for": 391,
       "labels": []
     }
   ],
