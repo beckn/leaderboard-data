@@ -1,6 +1,64 @@
 {
-  "last_updated": "2025-03-18T04:58:58.000Z",
+  "last_updated": "2025-03-24T06:25:45.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3590",
+      "time": "2025-03-24T06:25:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3590",
+      "text": "fix(open-spark-p2p): remove tooltip icon from app",
+      "turnaround_time": 795
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3487",
+      "time": "2025-03-24T06:12:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3487#issuecomment-2746998813",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3590"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3590",
+      "time": "2025-03-24T06:12:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3590",
+      "text": "fix(open-spark-p2p): remove tooltip icon from app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3584",
+      "time": "2025-03-21T12:14:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3584#issuecomment-2743197199",
+      "text": "@SanketEminds \ni have check this, order id from vendure is too long,  \nneed to connect with BE team regarding same\n\n<img width=\"950\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2834c741-8bca-48d6-bff6-d65c3ced060e\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3524",
+      "time": "2025-03-21T12:12:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3524#issuecomment-2743192355",
+      "text": "connected with @prasad-takale-eminds , and resolved this issue, it was related to CORS error\nCC:- @SanketEminds @omkar-em \n\nscreenshot for same\n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/707bd4de-fb03-41b0-9e68-3ce5d13e1644\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3580",
+      "time": "2025-03-21T11:41:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3580#issuecomment-2743119643",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3582/files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3582",
+      "time": "2025-03-21T11:34:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3582",
+      "text": "fix(open-spark-admin): fixed bottom shadow bug",
+      "turnaround_time": 172
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3582",
+      "time": "2025-03-21T11:31:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3582",
+      "text": "fix(open-spark-admin): fixed bottom shadow bug"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3496",

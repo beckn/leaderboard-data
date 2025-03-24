@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-17T07:14:00Z",
+  "last_updated": "2025-03-20T11:19:51.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#256",
+      "time": "2025-03-20T11:19:51.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/256#issuecomment-2740039491",
+      "text": "@ankitShogun , how are you testing test ticket with out the following details.\n\n1. Telemetry end point url\n2. Telemetry Dashboard url and its credentials.\n\n@emmayank / @viraj89  , can you help gather all of this information and update the ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#257",
+      "time": "2025-03-20T10:29:20.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/257#issuecomment-2739887129",
+      "text": "@emmayank , Following information is missing in the tickets and needs to be added to the description\n\n1. telemetry end point url which needs to be configured in the protocol server telemetry config\n2. url of the telemetry dashboard where the telemetry data can be verified\n3. credentials to access the telemetry dashboard\n\nCC: @viraj89 "
+    },
     {
       "type": "issue_closed",
       "title": "beckn/protocol-server#114",

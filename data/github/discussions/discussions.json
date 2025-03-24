@@ -1,0 +1,21 @@
+[
+  {
+    "source": "github",
+    "title": "/search",
+    "text": "can  we pass an additional intent attribute called \"require\", the value for this attribute would one of these enums: \n\nitems, categories , providers.  \n\nthis will enable \n1. bytes transferred as needed for  bap ui. \n2. drill down kind of ui.\n\nwhile this is possible using intent tags but that  could cause divergence between networks/directories. \n\n@ravi-prakash-v @pramodkvarma \n\n\n",
+    "author": "venkatramanm",
+    "link": "https://github.com/beckn/protocol-specifications/discussions/473",
+    "isAnswered": null,
+    "time": "2025-03-22T08:09:47Z",
+    "updateTime": "2025-03-23T12:56:03Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "ravi-prakash-v",
+      "venkatramanm"
+    ],
+    "repository": "protocol-specifications"
+  }
+]

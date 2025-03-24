@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-03-17T16:29:53.000Z",
+  "last_updated": "2025-03-21T22:08:48.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#261",
+      "time": "2025-03-21T22:08:48.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/261",
+      "text": "Merge conflicts check pr"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#256",
+      "time": "2025-03-20T13:28:42.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/256#issuecomment-2740461741",
+      "text": "@faizmagic I created a dummy node server locally and checked the telemetry data in terminal logs."
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#258",
+      "time": "2025-03-20T11:23:02.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/258",
+      "text": "Open network sdk testing pr"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3522",
@@ -1719,9 +1740,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/protocol-server/pull/261",
+      "title": "Merge conflicts check pr",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/258",
+      "title": "Open network sdk testing pr",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 90,
+      "stale_for": 95,
       "labels": []
     }
   ],

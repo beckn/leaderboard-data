@@ -1,6 +1,330 @@
 {
-  "last_updated": "2025-03-18T14:13:30.000Z",
+  "last_updated": "2025-03-24T06:25:40.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-24T06:25:40.000Z",
+      "title": "beckn/beckn-ui-workspace#3590",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3590#pullrequestreview-2709235789",
+      "text": "fix(open-spark-p2p): remove tooltip icon from app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3589",
+      "time": "2025-03-24T05:51:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3589",
+      "text": "fix(open-spark): css cosmetic chnges and updated the sync now waring …",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3589",
+      "time": "2025-03-24T05:51:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3589",
+      "text": "fix(open-spark): css cosmetic chnges and updated the sync now waring …"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3577",
+      "time": "2025-03-24T05:43:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3577#issuecomment-2746954047",
+      "text": "@omkar-em @SanketEminds what to do with this scenarios?"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3587",
+      "time": "2025-03-24T05:37:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3587#issuecomment-2746945759",
+      "text": "Could you please get a confirmation on this @omkar-em . And let us know \ncc @SanketEminds "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#260",
+      "time": "2025-03-21T14:28:15.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/260",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#260",
+      "time": "2025-03-21T14:28:10.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/260",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#259",
+      "time": "2025-03-21T14:27:56.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/259",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#259",
+      "time": "2025-03-21T14:27:51.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/259",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3583",
+      "time": "2025-03-21T14:21:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3583",
+      "text": "fix(open-spark-solaris): modified code of rent catalogue to update pa…",
+      "turnaround_time": 10081
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3575",
+      "time": "2025-03-21T11:50:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3575#issuecomment-2743142325",
+      "text": "<img width=\"777\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1096349d-fdec-4091-810f-155e44d25ebc\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3576",
+      "time": "2025-03-21T11:40:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3576#issuecomment-2743115638",
+      "text": "<img width=\"777\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/8b5cee15-d604-4908-9aaa-c2c43309d077\" />"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3574",
+      "time": "2025-03-21T11:34:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3574",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 21430
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-21T11:34:08.000Z",
+      "title": "beckn/beckn-ui-workspace#3582",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3582#pullrequestreview-2705619078",
+      "text": "fix(open-spark-admin): fixed bottom shadow bug"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3583",
+      "time": "2025-03-21T11:33:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3583",
+      "text": "fix(open-spark-solaris): modified code of rent catalogue to update pa…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3579",
+      "time": "2025-03-21T08:26:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3579",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 30
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3579",
+      "time": "2025-03-21T08:26:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3579",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3578",
+      "time": "2025-03-21T07:26:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3578",
+      "text": "fix(open-spark): modified code to fix the signup issue and wallet issue",
+      "turnaround_time": 19
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3578",
+      "time": "2025-03-21T07:26:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3578",
+      "text": "fix(open-spark): modified code to fix the signup issue and wallet issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3574",
+      "time": "2025-03-21T05:37:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3574",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3573",
+      "time": "2025-03-21T05:37:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3573",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 59
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3573",
+      "time": "2025-03-21T05:36:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3573",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3572",
+      "time": "2025-03-21T05:34:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3572",
+      "text": "fix(open-spark): modified code to add validtaion of wallet",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3572",
+      "time": "2025-03-21T05:34:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3572",
+      "text": "fix(open-spark): modified code to add validtaion of wallet"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3571",
+      "time": "2025-03-20T16:05:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3571",
+      "text": "fix(open-spark-solaris): added proper dimentions icon in manifest",
+      "turnaround_time": 67
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3571",
+      "time": "2025-03-20T16:04:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3571",
+      "text": "fix(open-spark-solaris): added proper dimentions icon in manifest"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#257",
+      "time": "2025-03-20T14:37:15.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/257",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 12
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#257",
+      "time": "2025-03-20T14:37:04.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/257",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3570",
+      "time": "2025-03-20T14:36:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3570",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 87
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3570",
+      "time": "2025-03-20T14:34:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3570",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3569",
+      "time": "2025-03-20T14:29:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3569",
+      "text": "feat(open-spark-solaris): modified code to add PWA config",
+      "turnaround_time": 54
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3569",
+      "time": "2025-03-20T14:28:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3569",
+      "text": "feat(open-spark-solaris): modified code to add PWA config"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3568",
+      "time": "2025-03-20T14:03:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3568",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 16
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3568",
+      "time": "2025-03-20T14:03:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3568",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3567",
+      "time": "2025-03-20T14:02:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3567",
+      "text": "fix(open-spark-solaris): modified code to add validation of user id scan",
+      "turnaround_time": 21
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3567",
+      "time": "2025-03-20T14:02:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3567",
+      "text": "fix(open-spark-solaris): modified code to add validation of user id scan"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-20T11:53:26.000Z",
+      "title": "beckn/beckn-ui-workspace#3564",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3564#pullrequestreview-2702378315",
+      "text": "fix(P2P): fixed bugs for admin flow in p2p lock demand disbled when m…"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3528",
+      "time": "2025-03-20T11:35:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3528",
+      "text": "Energy App : Validation in EMI Flow"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3520",
+      "time": "2025-03-20T11:34:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3520",
+      "text": "Energy App : QR Code flow Implementation"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3565",
+      "time": "2025-03-20T11:32:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3565#issuecomment-2740094211",
+      "text": "<img width=\"1159\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e343ad7a-95a2-4602-80f0-29d7d9936192\" />"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3566",
+      "time": "2025-03-20T11:26:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3566",
+      "text": "fix(open-spark): fix issue to add QR scan validation",
+      "turnaround_time": 24
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3566",
+      "time": "2025-03-20T11:26:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3566",
+      "text": "fix(open-spark): fix issue to add QR scan validation"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3541",
+      "time": "2025-03-20T10:13:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3541#issuecomment-2739840013",
+      "text": "<img width=\"1159\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7169c1ba-cd1f-4b28-9620-023501936932\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3528",
+      "time": "2025-03-20T09:51:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3528#issuecomment-2739780537",
+      "text": "<img width=\"1159\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e9f773a3-e18d-4081-8588-81af48ae8ca1\" />"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3520",
@@ -3869,7 +4193,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 62,
+      "stale_for": 68,
       "labels": []
     }
   ],

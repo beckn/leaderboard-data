@@ -1,6 +1,188 @@
 {
-  "last_updated": "2025-03-18T10:56:24.000Z",
+  "last_updated": "2025-03-21T12:30:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3525",
+      "time": "2025-03-21T12:30:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3525#issuecomment-2743232645",
+      "text": "Tested the bug tickets and close those that are IN QA. Below is the list of all bugs.\n#3512 #3511 #3508 #3508 #3505 #3580 #3488  #3486  #3496 "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3512",
+      "time": "2025-03-21T12:27:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3512#issuecomment-2743224709",
+      "text": "Working fine closing this\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3512",
+      "time": "2025-03-21T12:27:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3512",
+      "text": "P2P Admin - On dashboard screen, table column name should be \"Units\" not \"Unit\""
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3511",
+      "time": "2025-03-21T12:26:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3511#issuecomment-2743222036",
+      "text": "Lock Demand button is disabled when make is close,\n@omkar-em \n\n![Image](https://github.com/user-attachments/assets/211ef934-e524-4668-a18a-fe36d6bfb06a)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3511",
+      "time": "2025-03-21T12:26:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3511",
+      "text": "P2P Admin - When market is closed, lock demand should be disabled"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3508",
+      "time": "2025-03-21T12:25:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3508#issuecomment-2743220053",
+      "text": "Working fine, Closing this\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3508",
+      "time": "2025-03-21T12:25:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3508",
+      "text": "P2P Admin - Market shows closed in loader screen (while waiting for location permission)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3580",
+      "time": "2025-03-21T12:22:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3580#issuecomment-2743214705",
+      "text": "Working as expected \ncc @omkar-em \n\n![Image](https://github.com/user-attachments/assets/9f41c392-0cd5-4d5f-b780-1385be65d5df)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3580",
+      "time": "2025-03-21T12:22:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3580",
+      "text": "P2P Energy App-Black shadow appearing at the bottom of the page in Admin app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3488",
+      "time": "2025-03-21T12:18:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3488#issuecomment-2743206538",
+      "text": "Tested this and working fine closing this.\ncc @omkar-em \n\n![Image](https://github.com/user-attachments/assets/f4a537cc-e7ca-4b1b-945f-17b34322507a)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3488",
+      "time": "2025-03-21T12:18:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3488",
+      "text": "P2P Trade Application - After placing sell order, user is redirected to buy page"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3486",
+      "time": "2025-03-21T12:16:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3486#issuecomment-2743201739",
+      "text": "This is working fine,\n@omkar-em \n![Image](https://github.com/user-attachments/assets/1b824e48-e4d6-4052-9716-08fbdee315df)\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3486",
+      "time": "2025-03-21T12:16:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3486",
+      "text": "P2P Trade Application - Preferences are not visible on \"No. of units Bought\" page"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3496",
+      "time": "2025-03-21T12:14:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3496#issuecomment-2743196749",
+      "text": "This is resolved, Closing this\ncc @omkar-em \n\n![Image](https://github.com/user-attachments/assets/d6a2d446-fdfc-4bad-8b20-182f1c0b558f)\n\n "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3496",
+      "time": "2025-03-21T12:14:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3496",
+      "text": "P2P Trade Application - On dashboard screen, \"kWh\" is written in parentheses"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3584",
+      "time": "2025-03-21T11:41:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3584",
+      "text": "Ec App-Open Spark App-Order ID Not Truncated in Order History – Open Spark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3581",
+      "time": "2025-03-21T08:49:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3581",
+      "text": "P2P Energy App-Network Error When Clicking on \"Lock Demand\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3580",
+      "time": "2025-03-21T08:46:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3580",
+      "text": "P2P Energy App-Black shadow appearing at the bottom of the page in Admin app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3577",
+      "time": "2025-03-21T06:46:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3577",
+      "text": "Open Spark App-Duplicate Battery Publishing Allowed in Spark and Solaris Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3576",
+      "time": "2025-03-21T06:29:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3576",
+      "text": "Open Spark(Staging)-Incorrect Initial Payment and EMI Plan Amount Display in Spark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3575",
+      "time": "2025-03-21T05:44:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3575",
+      "text": "Open Spark-Loan Approved (0%) and Incorrect Price Display in Spark App (Staging)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3565",
+      "time": "2025-03-20T14:35:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3565#issuecomment-2740680794",
+      "text": "Working Fine,\ncc @omkar-em \n\n![Image](https://github.com/user-attachments/assets/eaec001f-e2ee-4107-a69e-dea41fc858a5)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3565",
+      "time": "2025-03-20T14:34:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3565",
+      "text": "QR Code Validation Issue – Unauthorized Battery Addition in Solaris App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3505",
+      "time": "2025-03-20T11:59:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3505#issuecomment-2740204773",
+      "text": "Working fine,\nCC @omkar-em \n\n![Image](https://github.com/user-attachments/assets/eb1ebc81-5ef2-44e9-809a-13e3dcf4be96)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3505",
+      "time": "2025-03-20T11:59:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3505",
+      "text": "P2P Admin - Zarkhand logo is missing after sign-in on dashboard page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3565",
+      "time": "2025-03-20T09:45:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3565",
+      "text": "QR Code Validation Issue – Unauthorized Battery Addition in Solaris App"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3491",

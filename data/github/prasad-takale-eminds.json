@@ -1,6 +1,64 @@
 {
-  "last_updated": "2025-03-17T11:54:37.000Z",
+  "last_updated": "2025-03-21T15:14:50.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#268",
+      "time": "2025-03-21T15:14:50.000Z",
+      "link": "https://github.com/beckn/missions/issues/268",
+      "text": "UKI: Migration of UKI to Google Cloud"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#268",
+      "time": "2025-03-21T15:14:27.000Z",
+      "link": "https://github.com/beckn/missions/issues/268#issuecomment-2743683621",
+      "text": "**Date: March 21, 2025\nCurrent Status**\n\n- DNS entry created by Naveen\n- Sandbox env setup is completed\n- For Webhook URL used beckn sandbox URL (https://bpp-unified-sandbox-dev.becknprotocol.io)\n- registry and gateway deployment is also done.\n\n**Next step**\n\n- NA"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#436",
+      "time": "2025-03-21T05:24:36.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/436",
+      "text": "Develop",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#436",
+      "time": "2025-03-21T05:24:29.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/436",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#435",
+      "time": "2025-03-21T05:24:01.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/435",
+      "text": "fix: use correct Docker repo for Ubuntu instead of Debian",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#435",
+      "time": "2025-03-21T05:23:53.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/435",
+      "text": "fix: use correct Docker repo for Ubuntu instead of Debian"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#286",
+      "time": "2025-03-20T15:07:45.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/286#issuecomment-2740790329",
+      "text": "**Date: March 20, 2025\nCurrent Status:**\n\n- Created the document for 'Beckn-onix Function Details and Explanation'\n- Created the document for 'Beckn-Onix KT Focus'\n\n**Next Steps:**\n\n- Continue working on the documentation for Beckn-onix.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#268",
+      "time": "2025-03-20T15:05:24.000Z",
+      "link": "https://github.com/beckn/missions/issues/268#issuecomment-2740780176",
+      "text": "**Date: March 20, 2025\nCurrent Status**\n\n- Got access to the GCP account.\n- Successfully Created the 1 VM for registry-sandbox\n- Connected with Naveen to DNS entry and he has created a DNS entry for registry-sandbox\n- Successfully deployed registry-sandbox on newly launched instances\n- Create additional external IPs and share Kathirval's details to create the DNS entry. \n\n**Next step**\n\n- Once the other application's DNS entries are created, we will start with the remaining deployment. \n- We need confirmation from Kathirval for the Webhook URL. \n\nDNS entry details without domain. \n\nregistry-sandbox 35.200.138.109\ngateway-sandbox 34.93.228.16  \n\nbap-network-sandbox 35.200.131.115\nbap-client-sandbox 35.200.131.115\n\nbpp-network-sandbox 35.200.210.239\nbpp-client-sandbox 35.200.210.239\n\nregistry 34.93.139.241 \ngateway 34.47.219.207 "
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#273",
@@ -748,7 +806,7 @@
     {
       "link": "https://github.com/beckn/beckn-sandbox/pull/10",
       "title": "Devops",
-      "stale_for": 222,
+      "stale_for": 228,
       "labels": []
     }
   ],

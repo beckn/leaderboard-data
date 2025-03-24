@@ -1,6 +1,83 @@
 {
-  "last_updated": "2025-03-16T17:42:39.000Z",
+  "last_updated": "2025-03-24T04:26:30.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3587",
+      "time": "2025-03-24T04:26:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3587",
+      "text": "P2P Trade Application - User is unable to place order when market is closed"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3487",
+      "time": "2025-03-24T04:19:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3487#issuecomment-2746842757",
+      "text": "@aniketceminds  connected with @viraj89 , We can remove \"?\" tooltip icons from app.\nMoving this task to inprogress again."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3533",
+      "time": "2025-03-23T06:58:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3533#issuecomment-2746058799",
+      "text": "End-to-End QA for the following features has been completed successfully:\n\n    Energy App - QR Code Flow Implementation (#3520)\n\n    Energy App - Validation in EMI Flow (#3528)\n\nAll implemented changes have been validated for functional correctness, UI behavior, and edge cases. No critical issues were found, and the features meet the required stability and functionality criteria. Marking this as closed.\n\n\nPOC-\n\n![Image](https://github.com/user-attachments/assets/81bf7b4f-3351-498c-a924-945969e72a40)\n\n![Image](https://github.com/user-attachments/assets/438fdfeb-7b33-4fad-a7d8-b1cfb46a480c)\n\n\nBugs raised -\nhttps://github.com/beckn/beckn-ui-workspace/issues/3586\nhttps://github.com/beckn/beckn-ui-workspace/issues/3565\n\nClosing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3533",
+      "time": "2025-03-23T06:58:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3533",
+      "text": "Energy App - End-to-End QA for QR Code Flow & EMI Flow Validation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3586",
+      "time": "2025-03-23T06:55:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3586",
+      "text": "Solaris - EMI Validation - Message shown to user for EMI validation should not be an error"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3538",
+      "time": "2025-03-23T06:37:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3538#issuecomment-2746050356",
+      "text": "Weekly testing report - 21st March 2025\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/874315805/Testing+Report-21-03-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3537",
+      "time": "2025-03-23T06:36:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3537#issuecomment-2746050154",
+      "text": "Testing report - 20th March 2025\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/873562125/Testing+Report-20-03-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3585",
+      "time": "2025-03-23T06:33:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3585#issuecomment-2746049518",
+      "text": "The comprehensive user guide for the Peer-to-Peer (P2P) Trade Application has been completed. It covers all user-facing functionalities, including navigation, asset listing, trade participation, and transaction management.\n\nFor detailed documentation, please refer to the Confluence page: \n\nUser Application -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/873922565/User+Guide+-+OpenSpark+v2+-+User\n\nAdmin Application -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/874315777/User+Guide+-+OpenSpark+v2+-+Admin\n\nClosing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3585",
+      "time": "2025-03-23T06:33:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3585",
+      "text": "User Guide Creation for P2P Trade Application"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3585",
+      "time": "2025-03-23T06:29:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3585",
+      "text": "User Guide Creation for P2P Trade Application"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3487",
+      "time": "2025-03-21T08:08:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3487#issuecomment-2742628910",
+      "text": "@aniketceminds  Kindly remove the tooltips. This is discussed with @viraj89 \n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3460",

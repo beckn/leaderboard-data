@@ -1,6 +1,57 @@
 {
-  "last_updated": "2025-03-17T12:50:27.000Z",
+  "last_updated": "2025-03-24T06:32:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3581",
+      "time": "2025-03-24T06:32:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3581#issuecomment-2747030992",
+      "text": "<img width=\"678\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fe762224-30b8-4718-af69-08d330028dda\" />\n@rahul-eminds  , getting 502 bad request can you please check once at your end\n@omkar-em @SanketEminds "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#258",
+      "time": "2025-03-21T11:35:17.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/258",
+      "text": "updated instruction for solaris and open spark",
+      "turnaround_time": 642
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3090",
+      "time": "2025-03-21T11:26:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3090#issuecomment-2743086039",
+      "text": "Landing page, Profile, Search , product, product details pages are done\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#258",
+      "time": "2025-03-21T11:24:35.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/258",
+      "text": "updated instruction for solaris and open spark"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3513",
+      "time": "2025-03-21T06:02:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3513#issuecomment-2742404633",
+      "text": "<img width=\"428\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5bb6af33-0732-4d0a-a517-fb8ae4cae780\" />"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3564",
+      "time": "2025-03-20T11:54:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3564",
+      "text": "fix(P2P): fixed bugs for admin flow in p2p lock demand disbled when m…",
+      "turnaround_time": 9618
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3564",
+      "time": "2025-03-20T09:13:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3564",
+      "text": "fix(P2P): fixed bugs for admin flow in p2p lock demand disbled when m…"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3517",
@@ -4333,25 +4384,25 @@
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/242",
       "title": "added iframe for open spark",
-      "stale_for": 15,
+      "stale_for": 21,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/7",
       "title": "css changes for policy details",
-      "stale_for": 740,
+      "stale_for": 746,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/6",
       "title": "css fixed for geofencing and create policy form",
-      "stale_for": 740,
+      "stale_for": 746,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/5",
       "title": "policy details page",
-      "stale_for": 740,
+      "stale_for": 746,
       "labels": []
     }
   ],

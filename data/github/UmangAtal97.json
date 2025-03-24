@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-03-18T06:52:34.000Z",
+  "last_updated": "2025-03-20T12:20:11.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3527",
+      "time": "2025-03-20T12:20:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3527",
+      "text": "Design for BPP Application: Finalizing UX - v2"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3527",
+      "time": "2025-03-20T12:18:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3527#issuecomment-2740272482",
+      "text": "Below designs conclude BPP application end to end flows :\n\n![Image](https://github.com/user-attachments/assets/99e0efcb-080f-4806-b544-eb43e98af127)\n\n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3527",

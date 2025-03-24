@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-03-18T11:10:33.000Z",
+  "last_updated": "2025-03-21T13:41:51.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#260",
+      "time": "2025-03-21T13:41:51.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/260",
+      "text": "Protocol Server | Verification HTML generation script"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#259",
+      "time": "2025-03-21T13:41:40.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/259",
+      "text": "Protocol Server | Develop /on_subscribe Endpoint"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#288",
+      "time": "2025-03-21T13:41:21.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/288",
+      "text": "Dedi Based Registry | Develop /subscribe Endpoint in Registry"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#287",
+      "time": "2025-03-21T13:41:14.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/287",
+      "text": "Dedi Based Registry | Develop /lookup Endpoint in Registry"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-21T05:25:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448#issuecomment-2742327335",
+      "text": "Timeline\n1. Demo on Dev env : 25th Mar\n2. Demo on Prod Env : 26th Mar"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-utilities#286",
@@ -7461,25 +7496,25 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 271,
+      "stale_for": 276,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 190,
+      "stale_for": 195,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 299,
+      "stale_for": 304,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 320,
+      "stale_for": 326,
       "labels": [
         "enhancement"
       ]

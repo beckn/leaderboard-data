@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-03-18T11:32:46.000Z",
+  "last_updated": "2025-03-24T04:38:25.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-24T04:38:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448#issuecomment-2746862053",
+      "text": "# Date: 21 March 2025\n\n## Current Step:\n- Discussed and finalized approach for handling existing data for all domains.\n- Fixed relevant issues for the energy domain.\n\n## Next Step:\n- Prepare a document detailing price breakups for all domains.\n- Start working on creating scripts to update existing data domain-wise.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3547",
+      "time": "2025-03-24T04:35:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3547#issuecomment-2746858701",
+      "text": "# Date: 21 March 2025\n\n## Current Step:\n- Conducted testing for the developed code across all applicable scenarios.\n- Identified and fixed the issues that arose during testing.\n- Implemented necessary logic changes.\n\n## Next Step:\n- Validate the final implementation.\n- Monitor for any further issues.\n- Prepare for deployment if no further issues are found.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3546",
+      "time": "2025-03-24T04:35:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3546#issuecomment-2746858449",
+      "text": "# Date: 21 March 2025\n\n## Current Step:\n- Conducted testing for the developed code across all applicable scenarios.\n- Identified and fixed the issues that arose during testing.\n- Implemented necessary logic changes.\n\n## Next Step:\n- Validate the final implementation.\n- Monitor for any further issues.\n- Prepare for deployment if no further issues are found.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-21T04:40:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448#issuecomment-2742242577",
+      "text": "# Date: 20 March 2025\n\n## Current Step:\n- Worked on the missing cases and issues raised by QAs.\n- Identified the migration issue due to schema changes.\n- Working on handling the migration issues.\n\n## Next Step:\n- Test the developed code across all applicable scenarios.\n- Fix any identified issues.\n- Resolve migration issues.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3547",
+      "time": "2025-03-21T04:37:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3547#issuecomment-2742239505",
+      "text": "# Date: 20 March 2025\n\n## Current Step:\n- Developed functionality to handle the case when `price-breakup-category` is updated.\n- Ensured that all its `price-breakup` values are updated accordingly.\n- Updated `min_price` for all `sc-product` instances having those `price-breakup` values.\n- Implemented the necessary hooks in Strapi.\n\n## Next Step:\n- Conduct testing for the developed code across all applicable scenarios.\n- Identify and fix any issues that arise during testing.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3546",
+      "time": "2025-03-21T04:33:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3546#issuecomment-2742236102",
+      "text": "# Date: 20 March 2025\n\n## Current Step:\n- Developed functionality to handle the case when `sc_retail` is removed from `price-breakup`.\n- Ensured that `price-breakup` values are updated accordingly.\n- Updated `min_price` to exclude the removed `price-breakup`.\n- Implemented the necessary hooks in Strapi.\n\n## Next Step:\n- Conduct testing for the developed code across all applicable scenarios.\n- Identify and fix any issues that arise during testing.\n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3506",
@@ -1238,25 +1280,25 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 154,
+      "stale_for": 159,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 147,
+      "stale_for": 152,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/leaderboard/pull/2",
       "title": "GitHub scrapper",
-      "stale_for": 244,
+      "stale_for": 250,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 147,
+      "stale_for": 152,
       "labels": []
     }
   ],

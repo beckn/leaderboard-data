@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-03-18T11:44:43.000Z",
+  "last_updated": "2025-03-21T13:53:43.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#430",
+      "time": "2025-03-21T13:53:43.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/430",
+      "text": "feat: decryption plugin",
+      "turnaround_time": 197485
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#429",
+      "time": "2025-03-21T11:48:56.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/429",
+      "text": "feat: encryption plugin",
+      "turnaround_time": 190803
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#434",
+      "time": "2025-03-21T06:31:34.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/434",
+      "text": "Feat/publisher plugin",
+      "turnaround_time": 88028
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-onix#427",
@@ -18,27 +42,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-onix/pull/428",
-      "title": "Feat/decryption",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-onix/pull/427",
-      "title": "Feat/encryption",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/beckn-onix/pull/417",
       "title": "Feat: Added plugin manager, publisher plugin",
-      "stale_for": 6,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/403",
       "title": "feat: added network service - handler and receiver",
-      "stale_for": 11,
+      "stale_for": 17,
       "labels": []
     }
   ],

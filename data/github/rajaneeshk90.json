@@ -1,6 +1,77 @@
 {
-  "last_updated": "2025-03-18T04:58:01.000Z",
+  "last_updated": "2025-03-24T04:55:02.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#241",
+      "time": "2025-03-24T04:55:02.000Z",
+      "link": "https://github.com/beckn/missions/issues/241#issuecomment-2746883099",
+      "text": "The original ticket has been closed."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#241",
+      "time": "2025-03-24T04:55:01.000Z",
+      "link": "https://github.com/beckn/missions/issues/241",
+      "text": "UKI: Improve discovery of schemes and benefits"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#196",
+      "time": "2025-03-24T04:52:39.000Z",
+      "link": "https://github.com/beckn/missions/issues/196",
+      "text": "UKI : Improve discovery of scheme/benefit eligibility"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#196",
+      "time": "2025-03-24T04:52:36.000Z",
+      "link": "https://github.com/beckn/missions/issues/196#issuecomment-2746880346",
+      "text": "Since there have been no updates on this issue for the past three weeks and all necessary details have already been provided, we are closing this issue due to inactivity. If there are any further concerns or clarifications needed, feel free to open a new issue with updated context.\n\nThanks for your contributions!"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3588",
+      "time": "2025-03-24T04:46:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3588#issuecomment-2746870444",
+      "text": "Date 24th Mar\n\nCurrent Status:\n\n1. Went through the updated outcome visualisation shared by the Solar Square team.\n2. Went through the property list that need to be included in each stage of a booking lifecycle.\n3. Went through the demo link to get a better context of the current implementation and the information flow.: http://ec2-13-127-233-11.ap-south-1.compute.amazonaws.com/\n4. Made changes in the API json payload based on the context gained from the above exercises.\n5. The changes are in a local branch as of now.\n\n\nNext steps:\n\n1. There are some doubts that need to be clarified with the NP, specifically regarding including details of the hardware used for solar panels before the site site survey has completed."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3588",
+      "time": "2025-03-24T04:37:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3588",
+      "text": "UEI: Implementation Guide for Solar panel installation service: Phase 1"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#267",
+      "time": "2025-03-21T08:24:52.000Z",
+      "link": "https://github.com/beckn/missions/issues/267#issuecomment-2742658651",
+      "text": "Initial draft of the postman collection was merged into main branch of missions directory as part of this PR: https://github.com/beckn/missions/pull/269"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#269",
+      "time": "2025-03-21T08:24:00.000Z",
+      "link": "https://github.com/beckn/missions/pull/269",
+      "text": "P2p postman",
+      "turnaround_time": -2
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#269",
+      "time": "2025-03-21T08:23:43.000Z",
+      "link": "https://github.com/beckn/missions/pull/269",
+      "text": "P2p postman"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#267",
+      "time": "2025-03-21T05:50:49.000Z",
+      "link": "https://github.com/beckn/missions/issues/267#issuecomment-2742374549",
+      "text": "Date 20th Mar\n\nCurrent Status:\n\n1. Created first draft of the postman collection. \n2. Using the ueialliance netowrk.\n3. Domain for p2p-trade has been created in that network.\n4. krpc need to register itself as logistics BPP in that network.\n\nNext steps:\n\n1. Will check with Meenakshi the status of the pending tasks from NPs and modify the postman collection accordingly.\n\n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/missions#249",
@@ -2176,91 +2247,91 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "title": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs.",
-      "stale_for": 141,
+      "stale_for": 146,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/27",
       "title": "Change in the example implementation and implementation guide for the EV charging use case.",
-      "stale_for": 172,
+      "stale_for": 178,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/184",
       "title": "Remove unwanted references from the DSEP specification example jsons",
-      "stale_for": 200,
+      "stale_for": 206,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/438",
       "title": "Core 1.2 release",
-      "stale_for": 217,
+      "stale_for": 222,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/20",
       "title": "Layer2 28th june",
-      "stale_for": 263,
+      "stale_for": 269,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/19",
       "title": "L2 v3.1",
-      "stale_for": 263,
+      "stale_for": 269,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility/pull/78",
       "title": "adding domain specific rules/restrictions in the mobility on demand layer2 config",
-      "stale_for": 181,
+      "stale_for": 187,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/18",
       "title": "Layer2 config for retail domain",
-      "stale_for": 284,
+      "stale_for": 289,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/21",
       "title": "L2 config",
-      "stale_for": 188,
+      "stale_for": 193,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/logistics/pull/12",
       "title": "L2 config",
-      "stale_for": 266,
+      "stale_for": 272,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Industry-4.0-Specifications/pull/9",
       "title": "Validating Industry4.0 Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Industry4.0 specification",
-      "stale_for": 336,
+      "stale_for": 341,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/PULSE-Specification/pull/25",
       "title": "Validating PULSE Specification against the Beckn Core specification v 1.1.0, validating examples against the updated PULSE specification",
-      "stale_for": 336,
+      "stale_for": 342,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/407",
       "title": "Adding a GitHub action for Beckn core specification to validate meta.yaml, registry.yaml and transaction.yaml files against OpenAPI3.0",
-      "stale_for": 62,
+      "stale_for": 67,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/401",
       "title": "Adding a pre-commit hook in Beckn core specification repository",
-      "stale_for": 171,
+      "stale_for": 177,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/logistics/pull/11",
       "title": "Validating Logistics Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Logistics specification",
-      "stale_for": 337,
+      "stale_for": 342,
       "labels": []
     }
   ],
