@@ -15,5 +15,5 @@ jobs:
       pull-requests: read
       contents: write
     with:
-      projects-board-id: PVT_kwDOA3tJis4AqXoa
+      # projects-board-id: PVT_kwDOA3tJis4AqXoa
   
