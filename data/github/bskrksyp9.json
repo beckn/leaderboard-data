@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-03-06T14:59:13Z",
+  "last_updated": "2025-03-24T15:16:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-specifications#472",
+      "time": "2025-03-24T15:16:11.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/472#issuecomment-2748492665",
+      "text": "GitHub public repositories are open for contributions, but the final decision to merge them rests with the maintainer. Anyone can submit contributions"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-specifications#408",
+      "time": "2025-03-24T15:15:51.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/408#issuecomment-2748491656",
+      "text": "GitHub public repositories are open for contributions, but the final decision to merge them rests with the maintainer. Anyone can submit contributions"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/missions#231",
@@ -23,6 +37,13 @@
       "text": "Proofread and improve documentation"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-specifications/pull/408",
+      "title": "fix typos & grammar.",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

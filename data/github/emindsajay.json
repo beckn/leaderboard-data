@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-03-13T14:04:40.000Z",
+  "last_updated": "2025-03-24T16:30:45.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#289",
+      "time": "2025-03-24T16:30:45.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/289",
+      "text": "DeDi Based Registry | Architecture Documentation"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#280",
+      "time": "2025-03-24T15:56:23.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/280#issuecomment-2748621081",
+      "text": "## Schema Diagram\n\n``` mermaid\nerDiagram\n    USER {\n        number id\n        string username\n        string fullname\n        string password\n        enum account_status\n        string phone_number\n        number updater_id\n        timestamp updated_at\n        number creator_id\n        timestamp created_at\n        boolean email_verified\n        string verification_token\n        number role_id\n        string email\n        string alternate_phone_number\n    }\n\n    ROLES {\n        string name\n        string id\n        string updater_id\n        string creator_id\n        datetime updated_at\n        datetime created_at\n    }\n\n    NETWORK_PARTICIPANTS {\n        string key_id\n        string created\n        string city_code\n        string valid_from\n        string type\n        string nonce\n        string url\n        string country_code\n        string signing_public_key\n        string subscriber_id\n        string valid_until\n        string domain\n        string encr_public_key\n        string updated\n        string status\n        string id\n        string updater_id\n        string creator_id\n        boolean kyc_complete\n    }\n\n    USER_NETWORK_PARTICIPANTS {\n        string participant_id\n        string user_id\n        string id\n    }\n\n    NETWORK_DOMAINS {\n        string name\n        string description\n        string schema_url\n        string id\n    }\n\n    USER ||--o{ USER_NETWORK_PARTICIPANTS : \"has participants\"\n    ROLES ||--o{ USER : \"assigned to\"\n    NETWORK_PARTICIPANTS ||--o{ USER_NETWORK_PARTICIPANTS : \"has users\"\n    NETWORK_DOMAINS ||--o{ NETWORK_PARTICIPANTS : \"has participants\"\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#280",
+      "time": "2025-03-24T13:57:29.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/280#issuecomment-2748223985",
+      "text": "## Prerequisites on protocol server\n\n```mermaid\ngraph TD\n    A[Prepare Request Payload] --> B[Save JSON to scripts/data/network-participant.json]\n    B --> C[Run Command: npm run generate-verification]\n    C --> D[Generate verification.html]\n    D --> E[Verify File Exists at public/verification.html]\n    \n    style A fill:#ffe0b2,stroke:#333\n    style B fill:#ffd54f,stroke:#333\n    style C fill:#aed581,stroke:#333\n    style D fill:#81c784,stroke:#333\n    style E fill:#4db6ac,stroke:#333\n```\n\n# Network Participant Verification Guide\n\n## Prerequisites\n- Node.js and npm installed\n- Access to the protocol-server-bap-network directory\n- Required dependencies installed (`npm install`)\n\n## Steps\n\n### 1. Prepare Request Payload\nCreate a JSON file at `scripts/data/network-participant.json` with the following structure:\n\n```json\n{\n  \"subscriber_id\": \"178f3-2401-4900-1c9a-941d-4d3e-d696-3cc2-145d.ngrok-free.app\",\n  \"url\": \"https://178f3-2401-4900-1c9a-941d-4d3e-d696-3cc2-145d.ngrok-free.app\",\n  \"type\": \"BAP\",\n  \"domain\": \"mobility\",\n  \"location\": {\n    \"city\": {\n      \"name\": \"Bangalore\",\n      \"code\": \"BLR\"\n    },\n    \"country\": {\n      \"name\": \"India\",\n      \"code\": \"IN\"\n    }\n  },\n  \"key_id\": \"3fa85f64-5717-4562-b3fc-2c963f66afa6\",\n  \"signing_public_key\": \"YOUR_SIGNING_PUBLIC_KEY\",\n  \"encr_public_key\": \"YOUR_ENCRYPTION_PUBLIC_KEY\",\n  \"valid_from\": \"2025-03-18T16:36:08.651Z\",\n  \"valid_until\": \"2026-03-18T16:36:08.651Z\",\n  \"status\": \"INITIATED\",\n  \"created\": \"2025-03-18T16:36:08.651Z\",\n  \"updated\": \"2025-03-18T16:36:08.651Z\",\n  \"nonce\": \"3fa85f64-5717-4562-b3fc-2c963f66afa6\"\n}\n```\n\n### 2. Generate Verification File\nRun the following command from the `protocol-server` directory:\n\n```bash\nnpm run generate-verification\n```\n\nThis will execute the `scripts/generate-verification-html` script which will:\n- Read the network participant data\n- Generate the digital signature\n- Create the verification.html file\n\n### 3. Verify Output\nThe verification file should be generated at `public/verification.html`. The file should contain:\n- A meta tag with the site verification content\n- The verification content should be base64 encoded\n- The content should include all the network participant details\n\n### 4. Manual Verification\n1. Navigate to the `public` directory\n2. Confirm that `verification.html` exists\n3. Open the file in a browser to verify it displays correctly\n4. Check that the meta tag contains the correct verification content\n\n## Troubleshooting\nIf you encounter any issues:\n1. Ensure all required dependencies are installed\n2. Verify the network-participant.json file is properly formatted\n3. Check the script execution logs for any errors\n4. Confirm you have write permissions in the public directory\n\n## Notes\n- The verification file is crucial for network participant registration\n- Keep the network-participant.json file secure as it contains sensitive information\n- The generated verification.html file should be publicly accessible\n- The verification content should match the network participant details exactly\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#280",
+      "time": "2025-03-24T13:34:28.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/280#issuecomment-2748155688",
+      "text": "## Security Architecture Diagram\n\n```mermaid\ngraph TD\n    subgraph Registry[Registry Server]\n        R1[Subscribe & Validate]\n        R2[Challenge & Verify]\n    end\n\n    subgraph Subscriber[Protocol Server]\n        S1[Server with SSL Certificate]\n        S2[Domain with verify.html]\n        S3[Public/Private Keys]\n    end\n\n    R1 -->| Validate SSL Certificate| S1\n    R1 -->| Verify Domain Ownership| S2\n    S3 -->| Share Public Key| R2\n    R2 -->| Send Random Challenge| S3\n    S3 -->| Return Signed Response| R2\n\n    style R1 fill:#bbf,stroke:#333\n    style R2 fill:#bbf,stroke:#333\n    style S1 fill:#f9f,stroke:#333\n    style S2 fill:#f9f,stroke:#333\n    style S3 fill:#f9f,stroke:#333\n    style Registry fill:#eef,stroke:#333\n    style Subscriber fill:#fff0f5,stroke:#333\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#280",
+      "time": "2025-03-24T13:01:45.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/280#issuecomment-2748059869",
+      "text": "## User and Network Participant Onboarding Data Flow Diagram\n\n```mermaid\nflowchart TB\n  %% External Entity\n  User[User]\n\n  %% User Inputs (Data Flows)\n  UnamePass1[[username, password]]\n  UnamePass2[[username, password]]\n  NPInput[[subscriber_id, url, key_id, signing_public_key, encr_public_key, valid_from, valid_until]]\n\n  %% Processes\n  Register[Process: User Registration]\n  Login[Process: User Login]\n  FillForm[Process: Fill Network Participant Info]\n  SubscribeAPI[Process: Subscribe API]\n  Verify[Process: Verification subscriber_id & URL]\n  SaveDeDi[Process: Save to DeDi]\n\n  %% Data Stores\n  StrapiDB[(Strapi DB)]\n  DeDiDB[(DeDi Storage)]\n\n  %% Data Flows\n  User --> UnamePass1 --> Register\n  Register --> StrapiDB\n\n  User --> UnamePass2 --> Login\n  Login --> StrapiDB\n\n  User --> NPInput --> FillForm\n  FillForm --> SubscribeAPI\n\n  SubscribeAPI --> Verify\n  Verify -->|If valid| SaveDeDi\n  SaveDeDi --> DeDiDB\n  Verify -->|If invalid| Error[Error Message to User]\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#280",
+      "time": "2025-03-24T12:20:27.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/280#issuecomment-2747943237",
+      "text": "## Logical Architecture Diagram\n\n```mermaid\ngraph TB\n  UI[User Interface]\n  \n  subgraph Application Layer in Strapi\n    Auth[Authentication Module]\n    Profile[Profile Management]\n    NPManager[Network Participant Manager]\n    RoleManager[Role Management]\n    DomainManager[Network Domain Management]\n    SubscribeAPI[Subscribe API]\n    LookupAPI[Lookup API]\n  end\n\n  subgraph Data Layer\n    StrapiDB[(Strapi Database)]\n    DeDi[(DeDi Storage)]\n  end\n\n  UI --> Auth\n  UI --> Profile\n  UI --> NPManager\n  UI --> RoleManager\n  UI --> DomainManager\n\n  Auth --> StrapiDB\n  Profile --> StrapiDB\n  RoleManager --> StrapiDB\n  DomainManager --> StrapiDB\n\n  NPManager --> SubscribeAPI\n  NPManager --> LookupAPI\n\n  SubscribeAPI --> Verification[Verification Logic]\n  Verification --> DeDi\n\n  LookupAPI --> DeDi\n\n``` "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#280",
+      "time": "2025-03-24T12:18:52.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/280#issuecomment-2747938410",
+      "text": "## Lookup API Flow Diagram\n\n```mermaid\nflowchart TD\n    A[Start Lookup Request] --> B[Receive LookupRequest Body]\n    B --> C[Query Directory in DEDI]\n    C --> D[Filter Records based on criteria]\n    D --> E{Records Found?}\n    E -->|Yes| F[Transform Records]\n    E -->|No| G[Return Empty Records]\n    F --> H[Map Record Details]\n    H --> I[Return Response with Records]\n    G --> I\n    I --> J[End]\n``` "
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#279",
@@ -342,13 +391,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/251",
       "title": "feat: Add conditional streaming response handling with error handling…",
-      "stale_for": 8,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 422,
+      "stale_for": 428,
       "labels": []
     }
   ],

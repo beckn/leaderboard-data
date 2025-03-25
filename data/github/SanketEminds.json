@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-03-21T12:30:54.000Z",
+  "last_updated": "2025-03-24T14:25:06.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3594",
+      "time": "2025-03-24T14:25:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3594",
+      "text": "EC App-Step 4 image missing in Instruction tab on Firefox – Open Spark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3592",
+      "time": "2025-03-24T12:19:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3592",
+      "text": "EC Staging -Unable to Sign In – Local API Failing in Staging Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3591",
+      "time": "2025-03-24T10:01:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3591",
+      "text": "Ec App-Incorrect Amount Display for Quantity & Billing Overview – Industry 4.0 App"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3525",

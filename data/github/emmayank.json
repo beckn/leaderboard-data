@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-03-21T13:41:51.000Z",
+  "last_updated": "2025-03-24T14:15:52.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3577",
+      "time": "2025-03-24T14:15:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3577#issuecomment-2748284489",
+      "text": "@aniketceminds @omkar-em , we discussed this already ! \n1. User is allowed to add same battery from their wallet for renting, but if it already exist for the same date, user should get a validation error saying \"The Physical asset is already listed for renting\""
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3587",
+      "time": "2025-03-24T14:13:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3587#issuecomment-2748277807",
+      "text": "@aniketceminds @omkar-em \n\n1. Whenever user tried to create sell order or buy order when market is closed, it should give a alert message. though the order should be placed anyway.\n2. Refer the [Figma ](https://www.figma.com/design/uLiNPvzllxggHT8kHQNDUJ/Open-Spark-Mobile-App?node-id=1215-894&t=QW4VtVqSV7sbdXR4-0)screen\n\n<img width=\"175\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/eaf34c18-8966-4625-b93a-ef84dd6c277a\" />\n"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/protocol-server#260",
@@ -7496,19 +7510,19 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 276,
+      "stale_for": 277,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 195,
+      "stale_for": 196,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 304,
+      "stale_for": 305,
       "labels": []
     },
     {

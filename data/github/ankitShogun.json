@@ -1,6 +1,35 @@
 {
-  "last_updated": "2025-03-21T22:08:48.000Z",
+  "last_updated": "2025-03-24T13:43:08.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#270",
+      "time": "2025-03-24T13:43:08.000Z",
+      "link": "https://github.com/beckn/missions/pull/270",
+      "text": "update guide based on latest onix release",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#270",
+      "time": "2025-03-24T13:43:01.000Z",
+      "link": "https://github.com/beckn/missions/pull/270",
+      "text": "update guide based on latest onix release"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#256",
+      "time": "2025-03-24T11:22:29.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/256#issuecomment-2747786963",
+      "text": "Original PR merge was just not working and creating a lot of confusion. Cherry picked the changes and created [this](https://github.com/beckn/protocol-server/tree/telemetry-sdk-changes) new branch "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#137",
+      "time": "2025-03-24T09:02:22.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/137",
+      "text": "Debugging transaction ai bot presumer flow"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/protocol-server#261",
@@ -1742,19 +1771,19 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/261",
       "title": "Merge conflicts check pr",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/258",
       "title": "Open network sdk testing pr",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 95,
+      "stale_for": 96,
       "labels": []
     }
   ],

@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-03-24T06:25:45.000Z",
+  "last_updated": "2025-03-24T13:03:30.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3593",
+      "time": "2025-03-24T13:03:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3593",
+      "text": "fix(retail): refactoring cypress test cases",
+      "turnaround_time": 1224
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3593",
+      "time": "2025-03-24T12:43:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3593",
+      "text": "fix(retail): refactoring cypress test cases"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3590",
