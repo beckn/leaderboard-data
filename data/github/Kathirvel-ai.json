@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-10-08T06:37:38Z",
+  "last_updated": "2025-03-25T06:45:56.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#272",
+      "time": "2025-03-25T06:45:56.000Z",
+      "link": "https://github.com/beckn/missions/issues/272",
+      "text": "UKI Implementation guide | Soil Testing"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#2252",

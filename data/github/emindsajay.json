@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-03-24T16:30:45.000Z",
+  "last_updated": "2025-03-24T20:20:51.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#288",
+      "time": "2025-03-24T20:20:51.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/288#issuecomment-2749301899",
+      "text": "## Date: 19th March\n\n### Current status:\nCompleted the subscribe API implementation outside plugin\nConnected with for discussing the flow for the subscribe API.\n\n## Next step:\nI will discuss with the lookup API and do the needful for the implementation."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#288",
+      "time": "2025-03-24T20:19:30.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/288#issuecomment-2749299071",
+      "text": "## Date: March 18, 2025\n\n### Current status:\nInternal Calls for DEDI implementation discussion\nConnected with Shrey Vishal for schema and subscribe implementation.\nWorked on the node script for creating the verification.html\nCurrently working on the implementation of payload enc. and dec. for verification\n\n## Next step:\nI will continue to work on the implementation of payload enc. and dec. for verification."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#280",
+      "time": "2025-03-24T20:17:25.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/280#issuecomment-2749294516",
+      "text": "- Connected with the team for a new registry discussion.\n- Created the required API sheet for the current registry."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#276",
+      "time": "2025-03-24T20:15:55.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/276#issuecomment-2749291421",
+      "text": "## Date: 13 March, 2025\n### Current Status:\nAttended the meeting for reviewing the schema and API doc\nUpdated the API docs with our new schema\nWorking on the postman collection for DeDi\n\n### Next Steps:\nI will continue working on postman collection\nI will connect with team for updated API document review."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#259",
+      "time": "2025-03-24T20:14:38.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/259#issuecomment-2749287577",
+      "text": "- Implemented secure /on_subscribe endpoint with sodium-based cryptographic signing\n- Added subscriber ID validation and comprehensive logging system\n- Created Base64 key format validation and conversion mechanism\n- Successfully integrated challenge-response verification flow"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#260",
+      "time": "2025-03-24T20:11:07.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/260#issuecomment-2749278214",
+      "text": "- Created a new automation script generate-verification-html.js that generates the required verify.html file for network participant domain verification, streamlining the participant onboarding process.\n- The script ensures standardized domain ownership verification, reducing manual errors and improving security compliance.\n- This automation reduces the participant registration time and provides clear instructions for domain verification setup."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#280",
+      "time": "2025-03-24T20:04:44.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/280#issuecomment-2749264880",
+      "text": "## Date: March 17, 2025\n\n### Current status:\nConnected twice for DeDi discussion.\nStarted working on Registry Non Beckn api using strapi.\n\n### Next step:\nI will go through the docs and videos for implementation of subscribe in ONDC."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#287",
+      "time": "2025-03-24T20:00:38.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/287#issuecomment-2749256677",
+      "text": "## Date: March 21, 2025\n\n### Current Status:\nTested lookup api with Shrey Vishal\nConnected with Aniket Chahare for renting API.\nConnected with DeDi Guys for blocker discussion\nConnected with Shrey Vishal for discussing the new registry completion plan.\nConnected with for discussing the price breakup implementation."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#287",
+      "time": "2025-03-24T19:58:52.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/287#issuecomment-2749253174",
+      "text": "## Date: March 20, 2025\n\n### Current Status:\nWorked on lookup API, testing is pending.\n\n### Next Step:\nI will do lookup api testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#289",
+      "time": "2025-03-24T19:57:14.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/289#issuecomment-2749250038",
+      "text": "## Date: March 24, 2025\n\n### Current Status:\nConnected with Aniket Chahare for DeDe based registry discussion.\nConnected with for DeDi based registry discussion.\nWorked on DeDi based Registry Architecture diagram.: https://github.com/emindsajay/registry/blob/main/docs"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-utilities#289",
@@ -391,13 +461,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/251",
       "title": "feat: Add conditional streaming response handling with error handling…",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 428,
+      "stale_for": 429,
       "labels": []
     }
   ],

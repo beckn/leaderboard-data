@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-03-24T14:25:06.000Z",
+  "last_updated": "2025-03-25T07:10:43.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3598",
+      "time": "2025-03-25T07:10:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3598",
+      "text": "Gemini 2.0-WhatsApp Chatbot Error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3597",
+      "time": "2025-03-25T06:45:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3597",
+      "text": "Feat/ust odr"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3594",
@@ -1724,6 +1738,13 @@
       "text": "Open Spark-Order history displays the price of a single battery instead of the total price after purchasing multiple quantities."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3597",
+      "title": "Feat/ust odr",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

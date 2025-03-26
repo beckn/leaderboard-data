@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-24T13:59:16.000Z",
+  "last_updated": "2025-03-25T07:58:57.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#475",
+      "time": "2025-03-25T07:58:57.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/475",
+      "text": "Proofread and improved GOVERNANCE.md (Issue #472)"
+    },
     {
       "type": "comment_created",
       "title": "beckn/protocol-specifications#472",
@@ -18,9 +25,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/protocol-specifications/pull/475",
+      "title": "Proofread and improved GOVERNANCE.md (Issue #472)",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/protocol-specifications/pull/474",
       "title": "Update Order.yaml : Added Order.state field to Order schema",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

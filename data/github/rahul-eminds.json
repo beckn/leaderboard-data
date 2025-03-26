@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-24T04:38:25.000Z",
+  "last_updated": "2025-03-25T04:34:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-25T04:34:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448#issuecomment-2750051343",
+      "text": "### Date: March 24, 2025  \n\n#### Current Status:  \n- Created doc for price breakups name for all domains of EC.  \n- Attended doc review call with Mayank and Omkar.  \n- Started working on writing scripts for standardization of existing data for dynamic price.  \n\n#### Next Step:  \n- Continue working on writing scripts for standardization of existing data.  \n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3448",
@@ -1280,25 +1287,25 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 160,
+      "stale_for": 161,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 153,
+      "stale_for": 154,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/leaderboard/pull/2",
       "title": "GitHub scrapper",
-      "stale_for": 250,
+      "stale_for": 251,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 153,
+      "stale_for": 154,
       "labels": []
     }
   ],

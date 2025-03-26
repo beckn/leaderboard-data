@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-03-24T13:03:30.000Z",
+  "last_updated": "2025-03-25T06:47:19.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3591",
+      "time": "2025-03-25T06:47:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3591#issuecomment-2750251163",
+      "text": "screenshot for this task\n\n<img width=\"441\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/22973353-48bd-4221-852f-40da2e93893d\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3592",
+      "time": "2025-03-25T05:32:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3592#issuecomment-2750136412",
+      "text": "@SanketEminds ,\n\n<img width=\"1112\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/cf91baa3-ee77-4380-8e1a-169008997145\" />\nthis is CORS error, need to connect with @prasad-takale-eminds , and then we will get it solve"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3595",
+      "time": "2025-03-25T04:11:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3595#issuecomment-2750024512",
+      "text": "PR for this task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3593"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3595",
+      "time": "2025-03-25T04:11:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3595",
+      "text": "Cypress Test Cases Refactoring - Retail App"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3593",

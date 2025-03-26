@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-03-24T14:15:52.000Z",
+  "last_updated": "2025-03-25T06:44:55.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#162",
+      "time": "2025-03-25T06:44:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/162#issuecomment-2750245862",
+      "text": "This task is completed and policy portal is now migrated to Beckn UI workspace. closing this ticket"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#162",
+      "time": "2025-03-25T06:44:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/162",
+      "text": "Migrate the Smart Policy Administration to Beckn UI workspace repo"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3577",
@@ -7510,25 +7524,25 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 277,
+      "stale_for": 278,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 196,
+      "stale_for": 197,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 305,
+      "stale_for": 306,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 326,
+      "stale_for": 327,
       "labels": [
         "enhancement"
       ]

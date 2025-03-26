@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-03-24T04:26:30.000Z",
+  "last_updated": "2025-03-25T07:24:43.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3532",
+      "time": "2025-03-25T07:24:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3532#issuecomment-2750325551",
+      "text": "Keeping this task on hold until bug fixes are deployed."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3529",
+      "time": "2025-03-25T07:23:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3529#issuecomment-2750323693",
+      "text": "Closing this task. \ncc: @emmayank @PritiEM @SanketEminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3529",
+      "time": "2025-03-25T07:23:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3529",
+      "text": "Update Test Case and User Guide Documentation for QR Code Flow & EMI Flow Validation"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3529",
+      "time": "2025-03-25T07:23:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3529#issuecomment-2750323246",
+      "text": "Test cases updated in Solaris application for additional features\n\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/868646915/Energy+Apps+-+Solaris"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3529",
+      "time": "2025-03-25T07:04:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3529#issuecomment-2750289333",
+      "text": "Test cases updated in \nSpark -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/868843525/Energy+Apps+-+Spark"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3529",
+      "time": "2025-03-25T06:43:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3529#issuecomment-2750242260",
+      "text": "User Guide have been updated in Solaris and Spark application.\n\nSolaris Application -\nStep 4.1\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/863862797/User+Guide+-+Solaris+Application\n\nSpark Application -\nStep 8, 10\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/863961090/User+Guide+-+Open+Spark"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#285",
+      "time": "2025-03-25T06:18:53.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/285#issuecomment-2750201913",
+      "text": "Connected with @emindsajay  for DeDi based registery understanding,\nWill go through documentation and diagram provided and start writing the test cases for API and UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3555",
+      "time": "2025-03-25T06:17:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3555#issuecomment-2750199771",
+      "text": "Keeping this task on hold until bug fixes done by @rahul-eminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3537",
+      "time": "2025-03-25T06:16:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3537#issuecomment-2750198337",
+      "text": "Testing report - 24th March 2025\n\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/877756418/Testing+Report-24-03-2025"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3587",
