@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-25T05:06:37.000Z",
+  "last_updated": "2025-03-26T04:19:22.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3588",
+      "time": "2025-03-26T04:19:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3588#issuecomment-2753202181",
+      "text": "Date 26th Mar\n\nCurrent Status:\n\n1. Discussed the current progress with Solar Square on a hour long call. \n2. we went thought the JSONs live on the call.\n3. Below points were discussed:\n    - segregate service types: survey, survey+installation, only-installation\n    - how can we tag images of a provider ?\n    - add pincode in the provider locations \n    - remove the add-ons from the catalog: Panel Cleaning  and AMC\n    - add one more param, offgrid/ongrid/hybrid\n    - subsidy is only allowed if the users are selling it back to the grid\n    - add examples for site not elligible for solar panel, based on the survey.\n    - add examples for customer cancelling installation\n    - Commercial Industrial: typo, fix it in the catalog\n\n\nNext steps:\n\nwork on the above topics and discuss it with the NP"
+    },
     {
       "type": "comment_created",
       "title": "beckn/missions#249",
@@ -2268,97 +2275,97 @@
     {
       "link": "https://github.com/beckn/missions/pull/271",
       "title": "example payload for solar panel installation use case",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "title": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs.",
-      "stale_for": 148,
+      "stale_for": 149,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/27",
       "title": "Change in the example implementation and implementation guide for the EV charging use case.",
-      "stale_for": 179,
+      "stale_for": 180,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/184",
       "title": "Remove unwanted references from the DSEP specification example jsons",
-      "stale_for": 207,
+      "stale_for": 208,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/438",
       "title": "Core 1.2 release",
-      "stale_for": 224,
+      "stale_for": 225,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/20",
       "title": "Layer2 28th june",
-      "stale_for": 270,
+      "stale_for": 271,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/19",
       "title": "L2 v3.1",
-      "stale_for": 270,
+      "stale_for": 271,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility/pull/78",
       "title": "adding domain specific rules/restrictions in the mobility on demand layer2 config",
-      "stale_for": 188,
+      "stale_for": 189,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/18",
       "title": "Layer2 config for retail domain",
-      "stale_for": 291,
+      "stale_for": 292,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/21",
       "title": "L2 config",
-      "stale_for": 195,
+      "stale_for": 196,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/logistics/pull/12",
       "title": "L2 config",
-      "stale_for": 273,
+      "stale_for": 274,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Industry-4.0-Specifications/pull/9",
       "title": "Validating Industry4.0 Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Industry4.0 specification",
-      "stale_for": 343,
+      "stale_for": 344,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/PULSE-Specification/pull/25",
       "title": "Validating PULSE Specification against the Beckn Core specification v 1.1.0, validating examples against the updated PULSE specification",
-      "stale_for": 343,
+      "stale_for": 344,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/407",
       "title": "Adding a GitHub action for Beckn core specification to validate meta.yaml, registry.yaml and transaction.yaml files against OpenAPI3.0",
-      "stale_for": 69,
+      "stale_for": 70,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/401",
       "title": "Adding a pre-commit hook in Beckn core specification repository",
-      "stale_for": 178,
+      "stale_for": 179,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/logistics/pull/11",
       "title": "Validating Logistics Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Logistics specification",
-      "stale_for": 344,
+      "stale_for": 345,
       "labels": []
     }
   ],

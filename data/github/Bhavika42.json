@@ -27,13 +27,13 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/475",
       "title": "Proofread and improved GOVERNANCE.md (Issue #472)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/474",
       "title": "Update Order.yaml : Added Order.state field to Order schema",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     }
   ],

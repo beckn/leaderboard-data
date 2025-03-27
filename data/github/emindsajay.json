@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-24T20:20:51.000Z",
+  "last_updated": "2025-03-26T04:50:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#289",
+      "time": "2025-03-26T04:50:37.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/289#issuecomment-2753237447",
+      "text": "## Date: March 25, 2025\n\n### Current Status:\n- Completed the DeDe based Registry documentation and got it reviewed\n- Connected with for Solaris App discussion for BE changes."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#288",
@@ -461,13 +468,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/251",
       "title": "feat: Add conditional streaming response handling with error handling…",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 429,
+      "stale_for": 430,
       "labels": []
     }
   ],

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-03-25T04:34:58.000Z",
+  "last_updated": "2025-03-26T04:44:39.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-26T04:44:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448#issuecomment-2753230483",
+      "text": "### Date: March 25, 2025  \n\n#### Current Status:  \n- Worked on updating `base_fee` for all the domains for existing data cleanup.  \n- Working on writing scripts for updating different price breakups domain-wise for existing data.  \n\n#### Next Step:  \n- Continue working on writing scripts for updating different price breakups domain-wise for existing data.  \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3600",
+      "time": "2025-03-26T04:43:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3600#issuecomment-2753227774",
+      "text": "It was failing because there was no agent linked to the provider found which matched the buying criteria.\nSo due to which app was restarting and api call during that time was throwing 502 error."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3448",
@@ -1287,25 +1301,25 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 161,
+      "stale_for": 162,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 154,
+      "stale_for": 155,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/leaderboard/pull/2",
       "title": "GitHub scrapper",
-      "stale_for": 251,
+      "stale_for": 252,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 154,
+      "stale_for": 155,
       "labels": []
     }
   ],

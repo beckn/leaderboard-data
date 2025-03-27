@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-03-25T07:10:43.000Z",
+  "last_updated": "2025-03-26T17:47:36.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3614",
+      "time": "2025-03-26T17:47:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3614",
+      "text": "EC Apps-Search Failing in Production – Gateway Timeout Error"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#138",
+      "time": "2025-03-26T12:05:33.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/138",
+      "text": "Gemini -WhatsApp Chatbot Error"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3607",
+      "time": "2025-03-26T06:33:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3607",
+      "text": "UEI-Kazam App-Location Marker Not Showing in Kazam App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3604",
+      "time": "2025-03-26T04:36:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3604",
+      "text": "P2p Energy-Sell Dashboard Displays Energy as 0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3603",
+      "time": "2025-03-26T04:35:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3603",
+      "text": "P2P Energy-Market Showing as Closed for 3-5 Seconds on Login or Home Page Return"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3602",
+      "time": "2025-03-26T04:34:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3602",
+      "text": "P2P Energy-Previously Added Quantity Retained After Navigating Back"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3598",
@@ -1742,7 +1784,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3597",
       "title": "Feat/ust odr",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

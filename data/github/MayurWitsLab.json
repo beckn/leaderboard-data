@@ -59,31 +59,31 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/423",
       "title": "Ft/response",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/419",
       "title": "Feat/logging",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/404",
       "title": "test cases , method split for config and server",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/400",
       "title": "fix: logger methods , structural changes , removed pubsub , changed config structure and some minor tweaks, unit test cases",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/399",
       "title": "Feat/client services",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": []
     }
   ],

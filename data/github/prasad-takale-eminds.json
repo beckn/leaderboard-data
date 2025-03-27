@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-21T15:14:50.000Z",
+  "last_updated": "2025-03-26T14:36:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#290",
+      "time": "2025-03-26T14:36:29.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/290#issuecomment-2754660074",
+      "text": "\n### **Update Summary**\n\nI'm working to establish a reliable build and deployment process for `n8n` to support future customizations. However, ongoing build-related errors are currently blocking progress.\n\n**1. Initial Setup & Workspace Challenges**\n\n- Prepared the `n8n` codebase for future enhancements.\n- Encountered `EUNSUPPORTEDPROTOCOL` errors during `npm install` due to `workspace:*` dependencies.\n- Addressed the issue by replacing `workspace:*` references with local file paths (e.g., for `eslint-config`).\n\n**2. `pnpm` and Patch Conflicts**\n\n- Migrated to `pnpm` as required by the project.\n- Ran into `ERR_PNPM_PATCH_NOT_APPLIED` errors due to version mismatches in `patchedDependencies`.\n- Resolved by removing the `patchedDependencies` block from `package.json`.\n\n**3. Build Issues with `turbo.json`**\n\n- Encountered circular dependency issues and script errors when running `turbo run build`.\n- Faced “Could not find package” errors related to missing entries such as:\n  - `@n8n/task-runner#build`\n  - and other workspace packages.\n- Simplified the `turbo.json` configuration and updated `package.json` to build only the required packages. However, the “package not found” errors still persist.\n\n**4. Dockerfile Creation Blocked**\n\n- Unable to produce a working `Dockerfile` due to the unresolved build issues.\n\n---\n\n**Current Status**\n\n- `pnpm install` still results in build errors related to missing packages.\n- `turbo.json` and `package.json` have been updated, but the build process continues to fail.\n- Unable to proceed with a working Dockerfile at this stage.\n- Successfully deployed the application using the official `docker-compose.yml` file as a workaround to bypass the local build process.\n\n**Next Steps**\n\n- Investigate and resolve the remaining \"package not found\" errors in the build configuration.\n- Once resolved, proceed with creating a functional Dockerfile for future deployment needs.\n- Thoroughly test the currently running n8n container deployed via Docker Compose.\n- Continue using the provided `docker-compose.yml` for now to maintain deployment continuity.\n"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/missions#268",
@@ -802,6 +809,13 @@
       "text": "bug/fix: implemented login validation for old registry"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-sandbox/pull/10",
+      "title": "Devops",
+      "stale_for": 230,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

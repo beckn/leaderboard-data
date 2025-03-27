@@ -1,6 +1,71 @@
 {
-  "last_updated": "2025-03-25T07:49:22.000Z",
+  "last_updated": "2025-03-26T09:45:38.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3609",
+      "time": "2025-03-26T09:45:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3609",
+      "text": "feat(open-spark-solaris): modified code to fix the PWA impltn issue",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3609",
+      "time": "2025-03-26T09:45:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3609",
+      "text": "feat(open-spark-solaris): modified code to fix the PWA impltn issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#281",
+      "time": "2025-03-26T09:24:53.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/281#issuecomment-2753720983",
+      "text": "Added dropdown fields in forms of all the screen wherever required as discussed with @emindsajay \n\n<img width=\"1327\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5c286bf7-77cb-4457-b9f0-fd8ee3d93008\" />"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3608",
+      "time": "2025-03-26T09:22:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3608",
+      "text": "fix(beckn-registry): modified code to fix the UI for forms and addd s…",
+      "turnaround_time": 15
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3608",
+      "time": "2025-03-26T09:22:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3608",
+      "text": "fix(beckn-registry): modified code to fix the UI for forms and addd s…"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-26T06:14:49.000Z",
+      "title": "beckn/beckn-ui-workspace#3606",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3606#pullrequestreview-2716007017",
+      "text": "fix(industry4.0): fixes ec bugs"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3604",
+      "time": "2025-03-26T06:07:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3604#issuecomment-2753336617",
+      "text": "Done, required to add phone number in MDM for both Role type PROSUMER and CONSUMER\n\n<img width=\"1256\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/692370ce-11e6-46c3-bb29-83e509980c32\" />"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-26T05:52:28.000Z",
+      "title": "beckn/beckn-ui-workspace#3605",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3605#pullrequestreview-2715971965",
+      "text": "fix(P2P-ADMIN): disabled clicking on table rows when demands are lock…"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3599",
+      "time": "2025-03-26T05:39:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3599#issuecomment-2753301084",
+      "text": "@skrushna1506  please check once, find out the root cause. And let me know."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3596",
@@ -4228,7 +4293,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 69,
+      "stale_for": 70,
       "labels": []
     }
   ],

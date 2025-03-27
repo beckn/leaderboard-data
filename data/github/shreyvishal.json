@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-03-20T16:05:11.000Z",
+  "last_updated": "2025-03-26T20:05:09.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3613",
+      "time": "2025-03-26T20:05:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3613#issuecomment-2755629527",
+      "text": "### Date: March 26, 2025\n#### Current Status:\n- Have debug the issue on Gemini Bot Logs and the strapi plugins and fixed the issue and tested the flow \n- Asked the Omkar to tested and the fix and flow is also approved by him.\n\n#### Next Step:\n- Closing the ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/transactional-ai-bap#134",
+      "time": "2025-03-26T20:02:10.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/134#issuecomment-2755623420",
+      "text": "### Date: March 26, 2025\n#### Current Status:\n- Have Migrated the Gemini Model from `gemini-1.5-pro-001` to `gemini-2.0-flash-001`\n- Tested the Prosumer flow and is working fine.\n\n#### Next Step:\n- Will Test the Consumer Flow and then will close this ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#262",
+      "time": "2025-03-26T19:58:49.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/262#issuecomment-2755615982",
+      "text": "### Date: March 25, 2025\n#### Current Status:\n- Have replicated the changes on local Protocol Server from [Branch](https://github.com/beckn/protocol-server/tree/telemetry-sdk-changes)\n- And tested the telemetry json by creating a node server on local machine and made it to act as an observer server.\n- Provided the JSON to Ankit.\n\n#### Next Step:\n- Closing this ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#262",
+      "time": "2025-03-26T19:55:52.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/262#issuecomment-2755609130",
+      "text": "### Date: March 21, 2025\n#### Current Status:\n- Have connected with Ankit and reviewed the PR with him.\n- And replicated the changes on local Protocol Server and Created a test node server that acted as observer server\n- But there were some issue with the PRs so Ankit further continued the PR review and feedbacks \n\n#### Next Step:\n- Once the PR is re-raised or fixed as per the comment will complete the testing by replicating the changes in local Protocol Server"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#277",
+      "time": "2025-03-26T19:49:39.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/277#issuecomment-2755594977",
+      "text": "### Date: March 25, 2025\n#### Current Status:\n- Connected with the Dedi team for understanding the fix and then integrated the same in the subscribe API \n- Completed the Lookup API and tested the lookup and subscribe flow and tested the same and had an internal demo for it\n\n#### Next Step:\n- Will have a demo with Fide team to show case the same. For now closing the ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#277",
+      "time": "2025-03-26T19:45:42.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/277#issuecomment-2755585317",
+      "text": "### Date: March 21, 2025\n#### Current Status:\n- DidCompletion of subscribe endpoint and tried testing it but stuck in an error from the DeDi's application side.\n- Have connected with the DeDi team and discussed the bug with them and get tentative deadline for the fix.\n\n#### Next Step:\n- Once the issue is fixed will integrate the full API and test the same."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#277",
@@ -2494,6 +2536,31 @@
       "text": "Understand transactional-ai-bap repository code after langgraph changes"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/generic-client-layer/pull/106",
+      "title": "Fix/tag structure ",
+      "stale_for": 42,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/191",
+      "title": "Feat/cache spec on boot",
+      "stale_for": 281,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/189",
+      "title": "Feat/cache spec on boot",
+      "stale_for": 155,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
+      "title": "Staging",
+      "stale_for": 399,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

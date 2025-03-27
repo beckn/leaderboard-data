@@ -1,6 +1,77 @@
 {
-  "last_updated": "2025-03-25T06:47:19.000Z",
+  "last_updated": "2025-03-26T11:33:57.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3603",
+      "time": "2025-03-26T11:33:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3603#issuecomment-2754099058",
+      "text": "PR for above task\nn or home page return"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3611",
+      "time": "2025-03-26T11:33:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3611",
+      "text": "fix(open-spark-p2p): market showing as closed for 3-5 seconds on login or home page return"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3599",
+      "time": "2025-03-26T06:35:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3599#issuecomment-2753376909",
+      "text": "screenshot for this \n\n![Image](https://github.com/user-attachments/assets/f9dde9fe-331e-4be1-a64a-1badcec2e07f)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3606",
+      "time": "2025-03-26T06:14:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3606",
+      "text": "fix(industry4.0): fixes ec bugs",
+      "turnaround_time": 974
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3602",
+      "time": "2025-03-26T06:11:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3602#issuecomment-2753342257",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3606"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3510",
+      "time": "2025-03-26T06:10:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3510#issuecomment-2753341837",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3606"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3484",
+      "time": "2025-03-26T06:10:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3484#issuecomment-2753341658",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3606\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3591",
+      "time": "2025-03-26T06:10:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3591#issuecomment-2753341103",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3606"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3587",
+      "time": "2025-03-26T06:10:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3587#issuecomment-2753340664",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3606"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3606",
+      "time": "2025-03-26T05:58:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3606",
+      "text": "fix(industry4.0): fixes ec bugs"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3591",
@@ -1693,6 +1764,13 @@
       "text": "fix(open-spark): fixed otp should not take more than 1 digit"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3611",
+      "title": "fix(open-spark-p2p): market showing as closed for 3-5 seconds on login or home page return",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

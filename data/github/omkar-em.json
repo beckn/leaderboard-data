@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-03-25T07:24:43.000Z",
+  "last_updated": "2025-03-26T13:07:34.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3613",
+      "time": "2025-03-26T13:07:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3613",
+      "text": "Gemini - Unable to complete prosumer flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3610",
+      "time": "2025-03-26T10:48:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3610",
+      "text": "Spark Application - For some orders, order details are failing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#285",
+      "time": "2025-03-26T10:41:06.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/285#issuecomment-2753969080",
+      "text": "API Test cases for /subscribe & /Lookup end points\n\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/880934914/DeDi+Based+Registery+-+API+Test+cases\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3513",
+      "time": "2025-03-26T05:23:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3513#issuecomment-2753279539",
+      "text": "As per the discussion in the stand-up call on March 26th, we received confirmation from @emmayank to disable clicking on table rows when demands are locked to prevent this issue.\n\n@kundanEminds  kindly make necessary changes and deploy the code.\n\ncc: @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3536",
+      "time": "2025-03-26T04:47:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3536#issuecomment-2753234192",
+      "text": "Following bugs were tested and closed on 25th March \n\nhttps://github.com/beckn/beckn-ui-workspace/issues/3487\nhttps://github.com/beckn/beckn-ui-workspace/issues/3474\nhttps://github.com/beckn/beckn-ui-workspace/issues/3494\nhttps://github.com/beckn/beckn-ui-workspace/issues/3548\nhttps://github.com/beckn/beckn-ui-workspace/issues/3506\nhttps://github.com/beckn/beckn-ui-workspace/issues/3483\nhttps://github.com/beckn/beckn-ui-workspace/issues/3503"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3532",

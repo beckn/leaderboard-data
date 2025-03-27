@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-03-25T06:44:55.000Z",
+  "last_updated": "2025-03-26T11:15:04.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#290",
+      "time": "2025-03-26T11:15:04.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/290#issuecomment-2754052786",
+      "text": "@prasad-takale-eminds , in next iteration we will make some changes and re-deploy this again, just FYI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#290",
+      "time": "2025-03-26T11:08:20.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/290",
+      "text": "Deploy n8n on AWS and map to agent.becknprotocol.io"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#262",
+      "time": "2025-03-26T10:01:18.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/262",
+      "text": "Protocol server | Testing Telemetry SDK Changes"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#162",
@@ -7524,25 +7545,25 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 278,
+      "stale_for": 279,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 197,
+      "stale_for": 198,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 306,
+      "stale_for": 307,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 327,
+      "stale_for": 328,
       "labels": [
         "enhancement"
       ]

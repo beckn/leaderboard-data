@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-03-21T13:50:13.000Z",
+  "last_updated": "2025-03-26T12:46:18.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-26T12:46:18.000Z",
+      "title": "beckn/beckn-onix#438",
+      "link": "https://github.com/beckn/beckn-onix/pull/438#pullrequestreview-2716193898",
+      "text": "added updated code for core wiring"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-26T12:10:31.000Z",
+      "title": "beckn/beckn-onix#439",
+      "link": "https://github.com/beckn/beckn-onix/pull/439#pullrequestreview-2716824299",
+      "text": "Feat/config"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-03-21T13:50:13.000Z",
