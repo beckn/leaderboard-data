@@ -1,6 +1,49 @@
 {
-  "last_updated": "2025-03-11T05:45:10.000Z",
+  "last_updated": "2025-03-27T09:57:54.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#440",
+      "time": "2025-03-27T09:57:54.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/440",
+      "text": "Integration tasks - Plugin integration with core services and testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#379",
+      "time": "2025-03-27T09:55:11.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/379#issuecomment-2757429101",
+      "text": "WIP doc - https://docs.google.com/document/d/1nCcOyAxYW1JD6dtkLjs54s-mYQ_63dcnHvcsBPBwLSI/edit?usp=sharing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#382",
+      "time": "2025-03-27T09:54:21.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/382#issuecomment-2757424761",
+      "text": "JSON schemas for TRV10 domain are created. "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#421",
+      "time": "2025-03-27T09:53:48.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/421#issuecomment-2757422355",
+      "text": "PR is in review - https://github.com/beckn/beckn-onix/pull/432"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#355",
+      "time": "2025-03-27T09:52:32.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/355#issuecomment-2757416329",
+      "text": "Plugin Merged - https://github.com/beckn/beckn-onix/tree/beckn-onix-v1.0-develop/pkg/plugin/implementation/schemaValidator"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#431",
+      "time": "2025-03-27T06:03:53.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/431",
+      "text": "Feature/validation plugin",
+      "turnaround_time": 681185
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-03-11T05:39:49.000Z",
@@ -30,6 +73,19 @@
       "text": "Proxy Routing Plugin Implementation"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/432",
+      "title": "Feature/routing plugin",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/232",
+      "title": "Updated Schema Validator to support openapi 3.1.0",
+      "stale_for": 157,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

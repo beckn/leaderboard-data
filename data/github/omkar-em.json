@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-03-26T13:07:34.000Z",
+  "last_updated": "2025-03-27T14:11:05.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/transactional-ai-bap#135",
+      "time": "2025-03-27T14:11:05.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/135#issuecomment-2758203446",
+      "text": "27/3/25\nIssues found in gemini 2.0 are reported to @shreyvishal "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3538",
+      "time": "2025-03-27T04:47:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3538#issuecomment-2756668001",
+      "text": "Weekly testing report - 25th March 2025\n\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/879591444/Testing+Report-25-03-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3537",
+      "time": "2025-03-27T04:47:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3537#issuecomment-2756667291",
+      "text": "Testing report - 26th March 2025\n\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/881917953/Testing+Report-26-03-202"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#285",
+      "time": "2025-03-27T04:45:41.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/285#issuecomment-2756664456",
+      "text": "UI and Functional Test Cases\n\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/882606081/DeDi+Based+Registery+-+UI+Functional+Test+Cases\n\nClosing this task.\ncc: @emmayank @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#285",
+      "time": "2025-03-27T04:45:40.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/285",
+      "text": "DeDi Based Registry | Test case documentation"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3613",

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-03-26T04:44:39.000Z",
+  "last_updated": "2025-03-27T12:37:48.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#258",
+      "time": "2025-03-27T12:37:48.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/258",
+      "text": "Feat/dynamic price"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-strapi-bpp#13",
+      "time": "2025-03-27T08:54:55.000Z",
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
+      "text": "Added apis and scripts to cleanup existing data for dynamic price"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-27T04:40:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448#issuecomment-2756657421",
+      "text": "### Date: March 26, 2025  \n\n#### Current Status:  \n- Completed writing scripts to update existing data to include standard price breakups and correct total price for each domain.  \n- Tested the code locally for all the domains in EC and fixed the issues that came up by modifying the code.  \n\n#### Next Step:  \n- Deploy on dev environment and correct the existing data for EC domain on dev.  \n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3448",
@@ -1299,27 +1320,39 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/strapi-plugins/pull/258",
+      "title": "Feat/dynamic price",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
+      "title": "Added apis and scripts to cleanup existing data for dynamic price",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 162,
+      "stale_for": 163,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 155,
+      "stale_for": 156,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/leaderboard/pull/2",
       "title": "GitHub scrapper",
-      "stale_for": 252,
+      "stale_for": 253,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 155,
+      "stale_for": 156,
       "labels": []
     }
   ],

@@ -809,13 +809,6 @@
       "text": "bug/fix: implemented login validation for old registry"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-sandbox/pull/10",
-      "title": "Devops",
-      "stale_for": 230,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

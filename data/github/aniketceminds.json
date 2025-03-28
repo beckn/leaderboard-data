@@ -1,6 +1,84 @@
 {
-  "last_updated": "2025-03-26T09:45:38.000Z",
+  "last_updated": "2025-03-27T13:30:50.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3630",
+      "time": "2025-03-27T13:30:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3630#issuecomment-2758050769",
+      "text": "Still working on this. Debugging and making changes."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3577",
+      "time": "2025-03-27T13:25:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3577#issuecomment-2758035902",
+      "text": "<img width=\"1327\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/9bfa239c-b3d5-4342-8ea0-2431d22cb856\" />"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3632",
+      "time": "2025-03-27T12:42:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3632",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 12
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3632",
+      "time": "2025-03-27T12:42:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3632",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-27T12:11:12.000Z",
+      "title": "beckn/beckn-ui-workspace#3612",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3612#pullrequestreview-2720217057",
+      "text": "fix(retail): updated ui according ec audit for retail"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-27T12:32:47.000Z",
+      "title": "beckn/beckn-ui-workspace#3611",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3611#pullrequestreview-2721280676",
+      "text": "fix(open-spark-p2p): market showing as closed for 3-5 seconds on login or home page return"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-03-27T12:20:21.000Z",
+      "title": "beckn/beckn-ui-workspace#3597",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3597#pullrequestreview-2721224653",
+      "text": "Feat/ust odr"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3631",
+      "time": "2025-03-27T11:56:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3631#issuecomment-2757774175",
+      "text": "![Image](https://github.com/user-attachments/assets/54db4df7-20df-41fd-89a8-04dc6002d16d)\n\n![Image](https://github.com/user-attachments/assets/66f816d9-62c6-4dfd-ad20-2f26f6d6b3d7)\n\nCamera is not working for PWA, still working on this."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3631",
+      "time": "2025-03-27T11:51:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3631",
+      "text": "PWA Implementation for Open Spark Solaris App"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#281",
+      "time": "2025-03-27T06:19:16.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/281",
+      "text": "DeDi Based Registry | Develop the Registry UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3610",
+      "time": "2025-03-27T06:16:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3610#issuecomment-2756860682",
+      "text": "@SanketEminds please check\nIt's a data issue in PROD, old DEV data are deleted from PROD strapi.\n\n<img width=\"1327\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ea783a4b-3c6c-4d02-84ee-fb7c119dc05a\" />"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3609",
@@ -4293,7 +4371,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 70,
+      "stale_for": 71,
       "labels": []
     }
   ],

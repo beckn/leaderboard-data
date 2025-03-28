@@ -1,6 +1,65 @@
 {
-  "last_updated": "2025-03-24T13:43:08.000Z",
+  "last_updated": "2025-03-27T13:49:38.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#275",
+      "time": "2025-03-27T13:49:38.000Z",
+      "link": "https://github.com/beckn/missions/pull/275",
+      "text": "Beckn support bot",
+      "turnaround_time": 14
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#275",
+      "time": "2025-03-27T13:49:21.000Z",
+      "link": "https://github.com/beckn/missions/pull/275",
+      "text": "Beckn support bot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#274",
+      "time": "2025-03-27T10:18:24.000Z",
+      "link": "https://github.com/beckn/missions/pull/274",
+      "text": "telemetry config updated",
+      "turnaround_time": 119
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#274",
+      "time": "2025-03-27T10:16:26.000Z",
+      "link": "https://github.com/beckn/missions/pull/274",
+      "text": "telemetry config updated"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#236",
+      "time": "2025-03-27T08:30:30.000Z",
+      "link": "https://github.com/beckn/missions/issues/236",
+      "text": "Mission Assets: Update Starter Kit / Troubleshooting guide based on new release : Beckn ONIX"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#236",
+      "time": "2025-03-27T08:29:51.000Z",
+      "link": "https://github.com/beckn/missions/issues/236#issuecomment-2757174988",
+      "text": "Added the PRs in the ticket"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#273",
+      "time": "2025-03-27T08:28:08.000Z",
+      "link": "https://github.com/beckn/missions/pull/273",
+      "text": "starter kit updated for layer2 config installation process",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#273",
+      "time": "2025-03-27T08:28:01.000Z",
+      "link": "https://github.com/beckn/missions/pull/273",
+      "text": "starter kit updated for layer2 config installation process"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/missions#270",
@@ -1771,19 +1830,19 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/261",
       "title": "Merge conflicts check pr",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/258",
       "title": "Open network sdk testing pr",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 98,
+      "stale_for": 99,
       "labels": []
     }
   ],

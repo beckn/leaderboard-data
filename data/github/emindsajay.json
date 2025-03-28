@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-26T04:50:37.000Z",
+  "last_updated": "2025-03-27T13:24:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3620",
+      "time": "2025-03-27T13:24:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3620#issuecomment-2758034250",
+      "text": "## Date: March 26, 2025\n### Current status:\n- Prevent duplicate rental listings by checking if an active rental period exists for the same item"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#289",
@@ -468,13 +475,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/251",
       "title": "feat: Add conditional streaming response handling with error handling…",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 430,
+      "stale_for": 431,
       "labels": []
     }
   ],

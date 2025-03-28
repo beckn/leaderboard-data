@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-03-11T05:10:42.000Z",
+  "last_updated": "2025-03-27T06:03:55.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#407",
+      "time": "2025-03-27T06:03:55.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/407",
+      "text": "Plugin for schema validation",
+      "turnaround_time": 2133231
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-onix#355",

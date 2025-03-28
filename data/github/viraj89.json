@@ -1,6 +1,97 @@
 {
-  "last_updated": "2025-03-18T10:46:16.000Z",
+  "last_updated": "2025-03-27T09:54:58.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3628",
+      "time": "2025-03-27T09:54:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3628",
+      "text": "Implementation of 10 Endpoints"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3627",
+      "time": "2025-03-27T09:54:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3627",
+      "text": "Multiple tab coming Watt Next! In incognito mode and other apps as well"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3626",
+      "time": "2025-03-27T09:53:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3626",
+      "text": "Experience Center Enhancement & Bug - April"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3625",
+      "time": "2025-03-27T09:15:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3625",
+      "text": "Multiple tabs coming Watt Next! In incognito mode and other apps as well"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3624",
+      "time": "2025-03-27T09:12:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3624",
+      "text": "Lendease App EMI Flow - Specification"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3623",
+      "time": "2025-03-27T09:11:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3623",
+      "text": "Lendease App: EMI flow outcome Visualization and PRD"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3622",
+      "time": "2025-03-27T09:09:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3622",
+      "text": "UX for Lendease app - implementation of EMI flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3621",
+      "time": "2025-03-27T09:07:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3621",
+      "text": "Outcome Visualization for Logistics App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3619",
+      "time": "2025-03-27T08:50:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3619",
+      "text": "Specification: Logistics BPP specification"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3618",
+      "time": "2025-03-27T08:49:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3618",
+      "text": "UX for Logistics BPP app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3617",
+      "time": "2025-03-27T05:41:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3617",
+      "text": "Deploy an MCP server and Build an MCP tool that fontends the beckn API"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3616",
+      "time": "2025-03-27T05:36:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3616",
+      "text": "Logistics Reference App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3615",
+      "time": "2025-03-27T05:34:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3615",
+      "text": "BPP Unified Reference App"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/protocol-server#256",

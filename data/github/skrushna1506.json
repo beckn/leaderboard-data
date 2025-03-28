@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-03-26T11:33:57.000Z",
+  "last_updated": "2025-03-27T12:32:52.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3611",
+      "time": "2025-03-27T12:32:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3611",
+      "text": "fix(open-spark-p2p): market showing as closed for 3-5 seconds on login or home page return",
+      "turnaround_time": 89948
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3603",
@@ -1764,13 +1772,6 @@
       "text": "fix(open-spark): fixed otp should not take more than 1 digit"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3611",
-      "title": "fix(open-spark-p2p): market showing as closed for 3-5 seconds on login or home page return",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

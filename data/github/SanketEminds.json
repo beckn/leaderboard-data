@@ -1,6 +1,84 @@
 {
-  "last_updated": "2025-03-26T17:47:36.000Z",
+  "last_updated": "2025-03-27T12:20:27.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3597",
+      "time": "2025-03-27T12:20:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3597",
+      "text": "Feat/ust odr",
+      "turnaround_time": 192875
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3599",
+      "time": "2025-03-27T11:37:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3599#issuecomment-2757728460",
+      "text": "This is fixed and working fine.\ncc @omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3599",
+      "time": "2025-03-27T11:37:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3599",
+      "text": "Ec App-DSNP - App Crashes While Searching"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3524",
+      "time": "2025-03-27T11:35:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3524#issuecomment-2757724764",
+      "text": "This is fixed and working fine, Closing this.\n cc @omkar-em \n\n![Image](https://github.com/user-attachments/assets/c2f50824-fe31-4dc8-b590-87d48371ee79)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3524",
+      "time": "2025-03-27T11:35:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3524",
+      "text": "EC Tourism App-Order API Failing in Tourism App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3244",
+      "time": "2025-03-27T11:33:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3244#issuecomment-2757718827",
+      "text": "This is fixed\ncc @omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3244",
+      "time": "2025-03-27T11:33:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3244",
+      "text": "EC Apps - Text Overlaps with Dropdown Arrow in Filter Options – All EC Apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3513",
+      "time": "2025-03-27T11:26:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3513",
+      "text": "P2P Admin - When page is refreshed in order summary, gives invalid data if order is fulfilled"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3513",
+      "time": "2025-03-27T11:26:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3513#issuecomment-2757694917",
+      "text": "Rows are disabled now,\ncc @omkar-em \n![Image](https://github.com/user-attachments/assets/ae38dc3f-6336-4f1c-863f-cf32fe136fbe)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3630",
+      "time": "2025-03-27T10:58:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3630",
+      "text": "EC App-Order Status Not Updating in EC App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3629",
+      "time": "2025-03-27T10:24:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3629",
+      "text": "EC DSNP App-Multiple Issues in DSNP App"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3614",
@@ -1780,13 +1858,6 @@
       "text": "Open Spark-Order history displays the price of a single battery instead of the total price after purchasing multiple quantities."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3597",
-      "title": "Feat/ust odr",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
