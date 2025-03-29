@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-03-27T09:57:54.000Z",
+  "last_updated": "2025-03-28T12:05:05.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#432",
+      "time": "2025-03-28T12:05:05.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/432",
+      "text": "Feature/routing plugin",
+      "turnaround_time": 758661
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-onix#440",
@@ -75,15 +83,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-onix/pull/432",
-      "title": "Feature/routing plugin",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/protocol-server/pull/232",
       "title": "Updated Schema Validator to support openapi 3.1.0",
-      "stale_for": 157,
+      "stale_for": 158,
       "labels": []
     }
   ],

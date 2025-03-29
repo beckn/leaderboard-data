@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-03-27T12:20:27.000Z",
+  "last_updated": "2025-03-28T04:42:51.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3604",
+      "time": "2025-03-28T04:42:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3604#issuecomment-2760161403",
+      "text": "This is resolved.\nCC @omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3604",
+      "time": "2025-03-28T04:42:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3604",
+      "text": "P2p Energy-Sell Dashboard Displays Energy as 0"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3591",
+      "time": "2025-03-28T04:40:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3591#issuecomment-2760158841",
+      "text": "@skrushna1506  Tested this and working fine in dev and staging and not in prod,\nOnce its moving to prod will test and close this issue.\ncc @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3592",
+      "time": "2025-03-28T04:32:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3592#issuecomment-2760151177",
+      "text": "This is fixed.\ncc @omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3592",
+      "time": "2025-03-28T04:32:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3592",
+      "text": "EC Staging -Unable to Sign In – Local API Failing in Staging Environment"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3597",

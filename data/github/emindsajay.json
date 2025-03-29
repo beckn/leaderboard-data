@@ -1,6 +1,63 @@
 {
-  "last_updated": "2025-03-27T13:24:59.000Z",
+  "last_updated": "2025-03-28T11:46:28.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#294",
+      "time": "2025-03-28T11:46:28.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/294#issuecomment-2761134260",
+      "text": "## Date: March 28, 2025\n\n### Current status:\n- Connected with @shreyvishal to resolved the issue search API using DeDi-based registry"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#294",
+      "time": "2025-03-28T11:43:24.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/294",
+      "text": "Search API issue in DeDi based Regsitry"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#293",
+      "time": "2025-03-28T11:33:40.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/293#issuecomment-2761109693",
+      "text": "## Date: March 27, 2025\n\n### Current status:\n- Remove the HTML verification and SSL verification from registry subscribe api\n- BOC registry to DeDi registry data migration\n- Helped the team to debug the BOC gateway."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3637",
+      "time": "2025-03-28T11:29:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3637#issuecomment-2761100792",
+      "text": "## Date: March 26, 2025\n### Current status:\n- Added filter for rental batteries in search Api."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#293",
+      "time": "2025-03-28T11:26:36.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/293",
+      "text": "Winroom on 27th March for DeDi Registry"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3637",
+      "time": "2025-03-28T11:25:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3637",
+      "text": "Rental Search API: Filter and Sort Enhancements"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#263",
+      "time": "2025-03-28T11:22:29.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/263",
+      "text": "feat(api): Add /on_subscribe endpoint for registry subscription chall…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#251",
+      "time": "2025-03-28T08:13:30.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/251",
+      "text": "feat: Add conditional streaming response handling with error handling…",
+      "turnaround_time": 1511785
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3620",
@@ -473,15 +530,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/protocol-server/pull/251",
-      "title": "feat: Add conditional streaming response handling with error handling…",
-      "stale_for": 17,
+      "link": "https://github.com/beckn/protocol-server/pull/263",
+      "title": "feat(api): Add /on_subscribe endpoint for registry subscription chall…",
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 431,
+      "stale_for": 432,
       "labels": []
     }
   ],

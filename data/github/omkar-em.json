@@ -1,6 +1,223 @@
 {
-  "last_updated": "2025-03-27T14:11:05.000Z",
+  "last_updated": "2025-03-28T06:00:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3577",
+      "time": "2025-03-28T06:00:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3577#issuecomment-2760294247",
+      "text": "Blocker to test this due to blocker - https://github.com/beckn/beckn-ui-workspace/issues/3635"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3635",
+      "time": "2025-03-28T05:58:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3635",
+      "text": "Solaris - Unable to post battery for rental"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3541",
+      "time": "2025-03-28T05:49:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3541#issuecomment-2760255607",
+      "text": "![Image](https://github.com/user-attachments/assets/9ac4d148-00c2-4f3a-9ca9-c667e2fa074c)\n\nThis is fixed.\nClosing this task.\ncc: @SanketEminds @aniketceminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3541",
+      "time": "2025-03-28T05:49:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3541",
+      "text": "Spark -  Able to sync wallet on EMI page without connecting wallet"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3586",
+      "time": "2025-03-28T05:48:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3586#issuecomment-2760253775",
+      "text": "![Image](https://github.com/user-attachments/assets/64a70e14-dfd0-4d72-8050-cc182127c353)\n\nThis is resolved.\nClosing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3586",
+      "time": "2025-03-28T05:48:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3586",
+      "text": "Solaris - EMI Validation - Message shown to user for EMI validation should not be an error"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#2728",
+      "time": "2025-03-28T05:38:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2728#issuecomment-2760242591",
+      "text": "Changes are done from BE by @rahul-eminds \nClosing this task.\nWill reopen this issue if required in future.\ncc: @rahul-eminds @SanketEminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2728",
+      "time": "2025-03-28T05:38:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2728",
+      "text": "Climate Apps - Getting CORS error in apps intermittently"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3490",
+      "time": "2025-03-28T05:36:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3490#issuecomment-2760241101",
+      "text": "This issue is resolved.\nAlert message will be displayed when market is closed.\nThis expected feature is discussed with @emmayank \n\nClosing this task.\ncc: @SanketEminds @aniketceminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3490",
+      "time": "2025-03-28T05:36:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3490",
+      "text": "P2P Trade Application - Getting alert popup every time while buying energy"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3576",
+      "time": "2025-03-28T05:30:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3576#issuecomment-2760234399",
+      "text": "![Image](https://github.com/user-attachments/assets/d06e844f-a210-47b6-bcb1-2539c18cf531)\n\nThis is fixed.\nClosing this task.\n\ncc: @aniketceminds @SanketEminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3576",
+      "time": "2025-03-28T05:30:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3576",
+      "text": "Open Spark(Staging)-Incorrect Initial Payment and EMI Plan Amount Display in Spark App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3575",
+      "time": "2025-03-28T05:29:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3575#issuecomment-2760232807",
+      "text": "![Image](https://github.com/user-attachments/assets/d61bc55d-9124-4642-a106-172d220a6025)\n\nThis is resolved.\nClosing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3575",
+      "time": "2025-03-28T05:29:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3575",
+      "text": "Open Spark-Loan Approved (0%) and Incorrect Price Display in Spark App (Staging)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3587",
+      "time": "2025-03-28T05:21:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3587#issuecomment-2760220678",
+      "text": "Moving this task back to in progress.\n@skrushna1506 we are not getting alert pop up while placing sell order.\n\nLike below.\n![Image](https://github.com/user-attachments/assets/87ff1b2f-fec3-4f0c-9262-000381284437)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3594",
+      "time": "2025-03-28T05:14:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3594#issuecomment-2760214063",
+      "text": "![Image](https://github.com/user-attachments/assets/f147ae61-3eca-44eb-87d6-8fdcf95de23d)\nThis is fixed.\nClosing this task.\n\ncc: @kundanEminds @SanketEminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3594",
+      "time": "2025-03-28T05:14:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3594",
+      "text": "EC App-Step 4 image missing in Instruction tab on Firefox – Open Spark App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3610",
+      "time": "2025-03-28T05:12:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3610#issuecomment-2760211996",
+      "text": "Connected with @aniketceminds @rahul-eminds  and verified that orders from dev env are removed from prod.\nNow we should not be facing this issue.\nClosing this task, If required we will re open it."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3610",
+      "time": "2025-03-28T05:12:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3610",
+      "text": "Spark Application - For some orders, order details are failing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3603",
+      "time": "2025-03-28T05:11:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3603#issuecomment-2760210779",
+      "text": "![Image](https://github.com/user-attachments/assets/619525a1-0127-4e1e-bc00-97c3349ba4be)\n\nClosing this task.\nThis is fixed."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3603",
+      "time": "2025-03-28T05:11:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3603",
+      "text": "P2P Energy-Market Showing as Closed for 3-5 Seconds on Login or Home Page Return"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3602",
+      "time": "2025-03-28T05:10:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3602#issuecomment-2760210015",
+      "text": "![Image](https://github.com/user-attachments/assets/1e3b0f15-bb09-4145-b1a4-f6182fbc1130)\n\nThis is resolved.\nClosing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3602",
+      "time": "2025-03-28T05:10:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3602",
+      "text": "P2P Energy-Previously Added Quantity Retained After Navigating Back"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3510",
+      "time": "2025-03-28T05:09:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3510#issuecomment-2760208155",
+      "text": "![Image](https://github.com/user-attachments/assets/75afb608-2f01-4d8a-9232-86e778d2ea84)\n\nThis is resolved.\nClosing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3510",
+      "time": "2025-03-28T05:09:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3510",
+      "text": "P2P Admin - Sign-in page title is not present in Figma"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3484",
+      "time": "2025-03-28T05:07:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3484#issuecomment-2760206840",
+      "text": "![Image](https://github.com/user-attachments/assets/ec117a35-bb7c-4e5e-8b4b-a8771aff7d16)\n\nThis is resolved.\nClosing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3484",
+      "time": "2025-03-28T05:07:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3484",
+      "text": "P2P Trade Application - Logout button logo is different than Figma"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3614",
+      "time": "2025-03-28T05:06:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3614#issuecomment-2760205257",
+      "text": "This is resolved."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3537",
+      "time": "2025-03-28T04:54:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3537#issuecomment-2760193358",
+      "text": "Testing report - 27th March 2025\n\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/884146178/Testing+Report-27-03-2025"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3537",
+      "time": "2025-03-28T04:54:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3537",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3536",
+      "time": "2025-03-28T04:49:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3536#issuecomment-2760174718",
+      "text": "Bugs Tested on 27th March\n\nhttps://github.com/beckn/beckn-ui-workspace/issues/3599\nhttps://github.com/beckn/beckn-ui-workspace/issues/3524\nhttps://github.com/beckn/beckn-ui-workspace/issues/3244\nhttps://github.com/beckn/beckn-ui-workspace/issues/3513"
+    },
     {
       "type": "comment_created",
       "title": "beckn/transactional-ai-bap#135",

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-03-27T12:37:48.000Z",
+  "last_updated": "2025-03-28T03:05:28.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#2728",
+      "time": "2025-03-28T03:05:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2728#issuecomment-2760059379",
+      "text": "Debugged the issue and added suitable CORS related code in the strapi"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-28T03:04:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448#issuecomment-2760058475",
+      "text": "PR:\nhttps://github.com/beckn/strapi-plugins/pull/258\nhttps://github.com/beckn/beckn-strapi-bpp/pull/13"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-28T03:03:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448#issuecomment-2760057583",
+      "text": "### Date: March 27, 2025  \n\n#### Current Status:  \n- Took a backup of the dev database before making changes.  \n- Performed pre-deployment efforts on the dev environment, including cleaning existing data to add `base_fee` and removing outdated price breakups.  \n- Deployed the application on the dev environment in a separate branch.  \n- Conducted post-deployment tasks such as adding price breakups and ensuring the total price is calculated dynamically.  \n- Tested the deployed code thoroughly and fixed any issues that arose during testing.  \n- Implemented dynamic price calculation and retrieval of `base_fee` names across `on_init`, `on_confirm`, and `on_status` API calls.  \n- Collaborated with Aniket to test the complete end-to-end flow.  \n\n#### Next Step:  \n- Fix the issues raised by QA on the dev environment.  \n"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/strapi-plugins#258",
@@ -1334,25 +1355,25 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 163,
+      "stale_for": 164,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 156,
+      "stale_for": 157,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/leaderboard/pull/2",
       "title": "GitHub scrapper",
-      "stale_for": 253,
+      "stale_for": 254,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 156,
+      "stale_for": 157,
       "labels": []
     }
   ],

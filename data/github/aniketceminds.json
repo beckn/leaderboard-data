@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-03-27T13:30:50.000Z",
+  "last_updated": "2025-03-28T06:14:08.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3636",
+      "time": "2025-03-28T06:14:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3636",
+      "text": "fix(open-spark-p2p): modified code to in headers index change page name",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3636",
+      "time": "2025-03-28T06:14:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3636",
+      "text": "fix(open-spark-p2p): modified code to in headers index change page name"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3630",
@@ -4369,9 +4384,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
+      "title": "fix: changes for dynamic calc from BE for all apps",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 71,
+      "stale_for": 72,
       "labels": []
     }
   ],
