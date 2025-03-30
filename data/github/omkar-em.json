@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-03-28T06:00:16.000Z",
+  "last_updated": "2025-03-28T13:51:34.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3536",
+      "time": "2025-03-28T13:51:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3536#issuecomment-2761429296",
+      "text": "Bugs Tested on 28th March\n\nhttps://github.com/beckn/beckn-ui-workspace/issues/3484\nhttps://github.com/beckn/beckn-ui-workspace/issues/3510\nhttps://github.com/beckn/beckn-ui-workspace/issues/3602\nhttps://github.com/beckn/beckn-ui-workspace/issues/3603\nhttps://github.com/beckn/beckn-ui-workspace/issues/3604\nhttps://github.com/beckn/beckn-ui-workspace/issues/3610\nhttps://github.com/beckn/beckn-ui-workspace/issues/3592\nhttps://github.com/beckn/beckn-ui-workspace/issues/3594\nhttps://github.com/beckn/beckn-ui-workspace/issues/3586\nhttps://github.com/beckn/beckn-ui-workspace/issues/3575\nhttps://github.com/beckn/beckn-ui-workspace/issues/3576\nhttps://github.com/beckn/beckn-ui-workspace/issues/3541\nhttps://github.com/beckn/beckn-ui-workspace/issues/3490\nhttps://github.com/beckn/beckn-ui-workspace/issues/2728\n\nClosing this task.\ncc: @emmayank @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3536",
+      "time": "2025-03-28T13:51:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3536",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3577",

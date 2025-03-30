@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-03-28T12:10:02.000Z",
+  "last_updated": "2025-03-29T11:41:55.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#439",
+      "time": "2025-03-29T11:41:55.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/439",
+      "text": "Feat/config",
+      "turnaround_time": 264091
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-onix#442",
@@ -62,21 +70,15 @@
       "labels": []
     },
     {
-      "link": "https://github.com/beckn/beckn-onix/pull/439",
-      "title": "Feat/config",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/beckn-onix/pull/417",
       "title": "Feat: Added plugin manager, publisher plugin",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/403",
       "title": "feat: added network service - handler and receiver",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": []
     }
   ],

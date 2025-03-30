@@ -1,6 +1,22 @@
 {
-  "last_updated": "2025-03-28T10:55:05.000Z",
+  "last_updated": "2025-03-28T15:13:33.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#426",
+      "time": "2025-03-28T15:13:33.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/426",
+      "text": "Ft/logging module",
+      "turnaround_time": 898503
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#437",
+      "time": "2025-03-28T15:06:43.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/437",
+      "text": "feat: test file for response and error module",
+      "turnaround_time": 324295
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#433",

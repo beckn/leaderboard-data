@@ -1,6 +1,174 @@
 {
-  "last_updated": "2025-03-27T09:04:03.000Z",
+  "last_updated": "2025-03-29T14:38:52.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#311",
+      "time": "2025-03-29T14:38:52.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/311",
+      "text": "DeDi Based Registry | Signup flow for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#310",
+      "time": "2025-03-29T14:32:02.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/310",
+      "text": "DeDi Based Registry | Develop /update-network-participants endpoint for Registry UI  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#309",
+      "time": "2025-03-29T14:25:52.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/309",
+      "text": "DeDi Based Registry | Changes to /subscribe endpoint to support subscription through Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#308",
+      "time": "2025-03-29T12:47:55.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/308",
+      "text": "DeDi Based Registry | Develop /get-network-participations endpoint for Registry UI "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#307",
+      "time": "2025-03-29T12:19:21.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/307",
+      "text": "DeDi Based Registry | Develop /create-network-domain endpoint for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#306",
+      "time": "2025-03-29T12:11:14.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/306",
+      "text": "DeDi Based Registry | Develop /update-network-domain endpoint for Registry UI "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#305",
+      "time": "2025-03-29T12:02:03.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/305",
+      "text": "DeDi Based Registry | Develop /delete-network-domain endpoint for Registry UI "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#304",
+      "time": "2025-03-29T11:58:49.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/304",
+      "text": "DeDi Based Registry | Develop /get-network-domain endpoint for Registry UI "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#303",
+      "time": "2025-03-29T11:46:28.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/303",
+      "text": "DeDi Based Registry | Develop /delete-user (admin only) endpoint for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#302",
+      "time": "2025-03-29T11:40:46.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/302",
+      "text": "DeDi Based Registry | Develop /update-profile endpoint for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#301",
+      "time": "2025-03-29T11:30:37.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/301",
+      "text": "DeDi Based Registry | Develop /update-user (admin only) endpoint for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#300",
+      "time": "2025-03-29T11:19:27.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/300",
+      "text": "DeDi Based Registry | Develop /get-users endpoint for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#299",
+      "time": "2025-03-29T11:05:28.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/299",
+      "text": "DeDi Based Registry | Develop /get-my-profile endpoint for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#298",
+      "time": "2025-03-29T11:01:08.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/298",
+      "text": "DeDi Based Registry | Develop /verify-email endpoint for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#297",
+      "time": "2025-03-29T10:58:20.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/297",
+      "text": "DeDi Based Registry | Develop /login endpoint for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#296",
+      "time": "2025-03-29T10:55:01.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/296",
+      "text": "DeDi Based Registry | Develop /signup endpoint for Registry UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3448",
+      "time": "2025-03-29T09:50:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3448#issuecomment-2763260964",
+      "text": "**Current Status:-**\n\n1. Worked on following dynamic price breakup issues:\n     - Status api not showing correct price breakups\n     - Quote related issue in init, confirm api for items not having price breakups\n2. Demo and Discussions on Price Break Up\n3. Tested the dynamic price breakups in dev environment\n\n**Next step:-**\n1. Continue working of dynamic price breakups related bugs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3643",
+      "time": "2025-03-29T09:34:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3643",
+      "text": "LendEase - Design Detailed Flows and Enhance UI/UX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3642",
+      "time": "2025-03-29T09:29:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3642",
+      "text": "Logistics Provider App - Research & UI/UX Design for Delivery Partner Flows"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3641",
+      "time": "2025-03-29T09:26:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3641",
+      "text": "Reference Apps - UX Refinement: Add Missing Screens and Features Based on Endpoint Tracker"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3640",
+      "time": "2025-03-29T09:23:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3640",
+      "text": "Reference Apps - UX Refinement: Breakup Pricing on Checkout & Account Reset Feature"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#295",
+      "time": "2025-03-28T17:02:32.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/295",
+      "text": "Winroom on 27th March for DeDi Registry"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#264",
+      "time": "2025-03-28T17:00:27.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/264",
+      "text": "Telemetry - Test log generation and transmission using ONEST telemetry server"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3639",
+      "time": "2025-03-28T16:13:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3639",
+      "text": "Solaris | Rental Search API: Filter providers with future rental end time and sort by creation date"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3620",
@@ -7548,6 +7716,33 @@
       "text": "Implement Mobile Number & OTP-Based Login and Update Signup Form with API Integration"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
+      "title": "L2Config - EV / EnergyDemand/ Surplus energy",
+      "stale_for": 282,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
+      "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
+      "stale_for": 201,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/local-retail/pull/16",
+      "title": "DSNP & OSM Example Added",
+      "stale_for": 310,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/DSEP-Specification/pull/175",
+      "title": "Validated DSEP Specification with Core v 1.1.0",
+      "stale_for": 331,
+      "labels": [
+        "enhancement"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-28T06:14:08.000Z",
+  "last_updated": "2025-03-28T13:29:31.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3638",
+      "time": "2025-03-28T13:29:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
+      "text": "fix: changes for dynamic calc from BE for all apps"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3636",
@@ -4386,13 +4393,13 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 72,
+      "stale_for": 73,
       "labels": []
     }
   ],
