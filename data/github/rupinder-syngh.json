@@ -66,19 +66,19 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/442",
       "title": "feat/signer",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/417",
       "title": "Feat: Added plugin manager, publisher plugin",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/403",
       "title": "feat: added network service - handler and receiver",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": []
     }
   ],

@@ -532,13 +532,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/263",
       "title": "feat(api): Add /on_subscribe endpoint for registry subscription chall…",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 433,
+      "stale_for": 434,
       "labels": []
     }
   ],

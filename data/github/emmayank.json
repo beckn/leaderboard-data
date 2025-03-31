@@ -1,6 +1,272 @@
 {
-  "last_updated": "2025-03-29T14:38:52.000Z",
+  "last_updated": "2025-03-29T21:11:09.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3661",
+      "time": "2025-03-29T21:11:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3661",
+      "text": "Reference Applications | Create Reset Account Endpoint"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3660",
+      "time": "2025-03-29T21:03:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3660",
+      "text": "Reference Applications | QA Testing for Reset Account Feature"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3659",
+      "time": "2025-03-29T20:59:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3659",
+      "text": "Reference Applications | Implement Reset Account Feature"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#330",
+      "time": "2025-03-29T20:43:03.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/330",
+      "text": "Tech Debt | README File Update Exercise Across Core Repositories"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#329",
+      "time": "2025-03-29T20:42:59.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/329",
+      "text": "Tech Debt | README File Update Exercise Across Core Repositories"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#328",
+      "time": "2025-03-29T20:42:56.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/328",
+      "text": "Tech Debt | README File Update Exercise Across Core Repositories"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#327",
+      "time": "2025-03-29T20:42:51.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/327",
+      "text": "Tech Debt | README File Update Exercise Across Core Repositories"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#326",
+      "time": "2025-03-29T20:26:48.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/326",
+      "text": "Tech Debt | Branch Cleanup Exercise Across Core Repositories"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#325",
+      "time": "2025-03-29T20:26:44.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/325",
+      "text": "Tech Debt | Branch Cleanup Exercise Across Core Repositories"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#324",
+      "time": "2025-03-29T20:26:39.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/324",
+      "text": "Tech Debt | Branch Cleanup Exercise Across Core Repositories"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#323",
+      "time": "2025-03-29T20:26:35.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/323",
+      "text": "Tech Debt | Branch Cleanup Exercise Across Core Repositories"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#277",
+      "time": "2025-03-29T19:58:53.000Z",
+      "link": "https://github.com/beckn/missions/issues/277",
+      "text": "UKI Sandbox | End-to-End Testing on GCP Infrastructure"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#140",
+      "time": "2025-03-29T19:18:49.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/140",
+      "text": "Gemini WhatsApp Bot | QA Testing Post Bug Fixes on gemini-2.0-flash-001"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/transactional-ai-bap#139",
+      "time": "2025-03-29T19:15:04.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/139",
+      "text": "Gemini WhatsApp Bot | Bug Fixing Post Migration to gemini-2.0-flash-001"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3658",
+      "time": "2025-03-29T19:09:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3658",
+      "text": "Reference Application | End to End testing for Dynamic Quote and Updated UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3640",
+      "time": "2025-03-29T19:02:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3640#issuecomment-2764113485",
+      "text": "Refer the following frontend tickets to get an understanding of which all application need changes in qoute, order detail page and cart page.\n1. https://github.com/beckn/beckn-ui-workspace/issues/3647\n2. https://github.com/beckn/beckn-ui-workspace/issues/3648\n3. https://github.com/beckn/beckn-ui-workspace/issues/3649\n4. https://github.com/beckn/beckn-ui-workspace/issues/3650\n5. https://github.com/beckn/beckn-ui-workspace/issues/3651\n6. https://github.com/beckn/beckn-ui-workspace/issues/3652\n7. https://github.com/beckn/beckn-ui-workspace/issues/3653\n8. https://github.com/beckn/beckn-ui-workspace/issues/3654\n9. https://github.com/beckn/beckn-ui-workspace/issues/3655\n10. https://github.com/beckn/beckn-ui-workspace/issues/3656\n11. https://github.com/beckn/beckn-ui-workspace/issues/3657"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3657",
+      "time": "2025-03-29T18:57:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3657",
+      "text": "Reference Application  - Spark App| Update the UI for dynamic qoute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3656",
+      "time": "2025-03-29T18:55:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3656",
+      "text": "Reference Application  - Climate App| Update the UI for dynamic qoute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3655",
+      "time": "2025-03-29T18:51:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3655",
+      "text": "Reference Application  - Forest App| Update the UI for dynamic qoute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3654",
+      "time": "2025-03-29T18:47:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3654",
+      "text": "Reference Application  - Open commerce| Update the UI for dynamic qoute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3653",
+      "time": "2025-03-29T18:43:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3653",
+      "text": "Reference Application  - DSEP | Update the UI for dynamic qoute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3652",
+      "time": "2025-03-29T18:41:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3652",
+      "text": "Reference Application  - DSNP | Update the UI for dynamic qoute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3651",
+      "time": "2025-03-29T18:38:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3651",
+      "text": "Reference Application  - Industry 4.0 | Update the UI for dynamic qoute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3650",
+      "time": "2025-03-29T18:35:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3650",
+      "text": "Reference Application  - Himalayas | Update the UI for dynamic qoute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3649",
+      "time": "2025-03-29T18:31:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3649",
+      "text": "Reference Application  - OSM | Update the UI for dynamic qoute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3648",
+      "time": "2025-03-29T18:26:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3648",
+      "text": "Reference Application  - Smart Gambia/Smart Cities | Update the UI for dynamic qoute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3647",
+      "time": "2025-03-29T18:23:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3647",
+      "text": "Reference Application  - City of lights | Update the UI for dynamic qoute"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#322",
+      "time": "2025-03-29T15:44:38.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/322",
+      "text": "DeDi Based Registry | Migrate all participants to Beta Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#321",
+      "time": "2025-03-29T15:40:23.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/321",
+      "text": "DeDi Based Registry |  Add filter in /query endpoint and remove logic on strapi Layer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#320",
+      "time": "2025-03-29T15:36:24.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/320",
+      "text": "DeDi Based Registry | Add logic for authorization token in DeDi Endpoint"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#319",
+      "time": "2025-03-29T15:34:02.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/319",
+      "text": "DeDi Based Registry | Setting up Beta Launch Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#318",
+      "time": "2025-03-29T15:25:30.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/318",
+      "text": "DeDi Based Registry | Subscribe flow for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#317",
+      "time": "2025-03-29T15:20:00.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/317",
+      "text": "DeDi Based Registry | Network participant flow for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#316",
+      "time": "2025-03-29T15:06:29.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/316",
+      "text": "DeDi Based Registry | Network Domain list flow for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#315",
+      "time": "2025-03-29T14:59:23.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/315",
+      "text": "DeDi Based Registry | User list flow for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#314",
+      "time": "2025-03-29T14:50:05.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/314",
+      "text": "DeDi Based Registry | My Profile flow for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#313",
+      "time": "2025-03-29T14:45:30.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/313",
+      "text": "DeDi Based Registry | Email Verification flow for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#312",
+      "time": "2025-03-29T14:42:02.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/312",
+      "text": "DeDi Based Registry | Login flow for Registry UI"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-utilities#311",
@@ -7720,25 +7986,25 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 282,
+      "stale_for": 283,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 201,
+      "stale_for": 202,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 310,
+      "stale_for": 311,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 331,
+      "stale_for": 332,
       "labels": [
         "enhancement"
       ]
