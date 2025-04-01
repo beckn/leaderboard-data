@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-03-26T20:14:11.000Z",
+  "last_updated": "2025-03-31T07:56:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#264",
+      "time": "2025-03-31T07:56:16.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/264#issuecomment-2765423053",
+      "text": "### Date: March 28, 2025\n#### Current Status:\n- Have done the testing of the above and found that the PS is properly sending the data to the ONEST telemetry dashboard but due to lack of knowledge of the ONEST observer server dashboard. Unable to see how the received telemetry data was displayed on this.\n- Have informed @emmayank  for the same\n- Attaching the SS for the PS Logs for telemetry data transmission to the observer server.\n![Image](https://github.com/user-attachments/assets/63bcd14b-fa4a-4027-b308-95df3e3febd8)\n\n\n#### Next Step:\n- Will check ONEST telemetry server dashboard in next iteration once some information is received.\n- For now closing this ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#295",
+      "time": "2025-03-31T07:50:51.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/295#issuecomment-2765411998",
+      "text": "### Date: March 28, 2025\n#### Current Status:\n- Have fixed the bugs related to integration of separately deployed old [Gateway](http://dedi-gateway.becknprotocol.io) app  in BOC Env with new [DeDi based registry](http://dedi-registry.becknprotocol.io/)\n- Have tested the `search` and `on_search` API call using the above gateway and registry and is working fine.\n- Attaching some SS as a proof of the same.\n\n![Image](https://github.com/user-attachments/assets/d50becb6-2436-449c-8ac7-e9af0328dc7d)\n![Image](https://github.com/user-attachments/assets/26282c5a-5574-4e7c-a80e-b858940c8bfd)\n\n#### Next Step:\n- This task is completed and now closing this ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#295",
+      "time": "2025-03-31T07:45:31.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/295#issuecomment-2765388073",
+      "text": "### Date: March 27, 2025\n#### Current Status:\n- Was in Winroom and completed the demo and bug fixing for Subscribe and Lookup endpoint and its integration including the onboarding.\n- Migrated the NPs from BOC Registry to new DeDi based registry.\n- Created a Demo Recording for the same and have shared with Fide team [Recording Link](https://teams.microsoft.com/l/meetingrecap?driveId=b%21HZEyD7vUq0yxoHRHTEY-hkWlqj1_9OBNg-EEdusTrwrNmA9gfX_rSLV8DWOzWebz&driveItemId=01IMANOXIICKYKTQ4JXVH2A2AEPIAQZ3FT&sitePath=https%3A%2F%2Fmindsenterprise-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fmayank_bansal_eminds_ai%2FEQgSsKnDib1PoGgEegEM7LMB3VOdrn0XdnDj_vm1t43eaQ&fileUrl=https%3A%2F%2Fmindsenterprise-my.sharepoint.com%2Fpersonal%2Fmayank_bansal_eminds_ai%2FDocuments%2FRecordings%2FWinroom%2520-%2520DeDi%2520based%2520Registry-20250327_201727-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200e00074c5b7101a82e00800000000a03af0c4119fdb0100000000000000001000000014e920a3a24c6640ae3ddca38e2fe313&threadId=19%3Ameeting_OGI2M2U2MjgtMGI3My00ZjU5LWE4YmEtMzg3YzVmZmMxMTlj%40thread.v2&organizerId=3d52c042-703c-40cf-ba2a-dc7ab7e44772&tenantId=c14ed7e0-ebc9-4561-aeb9-db8229535797&callId=cee83c17-7129-44f3-b247-bc809c7b7a1a&threadType=meeting&meetingType=Scheduled&subType=RecapSharingLink_RecapCore)\n\n#### Next Step:\n- Will complete the integration of this new Registry with Gateway and complete the search and on_search testing in the for the BOCs Env NPs."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/transactional-ai-bap#138",
+      "time": "2025-03-31T07:32:44.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/138#issuecomment-2765363478",
+      "text": "### Date: March 28, 2025\n#### Current Status:\n- Have tried to debug the issue and found that the PS for the `strapi instance` from which the data is expected i.e. [BPP Network Strapi2 Dev](https://bpp-ps-network-strapi2-dev.becknprotocol.io) is not responding.\n- Attaching some SS for proof of work done\n<img width=\"1492\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e4ca6b45-0e88-4d8e-afd1-5fcdbb0fa08b\" />\n<img width=\"1106\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/69d3c56c-0d78-4c2a-a6c5-fa1c63e42ba1\" />\n\n#### Next Step:\n- Will take Help from Bhanu to make the PS up and running and will do the QA in next iteration \n- Will close this ticket in this iteration and will continue the task in next Iteration on a duplicate ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/transactional-ai-bap#134",
+      "time": "2025-03-31T07:11:15.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/134#issuecomment-2765324510",
+      "text": "### Date: March 28, 2025\n#### Current Status:\n- Have tested the consumer flow it is breaking \n- Have checked the new Gemini 2.0 `gemini-2.0-flash-001` model and found that they have introduced a new package for nodejs for Gemini 2.0 [Google Gen AI](https://www.npmjs.com/package/@google/genai)\n\n#### Next Step:\n- Will check this package and continue the migration of Gemini Bot in next Iteration by creating duplicate ticket.\n- For now closing this ticket for this iteration"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#275",
@@ -2550,6 +2585,31 @@
       "text": "Understand transactional-ai-bap repository code after langgraph changes"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/generic-client-layer/pull/106",
+      "title": "Fix/tag structure ",
+      "stale_for": 47,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/191",
+      "title": "Feat/cache spec on boot",
+      "stale_for": 286,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/189",
+      "title": "Feat/cache spec on boot",
+      "stale_for": 160,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
+      "title": "Staging",
+      "stale_for": 404,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
