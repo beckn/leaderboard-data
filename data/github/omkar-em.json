@@ -1,6 +1,132 @@
 {
-  "last_updated": "2025-03-28T13:51:34.000Z",
+  "last_updated": "2025-04-01T11:01:34.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3670",
+      "time": "2025-04-01T11:01:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3670",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3669",
+      "time": "2025-04-01T11:00:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3669",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3668",
+      "time": "2025-04-01T11:00:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3668",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3555",
+      "time": "2025-04-01T05:24:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3555#issuecomment-2768133063",
+      "text": "Closing this task. Will connect with @rahul-eminds  for bug discussion.\nWill create new ticket for upcoming iteration when required.\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3555",
+      "time": "2025-04-01T05:24:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3555",
+      "text": "QA for Dynamic Price & Tax Calculation in Price Breakup"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/transactional-ai-bap#135",
+      "time": "2025-04-01T04:47:42.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/135#issuecomment-2768088924",
+      "text": "End-to-end QA on the Beckn AI Chatbot post-migration to Gemini 2.0 is complete. Validated functionality, stability, and accuracy across all features.\n\nFollowing bugs were found.\nClosing this task.\n\nhttps://github.com/beckn/beckn-ui-workspace/issues/3663\nhttps://github.com/beckn/beckn-ui-workspace/issues/3664\nhttps://github.com/beckn/beckn-ui-workspace/issues/3665"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/transactional-ai-bap#135",
+      "time": "2025-04-01T04:47:41.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/135",
+      "text": "Beckn AI Chatbot - End-to-End QA Post Migration to Gemini 2.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3665",
+      "time": "2025-04-01T04:27:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3665",
+      "text": "Gemini Bot 2.0 - Giving response in multiple options for sign-up message confirmation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3664",
+      "time": "2025-04-01T04:08:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3664",
+      "text": "Gemini Bot 2.0 - At the time of sign-up, giving \"Invalid OTP\" error"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3663",
+      "time": "2025-04-01T04:04:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3663",
+      "text": "Gemini Bot 2.0 - In WhatsApp flow, bot is replying with multiple options"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3600",
+      "time": "2025-04-01T03:12:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3600#issuecomment-2767959112",
+      "text": "Unable to test.\nBlocker - https://github.com/beckn/beckn-ui-workspace/issues/3662\n\ncc: @rahul-eminds "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3662",
+      "time": "2025-04-01T03:12:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3662",
+      "text": "P2P Admin - Getting \"Demand Failed\" error when locking demands"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3532",
+      "time": "2025-04-01T03:07:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3532#issuecomment-2767947858",
+      "text": "Closing this task as iteration is finished.\nWill create new task once bugs mentioned in previous comments are fixed."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3532",
+      "time": "2025-04-01T03:07:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3532",
+      "text": "Leaderboard - QA"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3538",
+      "time": "2025-04-01T02:56:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3538#issuecomment-2767924939",
+      "text": "Weekly testing report - 28th March 2025\n\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/886800385/Testing+Report-28-03-2025"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3538",
+      "time": "2025-04-01T02:56:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3538",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3525",
+      "time": "2025-04-01T02:49:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3525#issuecomment-2767917096",
+      "text": "Closing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3525",
+      "time": "2025-04-01T02:49:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3525",
+      "text": "End-to-End Testing for Peer-to-Peer OpenSpark Trade App"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3536",

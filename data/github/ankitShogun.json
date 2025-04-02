@@ -1,6 +1,63 @@
 {
-  "last_updated": "2025-03-27T13:49:38.000Z",
+  "last_updated": "2025-04-01T14:25:31.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#279",
+      "time": "2025-04-01T14:25:31.000Z",
+      "link": "https://github.com/beckn/missions/issues/279#issuecomment-2769538572",
+      "text": "Update - 1st April, 2025\n\n* Removed some redundant documents\n* Added Beckn AI bot in the starter kit\n* Indexed Ravi entire youtube playlist to the RAG bot"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#279",
+      "time": "2025-04-01T14:21:56.000Z",
+      "link": "https://github.com/beckn/missions/issues/279",
+      "text": "Enhance RAG Bot "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#278",
+      "time": "2025-04-01T09:48:03.000Z",
+      "link": "https://github.com/beckn/missions/pull/278",
+      "text": "Indexed beckn bot link",
+      "turnaround_time": 17
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#278",
+      "time": "2025-04-01T09:47:46.000Z",
+      "link": "https://github.com/beckn/missions/pull/278",
+      "text": "Indexed beckn bot link"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#256",
+      "time": "2025-04-01T04:59:46.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/256#issuecomment-2768102483",
+      "text": "New branch changes are tested and working fine locally. Transfered the branch to the UEI team for testing with their dashboard. Closing this ticket."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#256",
+      "time": "2025-04-01T04:59:45.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/256",
+      "text": "Protocol server : Missing Open Network Telemetry SDK Changes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#266",
+      "time": "2025-04-01T04:52:38.000Z",
+      "link": "https://github.com/beckn/missions/issues/266",
+      "text": "Tech office hours"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#266",
+      "time": "2025-04-01T04:52:36.000Z",
+      "link": "https://github.com/beckn/missions/issues/266#issuecomment-2768094284",
+      "text": "Wrapped up all the office hours of iteration."
+    },
     {
       "type": "pr_merged",
       "title": "beckn/missions#275",
@@ -1826,6 +1883,25 @@
       "text": "Langraph - Image processing sometimes giving undefined values"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/261",
+      "title": "Merge conflicts check pr",
+      "stale_for": 11,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/258",
+      "title": "Open network sdk testing pr",
+      "stale_for": 12,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
+      "title": "Release notes update",
+      "stale_for": 104,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

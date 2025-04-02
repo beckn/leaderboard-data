@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-28T04:42:51.000Z",
+  "last_updated": "2025-04-01T04:52:55.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3667",
+      "time": "2025-04-01T04:52:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3667",
+      "text": "EC Apps-Inconsistent Checkout and Order History for Products from Different Providers"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3604",

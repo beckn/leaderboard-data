@@ -1,6 +1,90 @@
 {
-  "last_updated": "2025-03-28T11:46:28.000Z",
+  "last_updated": "2025-04-01T12:54:27.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#297",
+      "time": "2025-04-01T12:54:27.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/297#issuecomment-2769265898",
+      "text": "## Date: April 01, 2025\n\n### Current status:\n- Implemented, tested, and deployed the login API.\n- Created the postman collection."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#296",
+      "time": "2025-04-01T12:54:11.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/296#issuecomment-2769265162",
+      "text": "## Date: April 01, 2025\n\n### Current status:\n- Implemented, tested, and deployed the signup API.\n- Created the postman collection."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3637",
+      "time": "2025-04-01T04:59:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3637",
+      "text": "Solaris | Rental Search API: Filter and Sort Enhancements"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#293",
+      "time": "2025-04-01T04:59:31.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/293",
+      "text": "Winroom on 27th March for DeDi Registry"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3620",
+      "time": "2025-04-01T04:59:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3620",
+      "text": "Solaris  | Add Rental Battery Catalog: Prevent duplicate rental listings by checking if an active rental period exists for the same item"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#260",
+      "time": "2025-04-01T04:59:23.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/260",
+      "text": "Protocol Server | Verification HTML generation script"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#259",
+      "time": "2025-04-01T04:59:19.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/259",
+      "text": "Protocol Server | Develop /on_subscribe Endpoint"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#288",
+      "time": "2025-04-01T04:59:15.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/288",
+      "text": "Dedi Based Registry | Develop /subscribe Endpoint in Registry"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#287",
+      "time": "2025-04-01T04:59:11.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/287",
+      "text": "Dedi Based Registry | Develop /lookup Endpoint in Registry"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#289",
+      "time": "2025-04-01T04:59:06.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/289",
+      "text": "DeDi Based Registry | Architecture Documentation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#280",
+      "time": "2025-04-01T04:59:01.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/280",
+      "text": "DeDi Based Registry | Develop non-Beckn API endpoints required for the Registry UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#276",
+      "time": "2025-04-01T04:58:54.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/276",
+      "text": "DeDi Based Registry | Create Postman Collection for Registry Operation using DeDi"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#294",
@@ -532,13 +616,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/263",
       "title": "feat(api): Add /on_subscribe endpoint for registry subscription chall…",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 435,
+      "stale_for": 436,
       "labels": []
     }
   ],

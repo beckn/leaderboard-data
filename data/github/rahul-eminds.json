@@ -1,6 +1,35 @@
 {
-  "last_updated": "2025-03-28T03:05:28.000Z",
+  "last_updated": "2025-04-01T12:10:42.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3661",
+      "time": "2025-04-01T12:10:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3661#issuecomment-2769152801",
+      "text": "### Date: April 1st, 2025  \n\n#### Current Status:  \n- Analyzed order details across all reference application apps to identify the data source for order details.  \n- Reviewed the Strapi schema to assess feasibility and finalize the implementation approach.  \n- Started developing the `reset-account` API.  \n\n#### Next Step:  \n- Continue developing the API and test it once completed.  \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3553",
+      "time": "2025-04-01T03:49:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3553#issuecomment-2768021938",
+      "text": "There is no discussions tab for beckn project thats why no data are shown under discussion section"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#259",
+      "time": "2025-04-01T03:35:49.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/259",
+      "text": "Admin start trade issue fix",
+      "turnaround_time": 50
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#259",
+      "time": "2025-04-01T03:35:00.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/259",
+      "text": "Admin start trade issue fix"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#2728",
@@ -1343,37 +1372,37 @@
     {
       "link": "https://github.com/beckn/strapi-plugins/pull/258",
       "title": "Feat/dynamic price",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
       "title": "Added apis and scripts to cleanup existing data for dynamic price",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 166,
+      "stale_for": 168,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 159,
+      "stale_for": 161,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/leaderboard/pull/2",
       "title": "GitHub scrapper",
-      "stale_for": 256,
+      "stale_for": 258,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 159,
+      "stale_for": 161,
       "labels": []
     }
   ],

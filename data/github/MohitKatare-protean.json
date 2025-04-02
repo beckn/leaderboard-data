@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-03-17T09:17:21.000Z",
+  "last_updated": "2025-04-01T14:58:51.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#438",
+      "time": "2025-04-01T14:58:51.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/438",
+      "text": "added updated code for core wiring",
+      "turnaround_time": 602240
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-onix#424",
@@ -35,7 +43,7 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/424",
       "title": "Feature/core adapter",
-      "stale_for": 0,
+      "stale_for": 11,
       "labels": []
     }
   ],
