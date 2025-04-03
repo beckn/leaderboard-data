@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-22T06:12:04.000Z",
+  "last_updated": "2025-04-01T16:46:18.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/use-case-gen-frontend#19",
+      "time": "2025-04-01T16:46:18.000Z",
+      "link": "https://github.com/beckn/use-case-gen-frontend/pull/19",
+      "text": "Created backend service  for persistence of state"
+    },
     {
       "type": "comment_created",
       "title": "beckn/use-case-gen-frontend#11",
@@ -16,6 +23,13 @@
       "text": "hello @ravi-prakash-v  I would like to work on this issue . Can I start working on this issue and create a PR"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/use-case-gen-frontend/pull/19",
+      "title": "Created backend service  for persistence of state",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

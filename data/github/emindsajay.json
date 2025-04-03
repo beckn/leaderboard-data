@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-01T12:54:27.000Z",
+  "last_updated": "2025-04-02T04:45:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#298",
+      "time": "2025-04-02T04:45:26.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/298#issuecomment-2771328538",
+      "text": "## Date: April 02, 2025\n\n### Current status:\n- Implemented, tested, and deployed the verify email API.\n- Created the postman collection."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#297",
@@ -616,13 +623,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/263",
       "title": "feat(api): Add /on_subscribe endpoint for registry subscription chall…",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 436,
+      "stale_for": 437,
       "labels": []
     }
   ],

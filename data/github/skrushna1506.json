@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-03-27T12:32:52.000Z",
+  "last_updated": "2025-04-02T08:36:27.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3629",
+      "time": "2025-04-02T08:36:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3629#issuecomment-2771818671",
+      "text": "@SanketEminds \n\nSolved Below issue as You mentioned\n\n1. Order details and summary should be properly aligned. (Done)\n\n2. Users should be able to submit reviews successfully. (Done)-\n    this error because you need to login from starting because it took accessToken from local storage.\n\n2. Hand pointer should appear on the \"Rate Us\" button. (Done)\n\n4. Checkout process should complete without crashes.  (Done)\n\n\nalso check screenshot for same\n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/8ffe5239-d3d0-482e-b823-2c8167061c6c\" />\n<img width=\"414\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/9215b0ae-ffd0-42f2-978b-4098a1e141d3\" />"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3679",
+      "time": "2025-04-02T07:58:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3679",
+      "text": "fix(EC): fixed experience center bugs"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3478",
+      "time": "2025-04-02T04:32:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3478#issuecomment-2771314630",
+      "text": "Screenshot for above task\n\n<img width=\"412\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a4642ea8-a9ec-4df1-8695-8700d21e2269\" />"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3611",
@@ -1772,6 +1793,13 @@
       "text": "fix(open-spark): fixed otp should not take more than 1 digit"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3679",
+      "title": "fix(EC): fixed experience center bugs",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

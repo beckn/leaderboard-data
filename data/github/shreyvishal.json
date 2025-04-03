@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-31T07:56:16.000Z",
+  "last_updated": "2025-04-02T09:18:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3682",
+      "time": "2025-04-02T09:18:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3682#issuecomment-2771951612",
+      "text": "### Date: April 02, 2025\n#### Current Status:\n- Have done the development and deployed it also.\n- [Commit Link](https://github.com/beckn/strapi-plugins/pull/258)\n<img width=\"1099\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4c65dc99-e68c-4c5c-8d65-9a4dd00b1be0\" />\n\n#### Next Step:\n- Task is done so closing this ticket"
+    },
     {
       "type": "comment_created",
       "title": "beckn/protocol-server#264",
@@ -2589,25 +2596,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 48,
+      "stale_for": 49,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 287,
+      "stale_for": 288,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 161,
+      "stale_for": 162,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 405,
+      "stale_for": 406,
       "labels": []
     }
   ],

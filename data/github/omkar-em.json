@@ -1,6 +1,104 @@
 {
-  "last_updated": "2025-04-01T11:01:34.000Z",
+  "last_updated": "2025-04-02T09:01:59.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3689",
+      "time": "2025-04-02T09:01:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3689",
+      "text": "DSEP Unified - Unable to view courses in iframe"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3687",
+      "time": "2025-04-02T08:56:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3687",
+      "text": "Vendure - No option to add short description to catalogue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3686",
+      "time": "2025-04-02T08:53:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3686",
+      "text": "CIty of lights, OSM - Language change from English to French reloads the app and resets the flow"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3684",
+      "time": "2025-04-02T08:50:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3684",
+      "text": "Tourism to Retail Flow - If multiple options are selected from the list of items suggested by ChatGPT, then we don't get search results"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3683",
+      "time": "2025-04-02T08:47:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3683",
+      "text": "EC Apps - Track order won't work until track URL is added from backend for the order"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2846",
+      "time": "2025-04-02T07:44:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2846",
+      "text": "OpenSpark v2 - In Admin login, locked demand or supply is still visible and clickable, giving empty details"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2360",
+      "time": "2025-04-02T07:43:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2360",
+      "text": "Unable to Login to Policy Admin - 502 Error in Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2194",
+      "time": "2025-04-02T07:43:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2194",
+      "text": "EC - Search functionality is not working in tourism and retail apps in staging env"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#2271",
+      "time": "2025-04-02T07:42:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2271#issuecomment-2771609946",
+      "text": "Fixed"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2271",
+      "time": "2025-04-02T07:42:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2271",
+      "text": "EC - \"Video does not exist\" message is showing in EC applications"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#1163",
+      "time": "2025-04-02T07:42:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1163#issuecomment-2771608617",
+      "text": "![Image](https://github.com/user-attachments/assets/f24432c7-7c8c-4b4b-919b-19fbda8c8f86)\n\nFixed."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#1163",
+      "time": "2025-04-02T07:42:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/1163",
+      "text": "Himalaya App-There is no need for translation in the Himalayas."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3672",
+      "time": "2025-04-02T04:58:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3672",
+      "text": "Ind 4.0 - Progress indicator in order history page should not go beyond completed status"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3671",
+      "time": "2025-04-02T04:53:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3671",
+      "text": "Ind 4.0 - Add validation for various fields in XInput form"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3670",

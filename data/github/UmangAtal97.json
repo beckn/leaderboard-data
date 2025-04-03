@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-03-20T12:20:11.000Z",
+  "last_updated": "2025-04-02T04:39:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3641",
+      "time": "2025-04-02T04:39:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3641#issuecomment-2771321847",
+      "text": "I have started working on the topic will complete it parallely with ticket no 3640\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3640",
+      "time": "2025-04-02T04:38:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3640#issuecomment-2771320671",
+      "text": "I have started accommodating the above designs in the figma files for above mentioned apps\n here are few that I have completed:\n1. [Open Commerce](https://www.figma.com/design/5Scxw7wdwTjFdXTRqhmXWf/Kuza-One?node-id=4150-151)\n2. [Kuza One ](https://www.figma.com/design/5Scxw7wdwTjFdXTRqhmXWf/Kuza-One?node-id=3314-94)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3640",
+      "time": "2025-04-02T04:32:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3640#issuecomment-2771314538",
+      "text": "Designs for Price break up and Account reset is completed, reviewed and approved by Viraj and Mayank, kindly find the proof of work below:\n\n1. Price Break up:\n\n![Image](https://github.com/user-attachments/assets/94842a6a-5894-4611-bff7-923585b086b5)\n\n![Image](https://github.com/user-attachments/assets/52e3b949-5e6f-4108-9cf7-26789bff4a74)\n\n![Image](https://github.com/user-attachments/assets/7ca313d8-12bf-4870-97f9-aaeb2013291a)\n\n2. Account Reset\n\n![Image](https://github.com/user-attachments/assets/ea085cac-7e8d-4d0a-b039-527e8544c10c)\n"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#3527",

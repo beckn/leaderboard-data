@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-01T04:41:06.000Z",
+  "last_updated": "2025-04-02T07:45:23.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3677",
+      "time": "2025-04-02T07:45:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3677",
+      "text": "fix(STATE-FOREST): fixed product card layout and reatil bug changes"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3666",
@@ -4441,27 +4448,33 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3677",
+      "title": "fix(STATE-FOREST): fixed product card layout and reatil bug changes",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/242",
       "title": "added iframe for open spark",
-      "stale_for": 29,
+      "stale_for": 30,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/7",
       "title": "css changes for policy details",
-      "stale_for": 754,
+      "stale_for": 755,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/6",
       "title": "css fixed for geofencing and create policy form",
-      "stale_for": 754,
+      "stale_for": 755,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/5",
       "title": "policy details page",
-      "stale_for": 754,
+      "stale_for": 755,
       "labels": []
     }
   ],

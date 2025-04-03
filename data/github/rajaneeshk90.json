@@ -1,6 +1,99 @@
 {
-  "last_updated": "2025-03-26T04:19:22.000Z",
+  "last_updated": "2025-04-02T04:16:00.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#281",
+      "time": "2025-04-02T04:16:00.000Z",
+      "link": "https://github.com/beckn/missions/issues/281#issuecomment-2771297728",
+      "text": "Link to the PR: https://github.com/beckn/missions/pull/282"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#281",
+      "time": "2025-04-02T04:15:59.000Z",
+      "link": "https://github.com/beckn/missions/issues/281",
+      "text": "Mission Asset: Fix the mission Github repo README"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#282",
+      "time": "2025-04-02T04:15:43.000Z",
+      "link": "https://github.com/beckn/missions/pull/282",
+      "text": "Update overview readme",
+      "turnaround_time": 5
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#282",
+      "time": "2025-04-02T04:15:33.000Z",
+      "link": "https://github.com/beckn/missions/pull/282",
+      "text": "Update overview readme"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#281",
+      "time": "2025-04-02T04:11:38.000Z",
+      "link": "https://github.com/beckn/missions/issues/281",
+      "text": "Mission Asset: Fix the mission Github repo README"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3588",
+      "time": "2025-04-01T17:48:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3588",
+      "text": "UEI: Implementation Guide for Solar panel installation service: Phase 1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#267",
+      "time": "2025-04-01T17:47:55.000Z",
+      "link": "https://github.com/beckn/missions/issues/267",
+      "text": "UPPCL : Postman collection for P2P energy trade domain"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3588",
+      "time": "2025-04-01T17:47:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3588#issuecomment-2770239552",
+      "text": "Closing this ticket. The examples are prepared. There is a discuss needed with the NP to go thorough this and then prepare an implementation guide.\n\nThose things will be tracked under a new ticket."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3588",
+      "time": "2025-04-01T17:46:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3588#issuecomment-2770235630",
+      "text": "Above changes were made in the examples and shared with the NP.\n\nThe changes are in this PR: https://github.com/beckn/missions/pull/271"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#249",
+      "time": "2025-04-01T17:43:51.000Z",
+      "link": "https://github.com/beckn/missions/issues/249",
+      "text": "Mission Assets: Generic Implementation Guide"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#249",
+      "time": "2025-04-01T17:43:49.000Z",
+      "link": "https://github.com/beckn/missions/issues/249#issuecomment-2770229465",
+      "text": "Merged the first version of the generic implementation guide into the main branch: https://github.com/beckn/missions/pull/280"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#280",
+      "time": "2025-04-01T17:42:39.000Z",
+      "link": "https://github.com/beckn/missions/pull/280",
+      "text": "Generic Implementation Guide",
+      "turnaround_time": 56
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#280",
+      "time": "2025-04-01T17:41:37.000Z",
+      "link": "https://github.com/beckn/missions/pull/280",
+      "text": "Generic Implementation Guide"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3588",
@@ -2275,97 +2368,97 @@
     {
       "link": "https://github.com/beckn/missions/pull/271",
       "title": "example payload for solar panel installation use case",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "title": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs.",
-      "stale_for": 149,
+      "stale_for": 156,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/27",
       "title": "Change in the example implementation and implementation guide for the EV charging use case.",
-      "stale_for": 180,
+      "stale_for": 187,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/184",
       "title": "Remove unwanted references from the DSEP specification example jsons",
-      "stale_for": 208,
+      "stale_for": 215,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/438",
       "title": "Core 1.2 release",
-      "stale_for": 225,
+      "stale_for": 232,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/20",
       "title": "Layer2 28th june",
-      "stale_for": 271,
+      "stale_for": 278,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/19",
       "title": "L2 v3.1",
-      "stale_for": 271,
+      "stale_for": 278,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility/pull/78",
       "title": "adding domain specific rules/restrictions in the mobility on demand layer2 config",
-      "stale_for": 189,
+      "stale_for": 196,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/18",
       "title": "Layer2 config for retail domain",
-      "stale_for": 292,
+      "stale_for": 299,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/21",
       "title": "L2 config",
-      "stale_for": 196,
+      "stale_for": 203,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/logistics/pull/12",
       "title": "L2 config",
-      "stale_for": 274,
+      "stale_for": 281,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Industry-4.0-Specifications/pull/9",
       "title": "Validating Industry4.0 Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Industry4.0 specification",
-      "stale_for": 344,
+      "stale_for": 351,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/PULSE-Specification/pull/25",
       "title": "Validating PULSE Specification against the Beckn Core specification v 1.1.0, validating examples against the updated PULSE specification",
-      "stale_for": 344,
+      "stale_for": 351,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/407",
       "title": "Adding a GitHub action for Beckn core specification to validate meta.yaml, registry.yaml and transaction.yaml files against OpenAPI3.0",
-      "stale_for": 70,
+      "stale_for": 77,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/401",
       "title": "Adding a pre-commit hook in Beckn core specification repository",
-      "stale_for": 179,
+      "stale_for": 186,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/logistics/pull/11",
       "title": "Validating Logistics Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Logistics specification",
-      "stale_for": 345,
+      "stale_for": 352,
       "labels": []
     }
   ],
