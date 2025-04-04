@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-03-28T15:13:33.000Z",
+  "last_updated": "2025-04-03T08:12:31.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#445",
+      "time": "2025-04-03T08:12:31.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/445",
+      "text": "Fix/publisher"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#443",
+      "time": "2025-04-02T16:44:05.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/443",
+      "text": "error function in publisher",
+      "turnaround_time": 18616
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#443",
+      "time": "2025-04-02T11:33:49.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/443",
+      "text": "error function in publisher"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#426",
@@ -61,6 +83,13 @@
       "text": "Feat/logging"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/445",
+      "title": "Fix/publisher",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

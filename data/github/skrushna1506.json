@@ -1,6 +1,49 @@
 {
-  "last_updated": "2025-04-02T08:36:27.000Z",
+  "last_updated": "2025-04-03T09:16:04.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3676",
+      "time": "2025-04-03T09:16:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3676#issuecomment-2775009378",
+      "text": "@UmangAtal97 \ncan you provide tnc UI for this\nCC:- @omkar-em @aniketceminds @viraj89 \n\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3679",
+      "time": "2025-04-03T07:15:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3679",
+      "text": "fix(EC): fixed experience center bugs",
+      "turnaround_time": 83810
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3478",
+      "time": "2025-04-03T03:30:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3478#issuecomment-2774379280",
+      "text": "Pr for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3679"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3672",
+      "time": "2025-04-03T03:28:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3672#issuecomment-2774376471",
+      "text": "Pr for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3679"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3671",
+      "time": "2025-04-03T03:28:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3671#issuecomment-2774375936",
+      "text": "Pr For above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3679"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3629",
+      "time": "2025-04-03T03:27:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3629#issuecomment-2774374955",
+      "text": "Pr For above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3679"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3629",
@@ -1795,8 +1838,8 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3679",
-      "title": "fix(EC): fixed experience center bugs",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3730",
+      "title": "fix(open-spark): new ui changes for open spark app",
       "stale_for": 0,
       "labels": []
     }

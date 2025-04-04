@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-04-02T04:45:26.000Z",
+  "last_updated": "2025-04-03T09:50:47.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#263",
+      "time": "2025-04-03T09:50:47.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/263",
+      "text": "feat(api): Add /on_subscribe endpoint for registry subscription chall…",
+      "turnaround_time": 512899
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#300",
+      "time": "2025-04-02T13:59:10.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/300#issuecomment-2772656598",
+      "text": "## Date: April 02, 2025\n\n### Current status:\n- Implemented, tested, and deployed the get user list API.\n- Created the postman collection."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#299",
+      "time": "2025-04-02T13:58:24.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/299#issuecomment-2772654361",
+      "text": "## Date: April 02, 2025\n\n### Current status:\n- Modified the auth middleware for registry plugin\n- Implemented, tested, and deployed the get user profile API.\n- Created the postman collection."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#298",
@@ -621,15 +643,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/protocol-server/pull/263",
-      "title": "feat(api): Add /on_subscribe endpoint for registry subscription chall…",
-      "stale_for": 5,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 437,
+      "stale_for": 438,
       "labels": []
     }
   ],

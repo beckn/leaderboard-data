@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-01T16:14:37.000Z",
+  "last_updated": "2025-04-02T12:46:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#292",
+      "time": "2025-04-02T12:46:26.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/292#issuecomment-2772453028",
+      "text": "Closing this ticket as its a duplicate for this ticket - https://github.com/beckn/beckn-utilities/issues/290"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#292",
+      "time": "2025-04-02T12:46:25.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/292",
+      "text": "AI: Deploy n8n with login page & validation"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#3623",

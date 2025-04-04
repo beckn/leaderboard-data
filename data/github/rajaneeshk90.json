@@ -1,6 +1,49 @@
 {
-  "last_updated": "2025-04-02T04:16:00.000Z",
+  "last_updated": "2025-04-03T09:51:48.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3619",
+      "time": "2025-04-03T09:51:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3619#issuecomment-2775135748",
+      "text": "Have been doing some research on how the delivery service work in general. below is a summary.\n\nIn most cases, the delivery service doesn't need the full product specification, but rather enough details to handle the package appropriately. \n\n**Essential Information:**\nPhysical Attributes: **Weight, dimensions, and possibly the number of packages**. This information helps with logistics planning (e.g., vehicle selection and load balancing).\n\n**Basic Description:** \nA brief description or SKU can be useful for identification and handling instructions, especially if certain items require special care (e.g., **fragile or hazardous items**).\n\nDetailed product specs (e.g., color, model, detailed technical specifications) are generally not required for the delivery process.\nThe focus is on shipment handling rather than the specifics of what is being sold.\n\n\n**Industry Practices:**\n\n1. Shipping Documents: Often include a packing list or invoice that provides detailed information, but the delivery order itself contains only the necessary physical parameters and basic identifiers.\n2. Efficiency: Keeping the delivery request lightweight and focused on logistical requirements helps in processing orders faster and reduces the chance for errors."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#271",
+      "time": "2025-04-03T07:54:53.000Z",
+      "link": "https://github.com/beckn/missions/pull/271",
+      "text": "example payload for solar panel installation use case",
+      "turnaround_time": 395
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3705",
+      "time": "2025-04-03T05:08:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3705",
+      "text": "UEI: Implementation Guide for Solar panel installation service: Phase 1, part 2"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#283",
+      "time": "2025-04-03T05:07:08.000Z",
+      "link": "https://github.com/beckn/missions/issues/283#issuecomment-2774507179",
+      "text": "April 1, 2025\n\nUpdates:\n\nCurrent Status:\n\n1. The first version of the generic implementation guide has beeb published in the github repository here: https://github.com/beckn/missions/blob/main/Generic-Implementation-Guide/generic_implementation_guide.md\n\nNext Steps:\n\n1. Include more scenarios, specifically, replacement of an order, refund processing etc"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#283",
+      "time": "2025-04-03T05:07:07.000Z",
+      "link": "https://github.com/beckn/missions/issues/283",
+      "text": "Mission Assets: Generic Implementation Guide- Part:2"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#283",
+      "time": "2025-04-03T04:40:24.000Z",
+      "link": "https://github.com/beckn/missions/issues/283",
+      "text": "Mission Assets: Generic Implementation Guide- Part:2"
+    },
     {
       "type": "comment_created",
       "title": "beckn/missions#281",
@@ -2366,99 +2409,93 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/missions/pull/271",
-      "title": "example payload for solar panel installation use case",
-      "stale_for": 5,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "title": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs.",
-      "stale_for": 156,
+      "stale_for": 157,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/27",
       "title": "Change in the example implementation and implementation guide for the EV charging use case.",
-      "stale_for": 187,
+      "stale_for": 188,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/184",
       "title": "Remove unwanted references from the DSEP specification example jsons",
-      "stale_for": 215,
+      "stale_for": 216,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/438",
       "title": "Core 1.2 release",
-      "stale_for": 232,
+      "stale_for": 233,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/20",
       "title": "Layer2 28th june",
-      "stale_for": 278,
+      "stale_for": 279,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/19",
       "title": "L2 v3.1",
-      "stale_for": 278,
+      "stale_for": 279,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility/pull/78",
       "title": "adding domain specific rules/restrictions in the mobility on demand layer2 config",
-      "stale_for": 196,
+      "stale_for": 197,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/18",
       "title": "Layer2 config for retail domain",
-      "stale_for": 299,
+      "stale_for": 300,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/21",
       "title": "L2 config",
-      "stale_for": 203,
+      "stale_for": 204,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/logistics/pull/12",
       "title": "L2 config",
-      "stale_for": 281,
+      "stale_for": 282,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Industry-4.0-Specifications/pull/9",
       "title": "Validating Industry4.0 Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Industry4.0 specification",
-      "stale_for": 351,
+      "stale_for": 352,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/PULSE-Specification/pull/25",
       "title": "Validating PULSE Specification against the Beckn Core specification v 1.1.0, validating examples against the updated PULSE specification",
-      "stale_for": 351,
+      "stale_for": 352,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/407",
       "title": "Adding a GitHub action for Beckn core specification to validate meta.yaml, registry.yaml and transaction.yaml files against OpenAPI3.0",
-      "stale_for": 77,
+      "stale_for": 78,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/401",
       "title": "Adding a pre-commit hook in Beckn core specification repository",
-      "stale_for": 186,
+      "stale_for": 187,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/logistics/pull/11",
       "title": "Validating Logistics Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Logistics specification",
-      "stale_for": 352,
+      "stale_for": 0,
       "labels": []
     }
   ],

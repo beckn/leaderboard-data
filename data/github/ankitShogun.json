@@ -1908,19 +1908,19 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/261",
       "title": "Merge conflicts check pr",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/258",
       "title": "Open network sdk testing pr",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 105,
+      "stale_for": 106,
       "labels": []
     }
   ],

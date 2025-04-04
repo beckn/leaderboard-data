@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-02T09:01:59.000Z",
+  "last_updated": "2025-04-03T08:26:35.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3709",
+      "time": "2025-04-03T08:26:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3709",
+      "text": "Spark - Sign up page - Allows alphabets in mobile number field (Firefox)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3708",
+      "time": "2025-04-03T08:16:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3708",
+      "text": "Spark - Upfront amount shown in EMI bottomsheet is not matching on checkout screen"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3707",
+      "time": "2025-04-03T08:13:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3707",
+      "text": "Solaris - rent-catalogue API is failing while providing battery for rent"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3689",

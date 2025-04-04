@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-02T08:45:51.000Z",
+  "last_updated": "2025-04-03T09:28:54.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3713",
+      "time": "2025-04-03T09:28:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3713",
+      "text": "Create a Catalog Format in Excel Sheet for All the Energy Domain Apps with Proper Headings and Sample Values"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3682",
