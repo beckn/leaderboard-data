@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-04-03T08:26:35.000Z",
+  "last_updated": "2025-04-03T15:45:56.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3729",
+      "time": "2025-04-03T15:45:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3729",
+      "text": "Spark - When battery is purchased from 2 different providers, EMI is not matching"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3728",
+      "time": "2025-04-03T15:32:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3728",
+      "text": "EC Apps - DB cleanup - Remove order history and unnecessary data from staging and prod environments"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3726",
+      "time": "2025-04-03T14:05:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3726",
+      "text": "Spark App - Payment section shows old amounts after removing and adding a product"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3724",
+      "time": "2025-04-03T14:00:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3724",
+      "text": "Vault - Transaction history - Filters for latest/last 7 days/custom are not available"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3723",
+      "time": "2025-04-03T13:37:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3723",
+      "text": "Solaris - Once battery is listed for rental, user is unable to list for another day"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3722",
+      "time": "2025-04-03T13:21:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3722",
+      "text": "Solaris - Billing & Shipping details page - Need alignment for time slot"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3721",
+      "time": "2025-04-03T13:19:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3721",
+      "text": "Solaris - Full date is missing on search result for battery rental"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3720",
+      "time": "2025-04-03T13:16:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3720",
+      "text": "Solaris - Battery rental filter is disabled for search results"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3711",
+      "time": "2025-04-03T10:23:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3711#issuecomment-2775252068",
+      "text": "Tested with new user as well, still getting issue."
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3709",

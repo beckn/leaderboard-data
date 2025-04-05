@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-04-03T09:50:47.000Z",
+  "last_updated": "2025-04-03T17:57:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#303",
+      "time": "2025-04-03T17:57:12.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/303#issuecomment-2776542559",
+      "text": "## Date: April 03, 2025\n\n### Current status:\n- Implemented, tested, and deployed the delete user API.\n- Created the Postman collection."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#301",
+      "time": "2025-04-03T17:53:25.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/301#issuecomment-2776534053",
+      "text": "## Date: April 03, 2025\n\n### Current status:\n- Implemented, tested, and deployed the update user API.\n- Created the Postman collection."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#302",
+      "time": "2025-04-03T17:52:21.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/302#issuecomment-2776531698",
+      "text": "## Date: April 03, 2025\n\n### Current status:\n- Created the isAdmin middleware for registry plugin\n- Implemented, tested, and deployed the update user profile API.\n- Created the Postman collection."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3711",
+      "time": "2025-04-03T15:31:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3711#issuecomment-2776196290",
+      "text": "## Date: April 03, 2025\n\n### Current task:\n- Connected with QA\n- Resolved the bug in the create rent catalog API."
+    },
     {
       "type": "pr_merged",
       "title": "beckn/protocol-server#263",
@@ -645,7 +673,7 @@
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 438,
+      "stale_for": 439,
       "labels": []
     }
   ],

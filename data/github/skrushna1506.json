@@ -1,6 +1,94 @@
 {
-  "last_updated": "2025-04-03T09:16:04.000Z",
+  "last_updated": "2025-04-04T08:46:40.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3742",
+      "time": "2025-04-04T08:46:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3742",
+      "text": "fix(open-spark): fixed ui changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3737",
+      "time": "2025-04-04T07:42:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3737",
+      "text": "fix(open-spark): change footer for all 4 apps",
+      "turnaround_time": 3584
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3737",
+      "time": "2025-04-04T06:43:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3737",
+      "text": "fix(open-spark): change footer for all 4 apps"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3736",
+      "time": "2025-04-04T06:22:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3736",
+      "text": "fix(open-spark-solaris): fix payment page UI",
+      "turnaround_time": 2247
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3736",
+      "time": "2025-04-04T05:44:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3736",
+      "text": "fix(open-spark-solaris): fix payment page UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3732",
+      "time": "2025-04-04T04:18:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3732",
+      "text": "fix(open-spark): fixed open spark on demand changes",
+      "turnaround_time": 62
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3732",
+      "time": "2025-04-04T04:17:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3732",
+      "text": "fix(open-spark): fixed open spark on demand changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3730",
+      "time": "2025-04-04T04:08:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3730",
+      "text": "fix(open-spark): new ui changes for open spark app",
+      "turnaround_time": 39780
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3702",
+      "time": "2025-04-03T17:18:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3702#issuecomment-2776461469",
+      "text": "@SanketEminds \ni have check this on PROD , its working as expected, please check once and let me knw\nCC:- @omkar-em @aniketceminds \n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/db0eee0b-05ef-445f-b953-f5bdea7a4e14\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3718",
+      "time": "2025-04-03T17:10:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3718#issuecomment-2776445239",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3730"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3703",
+      "time": "2025-04-03T17:09:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3703#issuecomment-2776441565",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3730"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3730",
+      "time": "2025-04-03T17:05:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3730",
+      "text": "fix(open-spark): new ui changes for open spark app"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3676",
@@ -1836,13 +1924,6 @@
       "text": "fix(open-spark): fixed otp should not take more than 1 digit"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3730",
-      "title": "fix(open-spark): new ui changes for open spark app",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

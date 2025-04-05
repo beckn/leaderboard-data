@@ -1,6 +1,198 @@
 {
-  "last_updated": "2025-04-03T09:36:29.000Z",
+  "last_updated": "2025-04-04T08:39:51.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3741",
+      "time": "2025-04-04T08:39:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3741",
+      "text": "fix(lean-ease): remove +91 from everywhere",
+      "turnaround_time": 14
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3741",
+      "time": "2025-04-04T08:39:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3741",
+      "text": "fix(lean-ease): remove +91 from everywhere"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3740",
+      "time": "2025-04-04T08:17:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3740",
+      "text": "fix(deg-ec): modified code to add click evnts on app cards",
+      "turnaround_time": 32
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3740",
+      "time": "2025-04-04T08:16:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3740",
+      "text": "fix(deg-ec): modified code to add click evnts on app cards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3739",
+      "time": "2025-04-04T07:51:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3739",
+      "text": "fix(open-spark-solaris): modified code to fix API payload as per country",
+      "turnaround_time": 582
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-04T07:49:54.000Z",
+      "title": "beckn/beckn-ui-workspace#3738",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3738#pullrequestreview-2742128895",
+      "text": "feat(DEG-EC): created deg ec design of landing page and card page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-04T07:42:42.000Z",
+      "title": "beckn/beckn-ui-workspace#3737",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3737#pullrequestreview-2742113649",
+      "text": "fix(open-spark): change footer for all 4 apps"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3739",
+      "time": "2025-04-04T07:41:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3739",
+      "text": "fix(open-spark-solaris): modified code to fix API payload as per country"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3735",
+      "time": "2025-04-04T06:21:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3735",
+      "text": "fix(open-spark): modified api call to set location",
+      "turnaround_time": 3889
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-04T05:17:46.000Z",
+      "title": "beckn/beckn-ui-workspace#3734",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3734#pullrequestreview-2741799494",
+      "text": "fix(ENERGY): added bg color in all energy app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3735",
+      "time": "2025-04-04T05:16:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3735",
+      "text": "fix(open-spark): modified api call to set location"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3733",
+      "time": "2025-04-04T04:57:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3733",
+      "text": "fix(deg-ec): modified code to fix build failure",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3733",
+      "time": "2025-04-04T04:57:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3733",
+      "text": "fix(deg-ec): modified code to fix build failure"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-04T04:18:24.000Z",
+      "title": "beckn/beckn-ui-workspace#3732",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3732#pullrequestreview-2741729090",
+      "text": "fix(open-spark): fixed open spark on demand changes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-04T04:08:37.000Z",
+      "title": "beckn/beckn-ui-workspace#3730",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3730#pullrequestreview-2741720486",
+      "text": "fix(open-spark): new ui changes for open spark app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3731",
+      "time": "2025-04-03T17:25:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3731",
+      "text": "fix(unified-wallet): modified code to integrate fetch utility)",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3731",
+      "time": "2025-04-03T17:25:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3731",
+      "text": "fix(unified-wallet): modified code to integrate fetch utility)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3727",
+      "time": "2025-04-03T14:28:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3727",
+      "text": "fix(open-spark-solaris): modified code in solaris for chgges",
+      "turnaround_time": 167
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3727",
+      "time": "2025-04-03T14:25:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3727",
+      "text": "fix(open-spark-solaris): modified code in solaris for chgges"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3725",
+      "time": "2025-04-03T14:04:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3725",
+      "text": "fix(open-spark): modified code to fix the new chnges",
+      "turnaround_time": 237
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3725",
+      "time": "2025-04-03T14:00:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3725",
+      "text": "fix(open-spark): modified code to fix the new chnges"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3719",
+      "time": "2025-04-03T12:49:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3719",
+      "text": "fix(unified-wallet): modified cosmetic chnges",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3719",
+      "time": "2025-04-03T12:49:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3719",
+      "text": "fix(unified-wallet): modified cosmetic chnges"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3717",
+      "time": "2025-04-03T12:04:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3717",
+      "text": "fix(def-ec): modified code to fix minor bugs",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3717",
+      "time": "2025-04-03T12:04:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3717",
+      "text": "fix(def-ec): modified code to fix minor bugs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-03T11:19:19.000Z",
+      "title": "beckn/beckn-ui-workspace#3716",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3716#pullrequestreview-2739488093",
+      "text": "feat(DEG-EC): initial setup of deg ec and created landing page"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3715",
@@ -4481,13 +4673,13 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 78,
+      "stale_for": 79,
       "labels": []
     }
   ],

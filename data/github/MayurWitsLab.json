@@ -85,8 +85,8 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-onix/pull/445",
-      "title": "Fix/publisher",
+      "link": "https://github.com/beckn/beckn-onix/pull/450",
+      "title": "ft: module_name wrapper middleware",
       "stale_for": 0,
       "labels": []
     }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-27T06:03:55.000Z",
+  "last_updated": "2025-04-03T10:23:29.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#447",
+      "time": "2025-04-03T10:23:29.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/447",
+      "text": "Added test cases for registeryLookUp and implemented the registeryLookUp plugin"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#407",
@@ -17,6 +24,13 @@
       "text": "Update the Initialise function and create test cases corresponding to the modifications made in the updated function and committed the code. @tanyamadaan kindly review the PR at your earliest convenience.\nCc: @viraj89 @Deepa-Mulchandani "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/447",
+      "title": "Added test cases for registeryLookUp and implemented the registeryLookUp plugin",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

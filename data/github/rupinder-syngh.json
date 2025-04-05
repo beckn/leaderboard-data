@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-31T17:08:37.000Z",
+  "last_updated": "2025-04-04T03:14:09.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#449",
+      "time": "2025-04-04T03:14:09.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/449",
+      "text": "Feat/manager test"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#442",
@@ -72,9 +79,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-onix/pull/403",
-      "title": "feat: added network service - handler and receiver",
-      "stale_for": 26,
+      "link": "https://github.com/beckn/beckn-onix/pull/449",
+      "title": "Feat/manager test",
+      "stale_for": 0,
       "labels": []
     }
   ],

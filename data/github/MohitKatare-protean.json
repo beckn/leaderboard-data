@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-03T07:07:47.000Z",
+  "last_updated": "2025-04-03T10:02:57.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#446",
+      "time": "2025-04-03T10:02:57.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/446",
+      "text": "changes for error in request flow"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-onix#444",
@@ -62,7 +69,7 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/424",
       "title": "Feature/core adapter",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     }
   ],

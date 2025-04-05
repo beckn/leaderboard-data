@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-03T09:20:05.000Z",
+  "last_updated": "2025-04-03T14:48:43.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3711",
+      "time": "2025-04-03T14:48:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3711#issuecomment-2776047341",
+      "text": "This is fixed, Now able to publish the battery, Closing this.\ncc @omkar-em \n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3711",
+      "time": "2025-04-03T14:48:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3711",
+      "text": "Spark App-Unable to Publish Battery in Solaris App (Staging)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3718",
+      "time": "2025-04-03T12:40:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3718",
+      "text": "Spark App-Battery Rent-Out Order History Missing in Solaris App"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3712",
