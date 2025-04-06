@@ -1,6 +1,44 @@
 {
-  "last_updated": "2025-04-04T08:46:40.000Z",
+  "last_updated": "2025-04-04T18:03:44.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3757",
+      "time": "2025-04-04T18:03:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3757",
+      "text": "fix(open-spark): fixed profile changes",
+      "turnaround_time": 65
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3757",
+      "time": "2025-04-04T18:02:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3757",
+      "text": "fix(open-spark): fixed profile changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3751",
+      "time": "2025-04-04T12:54:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3751",
+      "text": "fix(open-spark): fixes for secure payment",
+      "turnaround_time": 1375
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3751",
+      "time": "2025-04-04T12:31:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3751",
+      "text": "fix(open-spark): fixes for secure payment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3742",
+      "time": "2025-04-04T09:24:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3742",
+      "text": "fix(open-spark): fixed ui changes",
+      "turnaround_time": 2280
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-ui-workspace#3742",

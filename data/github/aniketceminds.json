@@ -1,6 +1,259 @@
 {
-  "last_updated": "2025-04-04T08:39:51.000Z",
+  "last_updated": "2025-04-05T09:57:13.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3767",
+      "time": "2025-04-05T09:57:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3767",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3767",
+      "time": "2025-04-05T09:57:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3767",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3766",
+      "time": "2025-04-05T09:56:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3766",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 19
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3766",
+      "time": "2025-04-05T09:56:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3766",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3765",
+      "time": "2025-04-05T09:56:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3765",
+      "text": "fix(open-spark): modified code in qoute",
+      "turnaround_time": 12
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3765",
+      "time": "2025-04-05T09:56:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3765",
+      "text": "fix(open-spark): modified code in qoute"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3764",
+      "time": "2025-04-05T08:33:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3764",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3764",
+      "time": "2025-04-05T08:33:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3764",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3763",
+      "time": "2025-04-05T08:33:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3763",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 18
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3763",
+      "time": "2025-04-05T08:32:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3763",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3762",
+      "time": "2025-04-05T08:32:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3762",
+      "text": "fix(open-spark): fix quote price issue",
+      "turnaround_time": 19
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3762",
+      "time": "2025-04-05T08:32:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3762",
+      "text": "fix(open-spark): fix quote price issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3761",
+      "time": "2025-04-04T18:42:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3761",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3761",
+      "time": "2025-04-04T18:41:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3761",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3760",
+      "time": "2025-04-04T18:41:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3760",
+      "text": "fix(open-spark): fix issue services render",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3760",
+      "time": "2025-04-04T18:41:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3760",
+      "text": "fix(open-spark): fix issue services render"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3759",
+      "time": "2025-04-04T18:34:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3759",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 69
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3759",
+      "time": "2025-04-04T18:33:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3759",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3758",
+      "time": "2025-04-04T18:33:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3758",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3758",
+      "time": "2025-04-04T18:33:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3758",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-04T18:03:39.000Z",
+      "title": "beckn/beckn-ui-workspace#3757",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3757#pullrequestreview-2743771383",
+      "text": "fix(open-spark): fixed profile changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3755",
+      "time": "2025-04-04T16:15:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3755",
+      "text": "fix(open-spark): modified code to fix emi plan selection",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3755",
+      "time": "2025-04-04T16:15:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3755",
+      "text": "fix(open-spark): modified code to fix emi plan selection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3753",
+      "time": "2025-04-04T14:35:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3753",
+      "text": "fix(lend-ease): modified code to add dynamic currency",
+      "turnaround_time": 34
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3753",
+      "time": "2025-04-04T14:35:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3753",
+      "text": "fix(lend-ease): modified code to add dynamic currency"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3752",
+      "time": "2025-04-04T14:15:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3752",
+      "text": "fix(open-spark): modified code in all energy app",
+      "turnaround_time": 22
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3752",
+      "time": "2025-04-04T14:15:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3752",
+      "text": "fix(open-spark): modified code in all energy app"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-04T12:54:24.000Z",
+      "title": "beckn/beckn-ui-workspace#3751",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3751#pullrequestreview-2742912838",
+      "text": "fix(open-spark): fixes for secure payment"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-04T12:28:02.000Z",
+      "title": "beckn/beckn-ui-workspace#3749",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3749#pullrequestreview-2742828014",
+      "text": "fix(SOLARIS): fixed css for solaris time slot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3750",
+      "time": "2025-04-04T12:27:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3750",
+      "text": "fix(open-spark): modified code to fix emi form fix",
+      "turnaround_time": 22
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3750",
+      "time": "2025-04-04T12:27:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3750",
+      "text": "fix(open-spark): modified code to fix emi form fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3746",
+      "time": "2025-04-04T10:51:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3746",
+      "text": "fix(open-spark): modified code to fix emi form field",
+      "turnaround_time": 51
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3746",
+      "time": "2025-04-04T10:50:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3746",
+      "text": "fix(open-spark): modified code to fix emi form field"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-04T10:39:49.000Z",
+      "title": "beckn/beckn-ui-workspace#3744",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3744#pullrequestreview-2742560838",
+      "text": "feat(DEG-EC): added dynamic header text in deg ec above iframe"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3741",
@@ -4673,13 +4926,13 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 79,
+      "stale_for": 80,
       "labels": []
     }
   ],

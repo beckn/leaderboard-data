@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-04-02T15:19:32.000Z",
+  "last_updated": "2025-04-04T19:21:04.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#114",
+      "time": "2025-04-04T19:21:04.000Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/114",
+      "text": "Added: Mapping for context location",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/generic-client-layer#114",
+      "time": "2025-04-04T19:20:58.000Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/114",
+      "text": "Added: Mapping for context location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-04T09:27:42.000Z",
+      "title": "beckn/beckn-ui-workspace#3743",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3743#pullrequestreview-2742369258",
+      "text": "feat(DEG-EC): created deg ec design update and route in ifraem"
+    },
     {
       "type": "comment_created",
       "title": "beckn/transactional-ai-bap#139",
@@ -2610,25 +2632,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 50,
+      "stale_for": 52,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 289,
+      "stale_for": 291,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 163,
+      "stale_for": 165,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 407,
+      "stale_for": 409,
       "labels": []
     }
   ],

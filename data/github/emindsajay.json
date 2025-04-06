@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-04-03T17:57:12.000Z",
+  "last_updated": "2025-04-04T14:13:18.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#307",
+      "time": "2025-04-04T14:13:18.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/307#issuecomment-2778847060",
+      "text": "## Date: April 04, 2025\n\n### Current status:\n- Implemented, tested, and deployed the create network domain API.\n- Created the Postman collection."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#306",
+      "time": "2025-04-04T14:12:31.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/306#issuecomment-2778845043",
+      "text": "## Date: April 04, 2025\n\n### Current status:\n- Implemented, tested, and deployed the update network domain API.\n- Created the Postman collection."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#305",
+      "time": "2025-04-04T14:11:45.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/305#issuecomment-2778843272",
+      "text": "## Date: April 04, 2025\n\n### Current status:\n- Implemented, tested, and deployed the delete network domain API.\n- Created the Postman collection."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#304",
+      "time": "2025-04-04T14:11:00.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/304#issuecomment-2778841633",
+      "text": "## Date: April 04, 2025\n\n### Current status:\n- Implemented, tested, and deployed the get single/multiple network domain API.\n- Created the Postman collection."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3747",
+      "time": "2025-04-04T11:10:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3747#issuecomment-2778377019",
+      "text": "## April 5, 2025\n\n### Current task:\n- Added the catalogue data.\n- Connected with UI team for support"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3747",
+      "time": "2025-04-04T11:07:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3747",
+      "text": "Backend Changes for US Region Demo – Catalogue Setup & Frontend Support"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#303",
@@ -673,7 +715,7 @@
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 439,
+      "stale_for": 440,
       "labels": []
     }
   ],
