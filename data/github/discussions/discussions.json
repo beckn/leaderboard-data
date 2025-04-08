@@ -51,5 +51,21 @@
     },
     "participants": [],
     "repository": "beckn-onix"
+  },
+  {
+    "source": "github",
+    "title": "Testing discussion",
+    "text": "Testing discussions for github scrapper",
+    "author": "rahul-eminds",
+    "link": "https://github.com/orgs/beckn/discussions/453",
+    "isAnswered": null,
+    "time": "2025-04-08T07:10:58Z",
+    "updateTime": "2025-04-08T07:10:59Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [],
+    "repository": "beckn-onix"
   }
 ]
