@@ -101,12 +101,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-onix/pull/452",
-      "title": "fix/minor change",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/beckn-onix/pull/449",
       "title": "Feat/manager test",
       "stale_for": 0,

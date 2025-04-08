@@ -1377,6 +1377,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/beckn-bap-user-strapi/pull/11",
+      "title": "Implemented reset-account api for all the domains",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/strapi-plugins/pull/260",
+      "title": "Added reset account feature for a user based on category",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/strapi-plugins/pull/258",
       "title": "Feat/dynamic price",
       "stale_for": 5,
@@ -1403,7 +1415,7 @@
     {
       "link": "https://github.com/beckn/leaderboard/pull/2",
       "title": "GitHub scrapper",
-      "stale_for": 264,
+      "stale_for": 265,
       "labels": []
     },
     {

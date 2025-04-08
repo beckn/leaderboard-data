@@ -2449,13 +2449,13 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/20",
       "title": "Layer2 28th june",
-      "stale_for": 283,
+      "stale_for": 284,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/19",
       "title": "L2 v3.1",
-      "stale_for": 283,
+      "stale_for": 284,
       "labels": []
     },
     {
@@ -2479,7 +2479,7 @@
     {
       "link": "https://github.com/beckn/logistics/pull/12",
       "title": "L2 config",
-      "stale_for": 286,
+      "stale_for": 287,
       "labels": []
     },
     {
@@ -2491,7 +2491,7 @@
     {
       "link": "https://github.com/beckn/PULSE-Specification/pull/25",
       "title": "Validating PULSE Specification against the Beckn Core specification v 1.1.0, validating examples against the updated PULSE specification",
-      "stale_for": 356,
+      "stale_for": 357,
       "labels": []
     },
     {
@@ -2503,7 +2503,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/401",
       "title": "Adding a pre-commit hook in Beckn core specification repository",
-      "stale_for": 191,
+      "stale_for": 192,
       "labels": []
     },
     {
