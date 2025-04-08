@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-07T04:51:20.000Z",
+  "last_updated": "2025-04-08T03:54:36.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#260",
+      "time": "2025-04-08T03:54:36.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/260",
+      "text": "Added reset account feature for a user based on category"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3661",
@@ -1409,7 +1416,7 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 167,
+      "stale_for": 168,
       "labels": []
     },
     {
@@ -1421,7 +1428,7 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 167,
+      "stale_for": 168,
       "labels": []
     }
   ],
