@@ -17,5 +17,39 @@
       "venkatramanm"
     ],
     "repository": "protocol-specifications"
+  },
+  {
+    "source": "github",
+    "title": "Why have select api at all?",
+    "text": "A possible flow:\n\nSearch, keep making cart locally in bap, then call init with all selections , keep doing negotiations if required and close out with  confirm.\n\nIs select really serving any use when init /on_init is sufficient\n\nAny way select is an incomplete order for which data is being sent back and forth between platforms with not much benefit. \n\n\nAm I missing any thing? \n\nI see  advantages in dropping select. \n1. Less network chatter.\n2. Less confusing as this question is raised in many domains and in mobility, select is already skipped. \n3. Also confusions on where to do negotiation is resolved. \n",
+    "author": "venkatramanm",
+    "link": "https://github.com/beckn/protocol-specifications/discussions/471",
+    "isAnswered": null,
+    "time": "2024-11-12T07:44:50Z",
+    "updateTime": "2024-11-12T07:45:24Z",
+    "category": {
+      "name": "Core Specification",
+      "emoji": "#️⃣"
+    },
+    "participants": [
+      "venkatramanm"
+    ],
+    "repository": "protocol-specifications"
+  },
+  {
+    "source": "github",
+    "title": "BAP Module not comes UP",
+    "text": "Hi All,\r\nWe are deploying Beckon Onix on On-prime servers, and we are using Open SSL for Development. After deployment the BAP does not come\r\n![Capture](https://github.com/user-attachments/assets/f97f6f23-7ecb-4924-a94e-7154c9edbcf9)\r\n up and not able to register with Open SSL key",
+    "author": "jsatheeshkss",
+    "link": "https://github.com/orgs/beckn/discussions/401",
+    "isAnswered": false,
+    "time": "2025-02-18T05:51:06Z",
+    "updateTime": "2025-02-18T05:51:07Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [],
+    "repository": "beckn-onix"
   }
 ]

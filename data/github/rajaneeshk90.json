@@ -2431,13 +2431,13 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/27",
       "title": "Change in the example implementation and implementation guide for the EV charging use case.",
-      "stale_for": 192,
+      "stale_for": 193,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/184",
       "title": "Remove unwanted references from the DSEP specification example jsons",
-      "stale_for": 220,
+      "stale_for": 221,
       "labels": []
     },
     {
@@ -2461,7 +2461,7 @@
     {
       "link": "https://github.com/beckn/mobility/pull/78",
       "title": "adding domain specific rules/restrictions in the mobility on demand layer2 config",
-      "stale_for": 201,
+      "stale_for": 202,
       "labels": []
     },
     {
