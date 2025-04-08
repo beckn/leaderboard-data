@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-04-03T05:32:29.000Z",
+  "last_updated": "2025-04-07T10:29:12.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3779",
+      "time": "2025-04-07T10:29:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3779",
+      "text": "DEG: UX Design for DEG Experience Centre & Demo App Updates"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3779",
+      "time": "2025-04-07T10:24:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3779#issuecomment-2782838534",
+      "text": "10. [Splash screens include a “Powered by DEG” logo:](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=3161-5474&t=h8PoCDzWyyppechy-4)\nProof of Work:\n![Image](https://github.com/user-attachments/assets/4be4d72d-5682-42e4-a4e5-71aa28bb6280)\n\n11. Wallet / DeDi IDs replaced with user names in. [Retail & Leasing App](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=2759-2468&t=h8PoCDzWyyppechy-4) and [Wallet App:](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=2759-661&t=h8PoCDzWyyppechy-4)\nProof of Work:\na. Retail & Leasing App:\n![Image](https://github.com/user-attachments/assets/234fb5a5-f63f-44fa-a162-c3505b79f1f9)\nb. Wallet App:\n![Image](https://github.com/user-attachments/assets/e318f918-0574-486c-b228-7bc158716a84)\n\n12. [Wallet includes a redesigned profile screen:](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=3061-45404&t=h8PoCDzWyyppechy-4):\nProof of Work:\n![Image](https://github.com/user-attachments/assets/008e83a0-1e2d-4971-bc0a-4eecaa38f63e)\n\n\nRest of the changes are mostly textual, all the above designs are completed, reviewed and approved by Viraj and Eryn from FIDE team"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3779",
+      "time": "2025-04-07T09:56:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3779#issuecomment-2782764692",
+      "text": "7.[Improve From/To date layout for rental workflows :](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=2802-9398&t=VBdypfS9krRVShsp-4)\nProof of Work:\n![Image](https://github.com/user-attachments/assets/8703fb8b-a96c-4496-99c5-fd2877ae6d24)\n\n8. Payment options reflect Apple Pay and Stripe (design mockups) for [Retail & Leasing App](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=2759-3285&t=VBdypfS9krRVShsp-4) and [Rental App](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=2802-9398&t=VBdypfS9krRVShsp-4)\na.Rental App: \n![Image](https://github.com/user-attachments/assets/9804272a-5098-481e-ab50-8baff82ff1d6)\n\nb. Retail & Leasing App:\nhttps://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=2759-4263&t=VBdypfS9krRVShsp-4\n\n9. [Stripe interface is included in gateway screen UI wherever necessary:](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=2759-3285&t=VBdypfS9krRVShsp-4)\nProof of Work:\n![Image](https://github.com/user-attachments/assets/28dad18f-6d9a-4a68-a41d-293e4aa2bf3c)\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3779",
+      "time": "2025-04-07T09:35:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3779#issuecomment-2782704453",
+      "text": "4. [All apps display coloured background themes as per DEG design system:](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=3152-5201&t=VBdypfS9krRVShsp-4)\nProof of Work:\n![Image](https://github.com/user-attachments/assets/5b0cf0c3-fc0b-4ec5-9f18-249e6e7161f4)\n\n5. [Retail & Leasing](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=3152-5204&t=VBdypfS9krRVShsp-4) & [Rental](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=3152-5206&t=VBdypfS9krRVShsp-4) flows are clearly separated and intuitively designed:\n\nProof of Work:\n\na. Retail & Leasing App:\n![Image](https://github.com/user-attachments/assets/ca728183-5421-4fc7-b349-9c8d122f915f)\n![Image](https://github.com/user-attachments/assets/bd72c9bf-e978-4820-be29-c46476cafdaa)\n![Image](https://github.com/user-attachments/assets/7a33e648-c117-431c-a915-6a6c550df959)\n![Image](https://github.com/user-attachments/assets/ebe8cb2b-90b8-4af4-820d-eb317a0ea9a7)\n\nb. Rental App:\n![Image](https://github.com/user-attachments/assets/8e775fc0-56b6-4081-835b-d45a83a0ab7b)\n\n6. [Identity section for Wallet is fully designed](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=2759-759&t=VBdypfS9krRVShsp-4):\nProof of Work:\n![Image](https://github.com/user-attachments/assets/96b85d1e-fd5d-49f8-90a1-7b1a089bee77)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3779",
+      "time": "2025-04-07T09:35:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3779#issuecomment-2782703812",
+      "text": "1. Experience Centre has redesigned landing and home screens:[https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=2620-46](url)\nProof of Work:\n![Image](https://github.com/user-attachments/assets/1fcc1606-6bfd-4087-8013-79e61ac273d4)\n\n2. Iframe demos for 6 applications are functional and embedded cleanly:\n![Image](https://github.com/user-attachments/assets/46e12e38-206c-4568-9a5c-b3dc8b49df0b)\n\n3. [Wallet app includes working QR scanner UI design:](https://www.figma.com/design/UvjAutyyXEbHIPpYu1hnDg/SPARK-%2C-VAULT%2C-SOLARIS%2C-LENDEASE-%26-EC?node-id=3138-520&t=VBdypfS9krRVShsp-4)\nProof of Work:\n![Image](https://github.com/user-attachments/assets/5d345137-bd09-4258-830c-a65ebf7dfd13)\n\n\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3640",
+      "time": "2025-04-07T08:35:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3640#issuecomment-2782460768",
+      "text": "completed designs for:\n3. [Tryst with Himalayas](https://www.figma.com/design/pHDZ2CMzPGuHW8gNMmAcDA/Tourism-BAP?node-id=3485-170)\n\n![Image](https://github.com/user-attachments/assets/460a265c-2017-4504-939b-e44286846baa)"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3641",

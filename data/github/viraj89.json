@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-04-02T12:46:26.000Z",
+  "last_updated": "2025-04-07T18:44:15.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3798",
+      "time": "2025-04-07T18:44:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3798",
+      "text": "DEG - UI Implementation and Enhancement Activities"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3790",
+      "time": "2025-04-07T12:41:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3790",
+      "text": "DEG Sandbox: EV Charging station reference app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3779",
+      "time": "2025-04-07T08:46:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3779",
+      "text": "DEG: UX Design for DEG Experience Centre & Demo App Updates"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#331",
+      "time": "2025-04-07T07:52:46.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/331",
+      "text": "Streamline Developer Onboarding and Support with LLM-Driven Docs & Troubleshooting"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3770",
+      "time": "2025-04-07T05:55:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3770",
+      "text": "DEG - QA Activities for End-to-End Testing"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#292",

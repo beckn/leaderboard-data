@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-04-04T18:03:44.000Z",
+  "last_updated": "2025-04-07T08:09:52.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3676",
+      "time": "2025-04-07T08:09:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3676#issuecomment-2782390740",
+      "text": "Currently there is no UI for this TnC, once it will done i will start working on this\nCC:- @omkar-em @aniketceminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3769",
+      "time": "2025-04-07T04:45:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3769#issuecomment-2782004997",
+      "text": "PR for above tsK\nhttps://github.com/beckn/beckn-ui-workspace/pull/3679\nCC:- @PritiEM @viraj89 "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3769",
+      "time": "2025-04-07T04:44:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3769",
+      "text": "Integrated Rent Catalogue API in My Services Page (Open-Spark)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3768",
+      "time": "2025-04-07T04:43:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3768#issuecomment-2782002065",
+      "text": "PR for above task\n\n1. https://github.com/beckn/beckn-ui-workspace/pull/3732\n2. https://github.com/beckn/beckn-ui-workspace/pull/3736\n3. https://github.com/beckn/beckn-ui-workspace/pull/3737\n4. https://github.com/beckn/beckn-ui-workspace/pull/3742\n5. https://github.com/beckn/beckn-ui-workspace/pull/3751\n6. https://github.com/beckn/beckn-ui-workspace/pull/3757\n\nCC:- @pri233 @viraj89 "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3768",
+      "time": "2025-04-07T04:40:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3768",
+      "text": "DEG Demo Winroom (04/04/2025)"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3757",

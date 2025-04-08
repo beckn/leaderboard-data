@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-04-03T15:45:56.000Z",
+  "last_updated": "2025-04-07T11:38:55.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3787",
+      "time": "2025-04-07T11:38:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3787",
+      "text": "DEG Apps - Make apps responsive"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3786",
+      "time": "2025-04-07T11:33:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3786",
+      "text": "Forest Apps - Excess white space added in product description page in State Forest Department app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3785",
+      "time": "2025-04-07T11:31:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3785",
+      "text": "DEG Applications - URL should be /retail, /rental, etc. instead of long URLs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3784",
+      "time": "2025-04-07T11:15:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3784",
+      "text": "DEG - Wallet - User is able to sign in without any number"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3770",
+      "time": "2025-04-07T09:55:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3770#issuecomment-2782761459",
+      "text": "As part of this ticket, we carried out comprehensive QA activities for the DEG project, which included end-to-end testing across both Dev and Prod environments. We prepared and validated test catalog data, documented detailed test cases, and worked closely with the development team to ensure timely resolution of issues, particularly during last-minute changes in the Dev environment. Additionally, we participated in the Win Room call where we collaborated with the team to triage and resolve critical bugs in the DEG application. Some of the bugs identified during this phase were reported directly on GitHub for tracking. A few of these are listed below for reference.\n\n\nhttps://github.com/beckn/beckn-ui-workspace/issues/3776\nhttps://github.com/beckn/beckn-ui-workspace/issues/3775\nhttps://github.com/beckn/beckn-ui-workspace/issues/3774\nhttps://github.com/beckn/beckn-ui-workspace/issues/3707\nhttps://github.com/beckn/beckn-ui-workspace/issues/3773\nhttps://github.com/beckn/beckn-ui-workspace/issues/3712\nhttps://github.com/beckn/beckn-ui-workspace/issues/3708\nhttps://github.com/beckn/beckn-ui-workspace/issues/3709"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3669",
+      "time": "2025-04-07T04:45:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3669#issuecomment-2782004952",
+      "text": "Testing report -\n\n2nd April 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/888799255/Testing+Report-02-04-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3668",
+      "time": "2025-04-07T04:44:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3668#issuecomment-2782003522",
+      "text": "Testing report -\n\n1st April 2025 -\n\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/888799245/Testing+Report-01-04-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/transactional-ai-bap#140",
+      "time": "2025-04-07T04:37:14.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/140#issuecomment-2781995966",
+      "text": "Following bugs were raised during Gemini Whatsapp bot testing -\nBlocker for testing, hence keeping this task on hold.\n\nList of bugs - \nhttps://github.com/beckn/beckn-ui-workspace/issues/3663\nhttps://github.com/beckn/beckn-ui-workspace/issues/3665\nhttps://github.com/beckn/beckn-ui-workspace/issues/3664"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#284",
+      "time": "2025-04-07T04:34:40.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/284#issuecomment-2781993255",
+      "text": "To test the /subscribe and /lookup APIs, it is necessary to set up the Protocol Server locally. The setup is currently in progress."
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3729",

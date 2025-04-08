@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-01T12:10:42.000Z",
+  "last_updated": "2025-04-07T04:51:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3661",
+      "time": "2025-04-07T04:51:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3661#issuecomment-2782011208",
+      "text": "### Date: April 4th, 2025  \n\n#### Current Status:  \n- Implemented the `reset-account` API for all applicable domains except Vault.  \n- Tested the API locally and fixed issues that came up during testing.  \n\n#### Next Step:  \n- Deploy the API to the dev environment and perform end-to-end testing on dev.  \n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3661",
@@ -1372,37 +1379,37 @@
     {
       "link": "https://github.com/beckn/strapi-plugins/pull/258",
       "title": "Feat/dynamic price",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
       "title": "Added apis and scripts to cleanup existing data for dynamic price",
-      "stale_for": 6,
+      "stale_for": 10,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 170,
+      "stale_for": 174,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 163,
+      "stale_for": 167,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/leaderboard/pull/2",
       "title": "GitHub scrapper",
-      "stale_for": 260,
+      "stale_for": 264,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 163,
+      "stale_for": 167,
       "labels": []
     }
   ],

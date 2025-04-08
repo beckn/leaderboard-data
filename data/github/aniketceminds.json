@@ -1,6 +1,125 @@
 {
-  "last_updated": "2025-04-05T09:57:13.000Z",
+  "last_updated": "2025-04-07T14:46:06.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3797",
+      "time": "2025-04-07T14:46:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3797",
+      "text": "fix(deg-ec): added deg ec app logo to tab",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3797",
+      "time": "2025-04-07T14:46:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3797",
+      "text": "fix(deg-ec): added deg ec app logo to tab"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3796",
+      "time": "2025-04-07T13:52:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3796",
+      "text": "fix(deg-finance): modifed code to add finance app logo",
+      "turnaround_time": 451
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3796",
+      "time": "2025-04-07T13:45:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3796",
+      "text": "fix(deg-finance): modifed code to add finance app logo"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3795",
+      "time": "2025-04-07T13:41:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3795",
+      "text": "fix(lend-ease): modified app logo",
+      "turnaround_time": 12
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3795",
+      "time": "2025-04-07T13:41:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3795",
+      "text": "fix(lend-ease): modified app logo"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3794",
+      "time": "2025-04-07T13:30:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3794",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3793",
+      "time": "2025-04-07T13:21:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3793",
+      "text": "fix(open-spark-solaris): modified code to integrate the rent-catalogu…",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3793",
+      "time": "2025-04-07T13:21:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3793",
+      "text": "fix(open-spark-solaris): modified code to integrate the rent-catalogu…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3781",
+      "time": "2025-04-07T12:43:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3781",
+      "text": "fix: revert chnges for old ec energy app",
+      "turnaround_time": 9875
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-07T11:28:08.000Z",
+      "title": "beckn/beckn-ui-workspace#3783",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3783#pullrequestreview-2746482392",
+      "text": "fix(DEG-EC): added deg tab name"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3781",
+      "time": "2025-04-07T09:58:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3781",
+      "text": "fix: revert chnges for old ec energy app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3780",
+      "time": "2025-04-07T08:50:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3780",
+      "text": "fix(deg): moved all the deg apps as a new app",
+      "turnaround_time": 121
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3780",
+      "time": "2025-04-07T08:48:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3780",
+      "text": "fix(deg): moved all the deg apps as a new app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3772",
+      "time": "2025-04-07T06:48:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3772",
+      "text": "fix(unified-wallet): modified code to add feature to scan qr in asset",
+      "turnaround_time": 40
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3772",
+      "time": "2025-04-07T06:48:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3772",
+      "text": "fix(unified-wallet): modified code to add feature to scan qr in asset"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3767",
@@ -4924,15 +5043,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3794",
+      "title": "Develop 1.1.0",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 81,
+      "stale_for": 82,
       "labels": []
     }
   ],

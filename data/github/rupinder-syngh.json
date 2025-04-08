@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-04-04T03:14:09.000Z",
+  "last_updated": "2025-04-07T12:09:00.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#452",
+      "time": "2025-04-07T12:09:00.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/452",
+      "text": "fix/minor change"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#451",
+      "time": "2025-04-07T09:29:23.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/451",
+      "text": "fix/minor change",
+      "turnaround_time": 339
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#451",
+      "time": "2025-04-07T09:23:45.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/451",
+      "text": "fix/minor change"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-onix#449",
@@ -78,6 +100,12 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/452",
+      "title": "fix/minor change",
+      "stale_for": 0,
+      "labels": []
+    },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/449",
       "title": "Feat/manager test",

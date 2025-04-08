@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-04-04T12:45:59.000Z",
+  "last_updated": "2025-04-07T07:41:32.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#450",
+      "time": "2025-04-07T07:41:32.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/450",
+      "text": "ft: module_name wrapper middleware",
+      "turnaround_time": 252569
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#445",
@@ -98,13 +106,6 @@
       "text": "Feat/logging"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-onix/pull/450",
-      "title": "ft: module_name wrapper middleware",
-      "stale_for": 2,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
