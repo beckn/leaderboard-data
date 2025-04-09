@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-07T11:49:08.000Z",
+  "last_updated": "2025-04-08T07:23:24.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-specifications#477",
+      "time": "2025-04-08T07:23:24.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/477",
+      "text": "Specification: Documentation for subscribe and on_subscribe registry endpoints"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3788",
+      "time": "2025-04-08T05:46:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3788#issuecomment-2785291455",
+      "text": "Date: 07, April\n\nCurrent Status:\n\n1. Added Description, Properties, Implementation guide and Example jsons for City, Contact, Context, Country, Credential, Customer Schemas.\n\nNext Steps:\n\n1. Add the similar things for the remaining Schemas. There are around 50 more schemas remaining. "
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3788",
@@ -2425,7 +2439,7 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "title": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs.",
-      "stale_for": 161,
+      "stale_for": 162,
       "labels": []
     },
     {
@@ -2467,7 +2481,7 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/18",
       "title": "Layer2 config for retail domain",
-      "stale_for": 304,
+      "stale_for": 305,
       "labels": []
     },
     {
@@ -2485,7 +2499,7 @@
     {
       "link": "https://github.com/beckn/Industry-4.0-Specifications/pull/9",
       "title": "Validating Industry4.0 Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Industry4.0 specification",
-      "stale_for": 356,
+      "stale_for": 357,
       "labels": []
     },
     {
@@ -2497,7 +2511,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/407",
       "title": "Adding a GitHub action for Beckn core specification to validate meta.yaml, registry.yaml and transaction.yaml files against OpenAPI3.0",
-      "stale_for": 82,
+      "stale_for": 83,
       "labels": []
     },
     {
@@ -2509,7 +2523,7 @@
     {
       "link": "https://github.com/beckn/logistics/pull/11",
       "title": "Validating Logistics Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Logistics specification",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     }
   ],

@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-04-07T12:45:06.000Z",
+  "last_updated": "2025-04-08T12:20:07.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3819",
+      "time": "2025-04-08T12:20:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3819",
+      "text": "DEG-Incorrect EMI Calculation When Adding Multiple Batteries from Different Providers"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3804",
+      "time": "2025-04-08T11:20:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3804#issuecomment-2786103115",
+      "text": "Tested and working in dev env, Please move code to prod Env.\ncc @omkar-em "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3816",
+      "time": "2025-04-08T11:00:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3816",
+      "text": "EC -Energy App-Battery Text Appearing Twice on Billing and Shipping Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3815",
+      "time": "2025-04-08T10:56:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3815",
+      "text": "EC-Energy App-Unable to Purchase Rented Out Battery"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3813",
+      "time": "2025-04-08T09:18:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3813",
+      "text": "DEG-QR Code Not Implemented in Production Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3810",
+      "time": "2025-04-08T06:51:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3810",
+      "text": "DEG-Battery Text Should Be Removed and Order ID Position Should Match Figma Design"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3804",
+      "time": "2025-04-08T05:28:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3804",
+      "text": "DEG Apps-Sign In Button Enabled Without Entering Mobile Number"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3802",
+      "time": "2025-04-08T05:10:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3802",
+      "text": "EC -Energy App-Search and Purchase Functionality Issues in Battery Module(Dev Env)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3799",
+      "time": "2025-04-08T04:49:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3799",
+      "text": "DEG End-to-End QA"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3792",

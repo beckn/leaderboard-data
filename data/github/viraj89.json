@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-04-07T18:44:15.000Z",
+  "last_updated": "2025-04-08T14:05:05.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3822",
+      "time": "2025-04-08T14:05:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3822",
+      "text": "DEG - Deployment and DNS Setup for DEG Applications"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#334",
+      "time": "2025-04-08T05:56:09.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/334",
+      "text": "DEG Dev & Prod Environment Setup and DNS Configuration via AWS Amplify"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3809",
+      "time": "2025-04-08T05:42:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3809",
+      "text": "Catalogs for EV Charging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3808",
+      "time": "2025-04-08T05:41:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3808",
+      "text": "UI Dev for EV Charging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3807",
+      "time": "2025-04-08T05:41:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3807",
+      "text": "UX for EV Charging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3806",
+      "time": "2025-04-08T05:41:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3806",
+      "text": "Reference App: EV Charging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3803",
+      "time": "2025-04-08T05:25:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3803",
+      "text": "Strapi Catalog Ops & Registry Prod Deployment Support"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3801",
+      "time": "2025-04-08T05:07:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3801",
+      "text": "No-Code AI-Enabled Catalog Generator for Beckn-Compliant Commerce"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3800",
+      "time": "2025-04-08T05:06:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3800",
+      "text": "No-Code AI-Enabled UI Builder for Dynamic Beckn UIs"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3798",

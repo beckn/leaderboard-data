@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-08T04:03:03.000Z",
+  "last_updated": "2025-04-08T04:34:42.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#332",
+      "time": "2025-04-08T04:34:42.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/332#issuecomment-2785198422",
+      "text": "## April 7, 2025\n\n### Current task:\n- Connected in the day and late night with Adi Bhagavath for issues in DeDi APIs for verifying email; unable to create the namespace due to creatorId and discussed what we need in filtering.\n- Tested the create namespace, create registry, lookup namespace, and lookup registry."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#332",
+      "time": "2025-04-08T04:30:54.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/332#issuecomment-2785194301",
+      "text": "## April 5, 2025\n\n### Current task:\n- Started creating the running the DeDi Beta version api and, in parallel, creating the postman collection\n- Tested the registration, login, and verify email. Faced an issue in verifying email (no receiving the email)."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#332",
+      "time": "2025-04-08T04:27:14.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/332",
+      "text": "DEG: DeDi API Authentication Review in Beta Environment"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3747",

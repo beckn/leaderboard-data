@@ -1,6 +1,56 @@
 {
-  "last_updated": "2025-04-07T13:22:25.000Z",
+  "last_updated": "2025-04-08T10:09:39.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3678",
+      "time": "2025-04-08T10:09:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3678#issuecomment-2785926400",
+      "text": "Removed PCM from EC @omkar-em "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#261",
+      "time": "2025-04-08T10:09:11.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/261",
+      "text": "fixed routing issue in ec and remove local storage and remove pcm app",
+      "turnaround_time": 117
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3673",
+      "time": "2025-04-08T10:08:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3673#issuecomment-2785923652",
+      "text": "https://github.com/beckn/beckn-exp-guide-ui/pull/261"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3625",
+      "time": "2025-04-08T10:08:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3625#issuecomment-2785923235",
+      "text": "https://github.com/beckn/beckn-exp-guide-ui/pull/261"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#261",
+      "time": "2025-04-08T10:07:14.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/261",
+      "text": "fixed routing issue in ec and remove local storage and remove pcm app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3785",
+      "time": "2025-04-08T10:04:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3785#issuecomment-2785913236",
+      "text": "<img width=\"1726\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1730ea49-231e-4b1c-8511-9a443f9915a1\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3625",
+      "time": "2025-04-08T05:32:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3625#issuecomment-2785268008",
+      "text": "I have removed all local storage, except climate app, I am working on it"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3791",

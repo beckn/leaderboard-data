@@ -1,6 +1,203 @@
 {
-  "last_updated": "2025-04-07T14:46:06.000Z",
+  "last_updated": "2025-04-08T13:58:10.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3726",
+      "time": "2025-04-08T13:58:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3726#issuecomment-2786535322",
+      "text": "@omkar-em we need to recall the init api call again by clicking  on Change button. As this is applicable to all the reference applications.\ncc @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3813",
+      "time": "2025-04-08T12:52:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3813#issuecomment-2786339161",
+      "text": "@SanketEminds \ndeployed in DEV env, once today's demo is done. We will move it to PROD. Kindly test it in DEV env.\ncc @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3773",
+      "time": "2025-04-08T12:47:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3773#issuecomment-2786326283",
+      "text": "@SanketEminds \nIf the logged in mobile number is not registered with Retail or rental application, then it will not show any details except phone number. Once the phone number is registered it will start showing(re-login).\ncc @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3776",
+      "time": "2025-04-08T12:45:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3776#issuecomment-2786321323",
+      "text": "Not required for now, please ignore. @SanketEminds \ncc @omkar-em "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3821",
+      "time": "2025-04-08T12:28:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3821",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#263",
+      "time": "2025-04-08T12:28:36.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/263",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-exp-guide-ui#262",
+      "time": "2025-04-08T12:28:21.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/262",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-exp-guide-ui#262",
+      "time": "2025-04-08T12:28:19.000Z",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/262",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3794",
+      "time": "2025-04-08T12:27:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3794",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 82624
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3820",
+      "time": "2025-04-08T12:22:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3820",
+      "text": "fix(deg-retail): fixed emi calc",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3820",
+      "time": "2025-04-08T12:22:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3820",
+      "text": "fix(deg-retail): fixed emi calc"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3818",
+      "time": "2025-04-08T12:08:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3818",
+      "text": "fix(unified-wallet): fix scan qr issue",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3818",
+      "time": "2025-04-08T12:08:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3818",
+      "text": "fix(unified-wallet): fix scan qr issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3817",
+      "time": "2025-04-08T11:16:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3817",
+      "text": "fix(open-spark): emi calc issue",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3817",
+      "time": "2025-04-08T11:16:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3817",
+      "text": "fix(open-spark): emi calc issue"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-08T10:09:01.000Z",
+      "title": "beckn/beckn-exp-guide-ui#261",
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/261#pullrequestreview-2749423982",
+      "text": "fixed routing issue in ec and remove local storage and remove pcm app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3778",
+      "time": "2025-04-08T10:02:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3778#issuecomment-2785906713",
+      "text": "Please get confirmation and UI done from the UI/UX team. and let me know @SanketEminds \ncc @omkar-em "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3814",
+      "time": "2025-04-08T10:01:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3814",
+      "text": "Fix/issue 3777",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3814",
+      "time": "2025-04-08T10:01:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3814",
+      "text": "Fix/issue 3777"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-08T08:23:35.000Z",
+      "title": "beckn/beckn-ui-workspace#3812",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3812#pullrequestreview-2749113521",
+      "text": "fix(deg-retail): fixes deg bug"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3782",
+      "time": "2025-04-08T08:21:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3782#issuecomment-2785631583",
+      "text": "@SanketEminds please test it again."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3720",
+      "time": "2025-04-08T08:17:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3720#issuecomment-2785620318",
+      "text": "@SanketEminds \nThe filter option will be disabled. As discussed already with @emmayank. \ncc @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3723",
+      "time": "2025-04-08T08:08:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3723#issuecomment-2785598060",
+      "text": "This is the expected behaviour, as discussed this with @emindsajay and @emmayank . Once the battery with XYZ name is published and again if user tries to publish same battery \"XYZ\" so it will not publish until previous battery with name \"XYZ\" expires."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3811",
+      "time": "2025-04-08T08:04:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3811",
+      "text": "fix(open-spark): modife=ied code to fix calcution of emi",
+      "turnaround_time": 14
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3811",
+      "time": "2025-04-08T08:04:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3811",
+      "text": "fix(open-spark): modife=ied code to fix calcution of emi"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3805",
+      "time": "2025-04-08T05:28:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3805",
+      "text": "fix(deg): modified code to fix login issue",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3805",
+      "time": "2025-04-08T05:28:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3805",
+      "text": "fix(deg): modified code to fix login issue"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3797",
@@ -5063,7 +5260,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 83,
+      "stale_for": 0,
       "labels": []
     }
   ],

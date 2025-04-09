@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-04-08T03:54:36.000Z",
+  "last_updated": "2025-04-08T07:04:07.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-bap-user-strapi#11",
+      "time": "2025-04-08T07:04:07.000Z",
+      "link": "https://github.com/beckn/beckn-bap-user-strapi/pull/11",
+      "text": "Implemented reset-account api for all the domains"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3728",
+      "time": "2025-04-08T04:57:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3728#issuecomment-2785223834",
+      "text": "### Date: April 07, 2025  \n\n#### Current Status:  \n- Collected all incorrect data entries by running specific queries across databases.  \n- Deleted the invalid entries from the `order` table in Strapi for BAP, BPP, and Common Strapi instances.  \n\n#### Next Step:  \n- Verify data consistency across all environments and monitor for any residual issues.  \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3662",
+      "time": "2025-04-08T04:53:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3662#issuecomment-2785219574",
+      "text": "PR: https://github.com/beckn/strapi-plugins/pull/261"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#261",
+      "time": "2025-04-08T04:51:37.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/261",
+      "text": "Fixed issue related to start trade api",
+      "turnaround_time": 47
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#261",
+      "time": "2025-04-08T04:50:51.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/261",
+      "text": "Fixed issue related to start trade api"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/strapi-plugins#260",
@@ -1404,7 +1440,7 @@
     {
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
       "title": "Added apis and scripts to cleanup existing data for dynamic price",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {

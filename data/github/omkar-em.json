@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-07T11:38:55.000Z",
+  "last_updated": "2025-04-08T05:56:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3775",
+      "time": "2025-04-08T05:56:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3775#issuecomment-2785310619",
+      "text": "Based on previous comment closing this ticket."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3775",
+      "time": "2025-04-08T05:56:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3775",
+      "text": "DEG-\"I Agree to the Terms and Services\" Section – Alignment and Clickable Area Issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#284",
+      "time": "2025-04-08T05:03:23.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/284#issuecomment-2785231383",
+      "text": "Facing issue with setup of docker to continue this activity."
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3787",

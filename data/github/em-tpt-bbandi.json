@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-01-03T08:39:49Z",
+  "last_updated": "2025-04-08T09:11:50.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#334",
+      "time": "2025-04-08T09:11:50.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/334#issuecomment-2785767209",
+      "text": "Created and used a new docker-compose file to redeploy the production Registry with registry:dev image\n\n<img width=\"562\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e38bc7f3-f47a-4546-9690-2c7a8b95f41b\" />\n\n<img width=\"1326\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/06db9cbe-1cd1-4d4c-a57e-40bae9b9028e\" />\n\n<img width=\"1348\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/54b011c7-f985-4988-9195-99ca46be911c\" />\n\nRedirect Nginx to point to the new Registry instance"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#334",
+      "time": "2025-04-08T09:07:46.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/334#issuecomment-2785756193",
+      "text": "Deployed DEG applications in dev and prod environments in AWS Amplify and  Set up DNS routing for applications under becknprotocol.io\n\n<img width=\"1350\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ad9508d6-42c7-420b-b7da-02d5ae6fc881\" />\n\n<img width=\"1345\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/12297845-6c06-47a0-ad6e-4ee9af998c77\" />\n\n<img width=\"1348\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/07ee4515-5c26-44f2-8b48-f678ba681602\" />\n\n\nDeployed the following DEG Dev applications in AWS Amplify:\n\ndeg-retail-dev → https://deg-retail-dev.becknprotocol.io/\n\n<img width=\"1348\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/74e79475-ad0e-4f78-ada8-21f5fca2ac7f\" />\n\n<img width=\"1326\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/194805f6-1f8d-4d3f-a666-e38d782a3b93\" />\n\n\ndeg-rental-dev → https://deg-rental-dev.becknprotocol.io/\n\n<img width=\"1341\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f074821e-a3d4-4d50-a1c3-6d0cc2d17e75\" />\n\n<img width=\"1345\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ca637126-abdc-4eb5-bfa3-ef170648f8bb\" />\n\n\ndeg-wallet-dev → https://deg-wallet-dev.becknprotocol.io/\n\n<img width=\"1351\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/9b9605a5-fa85-41f1-8c5a-3e95bbd5caf2\" />\n\n<img width=\"1350\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/01e7731c-28e6-468a-b17b-f5e47452fb4d\" />\n\n\n\ndeg-finance-dev → https://deg-finance-dev.becknprotocol.io/\n\n<img width=\"1346\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/0da4090e-98ab-46f1-9ff0-5a4d7946ec09\" />\n\n<img width=\"1344\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e783866e-4690-4fb0-a260-0296f1143fb8\" />"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/protocol-server#55",

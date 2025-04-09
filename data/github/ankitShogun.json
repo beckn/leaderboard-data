@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-02T11:07:51.000Z",
+  "last_updated": "2025-04-08T04:45:29.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#333",
+      "time": "2025-04-08T04:45:29.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/333",
+      "text": "Completing the RAG schema doc"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/missions#277",
@@ -1908,19 +1915,19 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/261",
       "title": "Merge conflicts check pr",
-      "stale_for": 13,
+      "stale_for": 18,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/258",
       "title": "Open network sdk testing pr",
-      "stale_for": 14,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 106,
+      "stale_for": 111,
       "labels": []
     }
   ],

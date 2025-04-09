@@ -1,6 +1,63 @@
 {
-  "last_updated": "2025-04-07T08:09:52.000Z",
+  "last_updated": "2025-04-08T08:23:40.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3812",
+      "time": "2025-04-08T08:23:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3812",
+      "text": "fix(deg-retail): fixes deg bug",
+      "turnaround_time": 852
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3810",
+      "time": "2025-04-08T08:10:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3810#issuecomment-2785602562",
+      "text": "PR For above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3812\nCC:- @SanketEminds @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3792",
+      "time": "2025-04-08T08:10:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3792#issuecomment-2785602097",
+      "text": "PR For above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3812\nCC:- @SanketEminds @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3775",
+      "time": "2025-04-08T08:10:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3775#issuecomment-2785601723",
+      "text": "PR For above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3812\nCC:- @SanketEminds @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3774",
+      "time": "2025-04-08T08:10:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3774#issuecomment-2785601194",
+      "text": "\nPR For above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3812\nCC:- @SanketEminds @omkar-em "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3812",
+      "time": "2025-04-08T08:09:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3812",
+      "text": "fix(deg-retail): fixes deg bug"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3775",
+      "time": "2025-04-08T05:55:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3775#issuecomment-2785308503",
+      "text": "it was already discussed with @viraj89 , that app name should not be part of I agree to the Terms and Services\nCC:- @omkar-em @aniketceminds @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3684",
+      "time": "2025-04-08T05:29:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3684#issuecomment-2785264235",
+      "text": "had connected with @rahul-eminds , and as per discussion, there is no provision in strapi to add multiple search keyword, because of this search api is failing "
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3676",
