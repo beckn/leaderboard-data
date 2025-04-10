@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-08T04:34:42.000Z",
+  "last_updated": "2025-04-09T06:04:56.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3815",
+      "time": "2025-04-09T06:04:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3815#issuecomment-2788369938",
+      "text": "@SanketEminds Kindly close the ticket if the issue has been resolved."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3815",
+      "time": "2025-04-09T06:02:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3815#issuecomment-2788366329",
+      "text": "I checked the request body — the front end needs to send the epoch time in seconds."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#332",
@@ -750,7 +764,7 @@
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 443,
+      "stale_for": 444,
       "labels": []
     }
   ],

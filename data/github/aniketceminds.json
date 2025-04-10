@@ -1,6 +1,57 @@
 {
-  "last_updated": "2025-04-08T13:58:10.000Z",
+  "last_updated": "2025-04-09T10:54:08.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3829",
+      "time": "2025-04-09T10:54:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3829",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3829",
+      "time": "2025-04-09T10:54:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3829",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-09T09:51:32.000Z",
+      "title": "beckn/beckn-ui-workspace#3828",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3828#pullrequestreview-2752868351",
+      "text": "fix(ENERGY): bugs fixed on all energy apps"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3707",
+      "time": "2025-04-09T09:30:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3707#issuecomment-2788999266",
+      "text": "@omkar-em its not failing, it is validating the battery is already rented out.\nPlease test it again.\ncc @SanketEminds "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3827",
+      "time": "2025-04-09T08:01:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3827",
+      "text": "fix(unified-wallet): modified code in tranction page to add filter",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3827",
+      "time": "2025-04-09T08:01:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3827",
+      "text": "fix(unified-wallet): modified code in tranction page to add filter"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3724",
+      "time": "2025-04-09T08:00:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3724#issuecomment-2788704343",
+      "text": "<img width=\"1065\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a37357aa-c59a-4092-b624-9829e6d3404c\" />"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3726",
@@ -5248,13 +5299,13 @@
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/263",
       "title": "Staging 1.1.0",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": []
     },
     {

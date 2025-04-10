@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-08T05:56:29.000Z",
+  "last_updated": "2025-04-09T05:26:58.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3825",
+      "time": "2025-04-09T05:26:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3825",
+      "text": "LeaderBoard - Date filter not working in leaderboard discussions tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3482",
+      "time": "2025-04-09T03:56:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3482#issuecomment-2788215890",
+      "text": "@viraj89  can you confirm expected behavior?"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3775",

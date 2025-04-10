@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-04-08T12:20:07.000Z",
+  "last_updated": "2025-04-09T09:35:00.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3707",
+      "time": "2025-04-09T09:35:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3707",
+      "text": "Solaris - rent-catalogue API is failing while providing battery for rent"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3707",
+      "time": "2025-04-09T09:34:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3707#issuecomment-2789014584",
+      "text": "Tested it on dev and staging and its working fine, closing this ticket.\ncc @omkar-em \n![Image](https://github.com/user-attachments/assets/1c96cce5-1226-414d-a785-4f46425a3c86)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3721",
+      "time": "2025-04-09T07:31:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3721#issuecomment-2788633646",
+      "text": "@kundanEminds  PFA,\nAvailability text is overlaps with date, Please fix it. \ncc @omkar-em \n\n![Image](https://github.com/user-attachments/assets/40982530-a244-4f0e-aeac-d99074fa637f)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3824",
+      "time": "2025-04-09T05:09:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3824",
+      "text": "Ec Apps- Profile API is failing in all EC apps"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3799",
+      "time": "2025-04-09T05:04:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3799#issuecomment-2788290042",
+      "text": "We have completed end-to-end testing of the DEG application in both Development and Production environments. Below is the summary:\n\nThe application has been thoroughly tested.\n\nIdentified bugs have been listed and shared.\n#3773 #3776 #3777 #3784 #3804 #3819 \n\nAll reported issues have been fixed and verified in dev environment,\nWaiting for the  deployment on production.\n\n\n@omkar-em "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3823",
+      "time": "2025-04-08T16:51:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3823",
+      "text": "Ec Apps-Search Fails with Gateway Timeout Error in All EC Apps Description"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3819",

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-03T10:02:57.000Z",
+  "last_updated": "2025-04-09T05:54:20.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#454",
+      "time": "2025-04-09T05:54:20.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/454",
+      "text": "changed adapter test case"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-onix#446",
@@ -55,21 +62,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-onix/pull/446",
-      "title": "changes for error in request flow",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-onix/pull/444",
-      "title": "change for the context keys",
+      "link": "https://github.com/beckn/beckn-onix/pull/454",
+      "title": "changed adapter test case",
       "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/424",
       "title": "Feature/core adapter",
-      "stale_for": 14,
+      "stale_for": 19,
       "labels": []
     }
   ],

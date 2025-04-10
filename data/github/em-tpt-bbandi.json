@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-08T09:11:50.000Z",
+  "last_updated": "2025-04-09T05:06:45.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3823",
+      "time": "2025-04-09T05:06:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3823#issuecomment-2788293121",
+      "text": "its resolved - https://bap-ps-client-prod.becknprotocol.io/ instance failed 2/2 check so restarted  the server and applications."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3822",
+      "time": "2025-04-09T05:06:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3822#issuecomment-2788292434",
+      "text": "Deployed below apps to prod in AWS amplify and done DNS routing.\nhttps://deg-retail.becknprotocol.io/\nhttps://deg-rental.becknprotocol.io/\nhttps://deg-wallet.becknprotocol.io/\nhttps://deg-finance.becknprotocol.io/\nConfigured webhooks for avoiding all amplify apps build start.\nDone DNS configuration for all the above apps.\n\n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#334",
