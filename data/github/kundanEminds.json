@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-04-09T09:51:39.000Z",
+  "last_updated": "2025-04-11T05:56:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3787",
+      "time": "2025-04-11T05:56:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3787#issuecomment-2795904492",
+      "text": "I had changed the app for homepage to search page in retail application but talked to @aniketceminds , he told me to give it a low priority and I will do it in the next iteration\n@PritiEM @emmayank \n\nplease duplicate  create ticket for same @PritiEM "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3839",
+      "time": "2025-04-11T05:33:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3839",
+      "text": "fix(DEG-EC): remove extra spacing from layout",
+      "turnaround_time": 81732
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3828",
@@ -4749,12 +4764,6 @@
       "labels": []
     },
     {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3839",
-      "title": "fix(DEG-EC): remove extra spacing from layout",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/264",
       "title": "created case sensetive routing",
       "stale_for": 1,
@@ -4769,25 +4778,25 @@
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/242",
       "title": "added iframe for open spark",
-      "stale_for": 38,
+      "stale_for": 39,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/7",
       "title": "css changes for policy details",
-      "stale_for": 763,
+      "stale_for": 764,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/6",
       "title": "css fixed for geofencing and create policy form",
-      "stale_for": 763,
+      "stale_for": 764,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/5",
       "title": "policy details page",
-      "stale_for": 763,
+      "stale_for": 764,
       "labels": []
     }
   ],

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-09T05:30:03.000Z",
+  "last_updated": "2025-04-11T05:20:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3619",
+      "time": "2025-04-11T05:20:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3619#issuecomment-2795861187",
+      "text": "Date 11th April\n\nCurrent Status:\n\n1. In order to allow partial deliver of items from an order. we do not need any change in the specification.\n2. Retail BPP can send the package count, package weights of the partial items, retail order id to which these items belong the logistics BPP.\n3. logistics BPP creates a logistic order ID.\n4. overall a logistics order would have 3 major details\n    - retail order id\n    - logistics order id\n    - package details\n5. The retail BPP can create as many logistics order as they want using the above approach."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-specifications#477",
+      "time": "2025-04-11T04:55:52.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/477#issuecomment-2795834044",
+      "text": "Date: 10th April, 2025\n\nCurrent Status:\n\n1. Added missing details in the API documentation, added request, response details, added my doubts as comments in the document.\n2. Created a new simple document to summarise the flow of subscribe and on_subscribe. removed the technical details that were in the previous document.\n\nNext steps.\n\n1. Get it reviewed from Venky."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3788",
@@ -2483,7 +2497,7 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/19",
       "title": "L2 v3.1",
-      "stale_for": 286,
+      "stale_for": 287,
       "labels": []
     },
     {
@@ -2507,7 +2521,7 @@
     {
       "link": "https://github.com/beckn/logistics/pull/12",
       "title": "L2 config",
-      "stale_for": 289,
+      "stale_for": 290,
       "labels": []
     },
     {
@@ -2519,7 +2533,7 @@
     {
       "link": "https://github.com/beckn/PULSE-Specification/pull/25",
       "title": "Validating PULSE Specification against the Beckn Core specification v 1.1.0, validating examples against the updated PULSE specification",
-      "stale_for": 359,
+      "stale_for": 360,
       "labels": []
     },
     {
@@ -2531,7 +2545,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/401",
       "title": "Adding a pre-commit hook in Beckn core specification repository",
-      "stale_for": 194,
+      "stale_for": 195,
       "labels": []
     },
     {

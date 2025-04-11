@@ -1,6 +1,57 @@
 {
-  "last_updated": "2025-04-09T10:54:08.000Z",
+  "last_updated": "2025-04-11T06:22:21.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3852",
+      "time": "2025-04-11T06:22:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3852",
+      "text": "feat(deg-ev-charging): added configuration, setup and the UI designs …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3821",
+      "time": "2025-04-11T05:54:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3821",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 235555
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3846",
+      "time": "2025-04-11T05:50:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3846",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 944
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3831",
+      "time": "2025-04-11T05:42:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3831#issuecomment-2795887364",
+      "text": "Its working please check once again. @omkar-em \ncc @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3802",
+      "time": "2025-04-11T05:39:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3802#issuecomment-2795882949",
+      "text": "It's working please check once again. @SanketEminds \ncc @omkar-em "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3846",
+      "time": "2025-04-11T05:35:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3846",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-11T05:33:52.000Z",
+      "title": "beckn/beckn-ui-workspace#3839",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3839#pullrequestreview-2759185315",
+      "text": "fix(DEG-EC): remove extra spacing from layout"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3829",
@@ -5291,15 +5342,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3836",
-      "title": "Hotfix/main 1.1.0",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3852",
+      "title": "feat(deg-ev-charging): added configuration, setup and the UI designs …",
       "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3821",
-      "title": "Staging 1.1.0",
-      "stale_for": 1,
       "labels": []
     },
     {

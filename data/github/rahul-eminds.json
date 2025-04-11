@@ -1430,7 +1430,7 @@
     {
       "link": "https://github.com/beckn/strapi-plugins/pull/260",
       "title": "Added reset account feature for a user based on category",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
@@ -1460,7 +1460,7 @@
     {
       "link": "https://github.com/beckn/leaderboard/pull/2",
       "title": "GitHub scrapper",
-      "stale_for": 267,
+      "stale_for": 268,
       "labels": []
     },
     {

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-09T09:35:00.000Z",
+  "last_updated": "2025-04-11T05:00:45.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3845",
+      "time": "2025-04-11T05:00:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3845",
+      "text": "Test Reset Account Functionality using Postman"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#3707",

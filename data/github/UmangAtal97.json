@@ -1,6 +1,62 @@
 {
-  "last_updated": "2025-04-07T10:29:12.000Z",
+  "last_updated": "2025-04-11T05:22:45.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3641",
+      "time": "2025-04-11T05:22:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3641",
+      "text": "Reference Apps - UX Refinement: Add Missing Screens and Features Based on Endpoint Tracker"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3640",
+      "time": "2025-04-11T05:22:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3640",
+      "text": "Reference Apps - UX Refinement: Breakup Pricing on Checkout & Account Reset Feature"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3641",
+      "time": "2025-04-11T05:09:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3641#issuecomment-2795849342",
+      "text": "This task has been again deprioritized due to feedbacks on DEG Demo App flow. This will be picked up in next iteration as soon as all the feedbacks are accommodated and confirmed by Team \n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3641",
+      "time": "2025-04-11T05:09:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3641#issuecomment-2795848776",
+      "text": "Yesterday worked on Retail & Mobility flow for Himalaya, city of lights and smart gambia"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3641",
+      "time": "2025-04-11T05:08:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3641#issuecomment-2795848342",
+      "text": "This task has been deprioritized due to New DEG BAP APP design TASK - for \"EV Charging APP\""
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3640",
+      "time": "2025-04-11T05:07:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3640#issuecomment-2795847247",
+      "text": "This task has been again deprioritized due to feedbacks on DEG Demo App flow. This will be picked up as soon as all the feedbacks are accommodated and confirmed by Team\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3640",
+      "time": "2025-04-11T05:06:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3640#issuecomment-2795845254",
+      "text": "Yesterday worked on Retail & Mobility flow for Himalaya, city of lights and smart gambia"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3640",
+      "time": "2025-04-11T05:04:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3640#issuecomment-2795843963",
+      "text": "This task has been deprioritized due to New DEG BAP APP design TASK - for \"EV Charging APP\"  "
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#3779",
