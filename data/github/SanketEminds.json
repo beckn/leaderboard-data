@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-04-11T05:00:45.000Z",
+  "last_updated": "2025-04-11T08:56:05.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3819",
+      "time": "2025-04-11T08:56:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3819#issuecomment-2796276207",
+      "text": "This is fixed and working fine, Closing this\ncc @omkar-em @PritiEM \n\n![Image](https://github.com/user-attachments/assets/dcbf7da7-bccd-4544-9c4f-fc78ad442c39)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3819",
+      "time": "2025-04-11T08:56:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3819",
+      "text": "DEG-Incorrect EMI Calculation When Adding Multiple Batteries from Different Providers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3859",
+      "time": "2025-04-11T08:51:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3859",
+      "text": "DEG-\"Connect Wallet\" button misaligned on Retail App."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3857",
+      "time": "2025-04-11T08:47:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3857",
+      "text": "DEG App-Incorrect price display for multiple battery quantities in order history and wallet."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3784",
+      "time": "2025-04-11T08:13:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3784#issuecomment-2796174960",
+      "text": "Sign In button is Disabled now. Closing this\nCc @omkar-em  @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3784",
+      "time": "2025-04-11T08:13:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3784",
+      "text": "DEG - Wallet - User is able to sign in without any number"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3773",
+      "time": "2025-04-11T08:11:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3773",
+      "text": "DEG-Vault app-Blank Name and Address Displayed"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3776",
+      "time": "2025-04-11T08:11:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3776",
+      "text": "DEG-Loan Tenure Dropdown Showing Only 6 Months – Remove Dropdown If Single Option"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3804",
+      "time": "2025-04-11T08:10:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3804#issuecomment-2796167541",
+      "text": "Tested in prod and Sign In button is disabled now, unable to proceed without number in all four apps.\ncc @omkar-em  @PritiEM \nClosing this."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3804",
+      "time": "2025-04-11T08:10:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3804",
+      "text": "DEG Apps-Sign In Button Enabled Without Entering Mobile Number"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3845",

@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-04-11T06:49:26.000Z",
+  "last_updated": "2025-04-11T08:51:17.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3857",
+      "time": "2025-04-11T08:51:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3857#issuecomment-2796265219",
+      "text": "<img width=\"462\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b06a475c-74ce-49b0-9176-f40c25ea0d80\" />"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3856",
+      "time": "2025-04-11T08:36:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3856",
+      "text": "fix(UNIFIED-WALLET): fixed price breakup issue according quantity in …"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3833",
+      "time": "2025-04-11T08:02:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3833#issuecomment-2796151538",
+      "text": "<img width=\"1385\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/46a73787-0055-46ae-bebc-347c86c1d956\" />"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3854",
+      "time": "2025-04-11T07:21:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3854",
+      "text": "fix(P2P-OPEN-SPARK): added alert message modal for sell preference"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3841",
+      "time": "2025-04-11T07:18:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3841#issuecomment-2796061865",
+      "text": "<img width=\"510\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fa12e7a7-e784-42ee-a09a-a894de5b93b4\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3842",
+      "time": "2025-04-11T06:50:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3842#issuecomment-2796008894",
+      "text": "<img width=\"457\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d1d43c53-1be3-46f4-9ded-b61db5e285dc\" />"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-ui-workspace#3853",
@@ -4765,6 +4807,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3856",
+      "title": "fix(UNIFIED-WALLET): fixed price breakup issue according quantity in …",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3854",
+      "title": "fix(P2P-OPEN-SPARK): added alert message modal for sell preference",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3853",
       "title": "fix(P2P-ADMIN): fixed p2p admin dashboard all btns are disble when i …",
       "stale_for": 0,
@@ -4779,13 +4833,13 @@
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/264",
       "title": "created case sensetive routing",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3710",
       "title": "fix(STATE-FOREST): fixed product card layout and open spark product c…",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {

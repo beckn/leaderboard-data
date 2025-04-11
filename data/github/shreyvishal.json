@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-07T06:32:47.000Z",
+  "last_updated": "2025-04-11T08:49:31.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3858",
+      "time": "2025-04-11T08:49:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3858",
+      "text": "Enable QA to Test DeDI-based Registry by Setting Up All 4 Protocol Servers (BAP, BPP Client, BPP Network)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3855",
+      "time": "2025-04-11T08:25:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3855",
+      "text": "Enhance Strapi Import Script & Import DEG: EV Catalogs"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3713",
@@ -2639,25 +2653,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 54,
+      "stale_for": 57,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 294,
+      "stale_for": 296,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 168,
+      "stale_for": 170,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 411,
+      "stale_for": 414,
       "labels": []
     }
   ],

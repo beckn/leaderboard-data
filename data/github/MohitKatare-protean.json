@@ -80,13 +80,13 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/454",
       "title": "changed adapter test case",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/424",
       "title": "Feature/core adapter",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": []
     }
   ],

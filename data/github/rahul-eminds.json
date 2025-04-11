@@ -1436,7 +1436,7 @@
     {
       "link": "https://github.com/beckn/strapi-plugins/pull/258",
       "title": "Feat/dynamic price",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
@@ -1455,12 +1455,6 @@
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
       "stale_for": 170,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/leaderboard/pull/2",
-      "title": "GitHub scrapper",
-      "stale_for": 268,
       "labels": []
     },
     {
