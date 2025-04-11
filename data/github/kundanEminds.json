@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-11T05:56:20.000Z",
+  "last_updated": "2025-04-11T06:49:26.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3853",
+      "time": "2025-04-11T06:49:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3853",
+      "text": "fix(P2P-ADMIN): fixed p2p admin dashboard all btns are disble when i …"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3787",
@@ -4757,6 +4764,12 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3853",
+      "title": "fix(P2P-ADMIN): fixed p2p admin dashboard all btns are disble when i …",
+      "stale_for": 0,
+      "labels": []
+    },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3844",
       "title": "fix(DEG-EC): created deg ec responsiveness",
