@@ -1,6 +1,64 @@
 {
-  "last_updated": "2025-04-11T06:22:21.000Z",
+  "last_updated": "2025-04-11T17:29:17.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3867",
+      "time": "2025-04-11T17:29:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3867",
+      "text": "fix(deg-retail): emi chnges",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3867",
+      "time": "2025-04-11T17:29:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3867",
+      "text": "fix(deg-retail): emi chnges"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3865",
+      "time": "2025-04-11T13:03:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
+      "text": "fix: fixing of deleivery chrge calculation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-11T11:37:34.000Z",
+      "title": "beckn/beckn-ui-workspace#3853",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3853#pullrequestreview-2760071268",
+      "text": "fix(P2P-ADMIN): fixed p2p admin dashboard all btns are disble when i …"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-11T11:37:13.000Z",
+      "title": "beckn/beckn-ui-workspace#3854",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3854#pullrequestreview-2760070500",
+      "text": "fix(P2P-OPEN-SPARK): added alert message modal for sell preference"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-11T11:36:39.000Z",
+      "title": "beckn/beckn-ui-workspace#3856",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3856#pullrequestreview-2760069385",
+      "text": "fix(UNIFIED-WALLET): fixed price breakup issue according quantity in …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3864",
+      "time": "2025-04-11T11:36:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3864",
+      "text": "fix(deg-retail): changed vault to wallet while connecting wallet",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3864",
+      "time": "2025-04-11T11:36:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3864",
+      "text": "fix(deg-retail): changed vault to wallet while connecting wallet"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-ui-workspace#3852",
@@ -5342,6 +5400,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
+      "title": "fix: fixing of deleivery chrge calculation",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3852",
       "title": "feat(deg-ev-charging): added configuration, setup and the UI designs …",
       "stale_for": 0,
@@ -5350,13 +5414,13 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     }
   ],

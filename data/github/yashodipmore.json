@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-11T15:54:49.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/gtfs-to-beckn#1",
+      "time": "2025-04-11T15:54:49.000Z",
+      "link": "https://github.com/beckn/gtfs-to-beckn/issues/1#issuecomment-2797323380",
+      "text": "Hi @Ravi Prakash,\n\nI came across the issue titled “Need a User Interface for Managing GTFS files” under the Beckn project and I’m really interested in contributing to it.\n\nI’ve understood the problem and goals — designing a CMS-style UI that supports reading, updating, deleting, and validating GTFS data interactively. With experience in React.js and Node.js, I’m confident I can handle both frontend and backend aspects of this task.\n\nCould you please assign this issue to me? I’m excited to contribute meaningfully to the Beckn ecosystem."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

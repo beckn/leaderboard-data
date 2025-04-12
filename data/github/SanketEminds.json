@@ -1,6 +1,258 @@
 {
-  "last_updated": "2025-04-11T08:56:05.000Z",
+  "last_updated": "2025-04-11T19:33:57.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3845",
+      "time": "2025-04-11T19:33:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3845#issuecomment-2797862776",
+      "text": "Tested Reset Account Functionality using Postman for below apps -\nRetail,DSNP,Indutry4.0,Climate and Forest apps,ODR,OSC\nin dev env and history getting deleted.\ncc @omkar-em @rahul-eminds @PritiEM \n\n![Image](https://github.com/user-attachments/assets/468eca5b-cef2-4501-a6a2-2f8ed59caa5e)\n\n![Image](https://github.com/user-attachments/assets/07a26a96-ddcf-432f-a67b-50e3a535a5ae)\n\n![Image](https://github.com/user-attachments/assets/a457d0b0-eb8a-4f7c-b11a-03b8813e5c5a)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3868",
+      "time": "2025-04-11T19:08:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3868",
+      "text": "EC- 404 Page Not Found when clicking on DSEP card from Ex Center"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3833",
+      "time": "2025-04-11T13:40:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3833#issuecomment-2796951557",
+      "text": "@kundanEminds This is not fixed yet, Please fix this in all ec apps.\n@omkar-em @PritiEM \n![Image](https://github.com/user-attachments/assets/50adde9d-e646-4ff2-958b-3e8f3d6bbd25)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3721",
+      "time": "2025-04-11T13:37:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3721#issuecomment-2796943596",
+      "text": "Closing this.\n@omkar-em @PritiEM \n![Image](https://github.com/user-attachments/assets/e5ee9712-2d81-442e-9a16-3835e4812a14)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3721",
+      "time": "2025-04-11T13:37:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3721",
+      "text": "Solaris - Full date is missing on search result for battery rental"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3816",
+      "time": "2025-04-11T13:36:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3816#issuecomment-2796939973",
+      "text": "This is fixed\n![Image](https://github.com/user-attachments/assets/3abd6ea6-0117-4bbf-a2ad-34b0e6d26125)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3816",
+      "time": "2025-04-11T13:36:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3816",
+      "text": "EC -Energy App-Battery Text Appearing Twice on Billing and Shipping Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3678",
+      "time": "2025-04-11T13:32:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3678#issuecomment-2796930741",
+      "text": "PCM app is removed from EC.\n@omkar-em  @PritiEM \n![Image](https://github.com/user-attachments/assets/0d0dea43-04ec-49e1-b667-4623602290f6)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3678",
+      "time": "2025-04-11T13:32:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3678",
+      "text": "Ec Apps-Unable to Login in PCM"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3724",
+      "time": "2025-04-11T13:31:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3724#issuecomment-2796927426",
+      "text": "Closing this.\ncc @omkar-em  @PritiEM \n![Image](https://github.com/user-attachments/assets/72d75494-1cb8-43e2-94ad-88f51d01506b)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3724",
+      "time": "2025-04-11T13:31:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3724",
+      "text": "Vault - Transaction history - Filters for latest/last 7 days/custom are not available"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3782",
+      "time": "2025-04-11T13:29:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3782#issuecomment-2796922363",
+      "text": "This is fixed now,Closing this.\ncc @omkar-em  @PritiEM \n\n![Image](https://github.com/user-attachments/assets/d8312805-9c07-4dbf-bfa6-b0ba1669f058)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3782",
+      "time": "2025-04-11T13:29:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3782",
+      "text": "EC Energy App-DEG Application Flow/Catalogue Visible in Energy Apps"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3720",
+      "time": "2025-04-11T13:26:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3720#issuecomment-2796917235",
+      "text": "This is known issue.Closing this\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3720",
+      "time": "2025-04-11T13:26:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3720",
+      "text": "Solaris - Battery rental filter is disabled for search results"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3478",
+      "time": "2025-04-11T11:18:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3478#issuecomment-2796616247",
+      "text": "Working fine, Closing this.\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3478",
+      "time": "2025-04-11T11:18:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3478",
+      "text": "P2P Energy -Sell Energy - Empty Page Missing Text and Image"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3702",
+      "time": "2025-04-11T11:16:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3702#issuecomment-2796611506",
+      "text": "Working fine."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3702",
+      "time": "2025-04-11T11:16:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3702",
+      "text": "Ec Apps-City of Light App Redirecting to Retail Instead of Tourism After Checkout"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3662",
+      "time": "2025-04-11T11:16:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3662#issuecomment-2796609531",
+      "text": "Working fine closing this.\ncc @omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3662",
+      "time": "2025-04-11T11:16:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3662",
+      "text": "P2P Admin - Getting \"Demand Failed\" error when locking demands"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3824",
+      "time": "2025-04-11T11:13:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3824#issuecomment-2796603035",
+      "text": "This is fixed and working fine Closing this.\ncc @omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3824",
+      "time": "2025-04-11T11:13:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3824",
+      "text": "Ec Apps- Profile API is failing in all EC apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3863",
+      "time": "2025-04-11T11:06:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3863",
+      "text": "EC-Spark App-\"Available EMI Plans\" keeps loading and user is unable to proceed with payment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3862",
+      "time": "2025-04-11T10:46:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3862",
+      "text": "EC Spark App-: Search result is limited to 2 batteries and returns no result for keyword \"solar\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3861",
+      "time": "2025-04-11T10:36:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3861",
+      "text": "User details and history from DEG apps are incorrectly shown in Open Spark app when using the same mobile number"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3860",
+      "time": "2025-04-11T10:31:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3860",
+      "text": "EC LendEase App-App name displaying as \"Wallet\" instead of \"LendEase\"."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3799",
+      "time": "2025-04-11T09:58:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3799#issuecomment-2796433727",
+      "text": "All previously open issues have been thoroughly tested and verified in the production environment.\nProof of successful validation has been captured and attached.\n@omkar-em @PritiEM \n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3838",
+      "time": "2025-04-11T09:53:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3838",
+      "text": "DEG-UI layout issue on DEG app landing page"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3838",
+      "time": "2025-04-11T09:53:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3838#issuecomment-2796416778",
+      "text": "As discussed with @kundanEminds and @omkar-em ,\nthis is screen resolution issue, design is as per figma, So closing this\n@omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3785",
+      "time": "2025-04-11T09:52:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3785#issuecomment-2796411664",
+      "text": "\nWorking fine, Closing this.\ncc @omkar-em \n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3785",
+      "time": "2025-04-11T09:52:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3785",
+      "text": "DEG Applications - URL should be /retail, /rental, etc. instead of long URLs"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3815",
+      "time": "2025-04-11T09:50:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3815#issuecomment-2796406428",
+      "text": "This is fixed and working fine, Closing this ticket\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3815",
+      "time": "2025-04-11T09:50:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3815",
+      "text": "EC-Energy App-Unable to Purchase Rented Out Battery"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#2440",
+      "time": "2025-04-11T09:50:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2440#issuecomment-2796404002",
+      "text": "The newly created policy is visible in the Mobility app.Closing this ticket\n\n![Image](https://github.com/user-attachments/assets/209cb74d-4cfc-45e6-9341-cfac5a5ece79)\ncc @omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2440",
+      "time": "2025-04-11T09:50:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2440",
+      "text": "Created policies are not displaying in the Mobility app"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3819",

@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-04-11T08:27:51.000Z",
+  "last_updated": "2025-04-11T10:19:40.000Z",
   "activity": [
     {
       "type": "pr_reviewed",
-      "time": "2025-04-04T12:56:47.000Z",
-      "title": "beckn/beckn-onix#449",
-      "link": "https://github.com/beckn/beckn-onix/pull/449#pullrequestreview-2742895520",
-      "text": "Feat/manager test"
+      "time": "2025-04-09T13:29:04.000Z",
+      "title": "beckn/beckn-onix#454",
+      "link": "https://github.com/beckn/beckn-onix/pull/454#pullrequestreview-2753475572",
+      "text": "changed adapter test case"
     },
     {
       "type": "pr_reviewed",
@@ -17,10 +17,10 @@
     },
     {
       "type": "pr_reviewed",
-      "time": "2025-04-09T13:29:04.000Z",
-      "title": "beckn/beckn-onix#454",
-      "link": "https://github.com/beckn/beckn-onix/pull/454#pullrequestreview-2753475572",
-      "text": "changed adapter test case"
+      "time": "2025-04-04T12:56:47.000Z",
+      "title": "beckn/beckn-onix#449",
+      "link": "https://github.com/beckn/beckn-onix/pull/449#pullrequestreview-2742895520",
+      "text": "Feat/manager test"
     },
     {
       "type": "pr_reviewed",

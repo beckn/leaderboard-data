@@ -1,6 +1,118 @@
 {
-  "last_updated": "2025-04-09T04:49:58.000Z",
+  "last_updated": "2025-04-11T12:18:09.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3549",
+      "time": "2025-04-11T12:18:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3549",
+      "text": "LeaderBoard - Top Contributor -> \"Most # of EOD Updates\" is missing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3551",
+      "time": "2025-04-11T12:17:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3551",
+      "text": "LeaderBoard - Projects -> Projects section missing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#346",
+      "time": "2025-04-11T12:17:17.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/346",
+      "text": "Data Export Script for Strapi"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#329",
+      "time": "2025-04-11T12:17:03.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/329",
+      "text": "Tech Debt | README File Update Exercise Across Core Repositories"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#325",
+      "time": "2025-04-11T12:16:55.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/325",
+      "text": "Tech Debt | Branch Cleanup Exercise Across Core Repositories"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3661",
+      "time": "2025-04-11T12:16:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3661",
+      "text": "Reference Applications | Create Reset Account Endpoint"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3553",
+      "time": "2025-04-11T12:16:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3553#issuecomment-2796750174",
+      "text": "Code - https://github.com/beckn/leaderboard/commit/b3ac333896804a5b666984195dab1601ebe3884b"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3551",
+      "time": "2025-04-11T12:12:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3551#issuecomment-2796740659",
+      "text": "### Date: April 11, 2025  \n\n#### Current Status:  \n- Attempted to fetch GitHub Projects data using the project board ID.  \n- Faced permission issues with the auto-generated GitHub token in GitHub Actions.  \n- Tried using personal project data but was still unable to fetch project information.  \n- Cannot add the required token as a GitHub secret due to lack of permissions.  \n\n#### Next Step:  \n- A maintainer needs to add a GitHub token with the necessary permissions as a secret variable.  \n- Re-test the functionality once the token is available.  \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3549",
+      "time": "2025-04-11T12:05:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3549#issuecomment-2796725376",
+      "text": "### Date: April 11, 2025  \n\n#### Current Status:  \n- Faced a blocker related to Slack token and GitHub permissions.  \n- Required Slack token to be added as a secret in GitHub, but do not have maintainer access to do so.  \n- Attempted using a personal Slack token by hardcoding it in the GitHub Actions file, but Slack invalidated it since the repository is public.  \n\n#### Next Step:  \n- A maintainer needs to add the Slack token with the necessary permissions as a GitHub secret.  \n- Re-test the integration once the token is added.  \n\n@viraj89 @emmayank \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3825",
+      "time": "2025-04-11T12:00:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3825#issuecomment-2796710870",
+      "text": "### Date: April 3, 2025  \n\n#### Current Status:  \n- Fixed the issue related to the date filter.  \n- Made the necessary code changes.  \n- Tested the fix on both local and dev environments.  \n\n#### Next Step:  \n- Monitor on dev and proceed with testing edge cases, if required.  \n\nCode - https://github.com/beckn/leaderboard/commit/ab19165609038afdd2b8001c11b8dfdf9f596c21"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#346",
+      "time": "2025-04-11T11:58:30.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/346#issuecomment-2796707446",
+      "text": "### Date: April 2, 2025  \n\n#### Current Status:  \n- Created Node.js scripts to fetch all Strapi data using REST API.  \n- Faced issues with data population in the `provider` table while using REST API.  \n- Tried multiple solutions to resolve the population issue but was unsuccessful.  \n- Moved the scripts inside the Strapi application and used the Entity Service API to successfully fetch the required data.  \n\n#### Next Step:  \n- Test and validate the fetched data for accuracy and completeness.  \n\n\n[allProviders.json](https://github.com/user-attachments/files/19705601/allProviders.json)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#329",
+      "time": "2025-04-11T11:54:58.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/329#issuecomment-2796700324",
+      "text": "### Date: April 11, 2025  \n\n#### Current Status:  \n- Updated the `README` file in the `main` branch with all relevant data and release information.  \n\n#### Next Step:  \n- Review the updated documentation and ensure it's clear and accurate for all stakeholders.  \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#325",
+      "time": "2025-04-11T11:53:46.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/325#issuecomment-2796697878",
+      "text": "### Date: April 11, 2025  \n\n#### Current Status:  \n- Cleaned all unwanted branches.  \n- Merged the code into the `main` branch.  \n- Deployed the `main` branch to AWS Amplify and updated the build scripts.  \n- Removed all open pull requests.  \n\n#### Next Step:  \n- Monitor the main branch deployment and ensure everything is working as expected.  "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3552",
+      "time": "2025-04-11T11:49:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3552#issuecomment-2796690643",
+      "text": "### Date: March 30, 2025  \n\n#### Current Status:  \n- Identified a caching issue in the Next.js application.  \n- Made necessary changes in the AWS Amplify build scripts.  \n- Updated the application code to ensure proper cache invalidation.  \n\n#### Next Step:  \n- Monitor the deployment to verify cache is cleared correctly.  \n- Ensure that the latest changes are reflected across all environments.  \n\nCode changes: https://github.com/beckn/leaderboard/commit/7981deb2e42884fc4e37eb8f3ed37c50b45df231"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3550",
+      "time": "2025-04-11T11:44:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3550#issuecomment-2796678548",
+      "text": "Added Flat Repository Explorer tab in the footer\n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d274b2c6-8712-444b-a419-a55fbafe8ba9\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3554",
+      "time": "2025-04-11T11:42:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3554#issuecomment-2796671893",
+      "text": "Fixed the issue. Now discussions are being fetched and all discussions drop down are also shown"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-bap-user-strapi#11",
@@ -1442,25 +1554,25 @@
     {
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
       "title": "Added apis and scripts to cleanup existing data for dynamic price",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 177,
+      "stale_for": 178,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 170,
+      "stale_for": 171,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 170,
+      "stale_for": 171,
       "labels": []
     }
   ],

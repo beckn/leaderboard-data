@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-04-11T08:51:17.000Z",
+  "last_updated": "2025-04-11T11:37:39.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3853",
+      "time": "2025-04-11T11:37:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3853",
+      "text": "fix(P2P-ADMIN): fixed p2p admin dashboard all btns are disble when i …",
+      "turnaround_time": 17293
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3854",
+      "time": "2025-04-11T11:37:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3854",
+      "text": "fix(P2P-OPEN-SPARK): added alert message modal for sell preference",
+      "turnaround_time": 15335
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3856",
+      "time": "2025-04-11T11:36:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3856",
+      "text": "fix(UNIFIED-WALLET): fixed price breakup issue according quantity in …",
+      "turnaround_time": 10827
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3857",
@@ -4807,27 +4831,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3856",
-      "title": "fix(UNIFIED-WALLET): fixed price breakup issue according quantity in …",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3854",
-      "title": "fix(P2P-OPEN-SPARK): added alert message modal for sell preference",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3853",
-      "title": "fix(P2P-ADMIN): fixed p2p admin dashboard all btns are disble when i …",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3844",
       "title": "fix(DEG-EC): created deg ec responsiveness",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {

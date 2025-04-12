@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-04-08T04:59:32.000Z",
+  "last_updated": "2025-04-11T09:51:38.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#449",
+      "time": "2025-04-11T09:51:38.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/449",
+      "text": "Feat/manager test",
+      "turnaround_time": 628650
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#452",
@@ -107,13 +115,6 @@
       "text": "Feat: Added plugin manager, publisher plugin"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-onix/pull/449",
-      "title": "Feat/manager test",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
