@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-11T19:33:57.000Z",
+  "last_updated": "2025-04-12T17:57:14.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3874",
+      "time": "2025-04-12T17:57:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3874",
+      "text": "Deg-$ Sign Overlapping with Calendar While Selecting Date in Provide Rental Service"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3870",
+      "time": "2025-04-12T11:44:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3870",
+      "text": "DEG- Quantity Mismatch in Order History and Wallet App (Rental App)"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3845",

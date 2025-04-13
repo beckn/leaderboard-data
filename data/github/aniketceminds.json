@@ -1,6 +1,66 @@
 {
-  "last_updated": "2025-04-11T17:29:17.000Z",
+  "last_updated": "2025-04-12T11:57:06.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3873",
+      "time": "2025-04-12T11:57:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3873",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3873",
+      "time": "2025-04-12T11:57:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3873",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3872",
+      "time": "2025-04-12T11:56:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3872",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 18
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3872",
+      "time": "2025-04-12T11:56:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3872",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3871",
+      "time": "2025-04-12T11:54:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3871",
+      "text": "fix(deg-retail): modifeid code to fix confirma api paylod",
+      "turnaround_time": 26
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3871",
+      "time": "2025-04-12T11:54:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3871",
+      "text": "fix(deg-retail): modifeid code to fix confirma api paylod"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3869",
+      "time": "2025-04-12T08:41:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3869",
+      "text": "fix(deg-retail): modified code to fix the calcultion and show breakup…",
+      "turnaround_time": 18
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3869",
+      "time": "2025-04-12T08:41:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3869",
+      "text": "fix(deg-retail): modified code to fix the calcultion and show breakup…"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3867",
@@ -5402,25 +5462,25 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
       "title": "fix: fixing of deleivery chrge calculation",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3852",
       "title": "feat(deg-ev-charging): added configuration, setup and the UI designs …",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     }
   ],

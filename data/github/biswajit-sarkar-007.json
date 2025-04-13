@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-12T04:24:10.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/gtfs-to-beckn#1",
+      "time": "2025-04-12T04:24:10.000Z",
+      "link": "https://github.com/beckn/gtfs-to-beckn/issues/1#issuecomment-2798454741",
+      "text": "@ravi-prakash-v, I find this issue quite It involves creating a user interface for managing GTFS files that allows reading, updating, and deleting GTFS file(s) with validations across other linked files. I would like to work on this issue as it would be a valuable experience and an opportunity to contribute to the Beckn ecosystem.\n\n\n\n### this is the overview how i want to processed : ( *i will make this ui as beautiful as possible )\n\n![Image](https://github.com/user-attachments/assets/13d96a45-e0bf-4d5c-a4c8-3d862d2f993f)\n\n\n\n### here are the explanation of image: \n\n\n1.Heading section\n\n2.GTFS File Management Section: \n\n- 👁️ **View tables** – Open and see GTFS data like a spreadsheet\n- ✏️ **Edit data** – Click and change any cell in a table\n- 🗑️ **Delete rows** – Remove a row (like deleting a bus route), and automatically update related rows in other files\n- 📄 **Upload files** – Upload new or updated GTFS `.txt` files\n\n3.Table Section (Example: routes.txt):\n\n- A GTFS file (e.g., `routes.txt`) is shown as a table\n- Columns: `route_id`, `route_short_name`, `route_long_name`, `route_color`\n- Rows represent route data like:\n    - `route1 → 10 → Downtown → 3`\n- 🗑️ Trash icons beside each row to delete them\n\n4.Upload Section\n\n- A box with an upload icon and label:\n    \n    **“Upload GTFS files”**\n    \n    – Click to drag or browse new GTFS `.txt` files\n    \n    – Files will be validated and linked data checked\n\n\n\n\nThis is how I intend to proceed with the work. If any issue arise during the process, I will make adjustments to the plan."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
