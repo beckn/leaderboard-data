@@ -1,6 +1,83 @@
 {
-  "last_updated": "2025-04-11T13:28:35.000Z",
+  "last_updated": "2025-04-13T20:07:22.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3803",
+      "time": "2025-04-13T20:07:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3803#issuecomment-2800103727",
+      "text": "### Date: April 05, 2025\n#### Current Status:\n- Have done all the tasks listed below\n  - Execute testing on the live Registry to ensure all APIs and user flows are functioning correctly  \n  - Provide backend developer support for frontend and E2E testing teams  \n  \n#### Next Step:\n- Task done closing this ticket.\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3803",
+      "time": "2025-04-13T20:06:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3803#issuecomment-2800103441",
+      "text": "### Date: April 04, 2025\n#### Current Status:\n- Have done all the tasks listed below\n  - Migrate the current state of the Strapi database from `dev` to `prod` environment  \n  - Identify and resolve errors in the existing production Registry deployment  \n  - Perform production deployment of the updated Registry  \n  \n#### Next Step:\n- Will continue the testing of new version Registry deployment\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3803",
+      "time": "2025-04-13T20:04:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3803#issuecomment-2800102518",
+      "text": "### Date: April 03, 2025\n#### Current Status:\n- Have done all the tasks listed below from Thursday to Saturday.\n  - Manually add new catalogs to the Strapi CMS in the development environment  \n  - Update existing catalog entries with latest data (products, descriptions, fulfillment, etc.)  \n  - Migrate the current state of the Strapi database from `dev` to `prod` environment  \n  - Identify and resolve errors in the existing production Registry deployment  \n  - Perform production deployment of the updated Registry  \n  - Execute testing on the live Registry to ensure all APIs and user flows are functioning correctly  \n  - Provide backend developer support for frontend and E2E testing teams  \n  \n#### Next Step:\n- Task is done so closing this ticket\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3855",
+      "time": "2025-04-13T20:00:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3855#issuecomment-2800101038",
+      "text": "### Date: April 11, 2025\n#### Current Status:\n- Have got approval from Viraj for catalog structure.\n- Team asked to create catalogs for US Detroit and Michigan context.\n- Created the same and imported the catalogs in the strapi dev env.\n- CSV files for catalogs. \n[providers.csv](https://github.com/user-attachments/files/19727005/providers.csv)\n[items.csv](https://github.com/user-attachments/files/19727006/items.csv)\n\n- PFA Screenshot for the same\n<img width=\"1496\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e4400cff-48bf-4296-aef0-d8dc859578b7\" />\n\n#### Next Step:\n- Task is completed so closing this ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3855",
+      "time": "2025-04-13T19:56:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3855#issuecomment-2800099596",
+      "text": "### Date: April 10, 2025\n#### Current Status:\n- Have Fixed the issues and filled the shortfalls of scripts as per the DEG:EV domain catalogs.\n- Have created sample deg:ev catalogs for India Bangalore Context\n- Shared the same with Fide Team for review. [EV Charging Catalogs – Google Sheet](https://docs.google.com/spreadsheets/d/1hvzwButJ1ZB8al-GWX0XQPaRuAo1Te6j3GCwNdOEokc/edit?usp=sharing)\n\n\n#### Next Step:\n- Will wait for confirmation from Fide for the review of catalogs. Post approval will import the catalogs in dev strapi."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3855",
+      "time": "2025-04-13T19:53:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3855#issuecomment-2800098393",
+      "text": "### Date: April 09, 2025\n#### Current Status:\n- Have gone through Script for strapi catalog import. [strapi-catalog-utility](https://github.com/beckn/beckn-utilities/tree/main/strapi-catalog-utility)\n- Have identified shortfalls in the scripts as the strapi schema is changed for deg domains.\n- Tried to fix the issues and fill the shortfalls.\n\n#### Next Step:\n- Will continue to fix the script and create sample catalogs for DEG:EV domain"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3855",
+      "time": "2025-04-13T19:51:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3855#issuecomment-2800097645",
+      "text": "### Date: April 07, 2025\n#### Current Status:\n- Have gone through Script for strapi catalog import. [strapi-catalog-utility](https://github.com/beckn/beckn-utilities/tree/main/strapi-catalog-utility)\n- Did local setup to test the existing import script\n\n#### Next Step:\n- Will continue to understand the script"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3858",
+      "time": "2025-04-13T19:41:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3858#issuecomment-2800093791",
+      "text": "### Date: April 7, 2025\n#### Current Status:\n- Have checked the issue. And found there was issue with the catalogs.\n- Have fixed the issue. PFA Screenshot\n\n<img width=\"1495\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1e439eca-53b8-4e2e-b214-4bb76c6ee636\" />\n\n#### Next Step:\n- Closing this ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3665",
+      "time": "2025-04-13T19:37:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3665#issuecomment-2800092512",
+      "text": "### Date: April 07, 2025\n#### Current Status:\n- Have worked on the prompts modification till sign up OTP flow.\n- All the further Prompts are still broken due to Model Version upgradation.\n- PFA attached SS for the same \n\n<img width=\"957\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b8d6f698-5c22-4a48-8692-c301ede15318\" />\n\n#### Next Step:\n- Will continue on prompt improvement in next iteration. By creating a duplicate ticket. For this iteration closing this ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/transactional-ai-bap#139",
+      "time": "2025-04-13T19:35:51.000Z",
+      "link": "https://github.com/beckn/transactional-ai-bap/issues/139#issuecomment-2800091893",
+      "text": "### Date: April 04, 2025\n#### Current Status:\n- Have worked on the prompts modification till sign up OTP flow.\n- All the further Prompts are still broken due to Model Version upgradation.\n- PFA attached SS for the same \n\n<img width=\"957\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b8d6f698-5c22-4a48-8692-c301ede15318\" />\n\n#### Next Step:\n- Will continue on prompt improvement in next iteration. By creating a duplicate ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3515",
+      "time": "2025-04-13T19:31:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3515#issuecomment-2800090282",
+      "text": "### Date: April 12, 2025\n#### Current Status:\n- Have checked the issue. And found there was issue with the catalogs.\n- Have fixed the issue. PFA Screenshot\n\n<img width=\"1495\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1e439eca-53b8-4e2e-b214-4bb76c6ee636\" />\n\n#### Next Step:\n- Closing this ticket"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3866",
@@ -2667,25 +2744,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 298,
+      "stale_for": 299,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 172,
+      "stale_for": 173,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 416,
+      "stale_for": 417,
       "labels": []
     }
   ],
