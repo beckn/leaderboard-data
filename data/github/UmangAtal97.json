@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-04-11T05:22:45.000Z",
+  "last_updated": "2025-04-14T06:00:14.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3880",
+      "time": "2025-04-14T06:00:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3880#issuecomment-2800555652",
+      "text": "All the designs were completed and reviewed by FIDE Team"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3880",
+      "time": "2025-04-14T06:00:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3880",
+      "text": "DEG: UX Feedback & Changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3880",
+      "time": "2025-04-14T05:59:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3880#issuecomment-2800555042",
+      "text": "1. Remove Drop down for Selecting locations and keep only one location USA on DEG EC Homescreen:\n\n![Image](https://github.com/user-attachments/assets/b4d63aa9-dea4-419e-900e-b70f5ee4c6a9)\n\n2. New More Simplified View for EMI:\n\n![Image](https://github.com/user-attachments/assets/8c78dca8-c532-45ae-8232-15c067eff640)\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3882",
+      "time": "2025-04-14T05:13:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3882",
+      "text": "[Duplicate] Reference Apps - UX Refinement: Add Missing Screens and Features Based on Endpoint Tracker"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3881",
+      "time": "2025-04-14T05:13:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3881",
+      "text": "[Duplicate] Reference Apps - UX Refinement: Breakup Pricing on Checkout & Account Reset Feature"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3880",
+      "time": "2025-04-14T05:12:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3880",
+      "text": "DEG: UX Feedback & Changes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3807",
+      "time": "2025-04-14T04:46:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3807",
+      "text": "UX for EV Charging"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#3641",

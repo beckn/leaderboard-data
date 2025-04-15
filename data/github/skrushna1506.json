@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-04-08T08:23:40.000Z",
+  "last_updated": "2025-04-14T10:30:48.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3693",
+      "time": "2025-04-14T10:30:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3693#issuecomment-2801259083",
+      "text": "as i have check this issue, in city of light , showing Paris pincode\nPlease check and confirm\nCC:- @SanketEminds @omkar-em @aniketceminds \n\n<img width=\"1083\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a876e33f-9e1c-4ba3-aff1-2493f3c7984b\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3676",
+      "time": "2025-04-14T10:08:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3676#issuecomment-2801193703",
+      "text": "i have added terms and condition page , please check and let me know, if any correction.\nplease check and confirm\nCC:- @SanketEminds @omkar-em @aniketceminds \n\n<img width=\"1637\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/55bf24f9-75d9-461d-901f-95840db45c3a\" />\n<img width=\"1715\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e2666b86-d3d2-4068-a522-a3841e4e3aff\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3703",
+      "time": "2025-04-14T07:31:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3703#issuecomment-2800728938",
+      "text": "Screenshot for this task\nCC:- @SanketEminds @omkar-em \n\n<img width=\"531\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2f48126a-4075-4deb-838b-b540a3cbd990\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3792",
+      "time": "2025-04-14T06:43:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3792#issuecomment-2800628691",
+      "text": "screenshot for this task\n\n@SanketEminds @omkar-em \n\n\n<img width=\"423\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1ed97117-349c-4613-abb6-9e9075b836e5\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3584",
+      "time": "2025-04-14T06:26:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3584#issuecomment-2800597739",
+      "text": "Screenshot for this task\n@SanketEminds @omkar-em \n\n<img width=\"513\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7121a907-d7be-4a88-970c-83529495bdcb\" />"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3812",

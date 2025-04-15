@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-03-29T21:11:09.000Z",
+  "last_updated": "2025-04-14T13:11:04.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3892",
+      "time": "2025-04-14T13:11:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3892",
+      "text": "Validate the Quality of the Catalogue to ensure right metadata is populated"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3891",
+      "time": "2025-04-14T13:10:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3891",
+      "text": "Publish Huge Catalog for EV Charging"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#348",
+      "time": "2025-04-14T13:10:18.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/348",
+      "text": "DEG Starter Kit & Developer Documentation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3890",
+      "time": "2025-04-14T13:09:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3890",
+      "text": "DEG Gateway and Registry Infra Setup"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3889",
+      "time": "2025-04-14T13:09:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3889",
+      "text": "EV Charging Reference App Development"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3888",
+      "time": "2025-04-14T13:09:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3888",
+      "text": "EV Charging API Implementation - Discovery, Transaction & Wallet Integration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3887",
+      "time": "2025-04-14T13:09:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3887",
+      "text": "Generate Sample Catalogue Data in Beckn JSON Format for All Energy Usecases"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3886",
+      "time": "2025-04-14T13:08:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3886",
+      "text": "Validate Multiple Search Criteria Functionality Across All Energy Usecases"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3885",
+      "time": "2025-04-14T13:08:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3885",
+      "text": "Multiple Search Criteria Implementation Across All Energy Usecases (BPP Only + API Documentation)"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3661",
@@ -7986,25 +8049,25 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 286,
+      "stale_for": 298,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 205,
+      "stale_for": 217,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 314,
+      "stale_for": 326,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 335,
+      "stale_for": 347,
       "labels": [
         "enhancement"
       ]

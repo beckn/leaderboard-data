@@ -1,6 +1,62 @@
 {
-  "last_updated": "2025-04-08T04:45:29.000Z",
+  "last_updated": "2025-04-14T05:11:45.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#335",
+      "time": "2025-04-14T05:11:44.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/335",
+      "text": "AI: Build Bekcn API integration for MCP - Part 1"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#335",
+      "time": "2025-04-14T05:11:45.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/335#issuecomment-2800492020",
+      "text": "Integrated and tested Beckn search endpoint with the MCP server. Please use MCP inspector and connect with mcp.becknprotocol.io/sse"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#347",
+      "time": "2025-04-14T05:04:34.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/347#issuecomment-2800483978",
+      "text": "Read and understood using small pocs how MCP works and what are the standards used by in the development.\nAlso deployed a basic MCP installation to mcp.becknprotocol.io."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#347",
+      "time": "2025-04-14T05:04:34.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/347",
+      "text": "R&D for MCP (Minimum Common Platform)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#347",
+      "time": "2025-04-14T05:03:16.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/347",
+      "text": "R&D for MCP (Minimum Common Platform)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#284",
+      "time": "2025-04-14T05:02:14.000Z",
+      "link": "https://github.com/beckn/missions/issues/284#issuecomment-2800481236",
+      "text": "Provided support for NPs related to the UKI network"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#284",
+      "time": "2025-04-14T05:02:13.000Z",
+      "link": "https://github.com/beckn/missions/issues/284",
+      "text": "Backend & Technical Support for UKI Implementation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#284",
+      "time": "2025-04-14T05:01:05.000Z",
+      "link": "https://github.com/beckn/missions/issues/284",
+      "text": "Backend & Technical Support for UKI Implementation"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-utilities#333",
@@ -1915,19 +1971,19 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/261",
       "title": "Merge conflicts check pr",
-      "stale_for": 20,
+      "stale_for": 24,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/258",
       "title": "Open network sdk testing pr",
-      "stale_for": 21,
+      "stale_for": 25,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 113,
+      "stale_for": 117,
       "labels": []
     }
   ],

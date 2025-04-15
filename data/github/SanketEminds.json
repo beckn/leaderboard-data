@@ -1,6 +1,181 @@
 {
-  "last_updated": "2025-04-12T17:57:14.000Z",
+  "last_updated": "2025-04-14T12:56:33.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3884",
+      "time": "2025-04-14T12:56:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3884",
+      "text": "Test Cases for EV App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3883",
+      "time": "2025-04-14T11:46:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3883",
+      "text": "EC Spark App-Address Field Showing Blank in Spark App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3668",
+      "time": "2025-04-14T07:57:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3668#issuecomment-2800789289",
+      "text": "Weekly Testing Report:\nFor a full overview of this week’s testing results, please refer to the Confluence link below. The report covers all test cases executed, pass/fail status\n\n11th April 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/898138113/Testing+Report-11-04-2025\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3669",
+      "time": "2025-04-14T07:30:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3669#issuecomment-2800726433",
+      "text": "All daily testing tasks related to this ticket are complete. Reports have been logged, and any issues identified during testing have been addressed and closed. Further details and logs are available in the linked Confluence page below.\nDaily Testing Reports:\nFor detailed testing reports, refer to the Confluence link below.\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/898138113/Testing+Report-11-04-2025\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3670",
+      "time": "2025-04-14T07:22:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3670#issuecomment-2800707614",
+      "text": "Tested all QA tickets for EC apps and DEG apps, ensured they are working as expected, and closed them with proper proof.\n#3707 #3720 #3723 #3724 #3726 #3773 #3776 #3777 #3782 #3784 #3819  #3711 #3815 \n\ncc @omkar-em @PritiEM @emmayank "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3718",
+      "time": "2025-04-14T07:15:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3718#issuecomment-2800693421",
+      "text": "Tested and working fine.\ncc @omkar-em  @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3718",
+      "time": "2025-04-14T07:15:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3718",
+      "text": "Spark App-Battery Rent-Out Order History Missing in Solaris App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3722",
+      "time": "2025-04-14T07:14:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3722#issuecomment-2800690853",
+      "text": "Closing this.\n\n![Image](https://github.com/user-attachments/assets/b4dd6f01-4b39-41b0-b580-4a85e740c77a)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3722",
+      "time": "2025-04-14T07:14:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3722",
+      "text": "Solaris - Billing & Shipping details page - Need alignment for time slot"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3774",
+      "time": "2025-04-14T07:10:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3774#issuecomment-2800684089",
+      "text": "![Image](https://github.com/user-attachments/assets/97b511f5-bd54-4384-8e92-683b5d258dab)\nWorking fine\n@omkar-em  @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3774",
+      "time": "2025-04-14T07:10:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3774",
+      "text": "DEG-Unused Dropdown Arrow on Vault App Homepage"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3810",
+      "time": "2025-04-14T07:10:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3810#issuecomment-2800682115",
+      "text": "![Image](https://github.com/user-attachments/assets/15baa6c1-89b1-45aa-91e8-1c9848c437de)\nClosing this\ncc @omkar-em  @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3810",
+      "time": "2025-04-14T07:10:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3810",
+      "text": "DEG-Battery Text Should Be Removed and Order ID Position Should Match Figma Design"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3703",
+      "time": "2025-04-14T07:08:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3703#issuecomment-2800679818",
+      "text": "Tested above issue in prod and its not working as expected \ncc @omkar-em  @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3672",
+      "time": "2025-04-14T07:07:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3672#issuecomment-2800675763",
+      "text": "Closing this\ncc @omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3672",
+      "time": "2025-04-14T07:07:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3672",
+      "text": "Ind 4.0 - Progress indicator in order history page should not go beyond completed status"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3671",
+      "time": "2025-04-14T06:53:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3671#issuecomment-2800647585",
+      "text": "Working fine, Closing this\ncc @omkar-em  @PritiEM \n![Image](https://github.com/user-attachments/assets/82bb7a0c-09db-479f-bdce-af2cd1960a87)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3671",
+      "time": "2025-04-14T06:53:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3671",
+      "text": "Ind 4.0 - Add validation for various fields in XInput form"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3857",
+      "time": "2025-04-14T06:35:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3857#issuecomment-2800615405",
+      "text": "Closing this, Working fine.\ncc @omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3857",
+      "time": "2025-04-14T06:35:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3857",
+      "text": "DEG App-Incorrect price display for multiple battery quantities in order history and wallet."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3777",
+      "time": "2025-04-14T06:32:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3777#issuecomment-2800609789",
+      "text": "Tested it on prod and its working fine,Closing this\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3777",
+      "time": "2025-04-14T06:32:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3777",
+      "text": "DEG-QR Code-Unable to Publish Scanned Battery"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3726",
+      "time": "2025-04-14T06:32:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3726",
+      "text": "Spark App - Payment section shows old amounts after removing and adding a product"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3723",
+      "time": "2025-04-14T06:31:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3723",
+      "text": "Solaris - Once battery is listed for rental, user is unable to list for another day"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3584",
+      "time": "2025-04-14T05:56:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3584#issuecomment-2800549729",
+      "text": "Tested above issue in staging and prod and its not fixed.\ncc @omkar-em "
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3874",
