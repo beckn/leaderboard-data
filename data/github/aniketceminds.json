@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-04-13T06:19:47.000Z",
+  "last_updated": "2025-04-15T14:55:06.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3852",
+      "time": "2025-04-15T14:55:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3852",
+      "text": "feat(deg-ev-charging): added configuration, setup and the UI designs …",
+      "turnaround_time": 376365
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3798",
+      "time": "2025-04-14T13:44:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3798",
+      "text": "DEG - UI Implementation and Enhancement Activities"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3798",
+      "time": "2025-04-14T13:44:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3798#issuecomment-2801765167",
+      "text": "done deployed  in prod"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3808",
+      "time": "2025-04-14T13:43:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3808",
+      "text": "UI Dev for EV Charging"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3808",
+      "time": "2025-04-14T13:42:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3808#issuecomment-2801758170",
+      "text": "UI designs for few screen done\n<img width=\"993\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fb58fb5a-f081-41ae-95dd-b86111047264\" />\n\n<img width=\"993\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/de469f0d-d2ff-4d61-b1d8-c62fd01c205b\" />\n\n<img width=\"993\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a9fbebb8-9dfd-43b7-9e05-35a20f58719e\" />\n\n<img width=\"993\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/08eb7112-7c63-4ce3-802d-6bd3aac1e036\" />\n\n<img width=\"993\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7bd11518-7bcf-4231-97b1-ddab61edac0f\" />\n\n<img width=\"993\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a2759eb4-669f-4354-902f-472d71e0a030\" />"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3878",
@@ -5522,25 +5558,19 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
       "title": "fix: fixing of deleivery chrge calculation",
-      "stale_for": 3,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3852",
-      "title": "feat(deg-ev-charging): added configuration, setup and the UI designs …",
-      "stale_for": 0,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     }
   ],

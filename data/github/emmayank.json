@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-14T13:11:04.000Z",
+  "last_updated": "2025-04-15T11:31:20.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3904",
+      "time": "2025-04-15T11:31:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3904",
+      "text": "Deploy DEG Sandbox Experience Center and Reference Applications"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3903",
+      "time": "2025-04-15T11:23:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3903",
+      "text": "Deploy EV Charging App to Dev, Staging, and Prod Environments"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3902",
+      "time": "2025-04-15T11:19:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3902",
+      "text": "Adding EV Charing in DEG Experience Center"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3892",
@@ -8049,25 +8070,25 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 298,
+      "stale_for": 299,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 217,
+      "stale_for": 218,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 326,
+      "stale_for": 327,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 347,
+      "stale_for": 348,
       "labels": [
         "enhancement"
       ]
