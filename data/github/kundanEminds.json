@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-15T12:25:08.000Z",
+  "last_updated": "2025-04-16T05:51:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3859",
+      "time": "2025-04-16T05:51:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3859#issuecomment-2808444356",
+      "text": "<img width=\"470\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b0e27715-5a85-48d9-8544-c56a125a3f72\" />"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3868",
@@ -4852,45 +4859,39 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3897",
-      "title": "fix(DEG-RETAIL): fixed alignment issue on checkout page",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3844",
       "title": "fix(DEG-EC): created deg ec responsiveness",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3710",
       "title": "fix(STATE-FOREST): fixed product card layout and open spark product c…",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/242",
       "title": "added iframe for open spark",
-      "stale_for": 43,
+      "stale_for": 44,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/7",
       "title": "css changes for policy details",
-      "stale_for": 768,
+      "stale_for": 769,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/6",
       "title": "css fixed for geofencing and create policy form",
-      "stale_for": 768,
+      "stale_for": 769,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/5",
       "title": "policy details page",
-      "stale_for": 768,
+      "stale_for": 769,
       "labels": []
     }
   ],

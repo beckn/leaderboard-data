@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-09T10:24:09.000Z",
+  "last_updated": "2025-04-16T05:05:24.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#297",
+      "time": "2025-04-16T05:05:24.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/297",
+      "text": "DeDi Based Registry | Develop /login endpoint for Registry UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#296",
+      "time": "2025-04-16T05:04:42.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/296",
+      "text": "DeDi Based Registry | Develop /signup endpoint for Registry UI"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-utilities#345",

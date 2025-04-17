@@ -1,6 +1,50 @@
 {
-  "last_updated": "2025-04-15T14:44:10.000Z",
+  "last_updated": "2025-04-16T07:31:42.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#264",
+      "time": "2025-04-16T07:31:42.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/264",
+      "text": "Added support for decimal quantity",
+      "turnaround_time": 43
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#264",
+      "time": "2025-04-16T07:30:59.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/264",
+      "text": "Added support for decimal quantity"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#263",
+      "time": "2025-04-16T06:39:28.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/263",
+      "text": "Added selected quantity support in on_select and on_init response",
+      "turnaround_time": 46
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#263",
+      "time": "2025-04-16T06:38:43.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/263",
+      "text": "Added selected quantity support in on_select and on_init response"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3886",
+      "time": "2025-04-16T04:48:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3886#issuecomment-2808287887",
+      "text": "### Date: April 15, 2025  \n\n#### Current Status:  \n- Created a dedicated Postman collection to test all combinations of multiple search criteria.  \n- Performed thorough QA validation across all DEG domains for price, tag, provider, item, and location filters.  \n- Identified and fixed issues related to inconsistent filter behavior and incorrect query mappings.  \n- Enhanced existing search code to improve response accuracy and handle edge cases more gracefully.  \n- Added validations and logging to improve debuggability and maintainability of the search feature.\n\nPostman collection:\n\n[Beckn Search PS.postman_collection.json](https://github.com/user-attachments/files/19770580/Beckn.Search.PS.postman_collection.json)\n\nSupported search table:\n\n### Search Filter Support Across Domains\n\n| Domain         | Search by Provider Name | Search by Item Name | Search by Price                      | Search by Location                                       | Search by Tags |\n|----------------|--------------------------|----------------------|--------------------------------------|----------------------------------------------------------|----------------|\n| deg:ev         | Yes                      | Yes                  | Yes                                  | Yes                                                      | Yes            |\n| deg:retail     | Yes                      | Yes                  | Yes                                  | Yes                                                      | Yes            |\n| deg:rental     | Yes                      | Yes                  | Yes                                  | Yes                                                      | Yes            |\n| deg:finance    | Yes                      | Yes                  | No (price does not exist for finance)| Yes                                                      | Yes            |\n| uei:p2p_trading| Yes                      | Yes                  | Yes                                  | No (Fulfillment search does not consider geo location)   | Yes            |\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3885",
+      "time": "2025-04-16T04:38:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3885#issuecomment-2808262594",
+      "text": "### Date: April 15, 2025  \n\n#### Current Status:  \n- Reviewed the existing codebase to identify the currently implemented search filters.  \n- Implemented and updated logic for filters based on price, tag, provider, item, and location. \n- Fixed the existing issues like invalid beckn format for search, select, init, confirm api\n- Tested the updated search flow across all DEG domains and resolved any issues found.  \n- Optimized query structure to ensure better performance and accuracy in filtered results.  \n- Updated API request/response structure to reflect the newly added search criteria.  \n- Validated compatibility of changes with existing BPP endpoints and ensured backward support.\n\nPR: https://github.com/beckn/strapi-plugins/pull/262"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/strapi-plugins#262",
@@ -1557,37 +1601,37 @@
     {
       "link": "https://github.com/beckn/strapi-plugins/pull/260",
       "title": "Added reset account feature for a user based on category",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/strapi-plugins/pull/258",
       "title": "Feat/dynamic price",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
       "title": "Added apis and scripts to cleanup existing data for dynamic price",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 182,
+      "stale_for": 183,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 175,
+      "stale_for": 176,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 175,
+      "stale_for": 176,
       "labels": []
     }
   ],

@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-04-09T05:26:58.000Z",
+  "last_updated": "2025-04-16T04:38:37.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3770",
+      "time": "2025-04-16T04:38:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3770",
+      "text": "DEG - QA Activities for End-to-End Testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3770",
+      "time": "2025-04-16T04:38:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3770#issuecomment-2808263007",
+      "text": "Win room call was setup for DEG on 8,9th April\nTime spent - 7 hours"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3770",
+      "time": "2025-04-16T04:24:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3770#issuecomment-2808214994",
+      "text": "DEG - User  guide \n\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/895320065/User+Guide+-+DEG+Applications"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3669",
+      "time": "2025-04-16T04:23:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3669",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3669",
+      "time": "2025-04-16T04:23:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3669#issuecomment-2808212765",
+      "text": "Testing report -\n10th April 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/896499717/Testing+Report-10-04-2025"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3825",

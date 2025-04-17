@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-14T10:30:48.000Z",
+  "last_updated": "2025-04-16T05:03:33.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3883",
+      "time": "2025-04-16T05:03:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3883#issuecomment-2808306147",
+      "text": "Screenshot for this task\n\n<img width=\"1598\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7e11552c-498e-4601-95b0-541ba5f4ee9a\" />"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3693",
@@ -2089,13 +2096,6 @@
       "text": "fix(open-spark): fixed otp should not take more than 1 digit"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3901",
-      "title": "fix(deg-retail): fixed deg and ec bugs",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

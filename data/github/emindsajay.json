@@ -1,6 +1,97 @@
 {
-  "last_updated": "2025-04-09T06:04:56.000Z",
+  "last_updated": "2025-04-16T05:08:09.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3747",
+      "time": "2025-04-16T05:08:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3747",
+      "text": "Backend Changes for US Region Demo – Catalogue Setup & Frontend Support"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#310",
+      "time": "2025-04-16T05:08:04.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/310",
+      "text": "DeDi Based Registry | Develop /update-network-participants endpoint for Registry UI  "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#308",
+      "time": "2025-04-16T05:07:48.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/308",
+      "text": "DeDi Based Registry | Develop /get-network-participants endpoint for Registry UI "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#305",
+      "time": "2025-04-16T05:07:38.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/305",
+      "text": "DeDi Based Registry | Develop /delete-network-domain endpoint for Registry UI "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#306",
+      "time": "2025-04-16T05:07:34.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/306",
+      "text": "DeDi Based Registry | Develop /update-network-domain endpoint for Registry UI "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#307",
+      "time": "2025-04-16T05:07:29.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/307",
+      "text": "DeDi Based Registry | Develop /create-network-domain endpoint for Registry UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#304",
+      "time": "2025-04-16T05:07:25.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/304",
+      "text": "DeDi Based Registry | Develop /get-network-domain endpoint for Registry UI "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#303",
+      "time": "2025-04-16T05:07:20.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/303",
+      "text": "DeDi Based Registry | Develop /delete-user (admin only) endpoint for Registry UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#301",
+      "time": "2025-04-16T05:07:14.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/301",
+      "text": "DeDi Based Registry | Develop /update-user (admin only) endpoint for Registry UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#300",
+      "time": "2025-04-16T05:07:10.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/300",
+      "text": "DeDi Based Registry | Develop /get-users endpoint for Registry UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#302",
+      "time": "2025-04-16T05:05:58.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/302",
+      "text": "DeDi Based Registry | Develop /update-profile endpoint for Registry UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#299",
+      "time": "2025-04-16T05:05:51.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/299",
+      "text": "DeDi Based Registry | Develop /get-my-profile endpoint for Registry UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#298",
+      "time": "2025-04-16T05:05:44.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/298",
+      "text": "DeDi Based Registry | Develop /verify-email endpoint for Registry UI"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3815",
@@ -760,6 +851,13 @@
       "text": "feat: create endpoint to upload doc and return publicly accessible url"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/bpp-adapter/pull/2",
+      "title": "refactor: remove the untracked data in git cache",
+      "stale_for": 451,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
