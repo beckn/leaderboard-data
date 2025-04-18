@@ -1,6 +1,171 @@
 {
-  "last_updated": "2025-04-15T14:55:06.000Z",
+  "last_updated": "2025-04-17T14:10:03.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3929",
+      "time": "2025-04-17T14:10:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3929",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 17
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3929",
+      "time": "2025-04-17T14:09:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3929",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3928",
+      "time": "2025-04-17T14:09:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3928",
+      "text": "fix(deg-wallet): modified code ot push transaction in wallet for ev",
+      "turnaround_time": 12
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3928",
+      "time": "2025-04-17T14:09:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3928",
+      "text": "fix(deg-wallet): modified code ot push transaction in wallet for ev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3927",
+      "time": "2025-04-17T13:19:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3927",
+      "text": "feat(deg-rental): modified code to chnge the flow of rental",
+      "turnaround_time": 16
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3927",
+      "time": "2025-04-17T13:19:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3927",
+      "text": "feat(deg-rental): modified code to chnge the flow of rental"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3925",
+      "time": "2025-04-17T10:19:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3925",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3925",
+      "time": "2025-04-17T10:19:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3925",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3924",
+      "time": "2025-04-17T10:19:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3924",
+      "text": "fix(deg-ev-charging): modifeid code to add splash icon and order deta…",
+      "turnaround_time": 12
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3924",
+      "time": "2025-04-17T10:19:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3924",
+      "text": "fix(deg-ev-charging): modifeid code to add splash icon and order deta…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3923",
+      "time": "2025-04-17T07:53:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3923",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3923",
+      "time": "2025-04-17T07:53:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3923",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3922",
+      "time": "2025-04-17T07:53:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3922",
+      "text": "fix(deg-ev-charging): modified code to fix scrolling issue in checkou…",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3922",
+      "time": "2025-04-17T07:53:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3922",
+      "text": "fix(deg-ev-charging): modified code to fix scrolling issue in checkou…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3921",
+      "time": "2025-04-17T06:52:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3921",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3921",
+      "time": "2025-04-17T06:52:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3921",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3920",
+      "time": "2025-04-17T06:51:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3920",
+      "text": "fix(deg-ev-charger): modified code to fix deg-ev issues",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3920",
+      "time": "2025-04-17T06:51:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3920",
+      "text": "fix(deg-ev-charger): modified code to fix deg-ev issues"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3919",
+      "time": "2025-04-17T05:47:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3919",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3919",
+      "time": "2025-04-17T05:47:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3919",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3918",
+      "time": "2025-04-17T05:47:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3918",
+      "text": "fix(deg-ec): modified code to enable the ev charging experiince",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3918",
+      "time": "2025-04-17T05:47:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3918",
+      "text": "fix(deg-ec): modified code to enable the ev charging experiince"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3852",
@@ -5558,19 +5723,19 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
       "title": "fix: fixing of deleivery chrge calculation",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     }
   ],

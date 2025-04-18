@@ -1,6 +1,104 @@
 {
-  "last_updated": "2025-04-14T05:11:45.000Z",
+  "last_updated": "2025-04-17T09:04:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#331",
+      "time": "2025-04-17T09:04:59.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/331#issuecomment-2812253857",
+      "text": "# RAG Server Scope Document\n\n## Project Overview\nThe Retrieval-Augmented Generation (RAG) server provides intelligent, context-aware responses about Beckn Protocol technical documentation by leveraging a vector database (Qdrant) and OpenAI's language models. This system enables developers to quickly access relevant documentation through natural language queries.\n\n## Objectives\n- Provide accurate, context-aware responses to technical queries about Beckn Protocol\n- Reduce support ticket volume by enabling self-service information retrieval\n- Improve developer experience by making documentation more accessible\n- Create a foundation for integrating with multiple interfaces (Discord, web)\n\n## Current Status\n- ✅ Vector database (Qdrant) integration complete\n- ✅ Document processing pipeline with semantic chunking\n- ✅ Basic API endpoints (`/search/vector` and `/search/llm`) implemented\n- ✅ Source attribution and relevance scoring functional\n\n## API Endpoints\n1. **Vector Search** (`/search/vector`): Returns raw vector similarity search results\n2. **LLM Augmented Search** (`/search/llm`): Processes vector search results through LLM to generate coherent answers\n\n## Implementation Plan\n\n### Phase 1: Core Infrastructure (Completed)\n- Vector database setup and connection\n- Document ingestion pipeline \n- API endpoint implementation\n- Basic error handling\n\n\n### Phase 2: Enhancement & Optimization - (7 days)\n\n1. **Implement Caching System**  - (3 days)\n   - Design and implement caching strategy based on application needs\n   - Set up multi-level caching if required\n   - Implement cache monitoring and analytics if required\n\n2. **Discord Bot Integration** - (2 days)\n   - Design Discord bot interface \n   - Deploy bot to Beckn community server\n\n3. **Automated Document Indexing** - (2 days)\n   - Create GitHub action for monitoring documentation changes and trigger indexing pipeline\n   - Implement incremental indexing pipeline\n\t - Add necessary doc to the repo\n\n\nRelease date - 29th April 2025 EOD or 30th April 2025\n\n\n## API Credit Requirements\n\n### Development Phase (Monthly)\n## Estimated API Usage and Credits:\n\n- **Total tokens per month**: 3,000,000 tokens (1M for vector embeddings, 2M for LLM responses).\n\n### Model Pricing Breakdown:\n\n#### **Smartest Model**:\n- **Estimated cost**: $10.00/month\n- **Credits needed**: 10 credits/month\n- **Best for**: Complex tasks, requiring high intelligence (e.g., detailed responses, intricate queries).\n\n#### **GPT-4.1 mini**:\n- **Estimated cost**: $3.60/month\n- **Credits needed**: 4 credits/month\n- **Best for**: Balanced model (e.g., more affordable while maintaining speed and intelligence).\n\n#### **GPT-4.1 nano**:\n- **Estimated cost**: $0.90/month\n- **Credits needed**: 1 credit/month\n- **Best for**: Low-latency, cost-effective tasks (e.g., quick responses with low complexity).\n\n\n## Caching Requirements\n\n### Need for Caching\nThe RAG server relies heavily on OpenAI API calls for both embedding generation and LLM responses, which incur costs based on token usage. Without a caching mechanism, every query would:\n1. Generate a new embedding vector (token usage)\n2. Retrieve context from the vector database\n3. Send both context and query to the LLM (significant token usage)\n\nFor frequently asked questions or similar queries, this represents unnecessary expenditure and increased latency.\n\n\n## Dependencies\n- Stable OpenAI API access with sufficient rate limits\n- Redis for distributed caching\n- Access to documentation repositories\n- Discord API for bot integration "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#355",
+      "time": "2025-04-17T05:37:28.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/355",
+      "text": "Implement caching strategy for smart credit utilization"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#338",
+      "time": "2025-04-17T05:31:54.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/338#issuecomment-2811785110",
+      "text": "This is done. This issue is linked with this ticket https://github.com/beckn/beckn-utilities/issues/353"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#338",
+      "time": "2025-04-17T05:31:54.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/338",
+      "text": "Structure and Curate Documentation (API + Schema + Guides) for LLM (RAG) Consumption"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#350",
+      "time": "2025-04-17T05:21:50.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/350#issuecomment-2811773143",
+      "text": "1. Used AI to generate catalogs for Bengaluru EV case\n2. Used AI to generate to generate 100k catalogs for EV use case (Seperate thread). This took a lot of hit and trial because of the number of catalogs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#350",
+      "time": "2025-04-17T05:21:49.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/350",
+      "text": "Publish Huge Catalog for EV Charging"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#354",
+      "time": "2025-04-17T05:18:39.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/354#issuecomment-2811769398",
+      "text": "Just a minor blocker: Facing the issue with open ai credits. Getting that resolved"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#354",
+      "time": "2025-04-17T05:18:04.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/354#issuecomment-2811768559",
+      "text": "RAG Server Update:\n\nCompleted:\n- Added the llm agent for answering the queries using vector db\n\nTest the API:\n# llm search\ncurl -X POST http://rag.becknprotocol.io/api/search/llm \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\n    \"query\": \"What is Beckn protocol?\",\n    \"limit\": 5,\n    \"threshold\": 0.5\n  }'\n\n\n Next Steps:\n1. Integrate with Discord bot\n2. Automate doc indexing and sources through Github\n3. Think about caching\n\n\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#354",
+      "time": "2025-04-17T05:18:04.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/354",
+      "text": "Create a llm agent which processes the vectore db response"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#354",
+      "time": "2025-04-17T05:13:34.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/354",
+      "text": "Create a llm agent which processes the vectore db response"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#353",
+      "time": "2025-04-17T05:07:01.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/353#issuecomment-2811755787",
+      "text": "RAG Server Update:\n\nCompleted:\n- Successfully deployed RAG server at rag.becknprotocol.io\n- Vector search endpoint is live and working\n- Documents indexed: Beckn-intro, Protocol Schema, FAQs, Troubleshoot etc.\n- Integrated with ChatGPT as a custom GPT: [Beckn Protocol Assistant](https://chatgpt.com/gpts/editor/g-67f8ffabb02481919a4b7b243b2c28d4)\n\nTest the API:\n# Direct vector search\ncurl -X POST http://rag.becknprotocol.io/api/search/vector \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\n    \"query\": \"What is Beckn protocol?\",\n    \"limit\": 5,\n    \"threshold\": 0.5\n  }'\n\nTry the ChatGPT Integration:\n- Visit: https://chatgpt.com/gpts/editor/g-67f8ffabb02481919a4b7b243b2c28d4\n- Ask any question about Beckn Protocol\n- The GPT uses our RAG server to provide accurate, contextual responses\nNote -  This is restricted to FIDE chatgpt users only currently. Not public yet\n\n Next Steps:\n1. Add LLM query endpoint for direct API consumers\n2. Integrate with Discord bot\n3. Automate doc indexing and sources through Github"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#353",
+      "time": "2025-04-17T05:07:00.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/353",
+      "text": "Setup Rag database and endpoint"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#353",
+      "time": "2025-04-17T05:04:42.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/353",
+      "text": "Setup Rag database and endpoint"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#352",
+      "time": "2025-04-17T05:01:05.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/352",
+      "text": "Develop discord extension over beckn rag bot"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-utilities#335",
@@ -1971,19 +2069,19 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/261",
       "title": "Merge conflicts check pr",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/258",
       "title": "Open network sdk testing pr",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 119,
+      "stale_for": 120,
       "labels": []
     }
   ],

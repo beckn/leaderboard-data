@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-16T05:08:09.000Z",
+  "last_updated": "2025-04-17T06:10:14.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#309",
+      "time": "2025-04-17T06:10:14.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/309#issuecomment-2811870039",
+      "text": "## Date: April 16, 2025\n\n### Current Status:\n- Revamped the subscribed code and added user auth\n\n### Next Step:\nContinue working on DeDi based registry."
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#3747",
@@ -855,7 +862,7 @@
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 451,
+      "stale_for": 452,
       "labels": []
     }
   ],

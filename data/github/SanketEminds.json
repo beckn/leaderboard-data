@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-14T12:56:33.000Z",
+  "last_updated": "2025-04-17T10:49:09.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3926",
+      "time": "2025-04-17T10:49:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3926",
+      "text": "DEG and Energy App-Disabled payment options (Apple Pay & Stripe) are still visible on Checkout Page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3916",
+      "time": "2025-04-17T04:54:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3916",
+      "text": "End-to-End Testing for DEG Sandbox Environment"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3884",
+      "time": "2025-04-17T04:54:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3884#issuecomment-2811738193",
+      "text": "The EV test cases have been written and reviewed by @omkar-em . Please find the link below.\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/903577605/EV+Charging+Test+Cases\n"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3884",

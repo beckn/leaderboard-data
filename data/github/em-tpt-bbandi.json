@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-09T05:06:45.000Z",
+  "last_updated": "2025-04-17T09:29:45.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3904",
+      "time": "2025-04-17T09:29:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3904#issuecomment-2812311468",
+      "text": "Deployed the complete DEG Sandbox Experience Center along with all associated reference applications done DNS entry for all the apps.\n\ndeg-experience-sandbox.becknprotocol.io (http://deg-experience-sandbox.becknprotocol.io/)\nRetail ([deg-retail-sandbox.becknprotocol.io](http://deg-retail-sandbox.becknprotocol.io/))\nRental ([deg-rental-sandbox.becknprotocol.io](http://deg-rental-sandbox.becknprotocol.io/))\nWallet ([deg-wallet-sandbox.becknprotocol.io](http://deg-wallet-sandbox.becknprotocol.io/))\nFinance ([deg-finance-sandbox.becknprotocol.io](http://deg-finance-sandbox.becknprotocol.io/))\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3890",
+      "time": "2025-04-17T09:23:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3890#issuecomment-2812297505",
+      "text": "deployed DEG infra (registry, Gateway, BAP, BPP, GCL, Strapi) in new ec2's.\n\nDone DNS mapping and Nginx configuration for all the apps, tested and confirmed \n\nbpp-unified-strapi-deg.becknprotocol.io. - strapi \n\nbpp-ps-client-deg.becknprotocol.io - bpp-client\n\n[bpp-ps-network-deg.becknprotocol.io](http://bpp-ps-network-deg.becknprotocol.io/) - bpp-network\n\n[deg-gcl.becknprotocol.io](http://deg-gcl.becknprotocol.io/) - gcl-dev\n\n[bap-ps-client-deg.becknprotocol.io](http://bap-ps-client-deg.becknprotocol.io/) - bap-client\n\n[bap-ps-network-deg.becknprotocol.io](http://bap-ps-network-deg.becknprotocol.io/) - bap-network\n\nhttps://registry-deg.becknprotocol.io/ - registry\n\nhttps://gateway-deg.becknprotocol.io/ - gateway "
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3823",

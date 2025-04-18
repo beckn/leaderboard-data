@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-04-14T06:00:14.000Z",
+  "last_updated": "2025-04-17T14:45:42.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3882",
+      "time": "2025-04-17T14:45:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3882#issuecomment-2813187405",
+      "text": "Worked on City of Lights 10 endpoints missing and new screens as mentioned in ticket for reset feature"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3881",
+      "time": "2025-04-17T14:44:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3881#issuecomment-2813183512",
+      "text": "New Version of Tourism BAP for City of lights flow with updated UI along with its retail flow and new intermediate flow transfer screen:\n\n[City of Lights (NEW)](https://www.figma.com/design/Y5xgLom18SAJS0KuUXRgAn/City-of-Lights?node-id=0-1)\n\nProof of Work:\n1. Tourism Flow:\n\n![Image](https://github.com/user-attachments/assets/bf69c75a-4357-4c5e-a9ba-49a6fdf07741)\n\n![Image](https://github.com/user-attachments/assets/2427b0ee-09fb-464c-9119-22286b5fcb4d)\n\n![Image](https://github.com/user-attachments/assets/00935284-1b4d-485c-a001-5ba08acda5a7)\n\n![Image](https://github.com/user-attachments/assets/10d72540-975e-44f8-9daf-cd40da7197da)\n\n![Image](https://github.com/user-attachments/assets/7c32f94f-f886-41b5-871e-fc3b7bd734b2)\n\n![Image](https://github.com/user-attachments/assets/7de42aed-2c41-48d2-b5eb-1d5ed78f6851)\n\n![Image](https://github.com/user-attachments/assets/8421d020-3411-44c5-950a-ea2d2b39588c)\n\n![Image](https://github.com/user-attachments/assets/00352d4a-959a-4821-963a-dd94b9d43df0)\n\n![Image](https://github.com/user-attachments/assets/6acad93e-a7df-4378-ba6c-d0e6193ccb9a)\n\n![Image](https://github.com/user-attachments/assets/35f172ef-1967-46c4-a717-e5e39ad574c3)\n\n![Image](https://github.com/user-attachments/assets/d040015a-8fd6-4c1a-9042-087b3d13b7bc)\n\n2. New Flow Change Screen:\n\n![Image](https://github.com/user-attachments/assets/173a2475-3c5f-40fc-82b6-0e199cd866ca)\n\nRetail flow remains same as designed for Open Commerce!\n\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3930",
+      "time": "2025-04-17T14:26:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3930",
+      "text": "New Changes Requested for DEG App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3930",
+      "time": "2025-04-17T14:26:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3930#issuecomment-2813122638",
+      "text": "All the designs were completed, reviewed and approved by Eryn from FIDE team, Viraj and Mayank.\nPlease find the proof of work below:\n\n1. Empty State Screen for EV charging App:\n![Image](https://github.com/user-attachments/assets/3f45abd5-8b5e-4d0d-b418-e9097a8ea0da)\n\n2. Icons for Connector types in EV charging app as earlier images were not clear and were getting blurred:\n![Image](https://github.com/user-attachments/assets/b95aa50c-65ac-4615-90ef-4cf574a05a44)\n\n3. Advanced search feature in Retail & Leasing flow as well as Rental Flow:\n![Image](https://github.com/user-attachments/assets/e0f74c8a-81ea-46f6-86e6-f01f3ba5f8bb)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3930",
+      "time": "2025-04-17T14:19:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3930",
+      "text": "New Changes Requested for DEG App"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3880",

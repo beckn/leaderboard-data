@@ -1,6 +1,62 @@
 {
-  "last_updated": "2025-04-15T11:31:20.000Z",
+  "last_updated": "2025-04-17T08:16:05.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#360",
+      "time": "2025-04-17T08:16:05.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/360",
+      "text": "DeDi Based Registry | Setup Instance for gateway and registry for Production environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#359",
+      "time": "2025-04-17T08:15:37.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/359",
+      "text": "DeDi Based Registry | Setting up Production  Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#358",
+      "time": "2025-04-17T08:10:26.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/358",
+      "text": "DeDi Based Registry | Setup Instance for gateway and registry for Beta Stable environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#357",
+      "time": "2025-04-17T07:44:59.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/357",
+      "text": "Onboard DEG Sandbox's BAP and BPP to Beckn One Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#356",
+      "time": "2025-04-17T06:31:06.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/356",
+      "text": "Shutdown and Delete DEG Sandbox Gateway & Registry Instance"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#266",
+      "time": "2025-04-17T06:21:53.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/266",
+      "text": "Protocol Server | Publish Latest Docker Image after Protocol server release"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#265",
+      "time": "2025-04-17T06:15:23.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/265",
+      "text": "Protocol Server | Merge & Release: Beckn One Related Changes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#456",
+      "time": "2025-04-17T06:07:18.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/456",
+      "text": "Update Beckn ONIX Script to Call Registry’s `/subscribe` Endpoint and Commit to `beckn-one` Branch"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3904",
@@ -8070,25 +8126,25 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 300,
+      "stale_for": 301,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 219,
+      "stale_for": 220,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 328,
+      "stale_for": 329,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 349,
+      "stale_for": 350,
       "labels": [
         "enhancement"
       ]

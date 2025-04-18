@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-04-16T05:03:33.000Z",
+  "last_updated": "2025-04-17T13:44:47.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#287",
+      "time": "2025-04-17T13:44:47.000Z",
+      "link": "https://github.com/beckn/missions/pull/287",
+      "text": "feat:- added deg non beckn apis postmon collection",
+      "turnaround_time": 11
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#287",
+      "time": "2025-04-17T13:44:36.000Z",
+      "link": "https://github.com/beckn/missions/pull/287",
+      "text": "feat:- added deg non beckn apis postmon collection"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3883",
