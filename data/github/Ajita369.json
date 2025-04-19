@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-15T17:42:09.000Z",
+  "last_updated": "2025-04-18T16:40:53.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-specifications#313",
+      "time": "2025-04-18T16:40:53.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/313#issuecomment-2815823451",
+      "text": "Hello  @VedantKhairnar,\nI will like to work on this issue. Can you please assign me this issue? \n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/trip-stitching-algorithm#1",

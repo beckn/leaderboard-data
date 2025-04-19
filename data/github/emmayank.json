@@ -1,6 +1,62 @@
 {
-  "last_updated": "2025-04-17T08:16:05.000Z",
+  "last_updated": "2025-04-18T11:07:24.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#362",
+      "time": "2025-04-18T11:07:24.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/362",
+      "text": "DeDi Based Registry | Develop /delete-network-participants endpoint for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#361",
+      "time": "2025-04-18T11:04:09.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/361",
+      "text": "DeDi Based Registry | Develop /add-user (admin only) endpoint for Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3945",
+      "time": "2025-04-18T10:18:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3945",
+      "text": "Retail & Rental App - Update `on_search` API Response to Include Battery/Renting Capacity in Tags"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3944",
+      "time": "2025-04-18T10:18:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3944",
+      "text": "Retail App - Update Rent Catalog API to Accept Battery Capacity"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3943",
+      "time": "2025-04-18T10:18:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3943",
+      "text": "Retail App - Add BatteryCapacity Tag to All Existing Battery Catalog Entries"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3942",
+      "time": "2025-04-18T10:18:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3942",
+      "text": "Rental App - Update GCL and Strapi Search API to Support Start Date, End Date, and Capacity Filters"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3939",
+      "time": "2025-04-18T09:56:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3939",
+      "text": "Rental App | DEG | Add Rental Startdate, EndDate and Capacity for searching available catalog"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3938",
+      "time": "2025-04-18T09:49:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3938",
+      "text": "Retail App | DEG | Adding Battery Capacity while listing a battery for rent"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-utilities#360",
@@ -8126,25 +8182,25 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 301,
+      "stale_for": 302,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 220,
+      "stale_for": 221,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 329,
+      "stale_for": 330,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 350,
+      "stale_for": 351,
       "labels": [
         "enhancement"
       ]

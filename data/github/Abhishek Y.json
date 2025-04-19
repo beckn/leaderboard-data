@@ -1,0 +1,19 @@
+{
+  "last_updated": "2025-04-18T07:58:11.000Z",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "beckn/protocol-server#267",
+      "time": "2025-04-18T07:58:11.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/267",
+      "text": "Develop",
+      "collaborated_with": [
+        "Abhishek Y",
+        "shreyvishal",
+        "emindsajay"
+      ]
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

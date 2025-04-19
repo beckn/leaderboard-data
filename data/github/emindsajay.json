@@ -1,6 +1,60 @@
 {
-  "last_updated": "2025-04-17T06:10:14.000Z",
+  "last_updated": "2025-04-18T15:53:07.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#322",
+      "time": "2025-04-18T15:53:07.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/322#issuecomment-2815687805",
+      "text": "## Date: April 18, 2025\n### Current task:\n- Created the script for migration and tested the script for sandbox env"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#362",
+      "time": "2025-04-18T15:50:36.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/362#issuecomment-2815684358",
+      "text": "## Date: April 17, 2025\n### Current Status:\n- Implemented the delete subscriber API.\n- Updated the postman collection"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#361",
+      "time": "2025-04-18T15:49:16.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/361#issuecomment-2815682651",
+      "text": "## Date: April 17, 2025\n### Current Status:\n- Implemented the create user API.\n- Updated the Postman collection."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "beckn/protocol-server#267",
+      "time": "2025-04-18T07:58:11.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/267",
+      "text": "Develop",
+      "collaborated_with": [
+        "Abhishek Y",
+        "shreyvishal",
+        "emindsajay"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3896",
+      "time": "2025-04-18T05:03:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3896#issuecomment-2814544778",
+      "text": "Closing this ticket as it is a duplicate of [issue #3907](https://github.com/beckn/beckn-ui-workspace/issues/3907)."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3896",
+      "time": "2025-04-18T05:03:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3896",
+      "text": "DEG-Update BOA to Chase Bank in Retail and Wallet Apps (Name, Logo, etc.)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3907",
+      "time": "2025-04-18T04:56:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3907#issuecomment-2814537703",
+      "text": "### Date: April 16, 2025\n- Change Bank of America to Citibank in all deg finance env."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#309",
@@ -862,7 +916,7 @@
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 452,
+      "stale_for": 453,
       "labels": []
     }
   ],

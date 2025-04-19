@@ -1,6 +1,156 @@
 {
-  "last_updated": "2025-04-17T14:10:03.000Z",
+  "last_updated": "2025-04-18T13:40:15.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3951",
+      "time": "2025-04-18T13:40:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3951",
+      "text": "feat(beckn-registry): modified code to add intega. for authentictons",
+      "turnaround_time": 14
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3951",
+      "time": "2025-04-18T13:40:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3951",
+      "text": "feat(beckn-registry): modified code to add intega. for authentictons"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3947",
+      "time": "2025-04-18T10:42:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3947",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3947",
+      "time": "2025-04-18T10:42:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3947",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3946",
+      "time": "2025-04-18T10:41:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3946",
+      "text": "fix(deg-ev-charging): modified code to fix walet link in ev",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3946",
+      "time": "2025-04-18T10:41:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3946",
+      "text": "fix(deg-ev-charging): modified code to fix walet link in ev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3936",
+      "time": "2025-04-18T10:07:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3936",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 3199
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3940",
+      "time": "2025-04-18T10:07:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3940",
+      "text": "fix(deg-ev-charging): modified code to display alert modal of wallet",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3940",
+      "time": "2025-04-18T10:07:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3940",
+      "text": "fix(deg-ev-charging): modified code to display alert modal of wallet"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3936",
+      "time": "2025-04-18T09:14:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3936",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3935",
+      "time": "2025-04-18T07:02:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3935",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3935",
+      "time": "2025-04-18T07:02:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3935",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3934",
+      "time": "2025-04-18T07:01:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3934",
+      "text": "fix: order detals issues of all deg apps",
+      "turnaround_time": 169
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3934",
+      "time": "2025-04-18T06:58:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3934",
+      "text": "fix: order detals issues of all deg apps"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3933",
+      "time": "2025-04-18T06:51:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3933",
+      "text": "fix: order detals issues of all deg apps",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3933",
+      "time": "2025-04-18T06:50:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3933",
+      "text": "fix: order detals issues of all deg apps"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3932",
+      "time": "2025-04-18T04:37:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3932",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3932",
+      "time": "2025-04-18T04:37:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3932",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3931",
+      "time": "2025-04-18T04:36:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3931",
+      "text": "fix(deg-rental): modified code to add capacity label to rental catalo…",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3931",
+      "time": "2025-04-18T04:36:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3931",
+      "text": "fix(deg-rental): modified code to add capacity label to rental catalo…"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3929",
@@ -5723,19 +5873,19 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
       "title": "fix: fixing of deleivery chrge calculation",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     }
   ],

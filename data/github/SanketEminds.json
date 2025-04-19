@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-04-17T10:49:09.000Z",
+  "last_updated": "2025-04-18T12:30:38.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3950",
+      "time": "2025-04-18T12:30:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3950",
+      "text": "QA Testing for Advanced Search in Retail, Leasing, and Rental Applications"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3949",
+      "time": "2025-04-18T12:30:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3949",
+      "text": "DEG Wallet App-Progress Summary Not Displaying in DEG Wallet App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3948",
+      "time": "2025-04-18T12:04:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3948",
+      "text": "EV-Wallet Connect does not redirect to Home Screen in EV App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3941",
+      "time": "2025-04-18T10:12:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3941",
+      "text": "DEG-Battery Not Displayed When Searching for Next Day’s Last Hour Slot in Rental App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3937",
+      "time": "2025-04-18T09:21:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3937",
+      "text": "EV- Port details not showing on Book Charger and Order History pages"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3926",

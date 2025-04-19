@@ -1,6 +1,68 @@
 {
-  "last_updated": "2025-04-15T18:09:10.000Z",
+  "last_updated": "2025-04-18T08:49:21.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#265",
+      "time": "2025-04-18T08:49:21.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/265#issuecomment-2814947179",
+      "text": "### Date: April 17, 2025\n#### Current Status:\n- Have merged the change to the master Branch [PR](https://github.com/beckn/protocol-server/pull/267)\n- Have Prepared the Release Note with the change logs and is under review\n\n#### Next Step:\n- Will add this post review and release the protocol server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#267",
+      "time": "2025-04-18T07:58:11.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/267",
+      "text": "Develop",
+      "turnaround_time": 1098
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "beckn/protocol-server#267",
+      "time": "2025-04-18T07:58:11.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/267",
+      "text": "Develop",
+      "collaborated_with": [
+        "Abhishek Y",
+        "shreyvishal",
+        "emindsajay"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#267",
+      "time": "2025-04-18T07:39:53.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/267",
+      "text": "Develop"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#357",
+      "time": "2025-04-18T06:54:52.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/357#issuecomment-2814702478",
+      "text": "### Date: April 17, 2025\n#### Current Status:\n- Have started working on this task and created payloads for the NPs to be onboarded to Dedi registry.\n- Faced blocker as Dedi team have removed sandbox env along with its data. \n- Now only Beta Version is present and for that we need Email from Fide to register on dedi.\n\n#### Next Step:\n- Will continue the task once unblocked."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3888",
+      "time": "2025-04-18T06:50:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3888#issuecomment-2814696435",
+      "text": "### Date: April 15, 2025\n#### Current Status:\n- Completed the unsolicited status request for live charging status.\n- Provided full BE support and Delivered the EV charging In dev env along with the FE team\n\n#### Next Step:\n- Task completed closing the ticket.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3888",
+      "time": "2025-04-18T06:49:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3888#issuecomment-2814694890",
+      "text": "### Date: April 14, 2025\n#### Current Status:\n- Created Necessary catalogs and imported to the strapi for US Context.\n#### Next Step:\n- Will complete the unsolicited status request for live charging status.\n- Will Provide Backend support to complete integration and delivery of EV Charging in Dev env."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#348",
+      "time": "2025-04-18T06:39:58.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/348#issuecomment-2814675131",
+      "text": "### Date: April 14, 2025\n#### Current Status:\n- Have completed the Starter Kit and also merged it to main branch\n- PFA [DEG Starter Kit](https://github.com/beckn/missions/tree/main/DEG)\n\n#### Next Step:\n- Task Completed closing this ticket"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/missions#285",
@@ -2773,25 +2835,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 64,
+      "stale_for": 65,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 303,
+      "stale_for": 304,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 177,
+      "stale_for": 178,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 421,
+      "stale_for": 422,
       "labels": []
     }
   ],
