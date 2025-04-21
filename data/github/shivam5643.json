@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-20T08:59:40.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3801",
+      "time": "2025-04-20T08:59:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3801#issuecomment-2817072801",
+      "text": "Hi @viraj89 ,\n \nI’m Shivam Kumar, a backend-focused developer with solid experience in building scalable, modular systems using modern stacks like Firebase, Node.js, and TypeScript. This project’s vision aligns well with my strengths—especially around backend automation, schema validation, API design, and seamless integration with AI services. I’ll focus on architecting a robust backend that interacts with Beckn APIs, handles catalog structuring, supports version control, and integrates NLP-powered suggestions using tools like OpenAI or Gemini. I’m passionate about reducing complexity for users, and this project’s no-code, guided interface excites me because it translates technical capability into user empowerment—something I always strive to achieve in my builds."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

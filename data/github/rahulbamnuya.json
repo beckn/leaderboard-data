@@ -1,0 +1,35 @@
+{
+  "last_updated": "2025-04-20T23:54:09.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-specifications#321",
+      "time": "2025-04-20T23:54:09.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/321#issuecomment-2817394689",
+      "text": "Hi @ravi-prakash-v,\n\nI am interested in working on the changes required to the item attributes in the draft spec. Specifically, I will be addressing the following:\n\nMove return_eligible to Item.return_terms and replacement_eligible to Item.replacement_terms, with the reasoning that return and replacement of items are independent of cancellation. I will ensure that the rationale behind the distinction between return-to-origin (RTO) and returnable/replacement eligibility is clearly explained in the spec.\n\nAdd fulfillment_managed_by to Item.replacement_terms to align with the new model for replacement terms.\n\nI will provide a clear solution and recommendation for the changes based on the given rationale and the guidelines of Open API 3.0.\n\nCould you please assign this task to me? I’m ready to get started on implementing the changes in the draft specification.\n\nThank you,"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/Unified-Energy-Interface#3",
+      "time": "2025-04-20T23:50:29.000Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/issues/3#issuecomment-2817393670",
+      "text": "\nHi @ravi-prakash-v,\n\nI would like to contribute to the creation of the generic use case document for microgrid aggregation for the DENT Protocol project. I have reviewed the goals and the necessary components of the document, which include:\n\nAdding use case flows\n\nDefining the scope\n\nOutlining the logical process workflow\n\nHighlighting key digital functionalities\n\nDetailing functional requirements and cross-cutting requirements\n\nGiven my experience with Open API 3.0, Github Actions, and Node.js, I believe I can provide a thorough and well-structured document that meets these expectations.\n\nPlease assign this issue to me, and I look forward to contributing to the project.\n\nThank you,"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-specifications#310",
+      "time": "2025-04-20T23:48:39.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/310#issuecomment-2817393115",
+      "text": "Hi @core-wg-admin,\nI would like to take up this issue to contribute towards adding the Order.state field to the draft specification of the Beckn Protocol. As per the description, it's important to ensure that the Order.state field is present in the draft spec for consistency with the live spec and to support order tracking functionality.\n\nGoals:\n\nInvestigate why this feature is required and how it will benefit the protocol.\n\nIf necessary, update the spec to include the Order.state field.\n\nI look forward to reviewing the draft spec and making the required updates.\n\nThanks,"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-specifications#313",
+      "time": "2025-04-20T23:44:29.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/313#issuecomment-2817391930",
+      "text": "Hi @BLR-0118  and @VedantKhairnar ,\n\nI'd like to contribute to the issue titled “Track API should support tracking at fulfillment level” under the Beckn Open Collective project.\n\n🔍 My Understanding\nCurrently, the /track endpoint supports tracking at the order level, but with item-based fulfillments, a single order may be split into multiple fulfillments, each possibly handled by different logistics providers and having separate tracking URLs. As a result, the existing implementation may not sufficiently support real-time tracking per fulfillment.\n\n🛠️ My Plan\nReproduce and test the issue using multiple fulfillment scenarios.\n\nAnalyze the current Beckn Protocol Specification and determine where enhancements are needed.\n\nPropose an update to the protocol specification to support fulfillment-level tracking, aligned with OpenAPI 3.0 standards.\n\nDocument findings and recommend the necessary changes.\n\n✅ Why I’d Like to Contribute\nI’m interested in working with APIs and specifications like OpenAPI 3.0 and am eager to gain deeper insights into the Beckn protocol. This issue seems like a valuable opportunity to contribute to a real-world protocol and make it more robust.\n\nPlease let me know if I can begin work on this or if there are specific steps you’d like me to follow.\n\nThanks!"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
