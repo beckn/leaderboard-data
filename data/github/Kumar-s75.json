@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-21T19:50:47.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/gtfs-to-beckn#1",
+      "time": "2025-04-21T19:50:47.000Z",
+      "link": "https://github.com/beckn/gtfs-to-beckn/issues/1#issuecomment-2819368358",
+      "text": "Hello @ravi-prakash-v, I am Kumar Saurabh , a 3rd year undergrad at National Institute of Technology (NIT) Jalandhar, punjab.\nI am a Full Stack Developer, having strong foundation in Frontend and Backend Technologies with hands on Experience in developing projects from scratch.\nThis is my plan for completing this issue--\n\n->Understand GTFS Structure\nReview GTFS files (e.g., routes.txt, trips.txt, stop_times.txt, etc.) and their interdependencies.\n\n->Design CMS UI\nBuild a React-based UI for listing, editing, uploading, and deleting GTFS data in table format.\n\n->Backend API Setup (Node.js)\nCreate APIs to:\n\n->Parse GTFS ZIP uploads and store data (preferably in a temporary DB or in-memory structure).\n\n->Read data as tables.\n\n->Update specific cells.\n\n->Delete rows with cascade effects across linked files.\n\n->Validate and store uploaded GTFS files.\n\n->Frontend Features (React)\n\n->Table views for each GTFS file.\n\n->Inline editing of cells.\n\n->Row deletion with warning prompts for linked updates.\n\n->Upload interface with progress and validation feedback.\n\n->Validation & Propagation\n\n->Implement logic to ensure updates/deletions are consistent across files (e.g., deleting a trip should update stop_times).\n\nAlso designed a flowchart using Excalidraw to implement this plan..\nPlease Assign me this issue, would love to work on it.\n\n![Image](https://github.com/user-attachments/assets/fbad9a16-cbf6-43d3-b7ac-e1c070af28aa)\n\n\n"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

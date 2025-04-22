@@ -1,6 +1,163 @@
 {
-  "last_updated": "2025-04-18T13:40:15.000Z",
+  "last_updated": "2025-04-21T16:46:46.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3965",
+      "time": "2025-04-21T16:46:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3965",
+      "text": "feat(beckn-registry): add integration of loggedin and other users CRUD",
+      "turnaround_time": 1536
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3965",
+      "time": "2025-04-21T16:21:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3965",
+      "text": "feat(beckn-registry): add integration of loggedin and other users CRUD"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#313",
+      "time": "2025-04-21T15:53:14.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/313#issuecomment-2818878918",
+      "text": "This is done. deployed in DEV env"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#313",
+      "time": "2025-04-21T15:53:13.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/313",
+      "text": "DeDi Based Registry | Email Verification flow for Registry UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3860",
+      "time": "2025-04-21T15:51:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3860#issuecomment-2818874918",
+      "text": "This is done please validate it once @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#312",
+      "time": "2025-04-21T15:45:42.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/312#issuecomment-2818855097",
+      "text": "<img width=\"1062\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b1f6924d-85c8-4eda-b543-5367471db3b2\" />"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#312",
+      "time": "2025-04-21T15:45:42.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/312",
+      "text": "DeDi Based Registry | Login flow for Registry UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#311",
+      "time": "2025-04-21T15:44:18.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/311",
+      "text": "DeDi Based Registry | Signup flow for Registry UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#311",
+      "time": "2025-04-21T15:44:19.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/311#issuecomment-2818837942",
+      "text": "<img width=\"1062\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f87dc8e0-098a-4098-8b7f-e52025567e6c\" />"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3939",
+      "time": "2025-04-21T15:41:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3939",
+      "text": "Rental App | DEG | Add Rental Startdate, EndDate and Capacity for searching available catalog"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3939",
+      "time": "2025-04-21T15:41:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3939#issuecomment-2818828386",
+      "text": "This is done. Deployed in Staging env"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3938",
+      "time": "2025-04-21T15:40:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3938",
+      "text": "Retail App | DEG | Adding Battery Capacity while listing a battery for rent"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3938",
+      "time": "2025-04-21T15:40:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3938#issuecomment-2818825839",
+      "text": "This is done deployed in Staging env."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3902",
+      "time": "2025-04-21T14:31:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3902",
+      "text": "Adding EV Charing in DEG Experience Center"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3902",
+      "time": "2025-04-21T14:31:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3902#issuecomment-2818555052",
+      "text": "Done deployed in staging"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3889",
+      "time": "2025-04-21T14:13:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3889",
+      "text": "EV Charging Reference App Development"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3889",
+      "time": "2025-04-21T14:11:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3889#issuecomment-2818490626",
+      "text": "Done. deployed in staging\nhttps://deg-ev-staging.becknprotocol.io/"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3958",
+      "time": "2025-04-21T13:09:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3958#issuecomment-2818379465",
+      "text": "They are fixed please test it @SanketEminds "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3955",
+      "time": "2025-04-21T08:17:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3955",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 16
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3955",
+      "time": "2025-04-21T08:17:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3955",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3954",
+      "time": "2025-04-21T08:16:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3954",
+      "text": "fix(deg-ev-charging): modified code to fix the map re-rendring issue",
+      "turnaround_time": 13
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3954",
+      "time": "2025-04-21T08:16:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3954",
+      "text": "fix(deg-ev-charging): modified code to fix the map re-rendring issue"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3951",
@@ -5873,19 +6030,19 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
       "title": "fix: fixing of deleivery chrge calculation",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     }
   ],

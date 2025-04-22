@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-11T12:35:23.000Z",
+  "last_updated": "2025-04-21T10:56:10.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#457",
+      "time": "2025-04-21T10:56:10.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/457",
+      "text": "Fix/reg lookup"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#455",
@@ -114,6 +121,13 @@
       "text": "Feat/logging"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/457",
+      "title": "Fix/reg lookup",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

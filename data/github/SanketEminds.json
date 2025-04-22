@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-04-18T12:30:38.000Z",
+  "last_updated": "2025-04-21T15:10:04.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3964",
+      "time": "2025-04-21T15:10:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3964",
+      "text": "DEG Sandbox-Battery Search Not Working in DEG Sandbox"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3898",
+      "time": "2025-04-21T13:00:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3898#issuecomment-2818363356",
+      "text": "Tested thoroughly and confirmed working fine. Connected with @shreyvishal  over call and resolved all bugs.\nClosing this ticket as the flow is working end-to-end successfully.\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3963",
+      "time": "2025-04-21T12:52:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3963",
+      "text": "EC Spark App-Duplicate Battery Purchase Allowed with Same Time in Spark App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3962",
+      "time": "2025-04-21T12:49:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3962",
+      "text": "EC Spark App-Rented Batteries Not Displayed in \"My Rentals\" – Spark App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3863",
+      "time": "2025-04-21T12:24:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3863#issuecomment-2818311447",
+      "text": "@shreyvishal "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3950",
+      "time": "2025-04-21T11:11:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3950#issuecomment-2818198758",
+      "text": "Created **DEG Changes Win Room** for bug fixing. Connected with @rahul-eminds and @aniketceminds , discussed and resolved the bugs. Below is the list — all are tested and working fine. Closing this ticket.\n#3941, #3953, #3958\n\ncc @omkar-em @emmayank @PritiEM \n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3958",
+      "time": "2025-04-21T11:08:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3958",
+      "text": "DEG-Multiple UI and Functional Issues in DEG App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3840",
+      "time": "2025-04-21T08:31:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3840#issuecomment-2817936438",
+      "text": "@kundanEminds Please fix this as well(Page title)\n![Image](https://github.com/user-attachments/assets/6b3cf02b-16e3-4c89-8712-b587dca2215f)\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3953",
+      "time": "2025-04-21T07:56:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3953",
+      "text": "DEG-Capacity filter returns only exact match instead of equal or greater capacity"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3952",
+      "time": "2025-04-21T05:39:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3952",
+      "text": "Ev -Chargers not appearing for selected location in EV app"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3950",

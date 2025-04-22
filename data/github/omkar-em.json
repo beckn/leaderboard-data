@@ -1,6 +1,125 @@
 {
-  "last_updated": "2025-04-17T05:04:22.000Z",
+  "last_updated": "2025-04-21T10:10:51.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3956",
+      "time": "2025-04-21T10:10:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3956#issuecomment-2818098506",
+      "text": "EV Charging win room calls-\n\n16th April 2025 - 8.5 hrs\n17th April 2025 - 3 hrs"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3658",
+      "time": "2025-04-21T10:06:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3658#issuecomment-2818091748",
+      "text": "Performed comprehensive end-to-end testing across all reference applications to verify the implementation of the dynamic quote logic and updated UI. This included validation of backend-calculated quotes and UI updates across the checkout, order detail, and cart pages, ensuring consistent behavior across different apps and use cases.\n\nCoordinated with backend developers and completed QA for the energy apps. A few bugs were identified and communicated to the relevant teams. Frontend implementation is currently in progress.\n\nTest cases have been updated accordingly. A new task will be created in the next iteration to cover the pending frontend validation."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3658",
+      "time": "2025-04-21T10:06:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3658",
+      "text": "Reference Application | End to End testing for Dynamic Quote and Updated UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3957",
+      "time": "2025-04-21T09:50:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3957#issuecomment-2818066010",
+      "text": "Compiled and shared all relevant documents related to the P2P Trade App, including technical, functional, and user-facing documentation. The complete package has been sent via email to the designated stakeholders to support onboarding, reference, and implementation efforts.\n\nPOC -\n\n![Image](https://github.com/user-attachments/assets/2af840a1-f1c8-42d3-b019-016615383add)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3957",
+      "time": "2025-04-21T09:50:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3957",
+      "text": "P2P App Documentation Collection & Email Sharing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3957",
+      "time": "2025-04-21T09:46:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3957",
+      "text": "P2P App Documentation Collection & Email Sharing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3956",
+      "time": "2025-04-21T09:15:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3956",
+      "text": "QA Testing for EV Charging App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3673",
+      "time": "2025-04-21T08:17:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3673#issuecomment-2817913496",
+      "text": "This is resolved.\nBut it is case sensitive.\nWe need to make sure url's case are properly mentioned.\n\nClosing this task.\ncc: @viraj89 @kundanEminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3673",
+      "time": "2025-04-21T08:17:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3673",
+      "text": "Ec Apps-Inconsistent Number of Tabs When Accessing EC App URL Directly"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3625",
+      "time": "2025-04-21T08:07:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3625#issuecomment-2817896974",
+      "text": "This is resolved.\nClosing this task.\n\n![Image](https://github.com/user-attachments/assets/4e04737e-2631-46e5-ae1d-0702e1a85e4d)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3625",
+      "time": "2025-04-21T08:07:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3625",
+      "text": "Multiple tabs coming Watt Next! In incognito mode and other apps as well"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3581",
+      "time": "2025-04-21T08:04:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3581#issuecomment-2817891066",
+      "text": "![Image](https://github.com/user-attachments/assets/cf4f1435-22cd-44a5-9d61-7de8f9f05a4b)\n\nThis is resolved.\nClosing this bug.\n\ncc: @rahul-eminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3581",
+      "time": "2025-04-21T08:04:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3581",
+      "text": "P2P Energy App-Network Error When Clicking on \"Lock Demand\""
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3600",
+      "time": "2025-04-21T08:03:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3600#issuecomment-2817890167",
+      "text": "![Image](https://github.com/user-attachments/assets/a83e35a2-a720-45ee-9c69-d1c472b99a99)\n\nThis is resolved.\nClosing this bug.\ncc: @rahul-eminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3600",
+      "time": "2025-04-21T08:03:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3600",
+      "text": "P2P Admin - Start-trade API failing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3660",
+      "time": "2025-04-21T04:54:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3660#issuecomment-2817631541",
+      "text": "End-to-end QA testing for the newly implemented Reset Account feature has been conducted across all specified reference applications, covering API integration, UI behavior, and success messaging, ensuring no impact on existing flows. Test cases are documented in the Confluence link. While backend testing is completed in collaboration with the BE team, frontend deployment is still pending; hence, FE validation is on hold and a new ticket will be created in the next iteration to cover this.\n\nConfluence link for updated test cases -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/390922243/Active+Test+Cases"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3660",
+      "time": "2025-04-21T04:54:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3660",
+      "text": "Reference Applications | Test cases updation & QA Testing for Reset Account Feature"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3917",

@@ -16,13 +16,6 @@
       "text": "@ravi-prakash-v, I'm interested in implementing this OpenAPI validation workflow. I would use GitHub Actions with a Node.js validation script to check the transaction.yaml, meta.yaml, and registry.yaml against OpenAPI 3.0 specifications.  I have experience with CI/CD and OpenAPI validation. Would you like me to proceed with this implementation?"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/protocol-specifications/pull/478",
-      "title": "Add OpenAPI validation workflow for transaction.yaml , meta.yaml , and  registry.yaml ",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-04-18T08:49:21.000Z",
+  "last_updated": "2025-04-21T12:35:31.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#289",
+      "time": "2025-04-21T12:35:31.000Z",
+      "link": "https://github.com/beckn/missions/pull/289",
+      "text": "Added: changes for Starter Kit",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#289",
+      "time": "2025-04-21T12:35:26.000Z",
+      "link": "https://github.com/beckn/missions/pull/289",
+      "text": "Added: changes for Starter Kit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#288",
+      "time": "2025-04-21T08:17:26.000Z",
+      "link": "https://github.com/beckn/missions/pull/288",
+      "text": "Added: Updated Starter Kit Postman collection and docs",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#288",
+      "time": "2025-04-21T08:17:19.000Z",
+      "link": "https://github.com/beckn/missions/pull/288",
+      "text": "Added: Updated Starter Kit Postman collection and docs"
+    },
     {
       "type": "comment_created",
       "title": "beckn/protocol-server#265",
@@ -2835,25 +2865,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 67,
+      "stale_for": 68,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 306,
+      "stale_for": 307,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 180,
+      "stale_for": 181,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 424,
+      "stale_for": 425,
       "labels": []
     }
   ],

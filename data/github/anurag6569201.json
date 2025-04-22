@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-04-21T21:29:53.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3801",
+      "time": "2025-04-21T21:29:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3801#issuecomment-2819544717",
+      "text": "> Hi @viraj89,\n> \n> I'd love to take this up! Having built Snap UI (https://snap-ui-lovat.vercel.app/) —a no-code, AI-powered UI generator that turns natural language into structured React components—I’m confident in handling prompt interpretation, schema structuring, and real-time UI feedback.\n> \n> This Beckn Catalog Builder aligns perfectly with my experience in AI-driven interface generation, and I’d love to bring that expertise to this repo. Would be great if you could assign me this one .\n> \n> Thanks, \n> Tushar Gautam\n\nwhy thier is only one commit in snap ui project probably u copied from somewhere otherwise creating such thing will take atleast 50-60 commits minimum if u are a decent developer"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3801",
+      "time": "2025-04-21T14:40:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3801#issuecomment-2818613114",
+      "text": "Hi @viraj89 ,\n\nI came across the project proposal for the no-code, AI-enabled Beckn Catalog Builder and I'm very interested in contributing. The vision to simplify Beckn catalog creation using generative AI and NLP aligns well with my interests and experience.\n\n\nBased on the project requirements, I believe my skills could be a good fit. I have experience with:\n\n- **Web Technologies:** Including React.js for frontend development and Django/Node.js for backend integration.   \n\n- **AI/ML & Generative AI:** I've worked with Python, LangChain, and integrated Generative AI APIs like Gemini in past projects, including building platforms involving AI-driven features and data processing.   \n\n- **Cloud & Tools:** Familiar with tools like Docker, Git/GitHub Actions, and cloud platforms such as Azure.   \n\n- **Open Source:** I also have prior experience contributing to open-source projects.   \n\n\nProjects like Visora (an AI-Powered Education Marketplace ) and Sanitas (a Disease Surveillance Platform ) involved building AI-integrated web applications, which seems relevant to the goals of this Catalog Builder.   \n\nI'm eager to learn more about how I can contribute, whether it's related to the frontend UI, backend development, AI integration, or testing. Please let me know the best way to get involved.\n\nThanks,\n\nAnurag Singh\nLink to your GitHub profile: https://github.com/anurag6569201\nLink to your portfolio/website: https://anurag.icu"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-17T13:44:47.000Z",
+  "last_updated": "2025-04-21T15:50:50.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3916",
+      "time": "2025-04-21T15:50:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3916#issuecomment-2818872053",
+      "text": "https://github.com/beckn/missions/blob/feat-mission-postmon-collection/DEG/README.md\n\nPostman Collection for this task\nCC:- @PritiEM @viraj89 @emmayank "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3959",
+      "time": "2025-04-21T15:48:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3959#issuecomment-2818865814",
+      "text": "https://admin-panel-dev.becknprotocol.io/\nthis is deploy URL for this task\nCC:- @PritiEM @viraj89 @emmayank "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3959",
+      "time": "2025-04-21T11:48:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3959",
+      "text": "Design an Attractive Admin Dashboard for the Experience Center"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/missions#287",

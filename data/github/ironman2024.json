@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-04-21T18:34:30.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/trip-stitching-algorithm#1",
+      "time": "2025-04-21T18:34:30.000Z",
+      "link": "https://github.com/beckn/trip-stitching-algorithm/issues/1#issuecomment-2819219775",
+      "text": "Hi @beckn , @ravi-prakash-v 👋,\n\nI’m really excited about the opportunity to contribute to this foundational algorithm!\n\nWith a strong background in backend development, data processing, and cloud-native architectures, I’m confident I can add value to this issue. In my previous work, I’ve built systems that involve real-time data handling and predictive analytics—such as a Production Planning Automation System at AkzoNobel, where I worked on dynamic scheduling algorithms powered by live SAP data.\n\nI also led the development of Nectar, an AI-powered mobile app, and MatchMentor, a microservices-based platform with real-time communication features—both of which involved complex logic flows and optimization tasks. I’m well-versed with Python, Node.js, and containerized environments (Docker/Kubernetes), and I enjoy building clean, efficient, and scalable solutions.\n\nI’d love to dive into this challenge and collaborate with the team—please consider assigning me this issue!\n\nThanks!\nAtharva Karval\n[GitHub](https://github.com/ironman2024) | [LinkedIn](https://linkedin.com/in/atharva-karval)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/gtfs-to-beckn#1",
+      "time": "2025-04-21T18:28:41.000Z",
+      "link": "https://github.com/beckn/gtfs-to-beckn/issues/1#issuecomment-2819209576",
+      "text": "Hi @beckn 👋,\n\nI’ve read through issue #1 and would love to work on converting a sample GTFS dataset into a Beckn-compliant format.\n\nWith hands-on experience in data pipelines, API integrations, and working with transport-related datasets during academic and personal projects, I’m confident I can handle the schema mapping and transformation accurately. I’m also happy to document the process to help others follow along.\n\nPlease let me know if I can be assigned this task — looking forward to contributing to the Beckn ecosystem!\n\nThanks,\nAtharva Karval\n[GitHub](https://github.com/ironman2024) | [LinkedIn](https://www.linkedin.com/in/atharva-karval/)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
