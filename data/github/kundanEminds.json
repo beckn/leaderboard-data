@@ -1,6 +1,111 @@
 {
-  "last_updated": "2025-04-21T12:48:16.000Z",
+  "last_updated": "2025-04-22T12:46:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3622",
+      "time": "2025-04-22T12:46:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3622#issuecomment-2821220653",
+      "text": ".md files for  deg:Finance\n\n[README_finance_catalog.md](https://github.com/user-attachments/files/19849866/README_finance_catalog.md)\n\nand also created script for the same\n\nhttps://github.com/beckn/beckn-utilities/blob/feat/deg_finance_catalog/strapi-catalog-utility/README_finance_catalog.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#290",
+      "time": "2025-04-22T12:38:17.000Z",
+      "link": "https://github.com/beckn/missions/pull/290",
+      "text": "added readme file for generate catalog for deg app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3618",
+      "time": "2025-04-22T07:26:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3618#issuecomment-2820370495",
+      "text": "yesterday:-\nworked on script of generate catalog:- done\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3961",
+      "time": "2025-04-22T07:25:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3961#issuecomment-2820362046",
+      "text": "https://admin-panel-dev.becknprotocol.io/\nthis is deploy URL for this task\nCC:- @PritiEM @viraj89 @emmayank"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3961",
+      "time": "2025-04-22T07:20:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3961#issuecomment-2820343854",
+      "text": "<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/425b44e6-0261-4e32-904d-d47037835b97\" />\n\n<img width=\"1470\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/123fc61a-de26-4332-9c3f-da7c479a272e\" />\n\n<img width=\"1491\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d85bd9b0-e861-40b8-a605-d5a128ff37a0\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3961",
+      "time": "2025-04-22T07:19:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3961#issuecomment-2820339927",
+      "text": "https://github.com/beckn/admin-panel/pull/1\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3840",
+      "time": "2025-04-22T07:16:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3840#issuecomment-2820329669",
+      "text": "dependency from backend side ,need to discussion with @rahul-eminds ,  \n@aniketceminds @SanketEminds \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3859",
+      "time": "2025-04-22T06:57:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3859#issuecomment-2820258255",
+      "text": "@SanketEminds , this is fixed now moving in QA"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3895",
+      "time": "2025-04-22T06:57:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3895#issuecomment-2820257319",
+      "text": "@SanketEminds , this is fixed now moving in QA"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3868",
+      "time": "2025-04-22T06:57:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3868#issuecomment-2820257072",
+      "text": "@SanketEminds , this is fixed now moving in QA"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3893",
+      "time": "2025-04-22T06:57:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3893#issuecomment-2820256776",
+      "text": "@SanketEminds , this is fixed now moving in QA"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3686",
+      "time": "2025-04-22T06:43:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3686#issuecomment-2820227172",
+      "text": "On hold. need discussion with @omkar-em @emmayank @viraj89 @aniketceminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3830",
+      "time": "2025-04-22T06:40:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3830#issuecomment-2820220980",
+      "text": "Need discussion with @omkar-em @UmangAtal97 "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3701",
+      "time": "2025-04-22T06:34:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3701#issuecomment-2820211106",
+      "text": "On hold. need discussion for this \n@omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3695",
+      "time": "2025-04-22T06:30:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3695#issuecomment-2820204533",
+      "text": "this issue need to fix from backend , assigning to @rahul-eminds \ncc:- @omkar-em @SanketEminds  "
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3961",
@@ -4881,39 +4986,45 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/missions/pull/290",
+      "title": "added readme file for generate catalog for deg app",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3844",
       "title": "fix(DEG-EC): created deg ec responsiveness",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3710",
       "title": "fix(STATE-FOREST): fixed product card layout and open spark product c…",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/242",
       "title": "added iframe for open spark",
-      "stale_for": 49,
+      "stale_for": 50,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/7",
       "title": "css changes for policy details",
-      "stale_for": 774,
+      "stale_for": 775,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/6",
       "title": "css fixed for geofencing and create policy form",
-      "stale_for": 774,
+      "stale_for": 775,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/5",
       "title": "policy details page",
-      "stale_for": 774,
+      "stale_for": 775,
       "labels": []
     }
   ],

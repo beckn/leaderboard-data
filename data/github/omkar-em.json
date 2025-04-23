@@ -1,6 +1,258 @@
 {
-  "last_updated": "2025-04-21T10:10:51.000Z",
+  "last_updated": "2025-04-22T10:05:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3200",
+      "time": "2025-04-22T10:05:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3200#issuecomment-2820828214",
+      "text": "![Image](https://github.com/user-attachments/assets/5565860f-332b-4dd2-b320-7ba4340cbee4)\n\nThis is not resolved.\nMoving to backlog and current iteration."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3833",
+      "time": "2025-04-22T10:00:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3833#issuecomment-2820815978",
+      "text": "![Image](https://github.com/user-attachments/assets/2b7d6715-6821-4f2c-8b09-99f2381de422)\n\nThis is resolved.\nClosing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3833",
+      "time": "2025-04-22T10:00:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3833",
+      "text": "Ec Apps-Filter UI breaks and goes out of page on selection"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3552",
+      "time": "2025-04-22T10:00:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3552#issuecomment-2820813967",
+      "text": "Moving to backlog.\nThis is not fixed."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3786",
+      "time": "2025-04-22T09:56:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3786#issuecomment-2820802994",
+      "text": "![Image](https://github.com/user-attachments/assets/861cd9f6-ccaa-4c97-bd26-17b307ddbb40)\n\nThis is resolved.\nClosing this task.\ncc: @kundanEminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3786",
+      "time": "2025-04-22T09:56:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3786",
+      "text": "Forest Apps - Excess white space added in product description page in State Forest Department app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3778",
+      "time": "2025-04-22T08:13:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3778#issuecomment-2820527986",
+      "text": "![Image](https://github.com/user-attachments/assets/35d3274e-febf-4f24-8894-4dc165f741ac)\n\nThis is resolved.\nClosing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3778",
+      "time": "2025-04-22T08:13:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3778",
+      "text": "DEG-QR Scan-No Confirmation Shown When Adding Battery via QR Scan"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3708",
+      "time": "2025-04-22T08:07:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3708#issuecomment-2820512331",
+      "text": "![Image](https://github.com/user-attachments/assets/7c2ac7a1-ec69-48ef-a0da-9a220441606f)\n\nThis is resolved.\nClosing this bug.\ncc: @aniketceminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3708",
+      "time": "2025-04-22T08:07:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3708",
+      "text": "Spark - Upfront amount shown in EMI bottomsheet is not matching on checkout screen"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3729",
+      "time": "2025-04-22T08:04:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3729#issuecomment-2820504675",
+      "text": "![Image](https://github.com/user-attachments/assets/37b66f54-5ae4-4865-95e1-f041259c7220)\n\n![Image](https://github.com/user-attachments/assets/539f678e-9241-45b8-8ddf-0529793a5284)\n\nThis is resolved.\nClosing this bug.\ncc: @aniketceminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3729",
+      "time": "2025-04-22T08:04:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3729",
+      "text": "Spark - When battery is purchased from 2 different providers, EMI is not matching"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3728",
+      "time": "2025-04-22T08:01:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3728#issuecomment-2820496349",
+      "text": "This is done.\nClosing this task.\ncc: @rahul-eminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3728",
+      "time": "2025-04-22T08:01:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3728",
+      "text": "EC Apps - DB cleanup - Remove order history and unnecessary data from staging and prod environments"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3246",
+      "time": "2025-04-22T07:56:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3246#issuecomment-2820486228",
+      "text": "![Image](https://github.com/user-attachments/assets/f7ae7ebd-4bc6-445d-8eb1-fa6b1e6d88ef)\n\nProduct description is added in strapi.\nFor vendure there is no option to add short_description. (We have separate ticket for this - https://github.com/beckn/beckn-ui-workspace/issues/3687)\nClosing this task.\n\ncc: @skrushna1506 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3246",
+      "time": "2025-04-22T07:56:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3246",
+      "text": "Open Commerce App - Product Description Missing"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3553",
+      "time": "2025-04-22T07:51:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3553",
+      "text": "LeaderBoard - Discussion section is showing empty data"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3553",
+      "time": "2025-04-22T07:51:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3553#issuecomment-2820471519",
+      "text": "![Image](https://github.com/user-attachments/assets/b3c08bfc-b22d-4dee-85cf-34b55d6620a9)\n\n![Image](https://github.com/user-attachments/assets/1e57c7f7-31e7-4b39-8a3e-c6bb67dec132)\n\nThis is resolved.\nClosing this task.\ncc: @rahul-eminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3554",
+      "time": "2025-04-22T07:50:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3554#issuecomment-2820469486",
+      "text": "![Image](https://github.com/user-attachments/assets/140dfacc-ae14-43f9-b1d8-84caafa4c387)\n\nThis is resolved.\nClosing this bug.\ncc: @rahul-eminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3554",
+      "time": "2025-04-22T07:50:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3554",
+      "text": "LeaderBoard - Dropdown missing for Discussion -> All Discussions"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3825",
+      "time": "2025-04-22T07:49:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3825#issuecomment-2820467297",
+      "text": "![Image](https://github.com/user-attachments/assets/6ecb5f6a-75ba-43c7-a0b5-89174ffd68a4)\n\n![Image](https://github.com/user-attachments/assets/7a4b16b0-2d1a-4e12-97f5-76fc58c1d2c3)\n\nThis is resolved.\nClosing this bug.\ncc: @rahul-eminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3825",
+      "time": "2025-04-22T07:49:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3825",
+      "text": "LeaderBoard - Date filter not working in leaderboard discussions tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3550",
+      "time": "2025-04-22T07:46:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3550#issuecomment-2820461258",
+      "text": "![Image](https://github.com/user-attachments/assets/6f212915-057f-49b8-b2fb-b828f72a0154)\n\n![Image](https://github.com/user-attachments/assets/b9572328-e93d-4c51-8199-8b9fc202602f)\n\nThis is resolved.\nClosing this task."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3550",
+      "time": "2025-04-22T07:46:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3550",
+      "text": "LeaderBoard - In footer, \"Flat Repository Explorer\" is missing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3917",
+      "time": "2025-04-22T07:40:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3917#issuecomment-2820438873",
+      "text": "Various bugs were retested in DEG applications , specially EV charging bugs."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#284",
+      "time": "2025-04-22T07:38:40.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/284#issuecomment-2820429070",
+      "text": "Occupied with DEG tasks hence this task was depriotorise for QA.\nWill pick this again. Last status - facing challenges with setting up Protocol server through docker."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3956",
+      "time": "2025-04-22T07:37:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3956#issuecomment-2820420749",
+      "text": "EV Charging bugs regression is in progress as they move to \"IN QA\".\n\nUntill now ev charging in verified in staging env."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3956",
+      "time": "2025-04-22T07:36:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3956#issuecomment-2820417817",
+      "text": "Following bugs were reported before/during/after win room call for EV charging\n\nhttps://github.com/beckn/beckn-ui-workspace/issues/3952\nhttps://github.com/beckn/beckn-ui-workspace/issues/3937\nhttps://github.com/beckn/beckn-ui-workspace/issues/3948\n\n![Image](https://github.com/user-attachments/assets/c168f2b5-92d4-496a-a813-a896b99eeb93)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3956",
+      "time": "2025-04-22T07:34:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3956#issuecomment-2820405949",
+      "text": "DEG EV charging test cases -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/903577605/EV+Charging+Test+Cases"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3956",
+      "time": "2025-04-22T07:33:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3956#issuecomment-2820403701",
+      "text": "DEG EV Charging User Guide -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/903348233/User+Guide+-+DEG+-+EV+Charging"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3914",
+      "time": "2025-04-22T07:32:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3914#issuecomment-2820395536",
+      "text": "Testing report -\n18th April 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/908886018/Testing+Report-18-04-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3914",
+      "time": "2025-04-22T07:31:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3914#issuecomment-2820393357",
+      "text": "Testing report -\n15th April 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/902594561/Testing+Report-15-04-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3915",
+      "time": "2025-04-22T07:30:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3915#issuecomment-2820386766",
+      "text": "Testing report -\n21st April 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/908689409/Testing+Report-21-04-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3915",
+      "time": "2025-04-22T07:29:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3915#issuecomment-2820384675",
+      "text": "Testing report -\n17th April 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/904560700/Testing+Report-17-04-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3915",
+      "time": "2025-04-22T07:29:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3915#issuecomment-2820379708",
+      "text": "Testing report -\n16th April 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/908722187/Testing+Report-16-04-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3915",
+      "time": "2025-04-22T07:28:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3915#issuecomment-2820377732",
+      "text": "Testing report -\n\n14th April 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/900661249/Testing+Report-14-04-2025"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3956",

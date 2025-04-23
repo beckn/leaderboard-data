@@ -1,6 +1,94 @@
 {
-  "last_updated": "2025-04-21T12:35:31.000Z",
+  "last_updated": "2025-04-22T16:41:01.000Z",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "beckn/generic-client-layer#116",
+      "time": "2025-04-22T16:41:01.000Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/116",
+      "text": "Develop",
+      "collaborated_with": [
+        "shreyvishal",
+        "rahul-eminds"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3132",
+      "time": "2025-04-22T14:23:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3132",
+      "text": "Create Sequence Flow Diagram for the Beckn One Wallet as per documentation"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#456",
+      "time": "2025-04-22T14:20:28.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/456#issuecomment-2821500322",
+      "text": "### Date: April 22, 2025\n#### Current Status:\n- Have drilled down the script and gone through the steps for BAP and BPP Onboarding to existing registry\n\n#### Next Step:\n- Will continue the enhancement"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#357",
+      "time": "2025-04-22T14:19:28.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/357#issuecomment-2821496564",
+      "text": "### Date: April 21, 2025\n#### Current Status:\n- Have Onboarded the NPs from DEG to Dedi based registy\n- Tested the integration and is working as expected\n\n#### Next Step:\n- Task Completed closing this ticket"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3862",
+      "time": "2025-04-22T14:17:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3862",
+      "text": "EC Spark App-: Search result is limited to 2 batteries and returns no result for keyword \"solar\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3970",
+      "time": "2025-04-22T14:17:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3970",
+      "text": "Winroom: DEG Environment Readiness"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3970",
+      "time": "2025-04-22T14:16:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3970#issuecomment-2821488119",
+      "text": "### Date: April 16, 2025\n#### Current Status:\n- Have delivered the DEG Environment\n- [DEG Env URL](https://deg-experience-sandbox.becknprotocol.io/home)\n\n#### Next Step:\n- Task completed closing this ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3964",
+      "time": "2025-04-22T09:09:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3964#issuecomment-2820673628",
+      "text": "### Date: April 21, 2025\n#### Current Status:\n- The issue is fixed and is working as per requirement.\n- PFA Screenshot\n\n<img width=\"1492\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3ce9d61f-536a-44b8-9d7f-4ae8ee9cad43\" />\n\n#### Next Step:\n- Task completed closing the ticket.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3863",
+      "time": "2025-04-22T09:06:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3863#issuecomment-2820667224",
+      "text": "### Date: April 21, 2025\n#### Current Status:\n- Fixed the issue and is working as per expectation.\n- PFA Screenshots\n\n<img width=\"1052\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1cfdc2d1-7c40-4793-95a5-4eaf7b0115f5\" />\n\n#### Next Step:\n- Task completed closing this ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3862",
+      "time": "2025-04-22T09:02:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3862#issuecomment-2820655272",
+      "text": "### Date: April 21, 2025\n#### Current Status:\n- Have Fixed the issue and is working as per expectation.\n- PFA Screenshots.\n- \n\n<img width=\"1039\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d6dfe622-3987-4114-90fb-874cf297f077\" />\n<img width=\"1051\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2e8c3639-647b-452a-a794-eb11cf938b5f\" />\n\n#### Next Step:\n- Task completed closing this ticket"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3970",
+      "time": "2025-04-22T07:42:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3970",
+      "text": "Winroom: DEG Environment Readiness"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#265",
+      "time": "2025-04-22T05:52:39.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/265#issuecomment-2820144882",
+      "text": "### Date: April 21, 2025\n#### Current Status:\n- The review is done and Protocol Server is released with this [Protocol Server v1.0.2](https://github.com/beckn/protocol-server/releases/tag/v1.0.2)\n\n#### Next Step:\n- Task done closing this ticket"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/missions#289",
@@ -2865,25 +2953,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 68,
+      "stale_for": 69,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 307,
+      "stale_for": 308,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 181,
+      "stale_for": 182,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 425,
+      "stale_for": 426,
       "labels": []
     }
   ],

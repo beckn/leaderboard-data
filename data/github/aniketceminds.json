@@ -1,6 +1,221 @@
 {
-  "last_updated": "2025-04-21T16:46:46.000Z",
+  "last_updated": "2025-04-22T16:43:21.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3981",
+      "time": "2025-04-22T16:43:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3981",
+      "text": "Staging 1.1.0",
+      "turnaround_time": 12891
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3981",
+      "time": "2025-04-22T13:08:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3981",
+      "text": "Staging 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3980",
+      "time": "2025-04-22T13:08:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3980",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 5
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3980",
+      "time": "2025-04-22T13:08:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3980",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-22T13:06:50.000Z",
+      "title": "beckn/beckn-ui-workspace#3977",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3977#pullrequestreview-2784045661",
+      "text": "fix(climate-forest): fixed search UI issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3979",
+      "time": "2025-04-22T13:06:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3979",
+      "text": "feat(beckn-registry): added integrtion for get by id in domain, ntwrk…",
+      "turnaround_time": 13
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3979",
+      "time": "2025-04-22T13:06:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3979",
+      "text": "feat(beckn-registry): added integrtion for get by id in domain, ntwrk…"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#317",
+      "time": "2025-04-22T10:22:29.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/317#issuecomment-2820869124",
+      "text": "<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a688cd0a-a5dc-4d20-b56c-3e7f4bb4051e\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#317",
+      "time": "2025-04-22T10:21:18.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/317#issuecomment-2820866301",
+      "text": "<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/97e609d1-5be8-45bd-af0f-ea15cc6a9838\" />\n\n<!-- Failed to upload \"image.png\" -->"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#316",
+      "time": "2025-04-22T10:19:40.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/316#issuecomment-2820862535",
+      "text": "<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/88ba5804-0b21-4431-9dc0-1c2e9e431547\" />\n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/af818298-553b-41f2-b44f-c5887179fdfb\" />\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3975",
+      "time": "2025-04-22T10:06:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3975",
+      "text": "feat(beckn-resgitry): modified code to add integration for netwrk par…",
+      "turnaround_time": 15
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3975",
+      "time": "2025-04-22T10:06:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3975",
+      "text": "feat(beckn-resgitry): modified code to add integration for netwrk par…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3972",
+      "time": "2025-04-22T08:40:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3972",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 13
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3972",
+      "time": "2025-04-22T08:39:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3972",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-22T06:38:05.000Z",
+      "title": "beckn/beckn-ui-workspace#3969",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3969#pullrequestreview-2782915502",
+      "text": "fix(dragon-foods): fixed image path issue in all 6 app"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-22T06:37:42.000Z",
+      "title": "beckn/beckn-ui-workspace#3966",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3966#pullrequestreview-2782914823",
+      "text": "fix(deg-retail): remove upi option from deg rental and retail app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3963",
+      "time": "2025-04-22T05:40:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3963#issuecomment-2820129846",
+      "text": "@rahul-eminds assigning this to you."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3667",
+      "time": "2025-04-22T05:34:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3667#issuecomment-2820121517",
+      "text": "@SanketEminds kindly add artefacts for this."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3861",
+      "time": "2025-04-22T05:31:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3861#issuecomment-2820116053",
+      "text": "The BE, Database for DEG apps and Energy apps is same. So if we login with the credentials of deg retail and using same number logged in to spark it will allow. So keep the diff users for DEG and energy EC apps.\n@SanketEminds @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3687",
+      "time": "2025-04-22T05:23:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3687#issuecomment-2820106021",
+      "text": "On hold. Need discussion for this. \ncc @SanketEminds @omkar-em @emmayank "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3789",
+      "time": "2025-04-22T05:22:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3789#issuecomment-2820104278",
+      "text": "This is an expected behaviour. Discussed this with @emmayank . Kindly close the ticket. @SanketEminds @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3697",
+      "time": "2025-04-22T05:18:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3697#issuecomment-2820099746",
+      "text": "Which app? Which Figma? Kindly attached the artefacts, do not raise the generic issue or specify the app name. @SanketEminds @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3700",
+      "time": "2025-04-22T05:14:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3700#issuecomment-2820095243",
+      "text": "this is because if the caching. We can't see any other option instead of calling API again. @SanketEminds @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3696",
+      "time": "2025-04-22T05:10:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3696#issuecomment-2820089478",
+      "text": "@SanketEminds @omkar-em you can delete the order data from PROD and staging env  from strap."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#313",
+      "time": "2025-04-22T05:08:59.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/313#issuecomment-2820087569",
+      "text": "<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/168d8c56-3561-491a-994f-10c78e714c1f\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#315",
+      "time": "2025-04-22T05:07:14.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/315#issuecomment-2820085528",
+      "text": "<img width=\"1099\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/cf4759d5-ca8b-4c0f-a1aa-e896c7bc2868\" />"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#315",
+      "time": "2025-04-22T05:07:14.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/315",
+      "text": "DeDi Based Registry | User list flow for Registry UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#315",
+      "time": "2025-04-22T05:05:20.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/315#issuecomment-2820083196",
+      "text": "<img width=\"1099\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d6255fa4-4348-4e75-9670-abfcd2b6e19b\" />\n\n<img width=\"1099\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bc33295a-1a8a-4198-ba56-17118f02a692\" />"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#314",
+      "time": "2025-04-22T05:03:19.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/314",
+      "text": "DeDi Based Registry | My Profile flow for Registry UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#314",
+      "time": "2025-04-22T05:03:20.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/314#issuecomment-2820080834",
+      "text": "<img width=\"1099\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/cd9b882c-8e47-4e98-8b59-1cf260b4fe21\" />"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3965",
@@ -6030,19 +6245,19 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
       "title": "fix: fixing of deleivery chrge calculation",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     }
   ],

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-21T08:43:38.000Z",
+  "last_updated": "2025-04-22T05:09:15.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3881",
+      "time": "2025-04-22T05:09:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3881#issuecomment-2820087928",
+      "text": "Started working on mobility flow:\n\n![Image](https://github.com/user-attachments/assets/25dec765-d4f6-4ddf-b9b4-330f653897db)\n\n![Image](https://github.com/user-attachments/assets/d655cbd0-f68c-44de-847d-79e61bd8177f)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3881",
+      "time": "2025-04-22T05:09:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3881",
+      "text": "[Duplicate] Reference Apps - UX Refinement: Breakup Pricing on Checkout & Account Reset Feature"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3930",

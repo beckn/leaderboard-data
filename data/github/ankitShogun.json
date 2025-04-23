@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-17T09:04:59.000Z",
+  "last_updated": "2025-04-22T05:20:16.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#366",
+      "time": "2025-04-22T05:20:16.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/366",
+      "text": "Research and deploy AWS MCP cluster"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#349",
+      "time": "2025-04-22T05:18:19.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/349#issuecomment-2820099560",
+      "text": "A file with 100k genuine catalogues was created and shared"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#349",
+      "time": "2025-04-22T05:18:17.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/349",
+      "text": "Beckn <> Sanketika: Retail and EV Catalogs for Search Engine"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#331",
@@ -2065,6 +2086,25 @@
       "text": "Langraph - Image processing sometimes giving undefined values"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/261",
+      "title": "Merge conflicts check pr",
+      "stale_for": 32,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/258",
+      "title": "Open network sdk testing pr",
+      "stale_for": 33,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
+      "title": "Release notes update",
+      "stale_for": 125,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

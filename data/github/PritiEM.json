@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-04-16T05:05:24.000Z",
+  "last_updated": "2025-04-22T14:18:45.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3964",
+      "time": "2025-04-22T14:18:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3964",
+      "text": "DEG Sandbox-Battery Search Not Working in DEG Sandbox"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3863",
+      "time": "2025-04-22T14:18:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3863",
+      "text": "EC-Spark App-\"Available EMI Plans\" keeps loading and user is unable to proceed with payment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#265",
+      "time": "2025-04-22T14:17:12.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/265",
+      "text": "Protocol Server | Merge & Release: Beckn One Related Changes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#357",
+      "time": "2025-04-22T14:17:06.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/357",
+      "text": "Onboard DEG Sandbox's BAP and BPP to Beckn One Dev Environment"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#348",
+      "time": "2025-04-22T14:16:31.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/348",
+      "text": "DEG Starter Kit & Developer Documentation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3888",
+      "time": "2025-04-22T14:16:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3888",
+      "text": "EV Charging API Implementation - Discovery, Transaction & Wallet Integration"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3887",
+      "time": "2025-04-22T14:16:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3887",
+      "text": "Generate Sample Catalogue Data in Beckn JSON Format for All Energy Usecases"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-utilities#297",

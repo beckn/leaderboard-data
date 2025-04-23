@@ -1,6 +1,115 @@
 {
-  "last_updated": "2025-04-21T15:50:50.000Z",
+  "last_updated": "2025-04-22T13:06:55.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3977",
+      "time": "2025-04-22T13:06:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3977",
+      "text": "fix(climate-forest): fixed search UI issue",
+      "turnaround_time": 9946
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3916",
+      "time": "2025-04-22T10:29:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3916",
+      "text": "Create Well-Documented Postman Collections for DEG Applications  "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3959",
+      "time": "2025-04-22T10:29:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3959#issuecomment-2820886442",
+      "text": "PR for this task\nhttps://github.com/beckn/admin-panel/pull/2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3959",
+      "time": "2025-04-22T10:29:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3959",
+      "text": "Design an Attractive Admin Dashboard for the Experience Center"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/admin-panel#2",
+      "time": "2025-04-22T10:29:01.000Z",
+      "link": "https://github.com/beckn/admin-panel/pull/2",
+      "text": "feat: added user config",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/admin-panel#2",
+      "time": "2025-04-22T10:28:55.000Z",
+      "link": "https://github.com/beckn/admin-panel/pull/2",
+      "text": "feat: added user config"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3967",
+      "time": "2025-04-22T10:22:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3967#issuecomment-2820869217",
+      "text": "PR For above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3977\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3977",
+      "time": "2025-04-22T10:21:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3977",
+      "text": "fix(climate-forest): fixed search UI issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3967",
+      "time": "2025-04-22T09:57:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3967#issuecomment-2820805053",
+      "text": "@SanketEminds @omkar-em \ncan you please check this on dev and staging, \nwill Move on prod after dev and staging ..."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3967",
+      "time": "2025-04-22T07:07:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3967#issuecomment-2820293765",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3969\nCC- @SanketEminds @omkar-em "
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3969",
+      "time": "2025-04-22T06:38:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3969",
+      "text": "fix(dragon-foods): fixed image path issue in all 6 app",
+      "turnaround_time": 1904
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3966",
+      "time": "2025-04-22T06:37:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3966",
+      "text": "fix(deg-retail): remove upi option from deg rental and retail app",
+      "turnaround_time": 6974
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3969",
+      "time": "2025-04-22T06:06:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3969",
+      "text": "fix(dragon-foods): fixed image path issue in all 6 app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3926",
+      "time": "2025-04-22T04:50:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3926#issuecomment-2820064771",
+      "text": "PR for this task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3966\nCC:- @SanketEminds @omkar-em "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3966",
+      "time": "2025-04-22T04:41:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3966",
+      "text": "fix(deg-retail): remove upi option from deg rental and retail app"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3916",

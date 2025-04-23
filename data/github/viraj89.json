@@ -1,6 +1,97 @@
 {
-  "last_updated": "2025-04-21T12:42:36.000Z",
+  "last_updated": "2025-04-22T10:38:23.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3978",
+      "time": "2025-04-22T10:38:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3978",
+      "text": "DEG Sandbox v1.1: QA and Integrated Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3976",
+      "time": "2025-04-22T10:12:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3976",
+      "text": "DEG V1.1: New Registry UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#459",
+      "time": "2025-04-22T09:55:45.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/459",
+      "text": "DEG Sandbox V1.1: Registry Backend v1.1.0 Release and Onix-script Enhancements"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3974",
+      "time": "2025-04-22T09:53:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3974",
+      "text": "DEG Sandbox V1.1: Reference Apps - Enhancements and Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3973",
+      "time": "2025-04-22T09:52:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3973",
+      "text": "DEG Sandbox v1.1: P2P Reference App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#373",
+      "time": "2025-04-22T09:49:46.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/373",
+      "text": "Publish Protocol Server Docker Image - v1.0.2"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#372",
+      "time": "2025-04-22T09:47:59.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/372",
+      "text": "DEG v1.1 - Dev, Staging, and Prod Environment Setup with Landscape Diagram"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#371",
+      "time": "2025-04-22T06:32:09.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/371",
+      "text": "Backend for catalog creation tool"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#370",
+      "time": "2025-04-22T06:31:59.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/370",
+      "text": "QA and integration for catalog creation tool"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#369",
+      "time": "2025-04-22T06:31:40.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/369",
+      "text": "Development for catalog creation tool"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#368",
+      "time": "2025-04-22T06:30:59.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/368",
+      "text": "UX for catalog creation tool"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#367",
+      "time": "2025-04-22T06:30:09.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/367",
+      "text": "Catalog tool"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3968",
+      "time": "2025-04-22T06:00:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3968",
+      "text": "DEG Sandbox: Feature Implementation v1.1"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3960",

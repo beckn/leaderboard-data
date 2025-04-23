@@ -1,6 +1,153 @@
 {
-  "last_updated": "2025-04-21T15:10:04.000Z",
+  "last_updated": "2025-04-22T17:31:03.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3985",
+      "time": "2025-04-22T17:31:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3985",
+      "text": "DEG- Incorrect status for rented-out battery in Wallet app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3958",
+      "time": "2025-04-22T16:51:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3958#issuecomment-2821923008",
+      "text": "Tested it and all the above issues are fixed, Closing this.\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3958",
+      "time": "2025-04-22T16:51:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3958",
+      "text": "DEG-Multiple UI and Functional Issues in DEG App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3984",
+      "time": "2025-04-22T16:29:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3984",
+      "text": "DEG-Source mismatch between purchase and wallet entry in DEG app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3983",
+      "time": "2025-04-22T15:04:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3983",
+      "text": "EC Apps-Search is failing with a 504 Gateway Timeout error across all EC apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3982",
+      "time": "2025-04-22T14:54:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3982",
+      "text": "EC Climate and Forest App-Search not working properly in Forest and Climate apps"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3629",
+      "time": "2025-04-22T08:23:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3629#issuecomment-2820552076",
+      "text": "All issues tested and all are fixed, for multiple provider items checkout created separate ticket.Closing this.\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3629",
+      "time": "2025-04-22T08:23:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3629",
+      "text": "EC DSNP App-Multiple Issues in DSNP App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3703",
+      "time": "2025-04-22T08:18:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3703#issuecomment-2820539836",
+      "text": "This is fixed, closing this"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3703",
+      "time": "2025-04-22T08:18:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3703",
+      "text": "Odr App- Search Text Appends Instead of Clearing on Deletion"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3841",
+      "time": "2025-04-22T08:07:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3841#issuecomment-2820513447",
+      "text": "This is fixed\n\n![Image](https://github.com/user-attachments/assets/e3e7f203-6c6f-4dc2-92d5-51b69d285081)\ncc @omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3841",
+      "time": "2025-04-22T08:07:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3841",
+      "text": "P2P Energy App-Alert message missing when user tries to sell energy while market is closed"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3842",
+      "time": "2025-04-22T08:06:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3842",
+      "text": "P2P Energy Admin App-All buttons on homepage should be disabled during \"Lock Demand\" action"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3842",
+      "time": "2025-04-22T08:06:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3842#issuecomment-2820510552",
+      "text": "This is resolved closing this.\n\n![Image](https://github.com/user-attachments/assets/f1118359-42dc-4444-98f9-3cfc62d80011)\n\n@omkar-em  @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3712",
+      "time": "2025-04-22T08:03:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3712#issuecomment-2820502585",
+      "text": "@kundanEminds This is not fixed yet\n@omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3949",
+      "time": "2025-04-22T07:58:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3949#issuecomment-2820490235",
+      "text": "This is fixed closing this\n@omkar-em @PritiEM \n![Image](https://github.com/user-attachments/assets/7f94da43-223c-4c68-a31a-e9017be51059)\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3949",
+      "time": "2025-04-22T07:58:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3949",
+      "text": "DEG Wallet App-Progress Summary Not Displaying in DEG Wallet App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3874",
+      "time": "2025-04-22T07:54:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3874#issuecomment-2820480406",
+      "text": "This is resolved, closing this\n@omkar-em  @PritiEM \n\n![Image](https://github.com/user-attachments/assets/614d6b8f-3137-4dcb-8172-87d314185590)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3874",
+      "time": "2025-04-22T07:54:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3874",
+      "text": "Deg-$ Sign Overlapping with Calendar While Selecting Date in Provide Rental Service"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3971",
+      "time": "2025-04-22T07:49:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3971",
+      "text": "DEG-Battery with Lesser Capacity Can Be Rented Out for Higher Requested Capacity"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3967",
+      "time": "2025-04-22T05:28:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3967",
+      "text": "EC-Filter and Search Result UI Issues in Climate and Forest Apps"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3964",
