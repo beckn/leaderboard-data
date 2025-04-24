@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-04-22T10:38:23.000Z",
+  "last_updated": "2025-04-23T08:26:28.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3995",
+      "time": "2025-04-23T08:26:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3995",
+      "text": "Testing of end to end from the new Registry UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3847",
+      "time": "2025-04-23T07:52:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3847#issuecomment-2823387137",
+      "text": "Duplicate to [this](https://github.com/beckn/beckn-ui-workspace/issues/3968), hence closing this. "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3847",
+      "time": "2025-04-23T07:52:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3847",
+      "text": "DEG Sandbox: Feature Implementation v1.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#376",
+      "time": "2025-04-23T06:33:05.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/376",
+      "text": "Beckn Search Provider v1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3989",
+      "time": "2025-04-23T06:29:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3989",
+      "text": "Beckn One Registry Implementation v1.1"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#331",
+      "time": "2025-04-23T06:07:43.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/331#issuecomment-2823164920",
+      "text": "@ankitShogun - a tangible outcome needs to be updated via this ticket and needs to be detailed out. "
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3978",

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-22T17:31:03.000Z",
+  "last_updated": "2025-04-23T12:23:18.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4000",
+      "time": "2025-04-23T12:23:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4000",
+      "text": "DEG Retail-Multiple issues in Retail, Leasing, and Wallet apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3996",
+      "time": "2025-04-23T08:45:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3996",
+      "text": "EC Apps-Cancel icon overlaps with search icon in EC apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3994",
+      "time": "2025-04-23T08:01:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3994",
+      "text": "DEG and DEG Sandbox-Title mismatch in Rental app"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3985",

@@ -1,6 +1,58 @@
 {
-  "last_updated": "2025-04-22T12:46:26.000Z",
+  "last_updated": "2025-04-23T12:24:03.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#381",
+      "time": "2025-04-23T12:24:03.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/381",
+      "text": "added deg retail catalog generation script with readme file",
+      "turnaround_time": 45
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-utilities#381",
+      "time": "2025-04-23T12:23:18.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/381",
+      "text": "added deg retail catalog generation script with readme file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#380",
+      "time": "2025-04-23T12:09:15.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/380",
+      "text": "added deg finance catalog generation script with readme file",
+      "turnaround_time": 199
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-utilities#380",
+      "time": "2025-04-23T12:05:56.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/380",
+      "text": "added deg finance catalog generation script with readme file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#379",
+      "time": "2025-04-23T11:07:30.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/379",
+      "text": "Feat/deg ev catalog update",
+      "turnaround_time": 311
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-utilities#379",
+      "time": "2025-04-23T11:02:22.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/379",
+      "text": "Feat/deg ev catalog update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-utilities#377",
+      "time": "2025-04-23T06:57:50.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/377",
+      "text": "Feat/deg finance catalog"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3622",
@@ -4994,37 +5046,37 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3844",
       "title": "fix(DEG-EC): created deg ec responsiveness",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3710",
       "title": "fix(STATE-FOREST): fixed product card layout and open spark product c…",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/242",
       "title": "added iframe for open spark",
-      "stale_for": 50,
+      "stale_for": 51,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/7",
       "title": "css changes for policy details",
-      "stale_for": 775,
+      "stale_for": 776,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/6",
       "title": "css fixed for geofencing and create policy form",
-      "stale_for": 775,
+      "stale_for": 776,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/5",
       "title": "policy details page",
-      "stale_for": 775,
+      "stale_for": 776,
       "labels": []
     }
   ],

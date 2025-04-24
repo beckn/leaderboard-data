@@ -1,6 +1,79 @@
 {
-  "last_updated": "2025-04-22T16:43:21.000Z",
+  "last_updated": "2025-04-23T12:17:26.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-23T12:17:26.000Z",
+      "title": "beckn/beckn-ui-workspace#3997",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3997#pullrequestreview-2787086208",
+      "text": "fix(ec): buils issue for retail app and validation fixes for open spark app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3999",
+      "time": "2025-04-23T12:16:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3999",
+      "text": "Bugfix/aniket/na/build failure osc",
+      "turnaround_time": 20
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3999",
+      "time": "2025-04-23T12:16:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3999",
+      "text": "Bugfix/aniket/na/build failure osc"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3993",
+      "time": "2025-04-23T07:59:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3993",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 14
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3993",
+      "time": "2025-04-23T07:59:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3993",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-23T07:58:38.000Z",
+      "title": "beckn/beckn-ui-workspace#3991",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3991#pullrequestreview-2786325566",
+      "text": "fix(open-spark): fixed ui issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3992",
+      "time": "2025-04-23T07:57:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3992",
+      "text": "fix(deg-wallet): modified code to add source Retail instaed of spark",
+      "turnaround_time": 13
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3992",
+      "time": "2025-04-23T07:57:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3992",
+      "text": "fix(deg-wallet): modified code to add source Retail instaed of spark"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3985",
+      "time": "2025-04-23T05:10:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3985#issuecomment-2823077198",
+      "text": "This is fixed. Please re-test it once.\n@SanketEminds @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3971",
+      "time": "2025-04-23T05:02:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3971#issuecomment-2823065125",
+      "text": "@SanketEminds this is fixed. Re-test it once\ncc @omkar-em "
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3981",
@@ -6243,21 +6316,27 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4002",
+      "title": "feat(beckn-registry): modified code to add integryon & validtion",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
       "title": "fix: fixing of deleivery chrge calculation",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     }
   ],

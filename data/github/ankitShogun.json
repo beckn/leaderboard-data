@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-22T05:20:16.000Z",
+  "last_updated": "2025-04-23T08:40:10.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#331",
+      "time": "2025-04-23T08:40:10.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/331#issuecomment-2823512677",
+      "text": "This iteration goal is to connect github spec repo to the qdrant vector db.\n\nExample - \nAny update in the beckn specs repo will trigger an action, which in turn will update the vector db.\n\nP.S: Qdrant is the database which we are using and its a type of vector db"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-utilities#366",
@@ -2090,19 +2097,19 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/261",
       "title": "Merge conflicts check pr",
-      "stale_for": 32,
+      "stale_for": 33,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/258",
       "title": "Open network sdk testing pr",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 125,
+      "stale_for": 126,
       "labels": []
     }
   ],

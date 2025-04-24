@@ -1,6 +1,80 @@
 {
-  "last_updated": "2025-04-22T16:41:01.000Z",
+  "last_updated": "2025-04-23T13:27:31.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#456",
+      "time": "2025-04-23T13:27:31.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/456#issuecomment-2824305739",
+      "text": "### Date: April 23, 2025\n#### Current Status:\n- have made the changes in the Onix \n- but to test the E2E integration we need the latest version of the protocol-server to be present in the docker hub \n- then only will be able to run the latest PS in the container to test the onsubscribe.\n- [Commit Link](https://github.com/beckn/beckn-onix/commit/91c4a7b575f1a116023e2c7e8ca9e792bcd5b61a)\n\n#### Next Step:\n- Will continue once the docker image is published in the docker hub\n\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-23T12:23:58.000Z",
+      "title": "beckn/beckn-utilities#381",
+      "link": "https://github.com/beckn/beckn-utilities/pull/381#pullrequestreview-2787103917",
+      "text": "added deg retail catalog generation script with readme file"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-23T12:09:10.000Z",
+      "title": "beckn/beckn-utilities#380",
+      "link": "https://github.com/beckn/beckn-utilities/pull/380#pullrequestreview-2787063947",
+      "text": "added deg finance catalog generation script with readme file"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-23T11:32:33.000Z",
+      "title": "beckn/beckn-utilities#377",
+      "link": "https://github.com/beckn/beckn-utilities/pull/377#pullrequestreview-2786970393",
+      "text": "Feat/deg finance catalog"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "beckn/beckn-utilities#379",
+      "time": "2025-04-23T11:07:30.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/379",
+      "text": "Feat/deg ev catalog update",
+      "collaborated_with": [
+        "shreyvishal",
+        "imrthr"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-23T11:07:25.000Z",
+      "title": "beckn/beckn-utilities#379",
+      "link": "https://github.com/beckn/beckn-utilities/pull/379#pullrequestreview-2786908891",
+      "text": "Feat/deg ev catalog update"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3855",
+      "time": "2025-04-23T06:31:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3855",
+      "text": "Enhance Strapi Import Script & Import DEG: EV Catalogs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3803",
+      "time": "2025-04-23T06:31:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3803",
+      "text": "DEG: Strapi Catalog Ops & Registry Prod Deployment Support from Backend"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3713",
+      "time": "2025-04-23T06:31:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3713",
+      "text": "Create a Catalog Format in Excel Sheet for All the Energy Domain Apps with Proper Headings and Sample Values"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3447",
+      "time": "2025-04-23T06:23:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3447",
+      "text": "Lead and Migrate FE Open Spark DEG domain APPs (Solaris, Spark APP, Vault, Lend Ease) and BE Apps (GCL, Strapi, Strapi Plugins, DB) from dev to prod"
+    },
     {
       "type": "pr_collaborated",
       "title": "beckn/generic-client-layer#116",
@@ -2953,25 +3027,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 69,
+      "stale_for": 70,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 308,
+      "stale_for": 309,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 182,
+      "stale_for": 183,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 426,
+      "stale_for": 427,
       "labels": []
     }
   ],

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-22T10:05:54.000Z",
+  "last_updated": "2025-04-23T06:35:37.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3990",
+      "time": "2025-04-23T06:35:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3990",
+      "text": "DEG Retail & Spark - Remove unnecessary \"battery\" word"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3200",

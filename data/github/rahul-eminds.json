@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-22T16:41:01.000Z",
+  "last_updated": "2025-04-23T04:36:53.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3988",
+      "time": "2025-04-23T04:36:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3988",
+      "text": "DEG EV Stage Deployments and Bug Fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3987",
+      "time": "2025-04-23T04:36:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3987",
+      "text": "DEG Rental and Finance Strapi Catalog Import Script"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3986",
+      "time": "2025-04-23T04:36:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3986",
+      "text": "Winroom: DEG EV Bug Fixes on 15th April 2025"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/generic-client-layer#116",
@@ -1752,37 +1773,37 @@
     {
       "link": "https://github.com/beckn/strapi-plugins/pull/260",
       "title": "Added reset account feature for a user based on category",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/strapi-plugins/pull/258",
       "title": "Feat/dynamic price",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
       "title": "Added apis and scripts to cleanup existing data for dynamic price",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 189,
+      "stale_for": 190,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 182,
+      "stale_for": 183,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 182,
+      "stale_for": 183,
       "labels": []
     }
   ],

@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-04-22T06:13:55.000Z",
+  "last_updated": "2025-04-23T11:30:05.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3998",
+      "time": "2025-04-23T11:30:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3998#issuecomment-2823978267",
+      "text": "## Date: April 23, 2025\n\n### Current Status:\n- Attended win-room for deg sandbox issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3998",
+      "time": "2025-04-23T11:30:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3998",
+      "text": "Winroom: DEG Fixes & QA Support – 23rd April 2025"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#3998",
+      "time": "2025-04-23T11:28:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3998",
+      "text": "Winroom: DEG Fixes & QA Support – 23rd April 2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#375",
+      "time": "2025-04-23T09:52:08.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/375#issuecomment-2823739096",
+      "text": "## Date: April 22, 2025\n\n### Current Status:\n- Implemented & deployed API for get network subscriber/participant by ID\n- Added request in postman collection"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#374",
+      "time": "2025-04-23T09:51:21.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/374#issuecomment-2823737065",
+      "text": "## Date: April 22, 2025\n\n### Current Status:\n- Implemented & deployed API for get user by ID\n- Added request in postman collection"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#375",
+      "time": "2025-04-23T05:30:02.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/375",
+      "text": "DeDi Based Registry | Create Admin-Only API Endpoint to Retrieve Network Subscriber by ID"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#374",
+      "time": "2025-04-23T05:29:55.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/374",
+      "text": "DeDi Based Registry | Create Admin-Only Endpoint to Fetch User by ID"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3941",
@@ -979,7 +1028,7 @@
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 457,
+      "stale_for": 458,
       "labels": []
     }
   ],

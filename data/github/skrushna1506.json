@@ -1,6 +1,79 @@
 {
-  "last_updated": "2025-04-22T13:06:55.000Z",
+  "last_updated": "2025-04-23T13:26:51.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4001",
+      "time": "2025-04-23T13:26:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4001",
+      "text": "fix(industry4.0): fix build issue",
+      "turnaround_time": 23
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4001",
+      "time": "2025-04-23T13:26:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4001",
+      "text": "fix(industry4.0): fix build issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3997",
+      "time": "2025-04-23T12:17:34.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3997",
+      "text": "fix(ec): buils issue for retail app and validation fixes for open spark app",
+      "turnaround_time": 4660
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3997",
+      "time": "2025-04-23T10:59:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3997",
+      "text": "fix(ec): buils issue for retail app and validation fixes for open spark app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#3991",
+      "time": "2025-04-23T07:58:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3991",
+      "text": "fix(open-spark): fixed ui issue",
+      "turnaround_time": 1506
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3990",
+      "time": "2025-04-23T07:34:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3990#issuecomment-2823339433",
+      "text": "PR for this task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3991\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#3991",
+      "time": "2025-04-23T07:33:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3991",
+      "text": "fix(open-spark): fixed ui issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3990",
+      "time": "2025-04-23T06:57:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3990#issuecomment-2823261156",
+      "text": "Screenshot for above task\n\n<img width=\"481\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7d157895-6950-4758-bc33-c66f95f79491\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3832",
+      "time": "2025-04-23T05:53:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3832#issuecomment-2823141018",
+      "text": "@aniketceminds ,\n\nAfter analyzing the code, I can see that there are a few potential issues:\nThe error occurs because one of the init responses doesn't have the expected structure with order property. This could happen if one of the BPPs Vendure is returning a different response format.\n\nLooking at the response data, there's a clear difference between the Strapi and Vendure responses:\nStrapi response (first object) has a complete structure with message.order containing all the necessary details.\nVendure response (second object) only contains the context object and is missing the message and order properties entirely. This is why you're getting the error Cannot read properties of undefined (reading 'order') when trying to access it.\naccording to me This is a backend issue where the Vendure BPP is not returning the proper response structure.\nso what should we do in this case, we need to ask @shreyvishal @rahul-eminds  for the same .\nCC:- @SanketEminds @omkar-em \n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/abbf4522-e22e-4ec8-9cb9-a64809b23337\" />\n<img width=\"666\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1923475f-a787-4e59-90c2-0091e92a4621\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3962",
+      "time": "2025-04-23T05:22:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3962#issuecomment-2823092791",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/3977\nCC:- @SanketEminds @omkar-em "
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#3977",

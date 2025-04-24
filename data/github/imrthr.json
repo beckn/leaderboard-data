@@ -1,0 +1,18 @@
+{
+  "last_updated": "2025-04-23T11:07:30.000Z",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "beckn/beckn-utilities#379",
+      "time": "2025-04-23T11:07:30.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/379",
+      "text": "Feat/deg ev catalog update",
+      "collaborated_with": [
+        "shreyvishal",
+        "imrthr"
+      ]
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
