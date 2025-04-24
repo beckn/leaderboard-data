@@ -8195,7 +8195,7 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 226,
+      "stale_for": 227,
       "labels": []
     },
     {
@@ -8207,7 +8207,7 @@
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 356,
+      "stale_for": 357,
       "labels": [
         "enhancement"
       ]

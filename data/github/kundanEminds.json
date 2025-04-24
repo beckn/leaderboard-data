@@ -5038,12 +5038,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/missions/pull/290",
-      "title": "added readme file for generate catalog for deg app",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3844",
       "title": "fix(DEG-EC): created deg ec responsiveness",
       "stale_for": 13,
@@ -5052,31 +5046,31 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3710",
       "title": "fix(STATE-FOREST): fixed product card layout and open spark product c…",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/242",
       "title": "added iframe for open spark",
-      "stale_for": 51,
+      "stale_for": 52,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/7",
       "title": "css changes for policy details",
-      "stale_for": 776,
+      "stale_for": 777,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/6",
       "title": "css fixed for geofencing and create policy form",
-      "stale_for": 776,
+      "stale_for": 777,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/5",
       "title": "policy details page",
-      "stale_for": 776,
+      "stale_for": 777,
       "labels": []
     }
   ],

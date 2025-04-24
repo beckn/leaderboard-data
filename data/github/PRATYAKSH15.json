@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-23T18:25:41.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3800",
+      "time": "2025-04-23T18:25:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3800#issuecomment-2825154207",
+      "text": "Hi @viraj89 \nDo you have any prototype of chatbot functionality so it can be more comprehensive.\n\nI have been working on RAG and langchain integration, It will be great if we connect and contribute.\n\nGood to go,\nPratyaksh"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

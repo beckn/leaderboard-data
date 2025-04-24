@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-23T12:17:26.000Z",
+  "last_updated": "2025-04-23T14:48:54.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4002",
+      "time": "2025-04-23T14:48:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4002",
+      "text": "feat(beckn-registry): modified code to add integryon & validtion"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-04-23T12:17:26.000Z",
@@ -6316,12 +6323,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4002",
-      "title": "feat(beckn-registry): modified code to add integryon & validtion",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
       "title": "fix: fixing of deleivery chrge calculation",
       "stale_for": 12,
@@ -6330,13 +6331,13 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     }
   ],

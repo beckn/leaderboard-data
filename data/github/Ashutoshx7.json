@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-04-23T16:07:24.000Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/trip-stitching-algorithm#5",
+      "time": "2025-04-23T16:07:24.000Z",
+      "link": "https://github.com/beckn/trip-stitching-algorithm/pull/5",
+      "text": "Add API endpoint for trip stitching and enhance data processing logic"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/trip-stitching-algorithm/pull/5",
+      "title": "Add API endpoint for trip stitching and enhance data processing logic",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}
