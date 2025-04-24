@@ -3027,13 +3027,13 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 70,
+      "stale_for": 71,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 309,
+      "stale_for": 310,
       "labels": []
     },
     {

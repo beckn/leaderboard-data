@@ -1785,13 +1785,13 @@
     {
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
       "title": "Added apis and scripts to cleanup existing data for dynamic price",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 190,
+      "stale_for": 191,
       "labels": []
     },
     {
