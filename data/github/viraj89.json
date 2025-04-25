@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-04-23T08:26:28.000Z",
+  "last_updated": "2025-04-24T07:37:56.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4007",
+      "time": "2025-04-24T07:37:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4007",
+      "text": "Devops"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4006",
+      "time": "2025-04-24T07:35:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4006",
+      "text": "Reference Application: DEG Ref Apps, Maintenance and Feature Requests"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3826",
+      "time": "2025-04-24T07:30:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3826#issuecomment-2826645409",
+      "text": "review the items from here and link all the open tickets to v1.1 \n@emmayank "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#372",
+      "time": "2025-04-24T07:13:42.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/372#issuecomment-2826608969",
+      "text": "Landscape document can be started first today itself. Post which, the actual infra setup can start. @em-tpt-bbandi @emgovindtaralkar "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#366",
+      "time": "2025-04-24T07:04:41.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/366#issuecomment-2826588376",
+      "text": "More clarity and discussion is required on April 24. Viraj will schedule this call with Faiz and Ankit. cc @ankitShogun "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#265",
+      "time": "2025-04-24T06:29:48.000Z",
+      "link": "https://github.com/beckn/missions/issues/265#issuecomment-2826521046",
+      "text": "No PRs to review, hence marking this ticket as closed. "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#265",
+      "time": "2025-04-24T06:29:47.000Z",
+      "link": "https://github.com/beckn/missions/issues/265",
+      "text": "Mission Assets: PR backlogs in Beckn missions Github repository"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#330",
+      "time": "2025-04-24T06:23:13.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/330#issuecomment-2826510448",
+      "text": "more detailing is required on this ticket description. cc @emmayank "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#293",
+      "time": "2025-04-24T05:54:25.000Z",
+      "link": "https://github.com/beckn/missions/issues/293#issuecomment-2826465533",
+      "text": "@viraj89 - To Review the implementation guide. "
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3995",

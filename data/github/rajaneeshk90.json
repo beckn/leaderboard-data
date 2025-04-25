@@ -2704,7 +2704,7 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/18",
       "title": "Layer2 config for retail domain",
-      "stale_for": 320,
+      "stale_for": 321,
       "labels": []
     },
     {
@@ -2734,7 +2734,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/407",
       "title": "Adding a GitHub action for Beckn core specification to validate meta.yaml, registry.yaml and transaction.yaml files against OpenAPI3.0",
-      "stale_for": 98,
+      "stale_for": 99,
       "labels": []
     },
     {
@@ -2746,7 +2746,7 @@
     {
       "link": "https://github.com/beckn/logistics/pull/11",
       "title": "Validating Logistics Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Logistics specification",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": []
     }
   ],

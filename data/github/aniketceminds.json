@@ -1,6 +1,114 @@
 {
-  "last_updated": "2025-04-23T14:48:54.000Z",
+  "last_updated": "2025-04-24T10:34:35.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4000",
+      "time": "2025-04-24T10:34:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4000#issuecomment-2827141831",
+      "text": "<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/85465f35-9381-4024-bd6b-8792a2b872b9\" />\n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/45072082-adb6-4273-a4f0-bfd566f30a00\" />\n\n<img width=\"851\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f4995cb2-72f1-4280-aae0-17ab0b80d584\" />\n\n<img width=\"851\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7b43bf8d-6d3d-4391-91eb-bda2babc28f2\" />"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4010",
+      "time": "2025-04-24T10:27:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4010",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4010",
+      "time": "2025-04-24T10:26:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4010",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4009",
+      "time": "2025-04-24T10:20:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4009",
+      "text": "feat(deg-wallet-retail): textual chnges and new identity screen wallet",
+      "turnaround_time": 18
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4009",
+      "time": "2025-04-24T10:20:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4009",
+      "text": "feat(deg-wallet-retail): textual chnges and new identity screen wallet"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#316",
+      "time": "2025-04-24T07:52:42.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/316",
+      "text": "DeDi Based Registry | Network Domain list flow for Registry UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#316",
+      "time": "2025-04-24T07:52:43.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/316#issuecomment-2826696961",
+      "text": "<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/39ed8ded-ae2e-4c1e-9f32-7ad2c0153cdf\" />\n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/984651b4-80e0-4b1a-a49a-4283edb3b451\" />"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#317",
+      "time": "2025-04-24T07:52:01.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/317",
+      "text": "DeDi Based Registry | Network participant flow for Registry UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#317",
+      "time": "2025-04-24T07:51:39.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/317#issuecomment-2826694580",
+      "text": "<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2bb73b36-b1c9-4168-851e-f879a6f71641\" />\n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1d189650-0e6a-42f5-a922-d59196df2d48\" />"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-24T07:18:00.000Z",
+      "title": "beckn/beckn-ui-workspace#4004",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4004#pullrequestreview-2790012965",
+      "text": "fix(OPEN-SPARK): fixed image size issue on checkout page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-24T07:17:10.000Z",
+      "title": "beckn/beckn-ui-workspace#4005",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4005#pullrequestreview-2790010949",
+      "text": "fix(LEND-EASE): added logo of lend ease insist of finanace"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4002",
+      "time": "2025-04-24T07:15:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4002",
+      "text": "feat(beckn-registry): modified code to add integryon & validtion",
+      "turnaround_time": 59217
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3860",
+      "time": "2025-04-24T06:14:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3860#issuecomment-2826496086",
+      "text": "@kundanEminds assigning this to you. please check, issue is specific to prod env. On dev, staging its working correctly."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3984",
+      "time": "2025-04-24T05:10:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3984#issuecomment-2826401652",
+      "text": "@SanketEminds This is fixed. Please re-test it once."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3994",
+      "time": "2025-04-24T04:57:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3994#issuecomment-2826385442",
+      "text": "@SanketEminds  This is expected, as we discussed with @emmayank \ncc @omkar-em "
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-ui-workspace#4002",

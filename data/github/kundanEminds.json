@@ -1,6 +1,65 @@
 {
-  "last_updated": "2025-04-23T12:24:03.000Z",
+  "last_updated": "2025-04-24T09:44:47.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#290",
+      "time": "2025-04-24T09:44:47.000Z",
+      "link": "https://github.com/beckn/missions/pull/290",
+      "text": "added readme file for generate catalog for deg app",
+      "turnaround_time": 162391
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4004",
+      "time": "2025-04-24T07:18:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4004",
+      "text": "fix(OPEN-SPARK): fixed image size issue on checkout page",
+      "turnaround_time": 3453
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4005",
+      "time": "2025-04-24T07:17:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4005",
+      "text": "fix(LEND-EASE): added logo of lend ease insist of finanace",
+      "turnaround_time": 1234
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3860",
+      "time": "2025-04-24T06:58:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3860#issuecomment-2826575484",
+      "text": "<img width=\"519\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1a24a810-7ffa-44e6-8478-ad8f2e5d233b\" />\n\n<img width=\"534\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/cd23d5e0-454a-4fb3-a8c7-b55185ae14c8\" />\n\nfixed @SanketEminds "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4005",
+      "time": "2025-04-24T06:56:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4005",
+      "text": "fix(LEND-EASE): added logo of lend ease insist of finanace"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4004",
+      "time": "2025-04-24T06:20:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4004",
+      "text": "fix(OPEN-SPARK): fixed image size issue on checkout page"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3712",
+      "time": "2025-04-24T05:46:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3712#issuecomment-2826453385",
+      "text": "<img width=\"508\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/8f44a60c-1038-4330-8094-47389b119846\" />\n\nfixed @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3843",
+      "time": "2025-04-24T05:37:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3843#issuecomment-2826441801",
+      "text": "<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e3d66d67-b646-4fca-a914-2fd6b81d65e1\" />\n\nfixed @SanketEminds "
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-utilities#381",

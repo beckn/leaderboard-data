@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-03T10:23:29.000Z",
+  "last_updated": "2025-04-24T05:11:39.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#461",
+      "time": "2025-04-24T05:11:39.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/461",
+      "text": "Validate Payload Context and Return Structured Schema Validation Errors"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-onix#447",
@@ -26,9 +33,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/beckn-onix/pull/461",
+      "title": "Validate Payload Context and Return Structured Schema Validation Errors",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-onix/pull/447",
       "title": "Added test cases for registeryLookUp and implemented the registeryLookUp plugin",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": []
     }
   ],

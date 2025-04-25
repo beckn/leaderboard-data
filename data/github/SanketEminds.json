@@ -1,6 +1,286 @@
 {
-  "last_updated": "2025-04-23T12:23:18.000Z",
+  "last_updated": "2025-04-24T10:36:24.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3860",
+      "time": "2025-04-24T10:36:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3860",
+      "text": "EC LendEase App-App name displaying as \"Wallet\" instead of \"LendEase\"."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3860",
+      "time": "2025-04-24T10:36:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3860#issuecomment-2827147155",
+      "text": "Closing this as its working fine.\n\n![Image](https://github.com/user-attachments/assets/eac1073f-9583-4403-af0f-ad8a657878a1)\n@omkar-em  @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3893",
+      "time": "2025-04-24T10:29:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3893#issuecomment-2827123396",
+      "text": "PFA, First letter should be capital.\n![Image](https://github.com/user-attachments/assets/aa521dc1-280e-4785-abbc-cb796db006d9)\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3953",
+      "time": "2025-04-24T09:34:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3953#issuecomment-2826978293",
+      "text": "This issue is now fixed. The app is returning results with the exact entered capacity and above, as expected\ncc @omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3953",
+      "time": "2025-04-24T09:34:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3953",
+      "text": "DEG-Capacity filter returns only exact match instead of equal or greater capacity"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3937",
+      "time": "2025-04-24T09:32:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3937#issuecomment-2826972233",
+      "text": "This is resolved, CLosing this.\n![Image](https://github.com/user-attachments/assets/9fbee30b-2a78-4713-8698-406ddc34516e)\n\n![Image](https://github.com/user-attachments/assets/6b6ff33c-316e-43b0-a64e-8a0b7ab81d15)\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3937",
+      "time": "2025-04-24T09:32:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3937",
+      "text": "EV- Port details not showing on Book Charger and Order History pages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4008",
+      "time": "2025-04-24T09:27:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4008",
+      "text": "DEG Sandbox-Capacity missing while renting out battery – unable to publish"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3984",
+      "time": "2025-04-24T07:29:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3984#issuecomment-2826643977",
+      "text": "Showing spark on production env, Please move changes to Prod @aniketceminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3971",
+      "time": "2025-04-24T07:23:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3971#issuecomment-2826629982",
+      "text": "Tested this and its working fine, Closing this.\n\n![Image](https://github.com/user-attachments/assets/9eac5a3f-3f9b-4b1f-b8d4-319a74b28b06)\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3971",
+      "time": "2025-04-24T07:23:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3971",
+      "text": "DEG-Battery with Lesser Capacity Can Be Rented Out for Higher Requested Capacity"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3952",
+      "time": "2025-04-24T07:15:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3952#issuecomment-2826613367",
+      "text": "This is working fine.\n![Image](https://github.com/user-attachments/assets/1816fa44-32b3-4dd6-8d17-87badab9b2b5)\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3952",
+      "time": "2025-04-24T07:15:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3952",
+      "text": "Ev -Chargers not appearing for selected location in EV app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3967",
+      "time": "2025-04-24T07:11:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3967#issuecomment-2826605651",
+      "text": "Tested this on staging, Please move it ot Production\n@aniketceminds  @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3895",
+      "time": "2025-04-24T06:51:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3895#issuecomment-2826562659",
+      "text": "This is fixed,\n\n![Image](https://github.com/user-attachments/assets/d6853bc0-243b-4459-858b-c1f7e6bb7b48)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3895",
+      "time": "2025-04-24T06:51:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3895",
+      "text": "DEG-Misalignment and Extra Spacing on Billing & Shipping Page (Battery & Text)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3868",
+      "time": "2025-04-24T06:41:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3868#issuecomment-2826544318",
+      "text": "This issue is resolved and working fine, Closing this ticket\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3868",
+      "time": "2025-04-24T06:41:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3868",
+      "text": "EC- 404 Page Not Found when clicking on DSEP card from Ex Center"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3907",
+      "time": "2025-04-24T06:40:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3907#issuecomment-2826542672",
+      "text": "This is fixed, closing this\n![Image](https://github.com/user-attachments/assets/1969cfcc-c904-46cf-982f-e61907d64f8b)\n@omkar-em  @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3907",
+      "time": "2025-04-24T06:40:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3907",
+      "text": "DEG - Change financer name from Bank of America to Citi Bank"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3990",
+      "time": "2025-04-24T06:36:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3990#issuecomment-2826532949",
+      "text": "This is not fixed yet.\n![Image](https://github.com/user-attachments/assets/fa90f3d2-d86a-4dcb-9e27-62160fef90ea)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3962",
+      "time": "2025-04-24T06:35:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3962#issuecomment-2826531719",
+      "text": "Closing this\n![Image](https://github.com/user-attachments/assets/90a02fee-6508-4171-8717-94a3303ee8d3)\n@omkar-em  @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3962",
+      "time": "2025-04-24T06:35:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3962",
+      "text": "EC Spark App-Rented Batteries Not Displayed in \"My Rentals\" – Spark App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3709",
+      "time": "2025-04-24T06:21:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3709#issuecomment-2826508312",
+      "text": "This is resolved, closing this.\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3709",
+      "time": "2025-04-24T06:21:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3709",
+      "text": "Spark - Sign up page - Allows alphabets in mobile number field (Firefox)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3996",
+      "time": "2025-04-24T06:06:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3996#issuecomment-2826483037",
+      "text": "This is fixed.\n![Image](https://github.com/user-attachments/assets/2e86521d-0e33-4d75-8ea3-52fca4f709c2)\n\n![Image](https://github.com/user-attachments/assets/5fbcff84-4218-4d6d-aeff-0d30025bf32f)\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3996",
+      "time": "2025-04-24T06:06:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3996",
+      "text": "EC Apps-Cancel icon overlaps with search icon in EC apps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3926",
+      "time": "2025-04-24T05:48:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3926",
+      "text": "DEG and Energy App-Disabled payment options (Apple Pay & Stripe) are still visible on Checkout Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3926",
+      "time": "2025-04-24T05:48:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3926#issuecomment-2826456597",
+      "text": "Disabled payment option is removed,\nClosing this\n![Image](https://github.com/user-attachments/assets/080e6b17-eb87-4da9-8f73-d0089557bd39)\ncc @omkar-em @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3941",
+      "time": "2025-04-24T05:41:42.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3941#issuecomment-2826447013",
+      "text": "Tested above issue and it is working fine, Closing this ticket\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3941",
+      "time": "2025-04-24T05:41:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3941",
+      "text": "DEG-Battery Not Displayed When Searching for Next Day’s Last Hour Slot in Rental App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3883",
+      "time": "2025-04-24T05:29:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3883#issuecomment-2826430330",
+      "text": "Tested and issue is resolved, closing this.\n\n![Image](https://github.com/user-attachments/assets/60c82f9f-50e8-45b1-b947-baafa9e83a8b)\n@omkar-em  @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3883",
+      "time": "2025-04-24T05:29:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3883",
+      "text": "EC Spark App-Address Field Showing Blank in Spark App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3792",
+      "time": "2025-04-24T05:25:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3792#issuecomment-2826420720",
+      "text": "![Image](https://github.com/user-attachments/assets/23c9d96f-18fc-4545-a552-22ca0d1ec02a)\nTested and this is resolved\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3792",
+      "time": "2025-04-24T05:25:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3792",
+      "text": "Ec App-Order ID Overflowing Outside Page in Retail App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3584",
+      "time": "2025-04-24T05:24:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3584#issuecomment-2826419104",
+      "text": "Please check once this is not fixed yet @skrushna1506 \n\n![Image](https://github.com/user-attachments/assets/7bbb32b5-6a23-48f9-9aca-a6b2c4569582)\n\n@omkar-em @aniketceminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3789",
+      "time": "2025-04-24T04:36:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3789",
+      "text": "DEG-Unable to Add Different Batteries with the Same Name – Filtering by Battery Name"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3860",
+      "time": "2025-04-24T04:36:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3860#issuecomment-2826359184",
+      "text": "@aniketceminds Tested above issue and its not fixed yet.Please check once.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3802",
+      "time": "2025-04-24T04:34:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3802#issuecomment-2826356759",
+      "text": "This is fixed and working fine.\n\n![Image](https://github.com/user-attachments/assets/a68dbf76-d839-4edf-afa7-c691ee4d45d7)\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3802",
+      "time": "2025-04-24T04:34:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3802",
+      "text": "EC -Energy App-Search and Purchase Functionality Issues in Battery Module(Dev Env)"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4000",

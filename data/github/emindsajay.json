@@ -1,6 +1,104 @@
 {
-  "last_updated": "2025-04-23T11:30:05.000Z",
+  "last_updated": "2025-04-24T11:13:33.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#257",
+      "time": "2025-04-24T11:13:33.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/257#issuecomment-2827234894",
+      "text": "The release note has been added by @shreyvishal."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#383",
+      "time": "2025-04-24T09:49:23.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/383",
+      "text": "DeDi Based Registry | Allow Non-Admin Users to Update Their Own Network Subscriber"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#383",
+      "time": "2025-04-24T11:05:51.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/383#issuecomment-2827217197",
+      "text": "## Date: April 23, 2025\n\n### Current Status:\n- Allowed non-admin users to update their own network subscribers"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#382",
+      "time": "2025-04-24T09:49:17.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/382",
+      "text": "DeDi Based Registry | Enable Non-Admin Users to Fetch User Details by ID"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#382",
+      "time": "2025-04-24T11:05:12.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/382#issuecomment-2827215448",
+      "text": "## Date: April 23, 2025\n\n### Current Status:\n- Enabled non-admin users to fetch user details by ID"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#384",
+      "time": "2025-04-24T11:03:11.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/384#issuecomment-2827210080",
+      "text": "## Date: April 24, 2025\n\n### Current Status:\n- Resolved the issue of query filter for network subscribers"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#384",
+      "time": "2025-04-24T09:49:30.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/384",
+      "text": "DeDi Based Registry | Add Query Support for Fetching Network Subscribers"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#384",
+      "time": "2025-04-24T11:02:16.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/384#issuecomment-2827208031",
+      "text": "## Date: April 23, 2025\n\n### Current Status:\n- Added query support for fetching network subscribers."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#332",
+      "time": "2025-04-24T10:58:55.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/332#issuecomment-2827200260",
+      "text": "## April 24, 2025\n\n### Current task:\n- Verified the APIs in Postman and confirmed that authentication is functioning correctly."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#332",
+      "time": "2025-04-24T10:58:54.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/332",
+      "text": "DeDi API Authentication Review in Beta Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#384",
+      "time": "2025-04-24T09:47:23.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/384",
+      "text": "DeDi Based Registry | Add Query Support for Fetching Network Subscribers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#383",
+      "time": "2025-04-24T09:46:26.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/383",
+      "text": "DeDi Based Registry | Allow Non-Admin Users to Update Their Own Network Subscriber"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#382",
+      "time": "2025-04-24T09:44:24.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/382",
+      "text": "DeDi Based Registry | Enable Non-Admin Users to Fetch User Details by ID"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3695",
+      "time": "2025-04-24T08:39:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3695#issuecomment-2826816216",
+      "text": "@SanketEminds please list the steps to reproduce"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3998",

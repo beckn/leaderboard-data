@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-23T08:40:10.000Z",
+  "last_updated": "2025-04-24T09:09:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#366",
+      "time": "2025-04-24T09:09:54.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/366#issuecomment-2826913413",
+      "text": "April 23rd update. Posted the same in beckn-ai slack channel\n\nJust tested the aws-documentation-mcp-server locally with Cursor — it's working as expected and successfully retrieving structured AWS documentation via tool calls (tested with S3 public read-only bucket configuration).\n\nThere's no documentation or mention of installing these servers on a separate EC2 instance or grouping them together for persistent deployment. I tried running the same server manually on EC2, but it gets stuck without logs — likely due to region or credential config issues. Will continue debugging that separately.\n\nNext, I’ll proceed with testing an actual service-specific MCP — likely starting with the one that interacts with S3 buckets — to see how well it handles AWS resource interaction beyond documentation."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#331",
@@ -2097,7 +2104,7 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/261",
       "title": "Merge conflicts check pr",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": []
     },
     {
@@ -2109,7 +2116,7 @@
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 126,
+      "stale_for": 127,
       "labels": []
     }
   ],
