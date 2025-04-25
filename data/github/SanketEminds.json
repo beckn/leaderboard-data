@@ -1,6 +1,62 @@
 {
-  "last_updated": "2025-04-24T10:36:24.000Z",
+  "last_updated": "2025-04-24T13:45:03.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4012",
+      "time": "2025-04-24T13:45:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4012",
+      "text": "EC-Images Not Displaying in Search Results – Industry 4.0 (Production)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3870",
+      "time": "2025-04-24T12:24:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3870",
+      "text": "DEG- Quantity Mismatch in Order History and Wallet App (Rental App)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3870",
+      "time": "2025-04-24T12:24:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3870#issuecomment-2827426867",
+      "text": "This is fixed,\n![Image](https://github.com/user-attachments/assets/7b5606df-3813-4376-b25c-d94f51df6b53)\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3900",
+      "time": "2025-04-24T12:16:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3900#issuecomment-2827405765",
+      "text": "Working fine.\n![Image](https://github.com/user-attachments/assets/2c4f4513-5ee9-417e-8fb3-a06b6459c0d1)\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3900",
+      "time": "2025-04-24T12:16:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3900",
+      "text": "DEG-Improve Error Message for Invalid QR Code Scan in Wallet App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3894",
+      "time": "2025-04-24T12:11:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3894#issuecomment-2827392108",
+      "text": "Tested and working fine, Closing this.\n\n![Image](https://github.com/user-attachments/assets/db14d68e-6a8e-46c2-ac26-730aa98e54a8)\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3894",
+      "time": "2025-04-24T12:11:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3894",
+      "text": "DEG-: OTP Box Accepts Special Characters and Multiple Digits"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3695",
+      "time": "2025-04-24T11:50:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3695#issuecomment-2827338792",
+      "text": "Open the DSEP app and place an order. In the Order History, the recently placed order appears at the bottom instead of the top.\nhttps://unified-dsep.becknprotocol.io\n\n@rahul-eminds @emindsajay \n\n"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#3860",

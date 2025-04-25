@@ -1,6 +1,43 @@
 {
-  "last_updated": "2025-04-23T13:27:31.000Z",
+  "last_updated": "2025-04-24T15:44:31.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#456",
+      "time": "2025-04-24T15:44:31.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/456#issuecomment-2828095752",
+      "text": "### Date: April 24, 2025\n#### Current Status:\n- Have completed the implementation. \n- But there is some issue from DeDi. Due to which there is delay in v1.1 release.\n- [Commit Link](https://github.com/beckn/beckn-onix/commit/a9537625a95558c6844b133acb310ce6eee536fa)\n\n#### Next Step:\n- Will publish the release once Dedi issues are fixed."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#269",
+      "time": "2025-04-24T13:13:12.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/269",
+      "text": "Develop",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#269",
+      "time": "2025-04-24T13:13:07.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/269",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#268",
+      "time": "2025-04-24T13:12:53.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/268",
+      "text": "Added: Changes for Padding of Pvt key",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#268",
+      "time": "2025-04-24T13:12:48.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/268",
+      "text": "Added: Changes for Padding of Pvt key"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-onix#456",

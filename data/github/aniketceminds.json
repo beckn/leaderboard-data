@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-04-24T10:34:35.000Z",
+  "last_updated": "2025-04-24T12:45:31.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4011",
+      "time": "2025-04-24T12:45:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4011",
+      "text": "fix(beckn-registry): modified code to fix the search issue",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4011",
+      "time": "2025-04-24T12:45:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4011",
+      "text": "fix(beckn-registry): modified code to fix the search issue"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4000",
@@ -6430,6 +6445,12 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4022",
+      "title": "Staging 1.1.0",
+      "stale_for": 0,
+      "labels": []
+    },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
       "title": "fix: fixing of deleivery chrge calculation",
