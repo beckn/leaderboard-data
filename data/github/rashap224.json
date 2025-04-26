@@ -1,0 +1,65 @@
+{
+  "last_updated": "2025-04-25T14:34:26.000Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/trip-stitching-algorithm#6",
+      "time": "2025-04-25T14:34:26.000Z",
+      "link": "https://github.com/beckn/trip-stitching-algorithm/pull/6",
+      "text": " Implement trip stitching algorithm to a real mobility workflow in beckn"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/Unified-Energy-Interface#42",
+      "time": "2025-04-25T13:49:09.000Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/42#issuecomment-2830492414",
+      "text": "@rajaneeshk90 Can u please review my PR?\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/Unified-Energy-Interface#42",
+      "time": "2025-04-25T13:31:20.000Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/42",
+      "text": "Add Generic Use Case Document for Microgrid Aggregation"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/trip-stitching-algorithm/pull/6",
+      "title": " Implement trip stitching algorithm to a real mobility workflow in beckn",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/42",
+      "title": "Add Generic Use Case Document for Microgrid Aggregation",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-specifications/pull/482",
+      "title": "CICD: Add GitHub Actions workflow for OpenAPI syntax validation",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-specifications/pull/481",
+      "title": "feat: Changes to Item attributes in draft spec",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-specifications/pull/480",
+      "title": "feat: Add fulfillment-level tracking tracking support to /trackAPI",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-specifications/pull/479",
+      "title": "feat: Add state property to Order schema",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

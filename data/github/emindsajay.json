@@ -1133,7 +1133,7 @@
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 459,
+      "stale_for": 460,
       "labels": []
     }
   ],

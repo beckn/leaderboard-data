@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-04-24T15:44:31.000Z",
+  "last_updated": "2025-04-25T14:23:54.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#456",
+      "time": "2025-04-25T14:23:54.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/456",
+      "text": "Update Beckn ONIX Script to Call Registry’s `/subscribe` Endpoint and Commit to `beckn-one` Branch"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#456",
+      "time": "2025-04-25T14:23:46.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/456#issuecomment-2830579531",
+      "text": "### Date: April 25, 2025\n#### Current Status:\n- Have released the latest version\n- [Release Link](https://github.com/beckn/beckn-onix/releases/tag/v1.1.0)\n\n#### Next Step:\n- Task done closing the ticket"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#456",
+      "time": "2025-04-25T11:12:58.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/456#issuecomment-2830123066",
+      "text": "### Date: April 25, 2025\n#### Current Status:\n- Have tested the implementation with fixed Dedi issues. And is working fine\n- Created PR for Beckn Onix to branch `v1.1.0` and [PR Link](https://github.com/beckn/beckn-onix/pull/463)\n- Created Release draft for this which is under review\n\n#### Next Step:\n- Will publish the release once the release draft is reviewed."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#463",
+      "time": "2025-04-25T10:31:21.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/463",
+      "text": "V1.1.0 enhancement",
+      "turnaround_time": 171
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#463",
+      "time": "2025-04-25T10:28:31.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/463",
+      "text": "V1.1.0 enhancement"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-onix#456",
@@ -3064,25 +3100,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 71,
+      "stale_for": 72,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 310,
+      "stale_for": 311,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 184,
+      "stale_for": 185,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 428,
+      "stale_for": 429,
       "labels": []
     }
   ],

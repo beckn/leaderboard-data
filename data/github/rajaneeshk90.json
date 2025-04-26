@@ -1,6 +1,97 @@
 {
-  "last_updated": "2025-04-24T13:48:48.000Z",
+  "last_updated": "2025-04-25T12:50:55.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#465",
+      "time": "2025-04-25T12:50:55.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/465",
+      "text": "Specification: releasing protocol-Specification version 1.2"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#296",
+      "time": "2025-04-25T12:48:48.000Z",
+      "link": "https://github.com/beckn/missions/issues/296",
+      "text": "Beckn knowledge RAG: AI input document for Beckn Schemas"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#464",
+      "time": "2025-04-25T12:48:15.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/464",
+      "text": "Specification: RFC for negotiation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/missions#295",
+      "time": "2025-04-25T12:41:37.000Z",
+      "link": "https://github.com/beckn/missions/issues/295",
+      "text": "Beckn Onix: Specification Doc for registry endpoints"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4038",
+      "time": "2025-04-25T12:40:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4038",
+      "text": "Mission Assets: Generic implementation guide v1.1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3879",
+      "time": "2025-04-25T12:10:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3879",
+      "text": "Beckn knowledge RAG: AI input document for Beckn Schemas"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3879",
+      "time": "2025-04-25T12:10:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3879#issuecomment-2830251444",
+      "text": "As the sprint has completed, I will close this ticket, new progress will be tracked in another ticket."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#333",
+      "time": "2025-04-25T12:09:56.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/333",
+      "text": "Beckn knowledge RAG: Completing the schema doc"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/missions#293",
+      "time": "2025-04-25T12:09:39.000Z",
+      "link": "https://github.com/beckn/missions/issues/293",
+      "text": "Mission Assets: Generic implementation guide v1.1"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/missions#293",
+      "time": "2025-04-25T12:09:30.000Z",
+      "link": "https://github.com/beckn/missions/issues/293#issuecomment-2830249106",
+      "text": "As the sprint has completed, I will close this ticket, new progress will be tracked in another ticket."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-onix#460",
+      "time": "2025-04-25T12:09:09.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/460",
+      "text": "Beckn Onix: Specification Doc for registry endpoints - 2"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#460",
+      "time": "2025-04-25T12:08:57.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/460#issuecomment-2830247833",
+      "text": "As the sprint has completed, I will close this ticket, new progress will be tracked in another ticket."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#460",
+      "time": "2025-04-25T12:08:15.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/460#issuecomment-2830246086",
+      "text": "Date: 25th April\n\nCurrent Status:\n\n1. Restructured some of the sections.\n2. Added subscribe on_subscribe response description and example payloads\n3. Added a section for Registering a subscriber and key details for the first time\n4. separated the Proof of possession verification of signing_public_key and encr_public_key\n5. added sections for: \n    - Adding a new service region\n    - Updating a subscription URL\n    - Expiring an existing key\n    - Adding a new signing_public_key for an existing subscriber\n    - Adding a new encr_public_key for an existing subscriber\nReviewed with Mayank\n\nNext steps:\n\n1. Check if /lookup API needs to be documented\n2. convert to .md file format if required.\n3. Change the format to match the format specified in the ticket."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-onix#460",
@@ -2663,13 +2754,13 @@
     {
       "link": "https://github.com/beckn/missions/pull/294",
       "title": "Generic implementation guide",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "title": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs.",
-      "stale_for": 178,
+      "stale_for": 179,
       "labels": []
     },
     {
@@ -2687,7 +2778,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/438",
       "title": "Core 1.2 release",
-      "stale_for": 254,
+      "stale_for": 255,
       "labels": []
     },
     {
@@ -2711,13 +2802,13 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/18",
       "title": "Layer2 config for retail domain",
-      "stale_for": 321,
+      "stale_for": 322,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/21",
       "title": "L2 config",
-      "stale_for": 225,
+      "stale_for": 226,
       "labels": []
     },
     {
@@ -2729,7 +2820,7 @@
     {
       "link": "https://github.com/beckn/Industry-4.0-Specifications/pull/9",
       "title": "Validating Industry4.0 Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Industry4.0 specification",
-      "stale_for": 373,
+      "stale_for": 374,
       "labels": []
     },
     {
@@ -2741,7 +2832,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/407",
       "title": "Adding a GitHub action for Beckn core specification to validate meta.yaml, registry.yaml and transaction.yaml files against OpenAPI3.0",
-      "stale_for": 99,
+      "stale_for": 100,
       "labels": []
     },
     {
@@ -2753,7 +2844,7 @@
     {
       "link": "https://github.com/beckn/logistics/pull/11",
       "title": "Validating Logistics Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Logistics specification",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": []
     }
   ],

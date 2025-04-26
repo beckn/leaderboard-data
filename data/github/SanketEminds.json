@@ -1,6 +1,153 @@
 {
-  "last_updated": "2025-04-24T13:45:03.000Z",
+  "last_updated": "2025-04-25T13:47:27.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3914",
+      "time": "2025-04-25T13:47:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3914#issuecomment-2830487869",
+      "text": "Testing Report-\n25-04-2025\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/913899526/Testing+Report-25-04-2025"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3914",
+      "time": "2025-04-25T13:47:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3914",
+      "text": "Weekly Application Testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3984",
+      "time": "2025-04-25T13:12:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3984#issuecomment-2830395911",
+      "text": "@aniketceminds The above issue has been tested and fixed in the staging environment. I will close the issue once it is deployed to production.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3990",
+      "time": "2025-04-25T12:56:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3990#issuecomment-2830357632",
+      "text": "Closing this as its working fine\n\n![Image](https://github.com/user-attachments/assets/4952688a-b556-40df-a821-3d2f01dc7edf)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3990",
+      "time": "2025-04-25T12:56:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3990",
+      "text": "Open Spark - Remove unnecessary \"battery\" word"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3695",
+      "time": "2025-04-25T12:50:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3695#issuecomment-2830344996",
+      "text": "@rahul-eminds Recently Placed Order Not Appearing on Top in Production env.\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3840",
+      "time": "2025-04-25T12:47:53.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3840#issuecomment-2830338226",
+      "text": "![Image](https://github.com/user-attachments/assets/c3c2f895-b6e8-4e52-b707-020239f22231)\n@kundanEminds Still not working for me,\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3700",
+      "time": "2025-04-25T11:36:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3700#issuecomment-2830174548",
+      "text": "@aniketceminds This issue still exists, so moving it to the next iteration by keeping it on hold.\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4012",
+      "time": "2025-04-25T11:34:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4012#issuecomment-2830170384",
+      "text": "This is resolved, PFA.\nClosing this.\n\n![Image](https://github.com/user-attachments/assets/f3c3b4ba-00a8-4246-97db-2627121030fc)\ncc-@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4012",
+      "time": "2025-04-25T11:34:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4012",
+      "text": "EC-Images Not Displaying in Search Results – Industry 4.0 (Production)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3563",
+      "time": "2025-04-25T11:15:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3563#issuecomment-2830129553",
+      "text": "This is fixed, and working as expected.\n@omkar-em  @PritiEM \n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3563",
+      "time": "2025-04-25T11:15:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3563",
+      "text": "Open Spark - Vault App-Application Crashing Due to Missing Breakup Inside Quote"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3967",
+      "time": "2025-04-25T11:12:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3967#issuecomment-2830122129",
+      "text": "Tested above issue in all six apps and its working fine,Closing this.\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3967",
+      "time": "2025-04-25T11:12:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3967",
+      "text": "EC-Filter and Search Result UI Issues in Climate and Forest Apps"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3712",
+      "time": "2025-04-25T11:05:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3712#issuecomment-2830108349",
+      "text": "@kundanEminds I tested it on production env and the above issue is still present,\nPlease check and confirm."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4017",
+      "time": "2025-04-25T11:00:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4017#issuecomment-2830096964",
+      "text": "This is fixed, CLosing this.\n\n![Image](https://github.com/user-attachments/assets/c8fa796b-42da-456d-a0d9-329e62612e4e)\n\n![Image](https://github.com/user-attachments/assets/89534636-0085-488b-aa3f-c32c3b7d3e33)\n@omkar-em @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4017",
+      "time": "2025-04-25T11:00:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4017",
+      "text": "DEG Retail & Sandbox-Update City Bank Logo to Latest Version"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3985",
+      "time": "2025-04-25T10:55:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3985#issuecomment-2830088236",
+      "text": "Closing this, As its working fine,\n\n![Image](https://github.com/user-attachments/assets/1806fee0-8e44-44e5-b9bb-c5f3a4478b8d)\n@omkar-em  @PritiEM "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3985",
+      "time": "2025-04-25T10:55:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3985",
+      "text": "DEG- Incorrect status for rented-out battery in Wallet app"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4028",
+      "time": "2025-04-25T09:52:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4028",
+      "text": "Dedi Registry - User Edit: Admin Checkbox Ticked, But Shows as \"No\" Under Admin Tab"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4027",
+      "time": "2025-04-25T09:46:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4027",
+      "text": "DEG App - Cached Data Shown After Logout and Re-login"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4012",

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-24T03:55:14.000Z",
+  "last_updated": "2025-04-25T12:10:57.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3695",
+      "time": "2025-04-25T12:10:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3695#issuecomment-2830252548",
+      "text": "### Date: April 25, 2025\n\n- Gathered information on all applications facing issues related to improper sorting.\n- Identified affected apps and verified their sorting logic.\n- Implemented sorting by `updated_at` in descending order for all impacted apps to resolve the issue.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3552",
+      "time": "2025-04-25T12:09:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3552#issuecomment-2830248530",
+      "text": "### Date: April 25, 2025\n\n- Debugged and identified the root cause of AWS Amplify not auto-deploying via GitHub webhook.\n- Found misconfiguration: incorrect webhook URL in GitHub and wrong branch configured in AWS Amplify.\n- Corrected both issues and tested successful automatic deployments.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4014",
+      "time": "2025-04-25T12:06:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4014#issuecomment-2830242381",
+      "text": "### Date: April 25, 2025\n\n- Wrote a Node.js script to update all DEG Finance catalogs with the appropriate tags.\n- Verified the catalog updates using Beckn API calls to ensure correct tagging.\n- Tested end-to-end flows to validate tag-based search and filtering functionalities.\n"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4003",
@@ -1780,7 +1801,7 @@
     {
       "link": "https://github.com/beckn/strapi-plugins/pull/260",
       "title": "Added reset account feature for a user based on category",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
@@ -1792,25 +1813,25 @@
     {
       "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
       "title": "Added apis and scripts to cleanup existing data for dynamic price",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/240",
       "title": "Used schemasafe library for validating all OAS version",
-      "stale_for": 191,
+      "stale_for": 192,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/239",
       "title": "SchemaSafe library for OAS all version validation",
-      "stale_for": 184,
+      "stale_for": 185,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/212",
       "title": "Openapi implementation using AGV for performance",
-      "stale_for": 184,
+      "stale_for": 185,
       "labels": []
     }
   ],
