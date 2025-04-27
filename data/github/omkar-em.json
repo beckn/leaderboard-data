@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-23T06:35:37.000Z",
+  "last_updated": "2025-04-26T13:37:30.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4039",
+      "time": "2025-04-26T13:37:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4039",
+      "text": "Test Issue for Leadeboard"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#3990",

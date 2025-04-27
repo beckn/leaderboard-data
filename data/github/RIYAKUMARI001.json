@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-26T04:34:51.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3800",
+      "time": "2025-04-26T04:34:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3800#issuecomment-2831834877",
+      "text": "Hi @viraj89 ,\n\nI'm Riya Kumari, a first-year student deeply interested in open source and AI-driven frontend development.\n\nI came across the “No-Code AI-Enabled Catalog Generator” project under Beckn through C4GT, and I’m genuinely excited about the mission to make Beckn UIs more accessible. The idea of empowering non-tech users to build Beckn-compatible apps using natural language is powerful, and I’d love to contribute to building that future.\n\nI’m comfortable with JavaScript and React, and I’m currently learning LangChain and LLM APIs as I go. I’m especially drawn to the drag-and-drop state machine UI, and I’m confident I can add value to the frontend and prompt-handling flows.\n\nCould you please guide me on the setup process beyond the README, and if there’s any good first issue to begin with? Also, is there a Slack or Discord where contributors are coordinating?\n\nLooking forward to working with you and contributing meaningfully!\n\nWarm regards,\nRiya "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
