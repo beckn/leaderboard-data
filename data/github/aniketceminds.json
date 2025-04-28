@@ -6533,31 +6533,6 @@
       "text": "fix(open-spark): modified code to revert the chnges fo routing issue"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4022",
-      "title": "Staging 1.1.0",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
-      "title": "fix: fixing of deleivery chrge calculation",
-      "stale_for": 15,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
-      "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 17,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
-      "title": "Cypress amplify testing",
-      "stale_for": 17,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

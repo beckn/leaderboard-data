@@ -20,13 +20,13 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/43",
       "title": "EV-CHARGING.MD  (docs)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/trip-stitching-algorithm/pull/5",
       "title": "Add API endpoint for trip stitching and enhance data processing logic",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     }
   ],

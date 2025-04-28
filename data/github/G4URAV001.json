@@ -1,0 +1,35 @@
+{
+  "last_updated": "2025-04-27T08:48:17.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-specifications#484",
+      "time": "2025-04-27T08:48:17.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/484#issuecomment-2833332561",
+      "text": "cc: @ravi-prakash-v "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#485",
+      "time": "2025-04-27T08:45:43.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/485",
+      "text": "automated Open API syntax validation on submitting PR to master and draft"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#484",
+      "time": "2025-04-27T08:43:58.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/484",
+      "text": "automated Open API syntax validation on submitting PR to master and d…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#483",
+      "time": "2025-04-27T07:58:24.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/483",
+      "text": "Test openapi validation"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
