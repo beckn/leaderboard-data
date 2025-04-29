@@ -16,6 +16,19 @@
       "text": "Add API endpoint for trip stitching and enhance data processing logic"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/43",
+      "title": "EV-CHARGING.MD  (docs)",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/trip-stitching-algorithm/pull/5",
+      "title": "Add API endpoint for trip stitching and enhance data processing logic",
+      "stale_for": 5,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

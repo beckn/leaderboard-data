@@ -9,6 +9,13 @@
       "text": "Create Use Case Document for EV Charging Transaction#2"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/44",
+      "title": "Create Use Case Document for EV Charging Transaction#2",
+      "stale_for": 2,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
