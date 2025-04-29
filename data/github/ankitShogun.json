@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-27T19:19:58.000Z",
+  "last_updated": "2025-04-29T09:10:43.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#389",
+      "time": "2025-04-29T09:10:43.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/389#issuecomment-2838036641",
+      "text": "### Completed:\n- Set up the development environment with TypeScript, Express, and the MCP SDK\n- Implemented the basic MCP server structure with SSE transport\n- Created the initial search endpoint integration with Beckn BAP\n- Tested connectivity with the Beckn network\n\n### In Progress:\n- Improving the search endpoint implementation by removing hardcoded values\n- Making the request payload more dynamic to handle various search scenarios\n- Implementing proper error handling for API responses\n- Testing different search parameters to ensure robust functionality\n\n### Challenges:\n- Had to refine the request payload structure to match exactly what the BAP expects\n- Working through some response parsing complexities to present data clearly\n\n### Next Steps:\n- Complete the search endpoint refinements\n- Begin implementing the select endpoint for the next step in the transaction flow\n- Create a more robust state management system for multi-step transactions\n- Develop better response formatting for improved user experience\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#389",
+      "time": "2025-04-29T09:01:20.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/389",
+      "text": "Create Beckn MCP client and search endpoint improvement"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#388",
+      "time": "2025-04-29T09:00:27.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/388#issuecomment-2838008617",
+      "text": "# Beckn MCP Implementation Scope\n\n## Overview\nThis project aims to create a bridge between Large Language Models (LLMs) and the Beckn Protocol using the Model Context Protocol (MCP). The implementation will enable natural language interactions with Beckn networks, allowing users to discover, order, and fulfill services through conversational interfaces.\n\n## Components\n\n### 1. Beckn MCP Server\nA server that exposes Beckn Protocol APIs as MCP tools, enabling LLMs to interact with Beckn networks.\n\n#### Features:\n- **API Endpoints**: Implement all Beckn Transaction APIs as MCP tools\n  - Discovery: search\n  - Ordering: select, init, confirm\n  - Fulfillment: status, track, update, cancel\n  - Post-fulfillment: rating, support\n- **Request/Response Handling**: Convert between MCP tool calls and Beckn API requests\n- **State Management**: Maintain session state for multi-step transactions\n- **Error Handling**: Provide meaningful error responses for failed requests\n\n#### Technical Specifications:\n- Node.js/TypeScript implementation\n- Express.js for HTTP server\n- MCP SDK for tool definitions\n\n### 2. LLM-Based MCP Client\nA client application that enables users to interact with the Beckn MCP Server through natural language.\n\n#### Features:\n- **Conversational Interface**: Allow users to express intents in natural language\n- **Intent Recognition**: Identify user intents and map to appropriate Beckn operations\n- **Context Maintenance**: Maintain conversation context across multiple turns\n- **Response Formatting**: Present Beckn responses in user-friendly formats\n- **Transaction Flow**: Guide users through complete transaction flows\n\n#### Technical Specifications:\n- Integration with LLM provider (e.g., Claude, GPT)\n- MCP client implementation for tool invocation\n- Stateful conversation management\n\n## Implementation Phases\n\n### Phase 1: Discovery (Current)\n- Implement search functionality\n- Create basic MCP server structure\n- Set up development environment\n- Test with mock responses\n\n### Phase 2: Ordering\n- Implement select, init, and confirm endpoints\n- Add cart management\n- Implement payment flow integration\n- Test with real Beckn networks\n\n### Phase 3: Fulfillment\n- Implement status, track, update, and cancel endpoints\n- Add order management capabilities\n- Implement fulfillment tracking\n- Test complete order lifecycle\n\n### Phase 4: Post-fulfillment\n- Implement rating and support endpoints\n- Add feedback mechanisms\n- Test post-purchase flows\n\n## Scope Boundaries\n\n### In Scope\n- Implementation of action APIs (search, select, init, confirm, etc.)\n- Basic error handling and retries\n- Simple state management for transactions\n- Integration with production Beckn networks\n- Documentation for API usage\n\n\n## Success Criteria\n- Users can successfully discover products/services using natural language\n- Users can complete end-to-end transactions through the LLM interface\n- The system correctly interprets user intents and maps to Beckn operations\n- Responses from Beckn networks are presented in a user-friendly manner\n- The implementation adheres to both MCP and Beckn Protocol specifications\n\n## Dependencies\n- Access to Beckn network (BAP/BPP)\n- MCP SDK availability and compatibility\n- LLM API access and reliability\n- Beckn Protocol documentation accuracy\n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#366",
@@ -2145,13 +2166,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/258",
       "title": "Open network sdk testing pr",
-      "stale_for": 39,
+      "stale_for": 40,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 131,
+      "stale_for": 132,
       "labels": []
     }
   ],

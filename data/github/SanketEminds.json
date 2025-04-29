@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-04-28T14:39:39.000Z",
+  "last_updated": "2025-04-29T08:20:43.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4061",
+      "time": "2025-04-29T08:20:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4061",
+      "text": "EC Apps-Search returns empty response in all EC apps (Dev Environment)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4060",
+      "time": "2025-04-29T08:14:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4060",
+      "text": "EC Apps-Select API is failing in ODR Dev Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4057",
+      "time": "2025-04-29T06:51:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4057",
+      "text": "DEG-Rental App: Intermittently Displaying Search Screen with \"battery\" Keyword"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4055",
+      "time": "2025-04-29T06:04:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4055",
+      "text": "DEG-Battery Rent-Out Conflict Between Rental and Retail Apps – Unavailable in Rental Search, Error in Retail"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4048",

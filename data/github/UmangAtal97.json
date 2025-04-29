@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-25T13:05:28.000Z",
+  "last_updated": "2025-04-29T05:01:08.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#368",
+      "time": "2025-04-29T05:01:08.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/368#issuecomment-2837456209",
+      "text": "Initial Design review with Mayank and Viraj, received some feedback from mayank will work on those today and create few variations for above screens.\n\nViraj to review the designs today and provide feedbacks if any"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#368",
+      "time": "2025-04-29T04:58:33.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/368#issuecomment-2837453318",
+      "text": "Started working on UI designs yesterday onwards, Worked on Login, Sign Up, Landing -Dashboard, Users screens.\n\nProof of work:\n1. Login Screen:\n![Image](https://github.com/user-attachments/assets/50f9ded7-ad0f-472b-b745-1910fde2ccb7)\n\n2. Sign Up:\n![Image](https://github.com/user-attachments/assets/b3afb09c-e89d-4804-9522-dc1966e3d2c6)\n\n3. Landing Dashboard:\n![Image](https://github.com/user-attachments/assets/b3ea579f-4eed-4aae-8282-149e3acba6aa)\n\n4. Users Management:\n![Image](https://github.com/user-attachments/assets/4877648c-6b6b-4a4d-8ad2-c775fa0b8338)\n\nPlease find the Link for [New Registry UI](https://www.figma.com/design/9BviCSeT9CJgByVOXEm9X7/Beckn-One-Registry?node-id=1-4)"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3881",
