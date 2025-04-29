@@ -1,6 +1,83 @@
 {
-  "last_updated": "2025-04-24T11:26:15.000Z",
+  "last_updated": "2025-04-28T06:11:32.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#321",
+      "time": "2025-04-28T06:11:32.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/321#issuecomment-2834080006",
+      "text": "The filtration logic is still handled at the application layer since, on Dedi, only value-based filtration has been implemented."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#321",
+      "time": "2025-04-28T06:11:32.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/321",
+      "text": "DeDi Based Registry |  Add filter in /query endpoint and remove logic on strapi Layer"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#322",
+      "time": "2025-04-28T06:09:24.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/322#issuecomment-2834076672",
+      "text": "The migration script is ready. We are awaiting Faiz's approval to proceed with the migration."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#322",
+      "time": "2025-04-28T06:09:24.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/322",
+      "text": "DeDi Based Registry | Migrate all participants to Beta Environment"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#319",
+      "time": "2025-04-28T06:08:07.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/319#issuecomment-2834074706",
+      "text": "Data migration is still pending. Once it's completed, we can verify the Beta environment."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#319",
+      "time": "2025-04-28T06:08:06.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/319",
+      "text": "DeDi Based Registry | Setting up Beta Launch Environment"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#257",
+      "time": "2025-04-28T06:05:11.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/257#issuecomment-2834069896",
+      "text": "The telemetry release note is pending."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#257",
+      "time": "2025-04-28T06:05:11.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/257",
+      "text": "Protocol Server | Merge & Release : Search Enhancement & Open telemetry SDK"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#382",
+      "time": "2025-04-24T09:49:17.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/382",
+      "text": "DeDi Based Registry | Enable Non-Admin Users to Fetch User Details by ID"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#375",
+      "time": "2025-04-28T05:07:08.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/375",
+      "text": "DeDi Based Registry | Create Admin-Only API Endpoint to Retrieve Network Subscriber by ID"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#374",
+      "time": "2025-04-28T05:07:00.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/374",
+      "text": "DeDi Based Registry | Create Admin-Only Endpoint to Fetch User by ID"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#382",
@@ -28,13 +105,6 @@
       "time": "2025-04-24T11:05:51.000Z",
       "link": "https://github.com/beckn/beckn-utilities/issues/383#issuecomment-2827217197",
       "text": "## Date: April 23, 2025\n\n### Current Status:\n- Allowed non-admin users to update their own network subscribers"
-    },
-    {
-      "type": "issue_closed",
-      "title": "beckn/beckn-utilities#382",
-      "time": "2025-04-24T09:49:17.000Z",
-      "link": "https://github.com/beckn/beckn-utilities/issues/382",
-      "text": "DeDi Based Registry | Enable Non-Admin Users to Fetch User Details by ID"
     },
     {
       "type": "comment_created",
@@ -1129,6 +1199,13 @@
       "text": "feat: create endpoint to upload doc and return publicly accessible url"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/bpp-adapter/pull/2",
+      "title": "refactor: remove the untracked data in git cache",
+      "stale_for": 463,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

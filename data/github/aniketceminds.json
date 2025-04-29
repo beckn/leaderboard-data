@@ -1,6 +1,92 @@
 {
-  "last_updated": "2025-04-25T11:21:29.000Z",
+  "last_updated": "2025-04-28T14:02:35.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4044",
+      "time": "2025-04-28T14:02:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4044#issuecomment-2835358857",
+      "text": "<img width=\"980\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5d532ed2-d92b-4ee9-8c72-4a94ae5acf14\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4043",
+      "time": "2025-04-28T13:51:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4043#issuecomment-2835319445",
+      "text": "WIP: Add changes in /search api call and modified the logic after responding. But due to BE issue not able to test.\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4046",
+      "time": "2025-04-28T06:35:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4046",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 11
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4046",
+      "time": "2025-04-28T06:35:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4046",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4045",
+      "time": "2025-04-28T06:34:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4045",
+      "text": "fix(open-spark-admin): modifed code to deisplay correct err msg on fa…",
+      "turnaround_time": 20
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4045",
+      "time": "2025-04-28T06:34:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4045",
+      "text": "fix(open-spark-admin): modifed code to deisplay correct err msg on fa…"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4043",
+      "time": "2025-04-28T05:15:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4043",
+      "text": "Upating Reference Application  - Search functionality"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3974",
+      "time": "2025-04-28T05:14:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3974",
+      "text": "DEG Sandbox V1.1: Reference Apps - Enhancements and Bug Fixes"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3973",
+      "time": "2025-04-28T05:13:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3973#issuecomment-2834002972",
+      "text": "The development and bug fixes done."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3973",
+      "time": "2025-04-28T05:13:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3973",
+      "text": "DEG Sandbox v1.1: P2P Reference App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3976",
+      "time": "2025-04-28T05:13:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3976#issuecomment-2834002236",
+      "text": "The UI development and the API integration is done and delivered."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3976",
+      "time": "2025-04-28T05:13:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3976",
+      "text": "Beckn One: New Registry UI"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#4035",
@@ -6533,6 +6619,31 @@
       "text": "fix(open-spark): modified code to revert the chnges fo routing issue"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4022",
+      "title": "Staging 1.1.0",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
+      "title": "fix: fixing of deleivery chrge calculation",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
+      "title": "fix: changes for dynamic calc from BE for all apps",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
+      "title": "Cypress amplify testing",
+      "stale_for": 19,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

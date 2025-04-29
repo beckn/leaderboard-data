@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-04-25T13:47:27.000Z",
+  "last_updated": "2025-04-28T14:39:39.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4048",
+      "time": "2025-04-28T14:39:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4048",
+      "text": "DEG Rental App - After Wallet Connect, User Redirected to Start Date Calendar Instead of Landing Page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3984",
+      "time": "2025-04-28T08:21:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3984",
+      "text": "DEG-Source mismatch between purchase and wallet entry in DEG app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3984",
+      "time": "2025-04-28T08:17:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3984#issuecomment-2834375754",
+      "text": "Above ticket has been tested, but as the changes are still on hold from Fide and not moved to production, Closing this ticket for now.\n@omkar-em @PritiEM @emmayank "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4008",
+      "time": "2025-04-28T08:02:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4008#issuecomment-2834314432",
+      "text": "Tested the above ticket, and now able to publish the battery with capacity.\n\n![Image](https://github.com/user-attachments/assets/b3163e36-d52c-470c-8a0f-2cad83bd890e)\n\n![Image](https://github.com/user-attachments/assets/95472ff6-e998-4e83-ba03-c6281ffe0f06)\n\n@omkar-em @PritiEM @emmayank "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4008",
+      "time": "2025-04-28T08:02:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4008",
+      "text": "DEG Sandbox-Capacity missing while renting out battery – unable to publish"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4044",
+      "time": "2025-04-28T06:31:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4044",
+      "text": "P2P-Proper Error Message Missing on Popup."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3914",

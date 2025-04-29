@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-04-25T12:36:38.000Z",
+  "last_updated": "2025-04-28T10:41:47.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#364",
+      "time": "2025-04-28T10:41:47.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/364",
+      "text": "DEG Sandbox Release V1.1 - CSV Import for Catalogs Update"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#385",
+      "time": "2025-04-28T10:07:55.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/385",
+      "text": "Beckn AI: MCP Tool for Beckn"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4006",
+      "time": "2025-04-28T10:07:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4006",
+      "text": "Reference Application: DEG Ref Apps, Maintenance and Feature Requests"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3968",
+      "time": "2025-04-28T10:05:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3968",
+      "text": "DEG Sandbox: Feature Implementation v1.1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3826",
+      "time": "2025-04-28T09:29:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3826",
+      "text": "DEG Sandbox: Feature Implementation v1.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#388",
+      "time": "2025-04-28T07:34:23.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/388",
+      "text": "Beckn AI: MCP Tool for Beckn"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#351",
+      "time": "2025-04-28T06:06:53.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/351#issuecomment-2834072506",
+      "text": "duplicate for #376 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#351",
+      "time": "2025-04-28T06:06:52.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/351",
+      "text": "Publish Huge Catalog for Retail"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#387",
+      "time": "2025-04-28T05:10:10.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/387",
+      "text": "User Guide - How to use the Catalog creation tool?"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4037",

@@ -1,6 +1,97 @@
 {
-  "last_updated": "2025-04-25T12:15:01.000Z",
+  "last_updated": "2025-04-28T12:17:44.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#376",
+      "time": "2025-04-28T12:17:44.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/376#issuecomment-2835055300",
+      "text": "we have provisioned instance for this requirements, details already shared with app team.\n\n<img width=\"320\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1514a2bb-e85a-447d-8bea-95a4f3fc3ab2\" />"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#376",
+      "time": "2025-04-28T12:17:43.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/376",
+      "text": "Beckn One: Beckn Search Provider v1.0"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#372",
+      "time": "2025-04-28T09:37:46.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/372#issuecomment-2834616809",
+      "text": "created arch diagram for landscape for all env - DEG Sandbox: [Environment Setup and Landscape Diagram\n(https://mindsenterprise-my.sharepoint.com/:u:/g/personal/govind_taralkar_eminds_ai/EepgdO0CMGBAq5BBjC1K1-EBN8At6OSGY5gbXdWqZI6KWw?e=R3GcJQ)\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#376",
+      "time": "2025-04-28T09:21:55.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/376#issuecomment-2834576100",
+      "text": "@ankitShogun can we connect on this to move ahead for implementation part?"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#373",
+      "time": "2025-04-28T09:17:39.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/373",
+      "text": "Publish Protocol Server Docker Image - v1.0.2"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#373",
+      "time": "2025-04-28T09:17:35.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/373#issuecomment-2834564884",
+      "text": "We have build the docker image and pushed it to docker hub, also we have redployed the container in 3.7.29.204/bap-ps-client-network-dev server.\nThe application testing is done by Ajay Nishad, new changes reflected in application.\n\n<img width=\"748\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ecf05ee6-63de-4ec5-bc71-50f4edeba7a3\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4042",
+      "time": "2025-04-28T08:02:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4042#issuecomment-2834314775",
+      "text": "<img width=\"614\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c5fc20c3-25e9-4339-8c1f-2b4b6db0eb68\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4041",
+      "time": "2025-04-28T07:55:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4041#issuecomment-2834295433",
+      "text": "We have updated the branch configuration for sandbox deployment from main to sandbox.\n\n<img width=\"956\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/739c6514-f602-47e2-931e-e56629df0ee8\" />"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4041",
+      "time": "2025-04-28T07:55:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4041",
+      "text": "DEG Sandbox Deployment with New URL and New Branch"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4042",
+      "time": "2025-04-28T07:34:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4042#issuecomment-2834246885",
+      "text": "As discussed in todays stand up call,  I have provisioned a IAM user for Ajay and applied the MFA, credentials has been shared with him."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4042",
+      "time": "2025-04-28T07:34:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4042",
+      "text": "Create New AWS Account/Environment for Ajay"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4042",
+      "time": "2025-04-28T04:36:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4042#issuecomment-2833959995",
+      "text": "@emmayank @viraj89, please approve to create a IAM user for Ajay."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4041",
+      "time": "2025-04-28T04:35:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4041#issuecomment-2833958925",
+      "text": "The needful has been done"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#372",

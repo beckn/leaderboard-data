@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-28T18:31:35.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/trip-stitching-algorithm#1",
+      "time": "2025-04-28T18:31:35.000Z",
+      "link": "https://github.com/beckn/trip-stitching-algorithm/issues/1#issuecomment-2836133085",
+      "text": "Hi @ravi-prakash-v ,\n\nI'm excited to express my interest in contributing to the Trip Stitching Algorithm project under Beckn Open Collective!\nThe idea of building a real-world, multi-modal trip stitching API that can optimize journeys based on cost or distance perfectly aligns with both my technical background and my passion for mobility innovations.\n\nWith strong experience in Python programming and frameworks like Flask and Django, I’m confident in my ability to design scalable APIs and handle data-driven optimization tasks efficiently. I’m particularly thrilled about working on stitching mobility catalogs into optimized trip options — a challenge that blends backend development with practical algorithmic problem-solving.\n\nThis project’s mission of enhancing real mobility workflows using open protocols like Beckn resonates with my goal of contributing to impactful, interoperable digital infrastructure, and I’m eager to get started and learn alongside the team.\n\nLooking forward to collaborating and building something meaningful together!\n\nBest regards,\nTanish Rajput"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,6 +1,153 @@
 {
-  "last_updated": "2025-04-26T13:37:30.000Z",
+  "last_updated": "2025-04-28T07:20:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3683",
+      "time": "2025-04-28T07:20:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3683#issuecomment-2834217522",
+      "text": "@aniketceminds kindly add some warning message to inform user that tracking details are not available from BE.\nAdd some proper message.\n\ncc: @PritiEM @SanketEminds @emmayank "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3684",
+      "time": "2025-04-28T07:18:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3684#issuecomment-2834212312",
+      "text": "As per discussion in \"Known Bugs\" meeting kindly pass search string using semi colon like we used in ODR to support multi item search or implement any other feasible solution. @aniketceminds \n\ncc: @emmayank @SanketEminds @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3688",
+      "time": "2025-04-28T07:12:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3688#issuecomment-2834195439",
+      "text": "As per confirmation by @emmayank  this is not a bug.\nHence closing this task.\n\ncc: @emmayank @PritiEM @viraj89 @SanketEminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3688",
+      "time": "2025-04-28T07:12:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3688",
+      "text": "Ec Apps-User Can Log in to All EC Apps Without Signing Up once user register for 1 of the EC app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3699",
+      "time": "2025-04-28T07:11:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3699#issuecomment-2834193500",
+      "text": "@aniketceminds @skrushna1506 details have been updated in ticket.\nKindly start working on it.\n\ncc: @emmayank @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3667",
+      "time": "2025-04-28T06:52:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3667#issuecomment-2834155647",
+      "text": "@aniketceminds  screenshots have been added.\nKindly start fixing this issue.\ncc: @emmayank @PritiEM @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3700",
+      "time": "2025-04-28T06:48:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3700#issuecomment-2834146246",
+      "text": "@viraj89 @emmayank  kindly let us know if we should implement caching mechanism over here as well."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3700",
+      "time": "2025-04-28T06:47:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3700#issuecomment-2834144742",
+      "text": "@aniketceminds  here we are seeing 2 issues\n\n1. Search is called thrice (1st screenshot)\n2. When we move ahead after clicking backpack and moved back - search is showing sunglasses result.\n\ncc: @aniketceminds @SanketEminds @emmayank "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3690",
+      "time": "2025-04-28T06:35:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3690#issuecomment-2834122204",
+      "text": "@aniketceminds Kindly add profile sections, as per newly updated figma.\ncc: @emmayank @SanketEminds @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3698",
+      "time": "2025-04-28T06:21:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3698#issuecomment-2834097603",
+      "text": "@UmangAtal97  need to know expected behavior for this."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3694",
+      "time": "2025-04-28T06:19:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3694#issuecomment-2834093473",
+      "text": "As discussed with @emmayank  in \"Known Bugs\" meeting this is not a bug.\nHence closing this task.\n\ncc: @PritiEM @SanketEminds @emmayank "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3694",
+      "time": "2025-04-28T06:19:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3694",
+      "text": "Ec Apps-Scroll Bar Misalignment in EC Apps"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3685",
+      "time": "2025-04-28T06:17:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3685#issuecomment-2834089388",
+      "text": "@aniketceminds  I have updated the ticket.\nKindly check the bug.\n\ncc: @emmayank @PritiEM @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3681",
+      "time": "2025-04-28T06:14:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3681#issuecomment-2834083865",
+      "text": "@aniketceminds  as discussed in \"Known Bugs\" meeting kindly update api payload from FE.\n\ncc: @SanketEminds @emmayank @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3689",
+      "time": "2025-04-28T05:48:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3689#issuecomment-2834046762",
+      "text": "@emindsajay  as discussed in \"Known Bugs\" meeting kindly add udemy url in catalogues for the applications, as udemy url allows to view content in iframe.\n\ncc: @viraj89 @emmayank @SanketEminds @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3695",
+      "time": "2025-04-28T05:34:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3695#issuecomment-2834027964",
+      "text": "@emindsajay  updated the ticket.\nKindly start working on it.\n\ncc: @SanketEminds @emmayank @PritiEM "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3687",
+      "time": "2025-04-28T05:21:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3687#issuecomment-2834012250",
+      "text": "@emindsajay  ticket is groomed, kindly start working on it.\ncc: @PritiEM @emmayank @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#2728",
+      "time": "2025-04-28T05:16:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2728#issuecomment-2834005625",
+      "text": "@emgovindtaralkar  getting cors error issue in climate and forest apps in prod env.\nKindly verify if all changes are done in all envs.\n\n![Image](https://github.com/user-attachments/assets/e1dd7285-9545-4ba5-8205-a984d39ae53c)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3676",
+      "time": "2025-04-28T05:12:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3676#issuecomment-2834001478",
+      "text": "@emindsajay  as discussed in \"Known Bugs\" issues kindly host 1 generic TnC page in strapi and add URL in TnC page.\nYou can take webpage from @skrushna1506  created.\n\ncc: @emmayank @SanketEminds @aniketceminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3675",
+      "time": "2025-04-28T04:24:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3675#issuecomment-2833947356",
+      "text": "@aniketceminds  as discussed in meeting kindly start working on this bug.\nMoving to backlog."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3552",
+      "time": "2025-04-28T03:25:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3552#issuecomment-2833886365",
+      "text": "![Image](https://github.com/user-attachments/assets/91ef8399-1b53-4320-b263-3bb47603f0bf)\n\nThis is not resolved.\nMoving to backlog in current iteration. \ncc: @rahul-eminds "
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4039",

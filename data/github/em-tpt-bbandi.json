@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-04-17T09:29:45.000Z",
+  "last_updated": "2025-04-28T08:05:09.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4047",
+      "time": "2025-04-28T08:05:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4047",
+      "text": "Winroom Support for DEG Sandbox Environment ( Date-16th April)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4047",
+      "time": "2025-04-28T07:50:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4047#issuecomment-2834283095",
+      "text": "deployed all DEG applications in sandbox environment:\nSpark (Retail/Rental Energy Marketplace)\nVault (Wallet & Identity)\nSolaris (Energy Distribution)\nLendease (Financing & EMIs)\n\n<img width=\"1299\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4585c872-25b3-4aab-8f36-8911af1f724a\" />\n\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4047",
+      "time": "2025-04-28T07:47:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4047",
+      "text": "Winroom Support for DEG Sandbox Environment ( Date-16th April)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3903",
+      "time": "2025-04-28T07:44:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3903#issuecomment-2834269273",
+      "text": "Deployed  Dev, Staging, and Prod Environments of EV charging app in AWS amplify.\n\n<img width=\"1304\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1f5df885-90f5-4b16-8e61-8255310645a2\" />\n\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3903",
+      "time": "2025-04-28T07:44:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3903",
+      "text": "Deploy EV Charging App to Dev, Staging, and Prod Environments"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3904",

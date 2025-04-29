@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-22T14:18:45.000Z",
+  "last_updated": "2025-04-28T04:34:58.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4042",
+      "time": "2025-04-28T04:34:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4042",
+      "text": "Create New AWS Account/Environment for Ajay"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4041",
+      "time": "2025-04-28T04:34:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4041",
+      "text": "DEG Sandbox Deployment with New URL and New Branch"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#3964",
