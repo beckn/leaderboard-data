@@ -1201,6 +1201,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/protocol-server/pull/271",
+      "title": "fix: stop streaming response for non-search endpoints",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
       "stale_for": 464,

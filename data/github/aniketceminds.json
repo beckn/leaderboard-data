@@ -6649,15 +6649,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4022",
-      "title": "Staging 1.1.0",
-      "stale_for": 1,
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4069",
+      "title": "feat(deg-retail): search enhacment for stream search",
+      "stale_for": 0,
       "labels": []
     },
     {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
-      "title": "fix: fixing of deleivery chrge calculation",
-      "stale_for": 18,
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4022",
+      "title": "Staging 1.1.0",
+      "stale_for": 2,
       "labels": []
     },
     {
