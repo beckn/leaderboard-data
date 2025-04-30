@@ -3096,6 +3096,31 @@
       "text": "Understand transactional-ai-bap repository code after langgraph changes"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/generic-client-layer/pull/106",
+      "title": "Fix/tag structure ",
+      "stale_for": 76,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/191",
+      "title": "Feat/cache spec on boot",
+      "stale_for": 315,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/189",
+      "title": "Feat/cache spec on boot",
+      "stale_for": 189,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
+      "title": "Staging",
+      "stale_for": 433,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-25T14:34:26.000Z",
+  "last_updated": "2025-04-29T10:10:37.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/future-of-work#1",
+      "time": "2025-04-29T10:10:37.000Z",
+      "link": "https://github.com/beckn/future-of-work/issues/1#issuecomment-2838212340",
+      "text": "Hi @ravi-prakash-v , I came across the project and explored it completely and I m currently building my PRD for the same which i will be sharing very soon.\nMoreover, is there any communication channel specific for the DMP project for further discussion "
+    },
     {
       "type": "pr_opened",
       "title": "beckn/trip-stitching-algorithm#6",

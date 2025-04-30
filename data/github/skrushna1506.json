@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-29T07:55:33.000Z",
+  "last_updated": "2025-04-29T10:40:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3683",
+      "time": "2025-04-29T10:40:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3683#issuecomment-2838282049",
+      "text": "hey @omkar-em @SanketEminds \ni have added below warning and error message, please let me knw, which one i would implement here in all EC app.\n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/45c03251-dd10-4489-89aa-facd785b41a8\" />\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4fe7171f-2d6e-4aaa-8374-ab96a59c6d01\" />"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-ui-workspace#4059",

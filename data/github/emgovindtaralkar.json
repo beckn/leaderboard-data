@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-29T04:41:37.000Z",
+  "last_updated": "2025-04-29T11:24:09.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4007",
+      "time": "2025-04-29T11:24:09.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4007#issuecomment-2838453542",
+      "text": "updated confluence page with all arch diagrams - https://fide-official.atlassian.net/wiki/spaces/EC/pages/312442919/Beckn+One+-+Infra+Mapping"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#2728",

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-29T07:00:29.000Z",
+  "last_updated": "2025-04-29T13:42:31.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4067",
+      "time": "2025-04-29T13:42:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4067",
+      "text": "QA Testing for Instruction Pop-up or Button in DEG Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4066",
+      "time": "2025-04-29T13:41:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4066",
+      "text": "Development: Implement Instruction Pop-up or Button in DEG Apps"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4065",
+      "time": "2025-04-29T13:39:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4065",
+      "text": "Create UX Samples for Adding Instruction Pop-up or Button in DEG Apps"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#4053",

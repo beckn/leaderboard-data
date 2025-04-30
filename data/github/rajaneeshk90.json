@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-29T07:51:32.000Z",
+  "last_updated": "2025-04-29T15:01:43.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4058",
+      "time": "2025-04-29T15:01:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4058#issuecomment-2839258069",
+      "text": "Date: 29th April\n\nCurrent Status:\n\n1. Discussion with Ravi about the Ack response in the /subscribe call, summarised in the above comment.\n2. Added details of the /lookup API in the document.\n3. Made the language clear to clarified the sync/ async behaviour of the /subscribe API\n\nNext Steps:\n\n1. Add flow diagram for the Registry API in the document."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4063",
+      "time": "2025-04-29T10:26:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4063",
+      "text": "Specification: Registry specification /subscriber API improvement"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4058",
+      "time": "2025-04-29T09:52:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4058#issuecomment-2838165112",
+      "text": "Update:\n\n1. As per the current Registry Specification, the /subscribe call response from the Registry is { “status”: “<current_status>“}\n2. It was suggested that the response to a /subscribe call should be an ACK as is used in Protocol-Specification API.  These suggestions were based on a discussion between Ravi and Faiz.\n2. Had a call with Ravi to clarify the same. He instructed that sending { “status”: “<current_status>“} in response to a /subscribe call is fine. He will discuss it internally with Faiz."
+    },
     {
       "type": "comment_created",
       "title": "beckn/missions#295",

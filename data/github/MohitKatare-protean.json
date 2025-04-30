@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-24T07:08:35.000Z",
+  "last_updated": "2025-04-29T10:16:27.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#466",
+      "time": "2025-04-29T10:16:27.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/466",
+      "text": "Publisher plugin implementation"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-onix#462",
@@ -98,6 +105,31 @@
       "text": "1.  Review comments on March 6th.\n2. Chang the directory structure.\n3. Remove external libraries.\n4. Faced an issue with asserting the exported symbol for the plugin and resolved it on March 9th.\n5. Updated the implementation of the plugin manager.\n6. Adding a new folder package for plugin definitions.\n7. Raise the updated PR on March 10th."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/466",
+      "title": "Publisher plugin implementation",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/462",
+      "title": "Added INFO, DEBUG, and ERROR level logs to the core module",
+      "stale_for": 5,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/458",
+      "title": "bug fix for method not allowed",
+      "stale_for": 6,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/424",
+      "title": "Feature/core adapter",
+      "stale_for": 39,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

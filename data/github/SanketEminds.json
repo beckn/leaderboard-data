@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-29T08:20:43.000Z",
+  "last_updated": "2025-04-29T11:06:38.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4044",
+      "time": "2025-04-29T11:06:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4044#issuecomment-2838376002",
+      "text": "Tested above issue in staging env and its working fine, Closing this ticket\ncc @omkar-em @PritiEM \n![Image](https://github.com/user-attachments/assets/b3ab45a7-950e-44a7-8f27-51505f1738da)\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4044",
+      "time": "2025-04-29T11:06:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4044",
+      "text": "P2P-Proper Error Message Missing on Popup."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4064",
+      "time": "2025-04-29T10:59:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4064",
+      "text": "P2P catalog cleanup and demand locking is failing (Staging Environment)"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4061",
