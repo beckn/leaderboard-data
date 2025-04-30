@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-29T06:25:25.000Z",
+  "last_updated": "2025-04-30T02:37:38.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3607",
+      "time": "2025-04-30T02:37:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3607#issuecomment-2840657632",
+      "text": "Keeping this task on hold till we receive updates from UEI team."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3607",
+      "time": "2025-04-30T02:37:13.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3607#issuecomment-2840657268",
+      "text": "This has been reported to the UEI team for further investigation. Please note that the issue appears to be intermittent—it's working as expected on some devices, while failing on others.\n\nWill keep this thread updated as we receive more input from UEI."
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4056",

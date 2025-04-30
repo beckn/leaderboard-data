@@ -33,7 +33,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/4040",
       "title": "Fix: Cached Data Shown After Logout and Re-login",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     }
   ],
