@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-30T02:37:38.000Z",
+  "last_updated": "2025-04-30T02:44:15.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3691",
+      "time": "2025-04-30T02:44:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3691#issuecomment-2840664374",
+      "text": "We've observed that error messages are inconsistent across different apps, which may lead to confusion for users.\nwe will collect all the existing error messages across platforms. Once compiled, we'll work with the UI and Dev teams to standardize and align them to ensure a consistent user experience.\n\nWe'll share the consolidated list soon."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3607",
