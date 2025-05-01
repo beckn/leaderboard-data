@@ -52,19 +52,19 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/481",
       "title": "feat: Changes to Item attributes in draft spec",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/480",
       "title": "feat: Add fulfillment-level tracking tracking support to /trackAPI",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/479",
       "title": "feat: Add state property to Order schema",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     }
   ],
