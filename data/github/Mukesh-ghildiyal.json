@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-05-01T09:20:16.000Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/gtfs-to-beckn#6",
+      "time": "2025-05-01T09:20:16.000Z",
+      "link": "https://github.com/beckn/gtfs-to-beckn/pull/6",
+      "text": "UI for managing GTFS files"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/gtfs-to-beckn/pull/6",
+      "title": "UI for managing GTFS files",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

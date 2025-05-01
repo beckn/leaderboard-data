@@ -5126,7 +5126,19 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3844",
       "title": "fix(DEG-EC): created deg ec responsiveness",
-      "stale_for": 20,
+      "stale_for": 21,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3710",
+      "title": "fix(STATE-FOREST): fixed product card layout and open spark product c…",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/242",
+      "title": "added iframe for open spark",
+      "stale_for": 1,
       "labels": []
     },
     {

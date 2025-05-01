@@ -6661,6 +6661,12 @@
       "labels": []
     },
     {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3865",
+      "title": "fix: fixing of deleivery chrge calculation",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
       "stale_for": 1,
@@ -6669,7 +6675,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": []
     }
   ],
