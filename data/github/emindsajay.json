@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-28T06:11:32.000Z",
+  "last_updated": "2025-05-02T07:38:21.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#272",
+      "time": "2025-05-02T07:38:21.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/272",
+      "text": "Telemetry sdk changes"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#321",
@@ -1199,6 +1206,25 @@
       "text": "feat: create endpoint to upload doc and return publicly accessible url"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/272",
+      "title": "Telemetry sdk changes",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/271",
+      "title": "fix: stop streaming response for non-search endpoints",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/bpp-adapter/pull/2",
+      "title": "refactor: remove the untracked data in git cache",
+      "stale_for": 466,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

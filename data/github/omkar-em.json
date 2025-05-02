@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-04-30T02:44:15.000Z",
+  "last_updated": "2025-05-02T06:36:22.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4056",
+      "time": "2025-05-02T06:36:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4056#issuecomment-2846478781",
+      "text": "Connected with @emindsajay  for this issue.\nAs of now AI model is reverted back to old version.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3995",
+      "time": "2025-05-02T06:32:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3995#issuecomment-2846473766",
+      "text": "Following bugs were reported for Registry -\n\nhttps://github.com/beckn/beckn-ui-workspace/issues/4023\nhttps://github.com/beckn/beckn-ui-workspace/issues/4024\nhttps://github.com/beckn/beckn-ui-workspace/issues/4025\nhttps://github.com/beckn/beckn-ui-workspace/issues/4026\nhttps://github.com/beckn/beckn-ui-workspace/issues/4028\nhttps://github.com/beckn/beckn-ui-workspace/issues/4080\n\ncc: @emmayank \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3995",
+      "time": "2025-05-02T06:29:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3995#issuecomment-2846469664",
+      "text": "Test cases for Beckn One Registry -\n\nAPI Test Cases\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/880934914/DeDi+Based+Registery+-+API+Test+cases\n\nUI Test Cases\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/882606081/DeDi+Based+Registery+-+UI+Functional+Test+Cases"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4050",
+      "time": "2025-05-02T06:24:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4050#issuecomment-2846463512",
+      "text": "Testing report -\n30th April 2025 -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/920059905/Testing+Report-30-04-2025"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3691",

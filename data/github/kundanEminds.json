@@ -5120,7 +5120,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/4074",
       "title": "fix(P2P-ADMIN): fixed p2p admin date alignment",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
@@ -5132,19 +5132,19 @@
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/7",
       "title": "css changes for policy details",
-      "stale_for": 784,
+      "stale_for": 785,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/6",
       "title": "css fixed for geofencing and create policy form",
-      "stale_for": 784,
+      "stale_for": 785,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/5",
       "title": "policy details page",
-      "stale_for": 784,
+      "stale_for": 785,
       "labels": []
     }
   ],
