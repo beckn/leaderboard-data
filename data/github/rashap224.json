@@ -30,43 +30,6 @@
       "text": "Add Generic Use Case Document for Microgrid Aggregation"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/trip-stitching-algorithm/pull/6",
-      "title": " Implement trip stitching algorithm to a real mobility workflow in beckn",
-      "stale_for": 6,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/42",
-      "title": "Add Generic Use Case Document for Microgrid Aggregation",
-      "stale_for": 6,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/protocol-specifications/pull/482",
-      "title": "CICD: Add GitHub Actions workflow for OpenAPI syntax validation",
-      "stale_for": 6,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/protocol-specifications/pull/481",
-      "title": "feat: Changes to Item attributes in draft spec",
-      "stale_for": 6,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/protocol-specifications/pull/480",
-      "title": "feat: Add fulfillment-level tracking tracking support to /trackAPI",
-      "stale_for": 6,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/protocol-specifications/pull/479",
-      "title": "feat: Add state property to Order schema",
-      "stale_for": 6,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

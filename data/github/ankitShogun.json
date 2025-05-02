@@ -2156,25 +2156,6 @@
       "text": "Langraph - Image processing sometimes giving undefined values"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/protocol-server/pull/261",
-      "title": "Merge conflicts check pr",
-      "stale_for": 40,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/protocol-server/pull/258",
-      "title": "Open network sdk testing pr",
-      "stale_for": 42,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
-      "title": "Release notes update",
-      "stale_for": 134,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
