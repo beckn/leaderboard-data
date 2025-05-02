@@ -1,6 +1,56 @@
 {
-  "last_updated": "2025-04-29T08:53:20.000Z",
+  "last_updated": "2025-05-02T13:50:41.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#328",
+      "time": "2025-05-02T13:50:41.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/328#issuecomment-2847261608",
+      "text": "### Date: April 29, 2025\n\n- Updated README files with the latest release notes for the following repositories:\n  - [strapi-plugins](https://github.com/beckn/strapi-plugins/pull/273)\n  - [beckn-bap-user-strapi](https://github.com/beckn/beckn-bap-user-strapi/pull/12)\n  - [generic-client-layer](https://github.com/beckn/generic-client-layer/pull/118)\n- Ensured each README reflects the corresponding changes and release details accurately.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4082",
+      "time": "2025-05-02T13:47:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4082#issuecomment-2847253894",
+      "text": "### Date: May 2, 2025\n\n- Debugged the issue and identified the root cause: GCL was configured with a single webhook URL for the Energy BAP, while separate BAPs were used for energy and non-energy apps.\n- Implemented support for handling two different BAP webhook URLs based on domain type (energy and non-energy).\n- Tested the changes to confirm correct routing and functionality for both BAPs.\n\nPR: https://github.com/beckn/generic-client-layer/pull/117\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#273",
+      "time": "2025-05-02T13:41:19.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/273",
+      "text": "Updated readme file with latest release notes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/generic-client-layer#118",
+      "time": "2025-05-02T13:24:58.000Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/118",
+      "text": "Updated Readme file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-bap-user-strapi#12",
+      "time": "2025-05-02T12:48:06.000Z",
+      "link": "https://github.com/beckn/beckn-bap-user-strapi/pull/12",
+      "text": "Updated Readme file with release notes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/generic-client-layer#117",
+      "time": "2025-05-02T10:35:01.000Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/117",
+      "text": "Added unsolicited webhook support for all domains"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#117",
+      "time": "2025-05-02T10:41:29.000Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/117",
+      "text": "Added unsolicited webhook support for all domains",
+      "turnaround_time": 389
+    },
     {
       "type": "pr_merged",
       "title": "beckn/strapi-plugins#272",
@@ -1896,6 +1946,61 @@
       "text": "Updated readme file for beckn-strapi-bpp repo"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/strapi-plugins/pull/273",
+      "title": "Updated readme file with latest release notes",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/generic-client-layer/pull/118",
+      "title": "Updated Readme file",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-bap-user-strapi/pull/12",
+      "title": "Updated Readme file with release notes",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/strapi-plugins/pull/260",
+      "title": "Added reset account feature for a user based on category",
+      "stale_for": 16,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/strapi-plugins/pull/258",
+      "title": "Feat/dynamic price",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
+      "title": "Added apis and scripts to cleanup existing data for dynamic price",
+      "stale_for": 35,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/240",
+      "title": "Used schemasafe library for validating all OAS version",
+      "stale_for": 199,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/239",
+      "title": "SchemaSafe library for OAS all version validation",
+      "stale_for": 192,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/212",
+      "title": "Openapi implementation using AGV for performance",
+      "stale_for": 192,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,0 +1,28 @@
+{
+  "last_updated": "2025-05-02T11:25:56.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/trip-stitching-algorithm#1",
+      "time": "2025-05-02T11:25:56.000Z",
+      "link": "https://github.com/beckn/trip-stitching-algorithm/issues/1#issuecomment-2846987823",
+      "text": "Hey @ravi-prakash-v,\n\nI've implemented the trip stitching algorithm for real mobility workflows as requested in this issue. The implementation is now available as a pull request.\n\nMy solution includes:\n- A complete Flask-based RESTful API for the trip stitching algorithm\n- Support for multiple optimization criteria (distance, duration, cost, transfers)\n- Proper handling of mobility catalogs with various transport options\n- Enhanced heuristics for identifying and ranking missing links\n- Comprehensive unit tests that verify the implementation\n\nThe API provides several endpoints including the main `/stitch-trips` endpoint that accepts source/destination coordinates and mobility options, then returns optimized multi-modal journeys.\n\nI've followed the algorithm blueprint from the README and added proper documentation for all components. The implementation successfully passes all test cases with different optimization parameters.\n\nCould you please review my PR and let me know if any changes are needed? Thanks for considering my contribution.\n\nPR link: [Implement Trip Stitching Algorithm API for Real Mobility Workflows](https://github.com/beckn/trip-stitching-algorithm/pull/7)\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/trip-stitching-algorithm#7",
+      "time": "2025-05-02T11:17:57.000Z",
+      "link": "https://github.com/beckn/trip-stitching-algorithm/pull/7",
+      "text": "Implement Trip Stitching Algorithm API for Real Mobility Workflows"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/trip-stitching-algorithm/pull/7",
+      "title": "Implement Trip Stitching Algorithm API for Real Mobility Workflows",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

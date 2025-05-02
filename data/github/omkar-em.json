@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-02T06:36:22.000Z",
+  "last_updated": "2025-05-02T12:11:00.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4082",
+      "time": "2025-05-02T12:11:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4082",
+      "text": "EC App-Order Status Not Updating in EC App (BE)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-02T11:53:33.000Z",
+      "title": "beckn/beckn-utilities#404",
+      "link": "https://github.com/beckn/beckn-utilities/pull/404#pullrequestreview-2811834834",
+      "text": "feat: add the README.md file in load-test scripts"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4056",

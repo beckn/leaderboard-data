@@ -1,6 +1,104 @@
 {
-  "last_updated": "2025-05-02T07:38:21.000Z",
+  "last_updated": "2025-05-02T15:05:11.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#274",
+      "time": "2025-05-02T15:05:11.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/274",
+      "text": "Fix/ajay/270/streaming issue",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#274",
+      "time": "2025-05-02T15:05:05.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/274",
+      "text": "Fix/ajay/270/streaming issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#271",
+      "time": "2025-05-02T15:04:23.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/271",
+      "text": "fix: stop streaming response for non-search endpoints",
+      "turnaround_time": 195734
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#120",
+      "time": "2025-05-02T14:54:02.000Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/120",
+      "text": "refactor: disable streamin response in .env",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/generic-client-layer#120",
+      "time": "2025-05-02T14:53:55.000Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/120",
+      "text": "refactor: disable streamin response in .env"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/generic-client-layer#119",
+      "time": "2025-05-02T14:52:11.000Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/119",
+      "text": "Feat/search api enhancement",
+      "turnaround_time": 795
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/generic-client-layer#119",
+      "time": "2025-05-02T14:38:57.000Z",
+      "link": "https://github.com/beckn/generic-client-layer/pull/119",
+      "text": "Feat/search api enhancement"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#404",
+      "time": "2025-05-02T12:03:02.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/404",
+      "text": "feat: add the README.md file in load-test scripts",
+      "turnaround_time": 1844
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-utilities#404",
+      "time": "2025-05-02T11:32:18.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/404",
+      "text": "feat: add the README.md file in load-test scripts"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#403",
+      "time": "2025-05-02T11:01:52.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/403",
+      "text": "Add the readme.md file with proper content"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#272",
+      "time": "2025-05-02T09:49:24.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/272",
+      "text": "Telemetry sdk changes",
+      "turnaround_time": 7864
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-server#273",
+      "time": "2025-05-02T09:50:21.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/273",
+      "text": "Telemetry sdk changes",
+      "turnaround_time": 18
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-server#273",
+      "time": "2025-05-02T09:50:03.000Z",
+      "link": "https://github.com/beckn/protocol-server/pull/273",
+      "text": "Telemetry sdk changes"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/protocol-server#272",
@@ -1208,21 +1306,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/protocol-server/pull/272",
-      "title": "Telemetry sdk changes",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/protocol-server/pull/271",
-      "title": "fix: stop streaming response for non-search endpoints",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 466,
+      "stale_for": 467,
       "labels": []
     }
   ],

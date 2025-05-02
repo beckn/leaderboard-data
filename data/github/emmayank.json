@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-04-23T08:58:02.000Z",
+  "last_updated": "2025-05-02T10:35:55.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#402",
+      "time": "2025-05-02T10:35:55.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/402",
+      "text": "Beckn MCP | Server Side | R&D on Creating gateway for MCP servers for future usecase."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#393",
+      "time": "2025-05-02T10:35:03.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/393",
+      "text": "Beckn MCP | Client Layer | Initialize Agentic SDK and create MCP Supported Agent"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#398",
+      "time": "2025-05-02T10:35:34.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/398",
+      "text": "Beckn MCP | Server Side | Initialize MCP using Nodejs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#397",
+      "time": "2025-05-02T10:35:29.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/397",
+      "text": "Beckn MCP | Client Layer |  Deploy MCP Client layer & UI Layer"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#394",
+      "time": "2025-05-02T10:35:09.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/394",
+      "text": "Beckn MCP | Client Layer | Translate user's prompt into Appropriate MCP tool."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#400",
+      "time": "2025-05-02T10:35:44.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/400",
+      "text": "Beckn MCP | Server Side | Integrate /on_action API & Define Metadata"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#395",
+      "time": "2025-05-02T10:35:16.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/395",
+      "text": "Beckn MCP | Client Layer | Set System Context and instruction during agent Initialization"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#399",
+      "time": "2025-05-02T10:35:38.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/399",
+      "text": "Beckn MCP | Server Side | Integrate /action API & Define Metadata"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#401",
+      "time": "2025-05-02T10:35:49.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/401",
+      "text": "Beckn MCP | Server Side | Deploy MCP server"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#396",
+      "time": "2025-05-02T10:35:23.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/396",
+      "text": "Beckn MCP | Client Layer | Create UI layer to talk to MCP Client layer"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-utilities#378",
@@ -8189,25 +8259,25 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 308,
+      "stale_for": 316,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 227,
+      "stale_for": 235,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 336,
+      "stale_for": 344,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 358,
+      "stale_for": 365,
       "labels": [
         "enhancement"
       ]
