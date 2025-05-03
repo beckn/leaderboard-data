@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-05-03T13:07:01.000Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/trip-stitching-algorithm#8",
+      "time": "2025-05-03T13:07:01.000Z",
+      "link": "https://github.com/beckn/trip-stitching-algorithm/pull/8",
+      "text": "feat: Implement core trip stitching"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/trip-stitching-algorithm/pull/8",
+      "title": "feat: Implement core trip stitching",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}
