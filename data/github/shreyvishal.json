@@ -3111,25 +3111,25 @@
     {
       "link": "https://github.com/beckn/generic-client-layer/pull/106",
       "title": "Fix/tag structure ",
-      "stale_for": 80,
+      "stale_for": 81,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/191",
       "title": "Feat/cache spec on boot",
-      "stale_for": 319,
+      "stale_for": 320,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-server/pull/189",
       "title": "Feat/cache spec on boot",
-      "stale_for": 193,
+      "stale_for": 194,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
       "title": "Staging",
-      "stale_for": 437,
+      "stale_for": 438,
       "labels": []
     }
   ],
