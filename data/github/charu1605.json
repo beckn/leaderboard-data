@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-05-04T05:56:27.000Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#486",
+      "time": "2025-05-04T05:56:27.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/486",
+      "text": "Update Item, CancellationTerm, ReturnTerm, and ReplacementTerm schema…"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-specifications/pull/486",
+      "title": "Update Item, CancellationTerm, ReturnTerm, and ReplacementTerm schema…",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}
