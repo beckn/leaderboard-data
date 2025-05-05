@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-05-05T06:48:08.000Z",
+  "last_updated": "2025-05-05T10:44:47.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4050",
+      "time": "2025-05-05T10:44:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4050#issuecomment-2850600678",
+      "text": "05th May 2025 -\nConnected with devs for https://github.com/beckn/beckn-ui-workspace/issues/4087 issue\nTime spent - 2 hrs"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4056",
+      "time": "2025-05-05T10:38:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4056#issuecomment-2850586710",
+      "text": "Testing is completed and bugs are reported.\nAs of now ai model is rolled back.\nOnce new model is updated then we will perform QA again."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3995",
+      "time": "2025-05-05T10:36:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3995#issuecomment-2850582799",
+      "text": "Awaiting for bug fixes.\nWill retest the application once bug fixes are done then will close this task."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3607",
+      "time": "2025-05-05T10:28:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3607#issuecomment-2850566434",
+      "text": "![Image](https://github.com/user-attachments/assets/b155fd75-4eee-4213-a332-9bb2197520f7)\nGetting authentication error."
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4088",

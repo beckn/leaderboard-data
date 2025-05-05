@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-03T16:39:21.000Z",
+  "last_updated": "2025-05-05T14:03:43.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/Unified-Energy-Interface#45",
+      "time": "2025-05-05T14:03:43.000Z",
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/45#issuecomment-2851119161",
+      "text": "cc: @ravi-prakash-v"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/Unified-Energy-Interface#45",
@@ -41,7 +48,7 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/45",
       "title": "feat: add generic use case document for microgrid aggregation",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     }
   ],
