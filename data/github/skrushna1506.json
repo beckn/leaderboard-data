@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-05-02T05:57:53.000Z",
+  "last_updated": "2025-05-05T07:08:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4088",
+      "time": "2025-05-05T07:08:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4088#issuecomment-2850100391",
+      "text": "@omkar-em, I've debugged this issue and found that the course duration text is empty on the catalogue. This needs to be fixed from the backend.\n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b25a5399-7899-4da3-81ad-7ac2cc7be64b\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3630",
+      "time": "2025-05-05T06:57:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3630#issuecomment-2850079550",
+      "text": "Connected with @shreyvishal, @emindsajay, and @omkar-em regarding the /search failure. After a successful call, it attempts to place an order but is unable to retrieve the status in the order history API.\nCC;- @rahul-eminds \n\n<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/aa702e7b-09d4-43ac-b690-6d5decfe34a6\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3684",
+      "time": "2025-05-05T04:57:43.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3684#issuecomment-2849916009",
+      "text": "had connect with rahul for this, and tried for using above comment, but unable to solve.\nfor this i need to connect with @shreyvishal \n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3630",
+      "time": "2025-05-05T04:47:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3630#issuecomment-2849906136",
+      "text": "due to search api is failing, unable to check "
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3683",
@@ -2356,6 +2384,13 @@
       "text": "fix(open-spark): fixed otp should not take more than 1 digit"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4081",
+      "title": "fix(experience-center): fixed track order issue added descriptive text for toast",
+      "stale_for": 3,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

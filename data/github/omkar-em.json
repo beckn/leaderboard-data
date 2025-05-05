@@ -1,6 +1,69 @@
 {
-  "last_updated": "2025-05-02T12:11:00.000Z",
+  "last_updated": "2025-05-05T06:48:08.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4088",
+      "time": "2025-05-05T06:48:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4088",
+      "text": "DSEP - Course duration is missing for search result page"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4064",
+      "time": "2025-05-05T05:51:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4064#issuecomment-2849976472",
+      "text": "![Image](https://github.com/user-attachments/assets/0588a5b6-1994-47b3-9947-274f55f55c93)\n\nIssue persists."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4087",
+      "time": "2025-05-05T05:44:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4087",
+      "text": "EC Apps - Getting empty search responses - dev env"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4086",
+      "time": "2025-05-05T05:30:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4086#issuecomment-2849951716",
+      "text": "@aniketceminds  disucss the expected behaviour with @emmayank or @viraj89  if required."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4086",
+      "time": "2025-05-05T05:30:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4086",
+      "text": "DeDi Registry - Remove username validation, as username can be email address as well"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4085",
+      "time": "2025-05-05T05:19:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4085",
+      "text": "DeDi Registry - Unable to update user details from backend - Strapi"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4083",
+      "time": "2025-05-05T04:50:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4083",
+      "text": "DeDi Registry - Unable to update other user details for admin user"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4076",
+      "time": "2025-05-05T04:45:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4076#issuecomment-2849904375",
+      "text": "02nd May 2025 -\n\nStarted working on creating user guide for Registery UI.\nCovered user sign up, login, user details page, list of registered users flows are covered.\n\nWill continue working on remaining pages."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4049",
+      "time": "2025-05-05T04:37:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4049#issuecomment-2849888690",
+      "text": "Testing report -\n02nd May 2025 -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/923205633/Testing+Report-+02-05-2025"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4082",

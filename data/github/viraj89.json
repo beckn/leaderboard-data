@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-29T13:42:31.000Z",
+  "last_updated": "2025-05-05T06:36:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#468",
+      "time": "2025-05-05T06:36:54.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/468#issuecomment-2850043091",
+      "text": "Shared the test script and test results to @poojajoshi2 . \n[Link here](https://github.com/beckn/beckn-utilities/tree/main/load-test).\n"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4067",
@@ -5721,6 +5728,13 @@
       "text": "Analysis of 10 Beckn Endpoints for Reference Application  "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-utilities/pull/392",
+      "title": "Create README.md",
+      "stale_for": 4,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
