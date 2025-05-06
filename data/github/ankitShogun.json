@@ -2180,13 +2180,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/258",
       "title": "Open network sdk testing pr",
-      "stale_for": 46,
+      "stale_for": 47,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 138,
+      "stale_for": 139,
       "labels": []
     }
   ],
