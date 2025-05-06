@@ -9,6 +9,13 @@
       "text": "UI for managing GTFS files"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/gtfs-to-beckn/pull/6",
+      "title": "UI for managing GTFS files",
+      "stale_for": 4,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

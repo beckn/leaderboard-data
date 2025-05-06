@@ -1946,6 +1946,61 @@
       "text": "Updated readme file for beckn-strapi-bpp repo"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/strapi-plugins/pull/273",
+      "title": "Updated readme file with latest release notes",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/generic-client-layer/pull/118",
+      "title": "Updated Readme file",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-bap-user-strapi/pull/12",
+      "title": "Updated Readme file with release notes",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/strapi-plugins/pull/260",
+      "title": "Added reset account feature for a user based on category",
+      "stale_for": 19,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/strapi-plugins/pull/258",
+      "title": "Feat/dynamic price",
+      "stale_for": 7,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-strapi-bpp/pull/13",
+      "title": "Added apis and scripts to cleanup existing data for dynamic price",
+      "stale_for": 38,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/240",
+      "title": "Used schemasafe library for validating all OAS version",
+      "stale_for": 202,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/239",
+      "title": "SchemaSafe library for OAS all version validation",
+      "stale_for": 195,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/212",
+      "title": "Openapi implementation using AGV for performance",
+      "stale_for": 195,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

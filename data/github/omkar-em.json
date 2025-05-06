@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-05T10:44:47.000Z",
+  "last_updated": "2025-05-06T07:14:38.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4094",
+      "time": "2025-05-06T07:14:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4094",
+      "text": "EC Apps - Getting empty search responses - staging env"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4050",
