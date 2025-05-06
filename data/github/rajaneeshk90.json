@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-05T05:09:05.000Z",
+  "last_updated": "2025-05-05T16:19:25.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4063",
+      "time": "2025-05-05T16:19:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4063#issuecomment-2851531161",
+      "text": "Date 5th May\n\nUpdate:\n\n1. Had a sync with Ajay to go through the current dedi based Registry Application.\n2. Listed down the deviations from the specification.\n3. suggested the changes to make the implementation comply with the specification.\nNext Steps:\n\n1. check if the changes are made."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4063",
+      "time": "2025-05-05T16:14:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4063#issuecomment-2851518767",
+      "text": "Date 5th May\n\nUpdate:\n\n1. Added message_id in the subscribe and on_subscribe APIs.\n2. The change is in this commit: https://github.com/beckn/protocol-specifications/compare/master...rajaneeshk90:protocol-specifications-rk:registry-specification-fixes\n\nNext Steps:\n\n1. Check if other changes are needed and create a PR."
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4084",

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-05-02T09:50:21.000Z",
+  "last_updated": "2025-05-05T16:13:50.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3663",
+      "time": "2025-05-05T16:13:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3663#issuecomment-2851515517",
+      "text": "### Date: May 5, 2025\n#### Current Status:\n- Connected with internal team to discuss on the current Flow and architecture.\n- Created Flow Diagram for the current Implementation\n- PFA Screenshot of the flow diagram\n\n![Image](https://github.com/user-attachments/assets/5c90e726-6e77-4063-ae12-3022941264c9)\n\n#### Next Step:\n- Will finalize the architecture and start the code changes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4087",
+      "time": "2025-05-05T16:10:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4087",
+      "text": "EC Apps - Getting empty search responses - dev env"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4087",
+      "time": "2025-05-05T16:10:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4087#issuecomment-2851502560",
+      "text": "### Date: May 5, 2025\n#### Current Status:\n- The issue is fixed and is working as per requirement.\n- PFA Screenshot\n\n<img width=\"1485\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c700f991-6767-495e-b452-f56ec0142409\" />\n\n#### Next Step:\n- Task completed closing the ticket.\n"
+    },
     {
       "type": "pr_collaborated",
       "title": "beckn/protocol-server#273",
@@ -3107,6 +3128,31 @@
       "text": "Understand transactional-ai-bap repository code after langgraph changes"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/generic-client-layer/pull/106",
+      "title": "Fix/tag structure ",
+      "stale_for": 82,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/191",
+      "title": "Feat/cache spec on boot",
+      "stale_for": 321,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/189",
+      "title": "Feat/cache spec on boot",
+      "stale_for": 195,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/mobility-bap-client-layer/pull/40",
+      "title": "Staging",
+      "stale_for": 439,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

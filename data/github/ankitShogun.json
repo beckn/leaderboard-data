@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-29T09:10:43.000Z",
+  "last_updated": "2025-05-05T14:58:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#389",
+      "time": "2025-05-05T14:58:59.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/389#issuecomment-2851284946",
+      "text": "# MCP Transport Modernization: Update\n\n## Completed Work\n- ✅ Migrated server from SSE to StreamableHTTP transport\n- ✅ Created MCP client that connects to server\n- ✅ Initialized the Anthropic client SDK for LLM integration\n\n## Next Steps\n1. **Create Beckn Agent**:\n   - Build an agent that can call the MCP server. (Will most likely use open ai agentic sdk for this. Unable to find anything else that supports MCP tool calling)\n   - Implement conversation memory and context management\n   - Add support for multi-turn interactions\n\n2. **Expand Beckn Tools**:\n   - Add tools for select, init, confirm steps\n   - Implement order tracking and management\n   - Add payment integration\n\n3. **Improve Intent Recognition**:\n   - Enhance natural language understanding\n   - Add support for ambiguous queries\n   - Implement clarification loops\n\n\nNOTE - The blocker on this was transport protocol. Client by default was using HTTPS streaming but I initially created the server with older HTTPS + SSE (Server side events). Thats why client and server were not able to communicate"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#389",
+      "time": "2025-05-05T14:58:58.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/389",
+      "text": "Create Beckn MCP client and search endpoint improvement"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#389",
@@ -2156,6 +2170,25 @@
       "text": "Langraph - Image processing sometimes giving undefined values"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/261",
+      "title": "Merge conflicts check pr",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/258",
+      "title": "Open network sdk testing pr",
+      "stale_for": 46,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
+      "title": "Release notes update",
+      "stale_for": 138,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

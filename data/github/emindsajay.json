@@ -1,6 +1,111 @@
 {
-  "last_updated": "2025-05-02T15:05:11.000Z",
+  "last_updated": "2025-05-05T17:01:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4085",
+      "time": "2025-05-05T17:01:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4085#issuecomment-2851655878",
+      "text": "Though it shows the warning, records are updated successfully. This is not a bug."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4085",
+      "time": "2025-05-05T17:01:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4085",
+      "text": "DeDi Registry - Unable to update user details from backend - Strapi"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#390",
+      "time": "2025-05-05T16:59:23.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/390",
+      "text": "Create a new folder named load-test under the utilities repo directory, and include the scripts along with the Excel sheet containing the results."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#390",
+      "time": "2025-05-05T16:57:34.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/390#issuecomment-2851645595",
+      "text": "## Date: Friday, May 2, 2025\n### Current Tasks:\n- Included a README.md file in the load-test scripts of the beckn-utilities repository. https://github.com/beckn/beckn-utilities/pull/404 "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#390",
+      "time": "2025-05-05T16:56:37.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/390#issuecomment-2851643208",
+      "text": "## Date: Friday, April 29, 2025\n### Current Tasks:\n- Added the load test script in the utilities repo: https://github.com/beckn/beckn-utilities/pull/391"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#270",
+      "time": "2025-05-05T16:51:56.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/270#issuecomment-2851632744",
+      "text": "## Date: Friday, May 2, 2025\n### Current Tasks:\n- Fixed the protocol server streaming issue by disabling streaming for all endpoints except the search endpoint. The code is merged; deployment and testing are pending: https://github.com/beckn/protocol-server/pull/274"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4091",
+      "time": "2025-05-05T16:47:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4091#issuecomment-2851617591",
+      "text": "Waiting for @faizmagic's approval."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4091",
+      "time": "2025-05-05T16:47:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4091",
+      "text": "DeDi Based Registry | Migrate all participants to Beta Environment"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4090",
+      "time": "2025-05-05T16:45:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4090",
+      "text": "DeDi Based Registry | Add filter in /query endpoint and remove logic on strapi Layer"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4089",
+      "time": "2025-05-05T16:44:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4089#issuecomment-2851610780",
+      "text": "Blocked due to https://github.com/beckn/beckn-utilities/issues/365"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4089",
+      "time": "2025-05-05T16:44:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4089",
+      "text": "DeDi Based Registry | Setting up Beta Launch Environment"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#276",
+      "time": "2025-05-05T16:41:51.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/276#issuecomment-2851602836",
+      "text": "## Date: Friday, May 2, 2025\n### Current Tasks:\n- Connected with Ankit for understanding the config changes.\n- Added release notes for the telemetry SDK updates."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/protocol-server#276",
+      "time": "2025-05-05T16:38:40.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/276",
+      "text": "Protocol Server | Merge & Release : Search Enhancement & Open telemetry SDK"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#359",
+      "time": "2025-05-05T16:29:45.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/359#issuecomment-2851555821",
+      "text": "Blocked due https://github.com/beckn/beckn-utilities/issues/365"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#365",
+      "time": "2025-05-05T16:27:51.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/365#issuecomment-2851551437",
+      "text": "Waiting for the @faizmagic approval."
+    },
     {
       "type": "pr_merged",
       "title": "beckn/protocol-server#274",
