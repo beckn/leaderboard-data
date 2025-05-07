@@ -2846,7 +2846,7 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "title": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs.",
-      "stale_for": 190,
+      "stale_for": 191,
       "labels": []
     },
     {
@@ -2864,7 +2864,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/438",
       "title": "Core 1.2 release",
-      "stale_for": 266,
+      "stale_for": 267,
       "labels": []
     },
     {
@@ -2888,13 +2888,13 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/18",
       "title": "Layer2 config for retail domain",
-      "stale_for": 333,
+      "stale_for": 334,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/21",
       "title": "L2 config",
-      "stale_for": 237,
+      "stale_for": 238,
       "labels": []
     },
     {
@@ -2906,7 +2906,7 @@
     {
       "link": "https://github.com/beckn/Industry-4.0-Specifications/pull/9",
       "title": "Validating Industry4.0 Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Industry4.0 specification",
-      "stale_for": 385,
+      "stale_for": 386,
       "labels": []
     },
     {
@@ -2918,7 +2918,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/407",
       "title": "Adding a GitHub action for Beckn core specification to validate meta.yaml, registry.yaml and transaction.yaml files against OpenAPI3.0",
-      "stale_for": 111,
+      "stale_for": 112,
       "labels": []
     },
     {
@@ -2930,7 +2930,7 @@
     {
       "link": "https://github.com/beckn/logistics/pull/11",
       "title": "Validating Logistics Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Logistics specification",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": []
     }
   ],

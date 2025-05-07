@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-05T14:58:59.000Z",
+  "last_updated": "2025-05-07T04:48:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#393",
+      "time": "2025-05-07T04:48:16.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/393#issuecomment-2857035059",
+      "text": "This is done. Initialized an agent using open ai agent sdk and its able to communicate with beckn mcp server.\n\nNext steps\n\n1. Link tools with the agent\n2. Add more system context which will help it in understanding and processing those tools\n3. Add meta data from mcp server side"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#393",
+      "time": "2025-05-07T04:48:15.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/393",
+      "text": "Beckn MCP | Client Layer | Initialize Agentic SDK and create MCP Supported Agent"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#389",
@@ -2180,13 +2194,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/258",
       "title": "Open network sdk testing pr",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-exp-guide-ui/pull/221",
       "title": "Release notes update",
-      "stale_for": 139,
+      "stale_for": 140,
       "labels": []
     }
   ],

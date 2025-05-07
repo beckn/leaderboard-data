@@ -1,6 +1,62 @@
 {
-  "last_updated": "2025-05-06T07:14:38.000Z",
+  "last_updated": "2025-05-07T04:51:01.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3607",
+      "time": "2025-05-07T04:51:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3607#issuecomment-2857040352",
+      "text": "Issue is informed to UEI team.\nAwaiting response."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4056",
+      "time": "2025-05-07T04:49:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4056#issuecomment-2857036854",
+      "text": "Testing is completed and all identified bugs have been reported. The AI model has been rolled back for now. Once the updated Gemini model is deployed, we will resume QA. Currently, the positive flow is working as expected, but there are issues with the fallback mechanism for unrecognized queries and some alignment inconsistencies. Closing this task for now and will reopen once the new model is available for testing."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4056",
+      "time": "2025-05-07T04:49:03.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4056",
+      "text": "QA Testing for Gemini Bot Issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4068",
+      "time": "2025-05-07T04:38:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4068#issuecomment-2857019714",
+      "text": "![Image](https://github.com/user-attachments/assets/96bd5324-9439-4164-9f09-113d2fb01df1)\n\nThis is not resolved.\nAssigning this to FE team , seems search is not called from FE side.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4049",
+      "time": "2025-05-07T04:31:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4049#issuecomment-2857008009",
+      "text": "Testing report -\n06th May 2025 -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/925302785/Testing+Report-+06-05-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4050",
+      "time": "2025-05-07T04:31:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4050#issuecomment-2857007341",
+      "text": "Testing report -\n05th May 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/925204481/Testing+Report-05-05-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4073",
+      "time": "2025-05-07T04:30:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4073#issuecomment-2857006113",
+      "text": "![Image](https://github.com/user-attachments/assets/30b72bf2-0530-4a16-9e20-75ec1c000e1b)\n\nThis is resolved.\nClosing this bug.\ncc: @kundanEminds "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4073",
+      "time": "2025-05-07T04:30:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4073",
+      "text": "P2P Admin-Date fields are not properly aligned in the P2P Admin dashboard"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4094",

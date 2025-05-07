@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-05-06T11:04:26.000Z",
+  "last_updated": "2025-05-07T06:17:50.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#405",
+      "time": "2025-05-07T06:17:50.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/405#issuecomment-2857213201",
+      "text": "## Date: April 29, 2025\n### Current task:\n- Connected with Viraj to discuss the issue.\n- Updated the N8N host URL and collaborated with Bhanu for deployment.\n- Connected with Bhanu for deployment.\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-utilities#405",
+      "time": "2025-05-07T06:17:49.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/405",
+      "text": "Fix Hard-Coded OAuth Redirect URI in N8N Application Configuration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#405",
+      "time": "2025-05-07T06:13:45.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/405",
+      "text": "Fix Hard-Coded OAuth Redirect URI in N8N Application Configuration"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#277",
+      "time": "2025-05-07T06:12:00.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/277#issuecomment-2857179172",
+      "text": "This is mentioned in ticket: https://github.com/beckn/beckn-ui-workspace/issues/4095"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-server#277",
+      "time": "2025-05-07T06:11:59.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/277",
+      "text": "Eliminate subscriber_id from the POST /on_subscribe handler in the protocol server"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4095",
+      "time": "2025-05-07T06:02:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4095",
+      "text": "DeDi Based Registry | Update DeDi Registry APIs and Lookup Filters as per Latest Specification"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/protocol-server#279",
@@ -1442,13 +1484,13 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/279",
       "title": "Refactor: Remove subscriber_id from POST /on_subscribe endpoint handler",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 471,
+      "stale_for": 472,
       "labels": []
     }
   ],
