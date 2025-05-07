@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-05T16:19:25.000Z",
+  "last_updated": "2025-05-06T15:09:46.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4038",
+      "time": "2025-05-06T15:09:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4038#issuecomment-2854924724",
+      "text": "Date: 6th May\n\nUpdate:\nCurrent Status:\n\n1. Added section on using tags in beckn messages in the generic implementation guide.\n2. Link to the commit: https://github.com/beckn/missions/compare/main...generic-imp-guide-v2\n\nNext steps:\n\n1. Add Enable order replacement with minimal user friction."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4063",

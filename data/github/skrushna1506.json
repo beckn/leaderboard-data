@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-06T07:09:20.000Z",
+  "last_updated": "2025-05-06T12:04:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3700",
+      "time": "2025-05-06T12:04:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3700#issuecomment-2854321634",
+      "text": "I connected with @aniketceminds regarding this ticket, and he suggested an approach which I am now implementing. I'm utilizing Redux to manage the state variables for this feature and have made some code-level changes. However, I've encountered an error on the search page. I'm currently working on solving and debugging this issue."
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#4092",
