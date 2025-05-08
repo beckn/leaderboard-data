@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-05-07T04:51:01.000Z",
+  "last_updated": "2025-05-08T04:42:23.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3995",
+      "time": "2025-05-08T04:42:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3995#issuecomment-2861730631",
+      "text": "Awaiting for bug fixes.\nWill retest the application once bug fixes are done then will close this task."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3995",
+      "time": "2025-05-08T04:42:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3995#issuecomment-2861730478",
+      "text": "Following bugs were reported for DeDi Registry -\nhttps://github.com/beckn/beckn-ui-workspace/issues/4083\nhttps://github.com/beckn/beckn-ui-workspace/issues/4086\nhttps://github.com/beckn/beckn-ui-workspace/issues/4099\nhttps://github.com/beckn/beckn-ui-workspace/issues/4100\nhttps://github.com/beckn/beckn-ui-workspace/issues/4085\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4076",
+      "time": "2025-05-08T04:38:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4076#issuecomment-2861725513",
+      "text": "User guide has been created in confluence.\n\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/926253058/User+Guide+-+Beckn+Registry\n\n@emmayank @emindsajay  kindly review and let me know the comments.\ncc: @SanketEminds "
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4099",
+      "time": "2025-05-08T03:34:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4099",
+      "text": "DeDi Registry - Unable to view network participants details"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3684",
+      "time": "2025-05-08T02:40:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3684#issuecomment-2861403327",
+      "text": "![Image](https://github.com/user-attachments/assets/0e9a7ebf-b63e-4e77-8cfe-806174ce94a9)\n\nThis is resolved.\nClosing this task.\ncc: @skrushna1506 @aniketceminds @emmayank "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3684",
+      "time": "2025-05-08T02:40:35.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3684",
+      "text": "Tourism to Retail Flow - If multiple options are selected from the list of items suggested by ChatGPT, then we don't get search results"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4094",
+      "time": "2025-05-08T02:13:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4094#issuecomment-2861260508",
+      "text": "Fixed."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3607",

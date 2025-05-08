@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-07T11:05:40.000Z",
+  "last_updated": "2025-05-08T04:48:24.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4101",
+      "time": "2025-05-08T04:48:24.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4101",
+      "text": "fix(DSEP): fixed dsep scholarship flow"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3681",
@@ -5149,7 +5156,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3844",
       "title": "fix(DEG-EC): created deg ec responsiveness",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": []
     },
     {

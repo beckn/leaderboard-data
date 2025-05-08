@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-07T12:56:09.000Z",
+  "last_updated": "2025-05-08T04:17:52.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4100",
+      "time": "2025-05-08T04:17:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4100",
+      "text": "DEDI Registry-Username and password fields are prefilled while adding a new user."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4057",
