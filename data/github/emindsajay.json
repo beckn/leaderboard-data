@@ -1525,12 +1525,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/protocol-server/pull/279",
-      "title": "Refactor: Remove subscriber_id from POST /on_subscribe endpoint handler",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/bpp-adapter/pull/2",
       "title": "refactor: remove the untracked data in git cache",
       "stale_for": 472,
