@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-05-06T07:25:40.000Z",
+  "last_updated": "2025-05-07T11:38:08.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3647",
+      "time": "2025-05-07T11:38:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3647#issuecomment-2858249813",
+      "text": "- UI changes are done.\n- Existing bug fixes.\n- Removed unwanted code and consoles"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3650",
+      "time": "2025-05-07T11:36:12.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3650#issuecomment-2858245385",
+      "text": "- UI changes are done.\n- Existing bug fixes.\n- Removed unwanted code and consoles"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3649",
+      "time": "2025-05-07T11:32:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3649#issuecomment-2858235877",
+      "text": "- UI changes are done.\n- Existing bug fixes.\n- Removed unwanted code and consoles"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3652",
+      "time": "2025-05-07T11:29:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3652#issuecomment-2858227210",
+      "text": "- UI changes are done.\n- Existing bug fixes.\n- Removed unwanted code and consoles"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3656",
+      "time": "2025-05-07T11:27:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3656#issuecomment-2858213726",
+      "text": "- UI changes are done.\n- Existing bug fixes.\n- Removed unwanted code and consoles"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3655",
+      "time": "2025-05-07T11:26:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3655#issuecomment-2858210168",
+      "text": "- UI changes are done.\n- Existing bug fixes.\n- Removed unwanted code and consoles"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3654",
+      "time": "2025-05-07T11:23:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3654#issuecomment-2858203756",
+      "text": "UI changes are done."
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#4093",

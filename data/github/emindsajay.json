@@ -1,6 +1,49 @@
 {
-  "last_updated": "2025-05-07T06:17:50.000Z",
+  "last_updated": "2025-05-07T09:09:58.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-07T09:09:58.000Z",
+      "title": "beckn/beckn-utilities#406",
+      "link": "https://github.com/beckn/beckn-utilities/pull/406#pullrequestreview-2821016029",
+      "text": "Modified Git Ignore"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4095",
+      "time": "2025-05-07T07:57:46.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4095#issuecomment-2857492840",
+      "text": "## Date: May 7, 2025\n### Current tasks:\n- Added key_id and url in lookup filter and response"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4095",
+      "time": "2025-05-07T07:57:33.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4095#issuecomment-2857492324",
+      "text": "## Date: May 6, 2025\n### Current tasks:\n- Removed the `subscriber_id` field from the response or payload."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4095",
+      "time": "2025-05-07T07:57:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4095#issuecomment-2857491645",
+      "text": "## Date: May 5, 2025\n### Current tasks:\n- Connected with Rajaneesh and list  specification changes in the DeDi registry."
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#274",
+      "time": "2025-05-07T07:54:24.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/274",
+      "text": "refactor: add url and key_id in filter and response in lookup API. Re…",
+      "turnaround_time": 11
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#274",
+      "time": "2025-05-07T07:54:14.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/274",
+      "text": "refactor: add url and key_id in filter and response in lookup API. Re…"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-utilities#405",

@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-05-06T15:09:46.000Z",
+  "last_updated": "2025-05-07T13:22:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4097",
+      "time": "2025-05-07T13:22:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4097#issuecomment-2858581321",
+      "text": "Date: 7th May\n\nUpdate:\n\n1. Created catalogs for the Rental, Finance, Retail, EV charging, P2P energy trade, schemes, demand flexibility use case.\n2. The link to the change: \n\nNext steps:\n\n1. Get clarity on the services use case.\n2. create catalog for services\n3. get the above catalogs reviewed"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4098",
+      "time": "2025-05-07T13:09:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4098",
+      "text": "Mission Assets: DEG2.0 catalog generation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4097",
+      "time": "2025-05-07T13:09:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4097",
+      "text": "Mission Assets: DEG2.0 catalog generation"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4058",
+      "time": "2025-05-07T12:10:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4058#issuecomment-2858347488",
+      "text": "document link: https://docs.google.com/document/d/1lPsU-aDh348YiH_py4SkD4pxchGi8g6rbPFGPFVvnHQ/edit?tab=t.0#heading=h.thve513flmsu"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4038",

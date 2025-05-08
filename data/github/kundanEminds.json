@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-05-06T05:27:24.000Z",
+  "last_updated": "2025-05-07T11:05:40.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3681",
+      "time": "2025-05-07T11:05:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3681#issuecomment-2858137745",
+      "text": "Done"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3685",
+      "time": "2025-05-07T09:38:49.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3685#issuecomment-2857886354",
+      "text": "<img width=\"448\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1cd3904b-c7e6-42e0-8200-49ad2e21bad0\" />\n\n<img width=\"465\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f9ee7542-c72d-4057-b809-2fa61f589690\" />\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3685",
+      "time": "2025-05-07T09:37:29.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3685#issuecomment-2857882688",
+      "text": "<img width=\"520\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1b502206-0cfd-4a81-a281-26801ef4b3a5\" />\n"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#4074",

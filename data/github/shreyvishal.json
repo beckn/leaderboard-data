@@ -1,6 +1,35 @@
 {
-  "last_updated": "2025-05-05T16:13:50.000Z",
+  "last_updated": "2025-05-07T09:10:04.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-utilities#406",
+      "time": "2025-05-07T09:10:04.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/406",
+      "text": "Modified Git Ignore",
+      "turnaround_time": 43
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-utilities#406",
+      "time": "2025-05-07T09:09:21.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/pull/406",
+      "text": "Modified Git Ignore"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4094",
+      "time": "2025-05-07T08:05:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4094",
+      "text": "EC Apps - Getting empty search responses - staging env"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4094",
+      "time": "2025-05-07T08:04:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4094#issuecomment-2857509622",
+      "text": "### Date: May 7, 2025\n#### Current Status:\n- The issue is fixed and is working as per requirement.\n- PFA Screenshot\n\n<img width=\"1495\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d4f27696-e564-4184-b1cf-b410905e3c95\" />\n\n#### Next Step:\n- Task completed closing the ticket.\n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3663",
