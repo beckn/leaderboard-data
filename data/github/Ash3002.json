@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-05-08T20:12:03.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/no-code-ui-builder#1",
+      "time": "2025-05-08T20:12:03.000Z",
+      "link": "https://github.com/beckn/no-code-ui-builder/issues/1#issuecomment-2864157299",
+      "text": "Hi @ravi-prakash-v ,\n\nI'm Ashutosh Sharma, a pre-final year student at NIT Agartala. I’ve been working on AI/ML and web development projects, and your no-code Beckn UI tool really caught my attention. I love the idea of making Beckn-based apps more accessible, especially for non-developers.\n\nI'd really like to contribute to this project. Here's how I think I can help:\n\n* Work on the AI-driven natural language input to UI generation pipeline (I’ve used OpenAI APIs before).\n* Help build the drag-and-drop state machine UI using React.\n* Set up modular support so different sectors (retail, energy, etc.) can be added easily.\n* Contribute to the Beckn Protocol integration side as well — I'm currently learning how the flow (`search`, `select`, `init`, etc.) works.\n\nI’m also happy to help with designing mockups or setting up a basic workflow editor. If you have any roadmap or a list of issues to start with, I’d be glad to pick one up.\n\n Email: [ashu3002sharma@gmail.com](ashu3002sharma@gmail.com)\n LinkedIn: [Ashutosh Sharma](https://www.linkedin.com/in/ashutosh-sharma-6886402b1/)\n\nLet me know if there’s any Slack/Discord/community where contributors hang out — I’d love to join and collaborate with others!\n\nThanks,\nAshutosh Sharma"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
