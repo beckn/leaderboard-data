@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-05-08T04:48:24.000Z",
+  "last_updated": "2025-05-08T05:49:58.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4101",
+      "time": "2025-05-08T05:49:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4101",
+      "text": "fix(DSEP): fixed dsep scholarship flow",
+      "turnaround_time": 3694
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-ui-workspace#4101",

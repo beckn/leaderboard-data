@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-08T04:17:52.000Z",
+  "last_updated": "2025-05-08T06:06:04.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3693",
+      "time": "2025-05-08T06:06:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3693#issuecomment-2861877259",
+      "text": "PFA,In the Himalayan app, the first address is in regular font, while the second address is in bold. Also, the second address is missing the pin code\n\n![Image](https://github.com/user-attachments/assets/03219182-58f6-45e4-a772-c473477aebf5)\n\n![Image](https://github.com/user-attachments/assets/4b58df1e-e97f-40dd-88f8-1d0c8183ce4b)"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4100",

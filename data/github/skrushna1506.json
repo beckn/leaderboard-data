@@ -1,6 +1,56 @@
 {
-  "last_updated": "2025-05-06T12:04:24.000Z",
+  "last_updated": "2025-05-08T07:04:01.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3693",
+      "time": "2025-05-08T07:04:01.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3693#issuecomment-2862000531",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/4103\nCC:- @SanketEminds @omkar-em "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4103",
+      "time": "2025-05-08T07:03:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4103",
+      "text": "fix(retails): fixed tourism- retail address ui and pincode issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3693",
+      "time": "2025-05-08T06:29:44.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3693#issuecomment-2861926221",
+      "text": "@SanketEminds @omkar-em \nplease check attached Screenshot\n\n<img width=\"425\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/9ab0bb73-db5d-4150-9cac-5b51702c2c6c\" />"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4102",
+      "time": "2025-05-08T05:54:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4102",
+      "text": "fix(retail): fixed search navigation issue",
+      "turnaround_time": 1552
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4027",
+      "time": "2025-05-08T05:31:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4027#issuecomment-2861823196",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/4059#top\nCC:- @SanketEminds @omkar-em "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3700",
+      "time": "2025-05-08T05:28:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3700#issuecomment-2861818650",
+      "text": "PR for above task\nhttps://github.com/beckn/beckn-ui-workspace/pull/4102\nCC:- @SanketEminds @omkar-em \n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4102",
+      "time": "2025-05-08T05:28:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4102",
+      "text": "fix(retail): fixed search navigation issue"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3700",

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-24T15:16:11.000Z",
+  "last_updated": "2025-05-08T07:38:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-specifications#472",
+      "time": "2025-05-08T07:38:59.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/472#issuecomment-2862080894",
+      "text": "This is not limited to the page file but should cover any relevant files within the repository. As outlined in the issue description, the original PR was focused solely on the 'Governance' document.\n\nAnyone who identifies additional issues in other files should link their findings or related PRs under this issue."
+    },
     {
       "type": "comment_created",
       "title": "beckn/protocol-specifications#472",
@@ -41,7 +48,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/408",
       "title": "fix typos & grammar.",
-      "stale_for": 2,
+      "stale_for": 45,
       "labels": []
     }
   ],

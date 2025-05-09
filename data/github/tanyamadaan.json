@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-01T06:59:10.000Z",
+  "last_updated": "2025-05-08T05:55:34.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-08T05:55:34.000Z",
+      "title": "beckn/beckn-onix#466",
+      "link": "https://github.com/beckn/beckn-onix/pull/466#pullrequestreview-2823884529",
+      "text": "Publisher plugin implementation"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-01T06:59:10.000Z",
@@ -131,6 +138,13 @@
       "text": "Proxy Routing Plugin Implementation"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/232",
+      "title": "Updated Schema Validator to support openapi 3.1.0",
+      "stale_for": 199,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
