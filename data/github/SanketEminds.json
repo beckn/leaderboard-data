@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-08T06:06:04.000Z",
+  "last_updated": "2025-05-08T17:48:59.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4104",
+      "time": "2025-05-08T17:48:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4104",
+      "text": "EC Apps- Inconsistent Three-Dot Menu and Missing Profile Options Across EC Apps"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3693",

@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-05-08T05:53:55.000Z",
+  "last_updated": "2025-05-08T14:46:13.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/strapi-plugins#275",
+      "time": "2025-05-08T14:46:13.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/275",
+      "text": "Feat/meter apis",
+      "turnaround_time": 177
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/strapi-plugins#275",
+      "time": "2025-05-08T14:43:17.000Z",
+      "link": "https://github.com/beckn/strapi-plugins/pull/275",
+      "text": "Feat/meter apis"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-08T05:53:55.000Z",
@@ -6750,19 +6765,19 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/4069",
       "title": "feat(deg-retail): search enhacment for stream search",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/4022",
       "title": "Staging 1.1.0",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
       "title": "fix: changes for dynamic calc from BE for all apps",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {

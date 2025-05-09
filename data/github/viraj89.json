@@ -5728,13 +5728,6 @@
       "text": "Analysis of 10 Beckn Endpoints for Reference Application  "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-utilities/pull/392",
-      "title": "Create README.md",
-      "stale_for": 8,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
