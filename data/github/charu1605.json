@@ -9,6 +9,13 @@
       "text": "Update Item, CancellationTerm, ReturnTerm, and ReplacementTerm schema…"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-specifications/pull/486",
+      "title": "Update Item, CancellationTerm, ReturnTerm, and ReplacementTerm schema…",
+      "stale_for": 5,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -16,6 +16,13 @@
       "text": "feat(monitoring): implement health checks and resilience features (#253)"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/protocol-server/pull/275",
+      "title": "feat(monitoring): implement health checks and resilience features (#253)",
+      "stale_for": 5,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

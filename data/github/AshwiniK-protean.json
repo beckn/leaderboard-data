@@ -39,6 +39,13 @@
       "text": "Update the Initialise function and create test cases corresponding to the modifications made in the updated function and committed the code. @tanyamadaan kindly review the PR at your earliest convenience.\nCc: @viraj89 @Deepa-Mulchandani "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/447",
+      "title": "Added test cases for registeryLookUp and implemented the registeryLookUp plugin",
+      "stale_for": 18,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
