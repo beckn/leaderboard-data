@@ -44,6 +44,13 @@
       "text": "Test openapi validation"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/Unified-Energy-Interface/pull/45",
+      "title": "feat: add generic use case document for microgrid aggregation",
+      "stale_for": 5,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
