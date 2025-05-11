@@ -16,13 +16,6 @@
       "text": "Hey there @ravi-prakash-v , My name is Anisha, and I'm excited about the \"GTFS to Beckn Converter\" project listed under the C4GT Community.\nI have experience with React.js and Node.js, and I’ve worked on several projects involving structured data, UI design, and backend integration. I recently reviewed the problem statement and designed an initial wireframe for the UI to manage GTFS files. \nI’d love to contribute to this project and collaborate with you to bring it to life!\n\n**I have made the below design to be implemented for this particular issue:**\n\n![Image](https://github.com/user-attachments/assets/d8dffc35-eec3-490d-8ee6-5c0beee98afc)\n\nI plan to implement it by the following steps:\n\n- Setting up the React + Node.js project.\n- Implementing GTFS file upload with validations.\n- Parsing and displaying the GTFS files as editable tables.\n- Enabling cell editing and row deletion with linkage checks.\n- Adding save and update logic to sync backend.\n- Test workflows and UI, then deploy.\n\n**Could you please assign the issue to me?**\n\nLooking forward to your response!\nBest regards,\nAnisha"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/gtfs-to-beckn/pull/7",
-      "title": "Improved Frontend UI of GTFS to Beckn COnverted",
-      "stale_for": 6,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
