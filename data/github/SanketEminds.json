@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-12T06:10:07.000Z",
+  "last_updated": "2025-05-12T13:17:48.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4107",
+      "time": "2025-05-12T13:17:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4107",
+      "text": "EC Apps-Incorrect Price Displayed in Order History (Industry 4.0)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4027",
+      "time": "2025-05-12T09:59:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4027#issuecomment-2871868809",
+      "text": "Tested above issue in staging and its working fine.\n@omkar-em "
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4106",

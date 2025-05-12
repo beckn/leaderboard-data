@@ -1,0 +1,34 @@
+{
+  "last_updated": "2025-05-12T09:43:03.000Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#299",
+      "time": "2025-05-12T09:43:03.000Z",
+      "link": "https://github.com/beckn/missions/pull/299",
+      "text": "Add implementation guides for deg2 catalog"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#298",
+      "time": "2025-05-12T09:35:02.000Z",
+      "link": "https://github.com/beckn/missions/pull/298",
+      "text": "implementation guides - connection  and installation"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/missions/pull/299",
+      "title": "Add implementation guides for deg2 catalog",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/missions/pull/298",
+      "title": "implementation guides - connection  and installation",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}
