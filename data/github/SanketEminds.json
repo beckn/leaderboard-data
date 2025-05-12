@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-09T13:25:09.000Z",
+  "last_updated": "2025-05-12T06:10:07.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4106",
+      "time": "2025-05-12T06:10:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4106",
+      "text": "DEG Sandbox-Empty Response on Search in Retail App"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3695",

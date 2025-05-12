@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-05-08T04:42:23.000Z",
+  "last_updated": "2025-05-12T06:06:32.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4050",
+      "time": "2025-05-12T06:06:32.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4050#issuecomment-2870954632",
+      "text": "All key functionalities were validated to ensure stability and adherence to the defined requirements.\nAll the issues encountered are reported in github."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4050",
+      "time": "2025-05-12T06:06:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4050",
+      "text": "Daily Application Testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4050",
+      "time": "2025-05-12T06:06:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4050#issuecomment-2870953544",
+      "text": "Testing report -\n08th May 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/926580758/Testing+Report-08-05-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4050",
+      "time": "2025-05-12T06:05:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4050#issuecomment-2870952965",
+      "text": "Testing report -\n07th May 2025-\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/929562625/Testing+Report-07-05-2025"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4049",
+      "time": "2025-05-12T06:04:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4049#issuecomment-2870951371",
+      "text": "All key functionalities were validated to ensure stability and adherence to the defined requirements. \nAll the issues encountered are reported in github."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4049",
+      "time": "2025-05-12T05:59:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4049#issuecomment-2870942563",
+      "text": "Testing report -\n09th May 2025 -\nhttps://fide-official.atlassian.net/wiki/spaces/EC/pages/928546817/Testing+Report-09-05-2025"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4049",
+      "time": "2025-05-12T05:59:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4049",
+      "text": "Weekly Application Testing"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3995",
