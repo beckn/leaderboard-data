@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-05-12T13:17:48.000Z",
+  "last_updated": "2025-05-13T05:55:07.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4064",
+      "time": "2025-05-13T05:55:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4064",
+      "text": "P2P catalog cleanup and demand locking is failing (Staging Environment)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4064",
+      "time": "2025-05-13T05:54:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4064#issuecomment-2875138395",
+      "text": "This is resolved, Closing this,\n@omkar-em \n![Image](https://github.com/user-attachments/assets/adb5eb8b-c539-4e41-8c01-69634ea62bc5)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4060",
+      "time": "2025-05-13T05:50:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4060",
+      "text": "EC Apps-Select and Confirm API is failing in ODR Dev Environment"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4060",
+      "time": "2025-05-13T05:50:28.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4060#issuecomment-2875130897",
+      "text": "Above issue is resolved, Closing this\n@omkar-em \n![Image](https://github.com/user-attachments/assets/b44aca67-0181-4a40-a999-02416cddb96e)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4061",
+      "time": "2025-05-13T05:44:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4061",
+      "text": "EC Apps-Search returns empty response in all EC apps (Dev Environment)"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4061",
+      "time": "2025-05-13T05:44:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4061#issuecomment-2875113139",
+      "text": "Search is working in all EC apps in the dev environment.\nCC-@omkar-em"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4107",
