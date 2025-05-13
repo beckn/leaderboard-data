@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-13T05:55:07.000Z",
+  "last_updated": "2025-05-13T12:30:56.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4109",
+      "time": "2025-05-13T12:30:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4109",
+      "text": "EC Apps- ChatGPT Flow Fails with CORS Error and Search Failing in Tourism App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4108",
+      "time": "2025-05-13T06:52:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4108",
+      "text": "EC Apps-Search Fails with 504 Gateway Timeout in EC App"
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#4064",

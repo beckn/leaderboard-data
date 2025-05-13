@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-05-13T07:32:06.000Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#471",
+      "time": "2025-05-13T07:32:06.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/471",
+      "text": "Initial commit for Cache Plugin"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/471",
+      "title": "Initial commit for Cache Plugin",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

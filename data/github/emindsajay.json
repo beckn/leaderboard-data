@@ -1531,13 +1531,6 @@
       "text": "feat: create endpoint to upload doc and return publicly accessible url"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/bpp-adapter/pull/2",
-      "title": "refactor: remove the untracked data in git cache",
-      "stale_for": 477,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
