@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-05-08T14:37:23.000Z",
+  "last_updated": "2025-05-14T05:18:50.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#301",
+      "time": "2025-05-14T05:18:50.000Z",
+      "link": "https://github.com/beckn/missions/pull/301",
+      "text": "Deg2 catalog",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#301",
+      "time": "2025-05-14T05:18:43.000Z",
+      "link": "https://github.com/beckn/missions/pull/301",
+      "text": "Deg2 catalog"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/missions#300",
+      "time": "2025-05-14T03:08:09.000Z",
+      "link": "https://github.com/beckn/missions/pull/300",
+      "text": "Deg2 catalog",
+      "turnaround_time": 55
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/missions#300",
+      "time": "2025-05-14T03:07:15.000Z",
+      "link": "https://github.com/beckn/missions/pull/300",
+      "text": "Deg2 catalog"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4058",
@@ -2886,6 +2916,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/missions/pull/302",
+      "title": "minor formating: solar panel retail implementation guide",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "title": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs.",
       "stale_for": 197,
@@ -2894,13 +2930,13 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/27",
       "title": "Change in the example implementation and implementation guide for the EV charging use case.",
-      "stale_for": 228,
+      "stale_for": 229,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/184",
       "title": "Remove unwanted references from the DSEP specification example jsons",
-      "stale_for": 256,
+      "stale_for": 257,
       "labels": []
     },
     {
@@ -2912,19 +2948,19 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/20",
       "title": "Layer2 28th june",
-      "stale_for": 319,
+      "stale_for": 320,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/19",
       "title": "L2 v3.1",
-      "stale_for": 319,
+      "stale_for": 320,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility/pull/78",
       "title": "adding domain specific rules/restrictions in the mobility on demand layer2 config",
-      "stale_for": 237,
+      "stale_for": 238,
       "labels": []
     },
     {
@@ -2942,7 +2978,7 @@
     {
       "link": "https://github.com/beckn/logistics/pull/12",
       "title": "L2 config",
-      "stale_for": 322,
+      "stale_for": 323,
       "labels": []
     },
     {
@@ -2954,7 +2990,7 @@
     {
       "link": "https://github.com/beckn/PULSE-Specification/pull/25",
       "title": "Validating PULSE Specification against the Beckn Core specification v 1.1.0, validating examples against the updated PULSE specification",
-      "stale_for": 392,
+      "stale_for": 393,
       "labels": []
     },
     {
@@ -2966,7 +3002,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/401",
       "title": "Adding a pre-commit hook in Beckn core specification repository",
-      "stale_for": 227,
+      "stale_for": 228,
       "labels": []
     },
     {
