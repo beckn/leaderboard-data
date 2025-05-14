@@ -1,6 +1,104 @@
 {
-  "last_updated": "2025-05-13T04:37:09.000Z",
+  "last_updated": "2025-05-14T11:13:38.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4110",
+      "time": "2025-05-14T11:13:38.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4110#issuecomment-2879794991",
+      "text": "Closing this ticket after conducting comprehensive functional and integration testing of the DEG Sandbox 2.0 environment. The Postman collection for the DEG Sandbox 2.0 API was thoroughly tested, covering all major flows including retail, rental, finance, and wallet. The goal was to ensure the upgraded sandbox is stable, feature-complete, and aligned with production standards. During testing, connected with the development team to address and resolve key issues such as Layer2 configuration problems, catalogue-related discrepancies, and a few other minor inconsistencies. With all critical paths verified and necessary fixes in place, the sandbox is now validated and ready for further use.\n\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4110",
+      "time": "2025-05-14T11:13:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4110",
+      "text": "DEG Sandbox 2.0 Testing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4110",
+      "time": "2025-05-14T11:10:05.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4110",
+      "text": "DEG Sandbox 2.0 Testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4051",
+      "time": "2025-05-14T11:06:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4051#issuecomment-2879777210",
+      "text": "This bug is verified and awaiting to getting it deployed in prod.\nhttps://github.com/beckn/beckn-ui-workspace/issues/4027"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4051",
+      "time": "2025-05-14T11:06:55.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4051",
+      "text": "Perform Sanity Testing on Recent Bug Fixes"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4051",
+      "time": "2025-05-14T11:06:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4051#issuecomment-2879775342",
+      "text": "Following bugs were verified but failed to move to prod.\nWill retest in future once it's fixed.\n\nhttps://github.com/beckn/beckn-ui-workspace/issues/4082\nhttps://github.com/beckn/beckn-ui-workspace/issues/4068"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4051",
+      "time": "2025-05-14T11:05:08.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4051#issuecomment-2879772344",
+      "text": "Following bugs were closed as part of sanity testing on recent bug fixes -\nhttps://github.com/beckn/beckn-ui-workspace/issues/4064\nhttps://github.com/beckn/beckn-ui-workspace/issues/4061\nhttps://github.com/beckn/beckn-ui-workspace/issues/4060\nhttps://github.com/beckn/beckn-ui-workspace/issues/4094"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3695",
+      "time": "2025-05-14T11:00:37.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3695#issuecomment-2879760076",
+      "text": "@aniketceminds  kindly merge this code in staging for testing.\ncc: @skrushna1506 @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3685",
+      "time": "2025-05-14T11:00:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3685#issuecomment-2879759769",
+      "text": "@aniketceminds  kindly merge this code in staging for testing.\ncc: @skrushna1506 @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3683",
+      "time": "2025-05-14T11:00:23.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3683#issuecomment-2879759498",
+      "text": "@aniketceminds  kindly merge this code in staging for testing.\ncc: @skrushna1506 @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3700",
+      "time": "2025-05-14T11:00:17.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3700#issuecomment-2879759268",
+      "text": "@aniketceminds  kindly merge this code in staging for testing.\ncc: @skrushna1506 @SanketEminds \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3693",
+      "time": "2025-05-14T11:00:10.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3693#issuecomment-2879758970",
+      "text": "@aniketceminds  kindly merge this code in staging for testing.\ncc: @skrushna1506 @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4076",
+      "time": "2025-05-14T10:51:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4076#issuecomment-2879732216",
+      "text": "Closing this ticket."
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4076",
+      "time": "2025-05-14T10:51:50.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4076",
+      "text": "Beckn One - Creating User Guide for Registry UI"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3681",

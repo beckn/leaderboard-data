@@ -20,13 +20,13 @@
     {
       "link": "https://github.com/beckn/missions/pull/299",
       "title": "Add implementation guides for deg2 catalog",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/missions/pull/298",
       "title": "implementation guides - connection  and installation",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     }
   ],
