@@ -5160,31 +5160,6 @@
       "text": "Staging 1.1.0"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3844",
-      "title": "fix(DEG-EC): created deg ec responsiveness",
-      "stale_for": 34,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/policy-admin-ui/pull/7",
-      "title": "css changes for policy details",
-      "stale_for": 797,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/policy-admin-ui/pull/6",
-      "title": "css fixed for geofencing and create policy form",
-      "stale_for": 797,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/policy-admin-ui/pull/5",
-      "title": "policy details page",
-      "stale_for": 797,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

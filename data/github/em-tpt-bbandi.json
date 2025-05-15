@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-28T08:05:09.000Z",
+  "last_updated": "2025-05-14T15:09:27.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-server#266",
+      "time": "2025-05-14T15:09:27.000Z",
+      "link": "https://github.com/beckn/protocol-server/issues/266#issuecomment-2880607020",
+      "text": "build a new docker image and pushed it to docker hub `protocol-server:multiarch` "
+    },
     {
       "type": "issue_closed",
       "title": "beckn/beckn-ui-workspace#4047",
