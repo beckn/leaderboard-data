@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-04-29T11:24:09.000Z",
+  "last_updated": "2025-05-15T09:25:36.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4109",
+      "time": "2025-05-15T09:25:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4109#issuecomment-2883158501",
+      "text": "Please the url details from where you are having cors error"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4115",
+      "time": "2025-05-15T05:57:54.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4115#issuecomment-2882634282",
+      "text": "Please check now and confirm back"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4108",
+      "time": "2025-05-15T05:48:22.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4108#issuecomment-2882590893",
+      "text": "Please check now\n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4007",

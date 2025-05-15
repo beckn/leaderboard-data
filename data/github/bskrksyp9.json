@@ -44,13 +44,6 @@
       "text": "Proofread and improve documentation"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/protocol-specifications/pull/408",
-      "title": "fix typos & grammar.",
-      "stale_for": 51,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,90 @@
 {
-  "last_updated": "2025-05-14T15:29:15.000Z",
+  "last_updated": "2025-05-15T05:48:21.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3591",
+      "time": "2025-05-15T05:48:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3591#issuecomment-2882590876",
+      "text": "This is resolved, Closing this.\n@omkar-em \n![Image](https://github.com/user-attachments/assets/e453364e-1d40-472f-be57-2b0df123af31)\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3591",
+      "time": "2025-05-15T05:48:20.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3591",
+      "text": "Ec App-Incorrect Amount Display for Quantity & Billing Overview – Industry 4.0 App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3065",
+      "time": "2025-05-15T05:12:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3065#issuecomment-2882417070",
+      "text": "This is fixed, CLosing this.\n@omkar-em \n![Image](https://github.com/user-attachments/assets/d8f0d95c-9eb0-43ee-aca2-822e9c543074)\n![Image](https://github.com/user-attachments/assets/4e4de710-f83f-4379-93c3-2631ecc373e9)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3065",
+      "time": "2025-05-15T05:12:06.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3065",
+      "text": "EC Apps - Remove option to redirect to request history page from the same page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4116",
+      "time": "2025-05-15T05:11:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4116",
+      "text": "EC Apps-CORS Error While Logging into All EC Apps"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#2871",
+      "time": "2025-05-15T05:05:27.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2871#issuecomment-2882382953",
+      "text": "Above Flow is not available in current changes.\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2871",
+      "time": "2025-05-15T05:05:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2871",
+      "text": "Open Spark-Within the Producer's profile under \"My DERs,\" the DER API is failing."
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4115",
+      "time": "2025-05-15T05:01:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4115",
+      "text": "MOCK MDM-502 Bad Gateway Error on Customer Collection Page in MDM Admin Panel"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#2850",
+      "time": "2025-05-15T04:56:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2850#issuecomment-2882337049",
+      "text": "Tested and working fine, Closing this\n@omkar-em \n![Image](https://github.com/user-attachments/assets/44d12be7-5ebc-4c7a-9c8c-cfcd35e014ff)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2850",
+      "time": "2025-05-15T04:56:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2850",
+      "text": "OpenSpark v2 - When demand is more than supply in lock trade API, it is failing without proper error handling"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#2598",
+      "time": "2025-05-15T04:40:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2598#issuecomment-2882248048",
+      "text": "Tested above issue and its working fine, Closing this ticket.\n@omkar-em \n\n![Image](https://github.com/user-attachments/assets/3d18e9e2-e538-4220-b15f-e874a2d3eeaa)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#2598",
+      "time": "2025-05-15T04:40:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/2598",
+      "text": "Climate Data-Invalid Zip Code Error Popup Not Displaying in All Climate App"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4111",
