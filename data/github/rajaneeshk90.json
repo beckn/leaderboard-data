@@ -2925,7 +2925,7 @@
     {
       "link": "https://github.com/beckn/missions/pull/302",
       "title": "minor formating: solar panel retail implementation guide",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -2937,13 +2937,13 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/27",
       "title": "Change in the example implementation and implementation guide for the EV charging use case.",
-      "stale_for": 229,
+      "stale_for": 230,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/184",
       "title": "Remove unwanted references from the DSEP specification example jsons",
-      "stale_for": 257,
+      "stale_for": 258,
       "labels": []
     },
     {
@@ -2955,19 +2955,19 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/20",
       "title": "Layer2 28th june",
-      "stale_for": 320,
+      "stale_for": 321,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/19",
       "title": "L2 v3.1",
-      "stale_for": 320,
+      "stale_for": 321,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility/pull/78",
       "title": "adding domain specific rules/restrictions in the mobility on demand layer2 config",
-      "stale_for": 238,
+      "stale_for": 239,
       "labels": []
     },
     {
@@ -2985,7 +2985,7 @@
     {
       "link": "https://github.com/beckn/logistics/pull/12",
       "title": "L2 config",
-      "stale_for": 323,
+      "stale_for": 324,
       "labels": []
     },
     {
@@ -2997,7 +2997,7 @@
     {
       "link": "https://github.com/beckn/PULSE-Specification/pull/25",
       "title": "Validating PULSE Specification against the Beckn Core specification v 1.1.0, validating examples against the updated PULSE specification",
-      "stale_for": 393,
+      "stale_for": 394,
       "labels": []
     },
     {
@@ -3009,7 +3009,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/401",
       "title": "Adding a pre-commit hook in Beckn core specification repository",
-      "stale_for": 228,
+      "stale_for": 229,
       "labels": []
     },
     {
