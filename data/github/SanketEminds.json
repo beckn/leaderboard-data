@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-15T05:48:21.000Z",
+  "last_updated": "2025-05-15T11:53:21.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4119",
+      "time": "2025-05-15T11:53:21.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4119",
+      "text": "Open Spark-App Crashes During Product Checkout in Open Spark App"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#3591",

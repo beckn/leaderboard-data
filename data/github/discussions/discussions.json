@@ -67,5 +67,21 @@
     },
     "participants": [],
     "repository": "beckn-onix"
+  },
+  {
+    "source": "github",
+    "title": "vulnerabilities",
+    "text": "With the master branch, while running npm install, I get 13 vulnerabilities which do not get fixed with audit fix. any suggestions?",
+    "author": "haribole",
+    "link": "https://github.com/beckn/protocol-server/discussions/280",
+    "isAnswered": false,
+    "time": "2025-05-15T21:12:30Z",
+    "updateTime": "2025-05-15T21:12:31Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [],
+    "repository": "protocol-server"
   }
 ]
