@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-15T07:40:22.000Z",
+  "last_updated": "2025-05-16T07:19:59.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4120",
+      "time": "2025-05-16T07:19:59.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4120",
+      "text": "DEG Dashboard for Hackathon with Feeder Insights and Geo View"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4117",

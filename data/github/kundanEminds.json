@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-15T07:55:57.000Z",
+  "last_updated": "2025-05-16T09:24:52.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4118",
+      "time": "2025-05-16T09:24:52.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4118#issuecomment-2886167006",
+      "text": "<img width=\"461\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1e950d26-ba0a-4905-b5f5-686b1d00d071\" />"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4121",
+      "time": "2025-05-16T09:23:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4121",
+      "text": "fix(DEG-APP): fixed otp screens for all deg app"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4118",
@@ -5176,9 +5190,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4121",
+      "title": "fix(DEG-APP): fixed otp screens for all deg app",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3844",
       "title": "fix(DEG-EC): created deg ec responsiveness",
-      "stale_for": 35,
+      "stale_for": 36,
       "labels": []
     },
     {

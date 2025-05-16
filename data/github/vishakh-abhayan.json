@@ -1,6 +1,58 @@
 {
-  "last_updated": "2024-05-13T07:28:48Z",
+  "last_updated": "2025-05-16T07:43:59.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/deg-utility-dashboard#10",
+      "time": "2025-05-16T07:43:59.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/10",
+      "text": "Aggregator route"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/deg-utility-dashboard#9",
+      "time": "2025-05-16T07:42:44.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/9",
+      "text": "Aggregator/simulation",
+      "turnaround_time": 699
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/deg-utility-dashboard#9",
+      "time": "2025-05-16T07:31:05.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/9",
+      "text": "Aggregator/simulation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/deg-utility-dashboard#8",
+      "time": "2025-05-16T07:16:02.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/8",
+      "text": "Revert \"feat:aggregator/simulation\"",
+      "turnaround_time": 13
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/deg-utility-dashboard#8",
+      "time": "2025-05-16T07:15:51.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/8",
+      "text": "Revert \"feat:aggregator/simulation\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/deg-utility-dashboard#7",
+      "time": "2025-05-16T07:12:21.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/7",
+      "text": "feat:aggregator/simulation",
+      "turnaround_time": 357
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/deg-utility-dashboard#7",
+      "time": "2025-05-16T07:06:25.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/7",
+      "text": "feat:aggregator/simulation"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-onix#77",

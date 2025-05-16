@@ -1,0 +1,22 @@
+{
+  "last_updated": "2025-05-16T08:41:27.000Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/deg-utility-dashboard#11",
+      "time": "2025-05-16T08:41:27.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/11",
+      "text": "Utility data bind",
+      "turnaround_time": 127
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/deg-utility-dashboard#11",
+      "time": "2025-05-16T08:39:21.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/11",
+      "text": "Utility data bind"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
