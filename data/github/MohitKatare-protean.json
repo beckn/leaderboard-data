@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-07T09:44:01.000Z",
+  "last_updated": "2025-05-16T12:37:01.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#472",
+      "time": "2025-05-16T12:37:01.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/472",
+      "text": "Initial commit for the keymanager plugin"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-07T09:44:01.000Z",
@@ -112,6 +119,37 @@
       "text": "1.  Review comments on March 6th.\n2. Chang the directory structure.\n3. Remove external libraries.\n4. Faced an issue with asserting the exported symbol for the plugin and resolved it on March 9th.\n5. Updated the implementation of the plugin manager.\n6. Adding a new folder package for plugin definitions.\n7. Raise the updated PR on March 10th."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/472",
+      "title": "Initial commit for the keymanager plugin",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/466",
+      "title": "Publisher plugin implementation",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/462",
+      "title": "Added INFO, DEBUG, and ERROR level logs to the core module",
+      "stale_for": 22,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/458",
+      "title": "bug fix for method not allowed",
+      "stale_for": 23,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/424",
+      "title": "Feature/core adapter",
+      "stale_for": 56,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
