@@ -5192,13 +5192,13 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/4121",
       "title": "fix(DEG-APP): fixed otp screens for all deg app",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/3844",
       "title": "fix(DEG-EC): created deg ec responsiveness",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": []
     },
     {
