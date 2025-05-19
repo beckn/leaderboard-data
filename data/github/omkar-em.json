@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-15T08:43:30.000Z",
+  "last_updated": "2025-05-19T04:35:30.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4122",
+      "time": "2025-05-19T04:35:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4122",
+      "text": "DSEP Unified - Search API for scholarship is sending course domain in payload"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3681",
+      "time": "2025-05-19T04:28:04.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3681#issuecomment-2889575229",
+      "text": "@kundanEminds  kindly move this change to prod."
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4112",

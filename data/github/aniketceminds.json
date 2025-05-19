@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-05-08T14:46:13.000Z",
+  "last_updated": "2025-05-19T05:39:30.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4125",
+      "time": "2025-05-19T05:39:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4125",
+      "text": "Develop 1.1.0",
+      "turnaround_time": 45
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4125",
+      "time": "2025-05-19T05:38:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4125",
+      "text": "Develop 1.1.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-19T05:03:35.000Z",
+      "title": "beckn/beckn-ui-workspace#4121",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4121#pullrequestreview-2849388377",
+      "text": "fix(DEG-APP): fixed otp screens for all deg app"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3692",
+      "time": "2025-05-19T04:54:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3692#issuecomment-2889608693",
+      "text": "please validate it once again @SanketEminds . check with @rahul-eminds for this if exist"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#3692",
+      "time": "2025-05-19T04:54:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3692",
+      "text": "OSM - Search Results Display Irrelevant Catalogues"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/strapi-plugins#275",
@@ -6761,6 +6797,31 @@
       "text": "fix(open-spark): modified code to revert the chnges fo routing issue"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4069",
+      "title": "feat(deg-retail): search enhacment for stream search",
+      "stale_for": 19,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4022",
+      "title": "Staging 1.1.0",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/3638",
+      "title": "fix: changes for dynamic calc from BE for all apps",
+      "stale_for": 11,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
+      "title": "Cypress amplify testing",
+      "stale_for": 39,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

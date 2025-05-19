@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-05-16T09:24:52.000Z",
+  "last_updated": "2025-05-19T06:45:31.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4122",
+      "time": "2025-05-19T06:45:31.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4122#issuecomment-2889808044",
+      "text": "PR raised\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4126",
+      "time": "2025-05-19T06:43:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4126",
+      "text": "fix(DSEP): fixed domain on enter search for dsep search result"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4124",
+      "time": "2025-05-19T06:00:41.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4124#issuecomment-2889717306",
+      "text": "<img width=\"1728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e2e38821-d75b-4670-85e1-26dda410ddbc\" />"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4124",
+      "time": "2025-05-19T05:14:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4124",
+      "text": "Develop DEG Dashboard for Hackathon"
+    },
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4121",
+      "time": "2025-05-19T05:03:40.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4121",
+      "text": "fix(DEG-APP): fixed otp screens for all deg app",
+      "turnaround_time": 243639
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4118",
@@ -5190,9 +5226,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4121",
-      "title": "fix(DEG-APP): fixed otp screens for all deg app",
-      "stale_for": 2,
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4126",
+      "title": "fix(DSEP): fixed domain on enter search for dsep search result",
+      "stale_for": 0,
       "labels": []
     },
     {
@@ -5204,19 +5240,19 @@
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/7",
       "title": "css changes for policy details",
-      "stale_for": 801,
+      "stale_for": 802,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/6",
       "title": "css fixed for geofencing and create policy form",
-      "stale_for": 801,
+      "stale_for": 802,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/policy-admin-ui/pull/5",
       "title": "policy details page",
-      "stale_for": 801,
+      "stale_for": 802,
       "labels": []
     }
   ],
