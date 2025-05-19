@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-13T07:32:06.000Z",
+  "last_updated": "2025-05-19T13:48:05.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-onix#473",
+      "time": "2025-05-19T13:48:05.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/473#issuecomment-2891104301",
+      "text": "Wrong Commit "
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#473",
+      "time": "2025-05-19T13:46:37.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/473",
+      "text": "Initial Commit for Subscriber Handler"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-onix#471",
@@ -13,7 +27,7 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/471",
       "title": "Initial commit for Cache Plugin",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     }
   ],

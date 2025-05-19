@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-05-19T04:35:30.000Z",
+  "last_updated": "2025-05-19T12:30:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3685",
+      "time": "2025-05-19T12:30:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3685#issuecomment-2890836398",
+      "text": "![Image](https://github.com/user-attachments/assets/638bb1bf-50eb-4e95-a87d-8132a5fdcdf4)\n\nThis is resolved.\n@aniketceminds  kindly move to prod.\ncc: @kundanEminds @SanketEminds "
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3683",
+      "time": "2025-05-19T12:15:19.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3683#issuecomment-2890791652",
+      "text": "As discussed over call kindly update error/warning message when tracking url is not available.\nIn case tracking url is available - kindly redirect to that url."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3700",
+      "time": "2025-05-19T11:32:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3700#issuecomment-2890672275",
+      "text": "![Image](https://github.com/user-attachments/assets/14b8c0eb-1484-4a5d-a2f1-b5bdb19d753a)\n\nVerified in staging.\n@aniketceminds  kindly merge this into prod."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3692",
+      "time": "2025-05-19T11:22:58.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3692#issuecomment-2890646728",
+      "text": "![Image](https://github.com/user-attachments/assets/74a70421-dfca-40dd-b7e2-a581032f3585)\n\n![Image](https://github.com/user-attachments/assets/fe4911b3-df87-41af-81ff-987e03c2b76b)\n\nbased on previous comment by @aniketceminds  assigning this task to @rahul-eminds  as issue persists.\n@rahul-eminds  - we are getting courses catalogue in retail:1.1.0 from bpp - bpp-ps-network-vendure1-prod.becknprotocol.io\n\nKindly check and update."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3693",
+      "time": "2025-05-19T11:18:02.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3693#issuecomment-2890634246",
+      "text": "![Image](https://github.com/user-attachments/assets/6e8d3df0-c2e2-4fd9-a51e-d60cb3f3da1c)\n\nThis is resolved.\n@aniketceminds  kindly move this to prod.\ncc:@SanketEminds @skrushna1506 s"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4122",

@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-05-19T08:08:07.000Z",
+  "last_updated": "2025-05-19T13:50:11.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-ui-workspace#4130",
+      "time": "2025-05-19T13:50:11.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4130",
+      "text": "fix(retails): changes some ui on order history page",
+      "turnaround_time": 2746
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4107",
+      "time": "2025-05-19T13:18:07.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4107#issuecomment-2891006848",
+      "text": "Today, I worked on this ticket and explored some solutions. \nMy first approach is to stop using local storage for tracking quantity and use Redux instead to store all the assembly data, including quantity. This will make it easier for me to update the price based on the quantity stored in Redux.\n\nThe second approach is to try sending the quantity in the init payload when setting up the data, so the correct quantity is available right from the start. I will now try to implement these logics in the project."
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4128",
+      "time": "2025-05-19T13:06:18.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4128#issuecomment-2890966788",
+      "text": "PR for above task\nCC:- @SanketEminds @omkar-em \nhttps://github.com/beckn/beckn-ui-workspace/pull/4130"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3630",
+      "time": "2025-05-19T13:05:57.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3630#issuecomment-2890965442",
+      "text": "PR for above task\nCC:- @SanketEminds @omkar-em \nhttps://github.com/beckn/beckn-ui-workspace/pull/4130"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-ui-workspace#4130",
+      "time": "2025-05-19T13:04:26.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4130",
+      "text": "fix(retails): changes some ui on order history page"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4107",

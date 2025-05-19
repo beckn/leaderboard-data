@@ -123,13 +123,13 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/472",
       "title": "Initial commit for the keymanager plugin",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/466",
       "title": "Publisher plugin implementation",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {

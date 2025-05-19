@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-19T05:39:30.000Z",
+  "last_updated": "2025-05-19T13:50:05.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-19T13:50:05.000Z",
+      "title": "beckn/beckn-ui-workspace#4130",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4130#pullrequestreview-2850847327",
+      "text": "fix(retails): changes some ui on order history page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-19T13:49:06.000Z",
+      "title": "beckn/beckn-ui-workspace#4126",
+      "link": "https://github.com/beckn/beckn-ui-workspace/pull/4126#pullrequestreview-2850844112",
+      "text": "fix(DSEP): fixed domain on enter search for dsep search result"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#4125",
@@ -6819,7 +6833,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 39,
+      "stale_for": 40,
       "labels": []
     }
   ],

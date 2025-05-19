@@ -1,6 +1,76 @@
 {
-  "last_updated": "2025-05-19T07:58:26.000Z",
+  "last_updated": "2025-05-19T11:42:14.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4129",
+      "time": "2025-05-19T11:42:14.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4129",
+      "text": "DEG Sandbox-Unable to Login in Vault App – /generatePublicPrivateByMessage API Failing"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4108",
+      "time": "2025-05-19T11:16:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4108#issuecomment-2890629734",
+      "text": "This is working fine, CLosing this\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4108",
+      "time": "2025-05-19T11:16:16.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4108",
+      "text": "EC Apps-Search Fails with 504 Gateway Timeout in EC App"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4115",
+      "time": "2025-05-19T11:15:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4115#issuecomment-2890628639",
+      "text": "Above issue is resolved, Closing this,\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4115",
+      "time": "2025-05-19T11:15:51.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4115",
+      "text": "MOCK MDM-502 Bad Gateway Error on Customer Collection Page in MDM Admin Panel"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4116",
+      "time": "2025-05-19T11:14:48.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4116#issuecomment-2890625651",
+      "text": "This is resolved , Now able to login into EC apps,\n@omkar-em "
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4116",
+      "time": "2025-05-19T11:14:47.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4116",
+      "text": "EC Apps-CORS Error While Logging into All EC Apps"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#4109",
+      "time": "2025-05-19T11:14:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4109#issuecomment-2890623595",
+      "text": "This is resolved, Closing this\nCC @omkar-em \n![Image](https://github.com/user-attachments/assets/578f3ba5-759d-45de-966e-3ccaaba1d503)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "beckn/beckn-ui-workspace#4109",
+      "time": "2025-05-19T11:14:00.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4109",
+      "text": "EC Apps- ChatGPT Flow Fails with CORS Error and Search Failing in Tourism App"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4128",
+      "time": "2025-05-19T10:11:45.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4128",
+      "text": "EC Apps-Quantity and Placed At Not Aligned Properly on Order Details Page – Retail App"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4127",
