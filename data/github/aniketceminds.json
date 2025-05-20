@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-05-19T13:50:05.000Z",
+  "last_updated": "2025-05-20T06:35:33.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/deg-utility-dashboard#12",
+      "time": "2025-05-20T06:35:33.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/12",
+      "text": "fix: modified code, css & layout",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/deg-utility-dashboard#12",
+      "time": "2025-05-20T06:35:26.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/12",
+      "text": "fix: modified code, css & layout"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-19T13:50:05.000Z",
@@ -6833,7 +6848,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 40,
+      "stale_for": 41,
       "labels": []
     }
   ],
