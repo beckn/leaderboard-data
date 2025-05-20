@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-19T13:50:11.000Z",
+  "last_updated": "2025-05-20T04:44:25.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-ui-workspace#3630",
+      "time": "2025-05-20T04:44:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/3630#issuecomment-2892922418",
+      "text": "@omkar-em @SanketEminds , \nplease check for strapi provider items, it would work"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-ui-workspace#4130",
