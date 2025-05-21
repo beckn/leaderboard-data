@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-05-20T06:35:33.000Z",
+  "last_updated": "2025-05-21T06:16:41.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/deg-utility-dashboard#13",
+      "time": "2025-05-21T06:16:41.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/13",
+      "text": "feat: added transformer stream api intrgn and UI chnges",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/deg-utility-dashboard#13",
+      "time": "2025-05-21T06:16:35.000Z",
+      "link": "https://github.com/beckn/deg-utility-dashboard/pull/13",
+      "text": "feat: added transformer stream api intrgn and UI chnges"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/deg-utility-dashboard#12",
@@ -6848,7 +6863,7 @@
     {
       "link": "https://github.com/beckn/beckn-ui-workspace/pull/2966",
       "title": "Cypress amplify testing",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": []
     }
   ],
