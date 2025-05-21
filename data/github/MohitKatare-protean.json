@@ -123,7 +123,7 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/472",
       "title": "Initial commit for the keymanager plugin",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -135,19 +135,19 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/462",
       "title": "Added INFO, DEBUG, and ERROR level logs to the core module",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/458",
       "title": "bug fix for method not allowed",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/424",
       "title": "Feature/core adapter",
-      "stale_for": 60,
+      "stale_for": 61,
       "labels": []
     }
   ],
