@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-19T11:42:14.000Z",
+  "last_updated": "2025-05-20T12:21:39.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4131",
+      "time": "2025-05-20T12:21:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4131",
+      "text": "EC Apps-Empty response while searching for products in EC apps"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-ui-workspace#4129",
