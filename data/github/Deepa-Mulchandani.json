@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-01T15:06:56.000Z",
+  "last_updated": "2025-05-26T05:32:49.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-26T05:32:49.000Z",
+      "title": "beckn/beckn-onix#466",
+      "link": "https://github.com/beckn/beckn-onix/pull/466#pullrequestreview-2867266006",
+      "text": "Publisher plugin implementation"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-01T15:06:56.000Z",
