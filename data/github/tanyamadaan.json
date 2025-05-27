@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-26T05:27:16.000Z",
+  "last_updated": "2025-05-27T08:19:32.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-27T08:19:32.000Z",
+      "title": "beckn/beckn-onix#472",
+      "link": "https://github.com/beckn/beckn-onix/pull/472#pullrequestreview-2869630843",
+      "text": "Initial commit for the keymanager plugin"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-08T05:55:34.000Z",
@@ -149,7 +156,7 @@
     {
       "link": "https://github.com/beckn/protocol-server/pull/232",
       "title": "Updated Schema Validator to support openapi 3.1.0",
-      "stale_for": 217,
+      "stale_for": 218,
       "labels": []
     }
   ],
