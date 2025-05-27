@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-05T05:46:08.000Z",
+  "last_updated": "2025-05-26T17:14:00.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#475",
+      "time": "2025-05-26T17:14:00.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/475",
+      "text": "implemented on_subscribe handler"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#461",
@@ -41,9 +48,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/beckn-onix/pull/475",
+      "title": "implemented on_subscribe handler",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-onix/pull/447",
       "title": "Added test cases for registeryLookUp and implemented the registeryLookUp plugin",
-      "stale_for": 21,
+      "stale_for": 35,
       "labels": []
     }
   ],
