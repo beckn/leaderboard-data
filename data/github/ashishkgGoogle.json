@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-21T19:02:32.000Z",
+  "last_updated": "2025-05-30T10:23:12.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-30T10:23:12.000Z",
+      "title": "beckn/beckn-onix#477",
+      "link": "https://github.com/beckn/beckn-onix/pull/477#pullrequestreview-2880885109",
+      "text": "added tag omitZero to the subscriber and subscription struct"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#476",
+      "time": "2025-05-30T08:43:39.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/476",
+      "text": "Add omitzero tags for the subscription struct in model."
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-04-21T19:02:31.000Z",

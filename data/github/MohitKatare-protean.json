@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-16T12:37:01.000Z",
+  "last_updated": "2025-05-30T10:00:58.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#477",
+      "time": "2025-05-30T10:00:58.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/477",
+      "text": "added tag omitZero to the subscriber and subscription struct"
+    },
     {
       "type": "pr_opened",
       "title": "beckn/beckn-onix#472",
@@ -121,33 +128,39 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/beckn/beckn-onix/pull/477",
+      "title": "added tag omitZero to the subscriber and subscription struct",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/beckn/beckn-onix/pull/472",
       "title": "Initial commit for the keymanager plugin",
-      "stale_for": 4,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/466",
       "title": "Publisher plugin implementation",
-      "stale_for": 0,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/462",
       "title": "Added INFO, DEBUG, and ERROR level logs to the core module",
-      "stale_for": 32,
+      "stale_for": 36,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/458",
       "title": "bug fix for method not allowed",
-      "stale_for": 33,
+      "stale_for": 37,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/424",
       "title": "Feature/core adapter",
-      "stale_for": 66,
+      "stale_for": 70,
       "labels": []
     }
   ],
