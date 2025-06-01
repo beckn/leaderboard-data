@@ -50,13 +50,13 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/475",
       "title": "implemented on_subscribe handler",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/447",
       "title": "Added test cases for registeryLookUp and implemented the registeryLookUp plugin",
-      "stale_for": 40,
+      "stale_for": 41,
       "labels": []
     }
   ],
