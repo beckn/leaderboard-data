@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-19T10:43:08.000Z",
+  "last_updated": "2025-06-02T10:36:19.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#408",
+      "time": "2025-06-02T10:36:19.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/408#issuecomment-2929952744",
+      "text": "GCP registry and Gateway also stopped.\n\n<img width=\"736\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/6a40e992-d463-417e-af6c-509549c52830\" />"
+    },
+    {
+      "type": "comment_created",
+      "title": "beckn/beckn-utilities#408",
+      "time": "2025-06-02T10:29:45.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/408#issuecomment-2929924926",
+      "text": "We have stopped the server at 3.108.207.200 (https://api-deg-agents.becknprotocol.io), which was originally provisioned during the hackathon.\n\nSince the world-engine service was deployed on the same BPP servers allocated to the respective team, it has also been decommissioned following the deletion of the associated BAP and BPP servers from the GCP cloud environment.\n\n<img width=\"801\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/cd59d0bd-0f9f-417f-b5d0-956353a70223\" />\n\n"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-ui-workspace#4109",

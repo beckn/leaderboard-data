@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-05-02T10:35:55.000Z",
+  "last_updated": "2025-06-02T10:04:34.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#409",
+      "time": "2025-06-02T10:04:34.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/409",
+      "text": "Review Beckn One Registry UI Post-Migration with Umang and Faiz"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#408",
+      "time": "2025-06-02T10:03:53.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/408",
+      "text": "Temporarily Stop World Engine and Other Agentic Servers Created During Hackathon"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#478",
+      "time": "2025-06-02T10:03:44.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/478",
+      "text": "Beckn ONIX Support for Google - Continuous Assistance for Adapter Development"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4134",
+      "time": "2025-06-02T10:03:39.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4134",
+      "text": "Shutdown Old Registry Staging Environment Post Migration to Beckn One"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4133",
+      "time": "2025-06-02T10:03:36.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4133",
+      "text": "Conduct End-to-End Testing Post Migration of Experience Center - Reference App (Staging) to Beckn One Registry"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4132",
+      "time": "2025-06-02T10:03:30.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4132",
+      "text": "Migrate Experience Center - Reference App's Staging Environment to Beckn One (Beta Stable)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-utilities#407",
+      "time": "2025-06-02T09:45:52.000Z",
+      "link": "https://github.com/beckn/beckn-utilities/issues/407",
+      "text": "List Missing Documentation for Ongoing Projects"
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-utilities#402",
@@ -8259,25 +8308,25 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 322,
+      "stale_for": 347,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 241,
+      "stale_for": 266,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 350,
+      "stale_for": 375,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/175",
       "title": "Validated DSEP Specification with Core v 1.1.0",
-      "stale_for": 371,
+      "stale_for": 396,
       "labels": [
         "enhancement"
       ]
