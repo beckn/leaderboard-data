@@ -138,13 +138,7 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/477",
       "title": "added tag omitZero to the subscriber and subscription struct",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-onix/pull/472",
-      "title": "Initial commit for the keymanager plugin",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": []
     },
     {
