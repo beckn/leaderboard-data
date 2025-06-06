@@ -57,19 +57,19 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/479",
       "title": "Initial commit for Lookup call in subscription Handler",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/475",
       "title": "implemented on_subscribe handler",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/447",
       "title": "Added test cases for registeryLookUp and implemented the registeryLookUp plugin",
-      "stale_for": 45,
+      "stale_for": 46,
       "labels": []
     }
   ],
