@@ -136,12 +136,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/beckn/beckn-onix/pull/477",
-      "title": "added tag omitZero to the subscriber and subscription struct",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
       "link": "https://github.com/beckn/beckn-onix/pull/462",
       "title": "Added INFO, DEBUG, and ERROR level logs to the core module",
       "stale_for": 43,
