@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-06-02T06:10:58.000Z",
+  "last_updated": "2025-06-06T13:45:08.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/beckn-onix#477",
+      "time": "2025-06-06T13:45:08.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/477",
+      "text": "added tag omitZero to the subscriber and subscription struct",
+      "turnaround_time": 618251
+    },
     {
       "type": "pr_merged",
       "title": "beckn/beckn-onix#466",
