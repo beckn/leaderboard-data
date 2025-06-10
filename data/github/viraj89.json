@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-05-05T06:36:54.000Z",
+  "last_updated": "2025-06-10T06:53:15.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4137",
+      "time": "2025-06-10T06:53:15.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4137",
+      "text": "Push the code the https://github.com/beckn/beckn-one-registry"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4136",
+      "time": "2025-06-10T06:25:56.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4136",
+      "text": "Implementation fall back for DeDi Access token expiry error"
+    },
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-ui-workspace#4135",
+      "time": "2025-06-10T06:17:25.000Z",
+      "link": "https://github.com/beckn/beckn-ui-workspace/issues/4135",
+      "text": "Create sequence diagrams"
+    },
     {
       "type": "comment_created",
       "title": "beckn/beckn-onix#468",
@@ -5732,7 +5753,7 @@
     {
       "link": "https://github.com/beckn/beckn-utilities/pull/392",
       "title": "Create README.md",
-      "stale_for": 11,
+      "stale_for": 41,
       "labels": []
     }
   ],
