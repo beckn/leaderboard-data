@@ -41,19 +41,19 @@
     {
       "link": "https://github.com/beckn/trip-stitching-algorithm/pull/6",
       "title": " Implement trip stitching algorithm to a real mobility workflow in beckn",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/42",
       "title": "Add Generic Use Case Document for Microgrid Aggregation",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/482",
       "title": "CICD: Add GitHub Actions workflow for OpenAPI syntax validation",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": []
     },
     {
