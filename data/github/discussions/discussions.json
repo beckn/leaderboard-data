@@ -87,12 +87,12 @@
   {
     "source": "github",
     "title": "📢 Deprecation Notice: End of Support for Beckn ONIX master Branch from June 20, 2025",
-    "text": "Hi everyone,\r\n\r\nWe would like to inform you that support for the master branch of Beckn ONIX will officially end on June 20, 2025.\r\n\r\n**🛑 What This Means**\r\nAfter this date, the master branch will no longer receive updates, fixes, or security patches.\r\n\r\nAny further development or maintenance efforts will not include this branch.\r\n\r\n**✅ Recommended Action**\r\nWe encourage all users, contributors, and partners to transition to the new and improved version of Beckn ONIX, which has been developed in partnership with Google and reflects significant architectural and performance enhancements.\r\n\r\n**You can find the new version here:**\r\n🔗 [beckn-onix-v1.0-develop branch](https://github.com/beckn/beckn-onix/tree/beckn-onix-v1.0-develop)\r\n\r\n\r\n📌 Next Steps\r\n1. If you're currently using the master branch:\r\n2. Plan your migration before June 20, 2025.\r\n3. Review the changelog and migration notes (to be pinned shortly in the beckn-onix-v1.0-develop branch).\r\n4. Open issues or discussions in the new branch if you need help transitioning.\r\n5. Thank you for your continued support and contributions!\r\n\r\n— The Beckn ONIX Team",
+    "text": "Hi everyone,\r\n\r\nWe would like to inform you that support for the master branch of Beckn ONIX will officially end on June 20, 2025.\r\n\r\n**🛑 What This Means**\r\nAfter this date, the master branch will no longer receive updates, fixes, or security patches.\r\n\r\nAny further development or maintenance efforts will not include this branch.\r\n\r\n**✅ Recommended Action**\r\nWe encourage all users, contributors, and partners to transition to the new and improved version of Beckn ONIX, which has been developed and reflects significant architectural and performance enhancements.\r\n\r\n**You can find the new version here:**\r\n🔗 [beckn-onix-v1.0-develop branch](https://github.com/beckn/beckn-onix/tree/beckn-onix-v1.0-develop)\r\n\r\n\r\n📌 Next Steps\r\n1. If you're currently using the master branch:\r\n2. Plan your migration before June 20, 2025.\r\n3. Review the changelog and migration notes (to be pinned shortly in the beckn-onix-v1.0-develop branch).\r\n4. Open issues or discussions in the new branch if you need help transitioning.\r\n5. Thank you for your continued support and contributions!\r\n\r\n— The Beckn ONIX Team",
     "author": "emmayank",
     "link": "https://github.com/orgs/beckn/discussions/485",
     "isAnswered": null,
     "time": "2025-06-16T07:25:01Z",
-    "updateTime": "2025-06-16T07:25:02Z",
+    "updateTime": "2025-06-16T14:04:47Z",
     "category": {
       "name": "General",
       "emoji": "💬"
