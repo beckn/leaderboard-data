@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-03-25T07:41:14.000Z",
+  "last_updated": "2025-06-17T15:37:56.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#487",
+      "time": "2025-06-17T15:37:56.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/487",
+      "text": "bug fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/beckn-onix#486",
+      "time": "2025-06-17T15:26:44.000Z",
+      "link": "https://github.com/beckn/beckn-onix/pull/486",
+      "text": "Bug fixes"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-03-25T07:34:24.000Z",
@@ -9,6 +23,13 @@
       "text": "Ft/logging module"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/beckn/beckn-onix/pull/487",
+      "title": "bug fixes",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
