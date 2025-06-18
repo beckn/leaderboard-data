@@ -146,19 +146,19 @@
     {
       "link": "https://github.com/beckn/beckn-onix/pull/462",
       "title": "Added INFO, DEBUG, and ERROR level logs to the core module",
-      "stale_for": 54,
+      "stale_for": 55,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/458",
       "title": "bug fix for method not allowed",
-      "stale_for": 55,
+      "stale_for": 56,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/beckn-onix/pull/424",
       "title": "Feature/core adapter",
-      "stale_for": 88,
+      "stale_for": 89,
       "labels": []
     }
   ],
