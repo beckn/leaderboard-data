@@ -8308,19 +8308,19 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/23",
       "title": "L2Config - EV / EnergyDemand/ Surplus energy",
-      "stale_for": 363,
+      "stale_for": 364,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/22",
       "title": "Updated UEI Specification as per shared resources for EV Charging, Energy Demand & Surplus energy",
-      "stale_for": 282,
+      "stale_for": 283,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/16",
       "title": "DSNP & OSM Example Added",
-      "stale_for": 391,
+      "stale_for": 392,
       "labels": []
     },
     {
