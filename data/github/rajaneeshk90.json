@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-06-09T11:48:46.000Z",
+  "last_updated": "2025-06-20T07:42:43.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-specifications#476",
+      "time": "2025-06-20T07:42:43.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/476#issuecomment-2990146719",
+      "text": "Thank you for the thoughtful suggestion.\n\nAdding a `message_id` to the context makes a lot of sense and would indeed help with correlating the `subscribe` and `on_subscribe` calls.\n\nOn the inclusion of `registry_url`, I wonder if it might be more appropriate to keep that detail at the configuration level rather than within the protocol message. Since the registry is generally a fixed infrastructure component for a network, embedding its URL in every message could introduce unnecessary complexity.\n\nHappy to explore this further if there are specific multi-registry scenarios being considered."
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#487",
+      "time": "2025-06-20T07:33:15.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/487",
+      "text": "adding message_id in the subscribe and on_subscribe APIs"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/missions#304",

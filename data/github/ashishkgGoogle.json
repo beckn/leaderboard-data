@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-12T06:56:24.000Z",
+  "last_updated": "2025-06-20T08:17:44.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "beckn/protocol-specifications#476",
+      "time": "2025-06-20T08:17:44.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/476#issuecomment-2990231182",
+      "text": "I agree on the registry_url part. The reason I included this is to handle multi registry scenarios to facilitate cross network calls. But yeah, We don't need to solve a problem that we don't have right now."
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-06-12T06:56:24.000Z",
