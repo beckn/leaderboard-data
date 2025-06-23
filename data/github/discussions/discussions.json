@@ -99,5 +99,21 @@
     },
     "participants": [],
     "repository": "beckn-onix"
+  },
+  {
+    "source": "github",
+    "title": "New Beckn-Onix Installations  - BPP Client Crash looping",
+    "text": "Noticed that, in a new instance of Beckn Onix  Provider setup , the bpp-client crashloop with the following errors.  \r\nNoticed this issue only with bpp-client.   Bpp Network, Bap Network and bap client all works fine.\r\n\r\nPls address this on a priority\r\n\r\nError: Invalid app config\r\n    at parseAppConfig (/usr/src/app/dist/schemas/configs/app.config.schema.js:71:15)\r\n    at parseConfig (/usr/src/app/dist/schemas/configs/config.schema.js:30:62)\r\n    at getConfig (/usr/src/app/dist/utils/config.utils.js:12:53)\r\n    at Object.<anonymous> (/usr/src/app/dist/utils/cache/lookup.cache.utils.js:22:52)\r\n    at Module._compile (node:internal/modules/cjs/loader:1155:14)\r\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1209:10)\r\n    at Module.load (node:internal/modules/cjs/loader:1033:32)\r\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\r\n    at Module.require (node:internal/modules/cjs/loader:1057:19)\r\n    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)\r\nWARNING: NODE_APP_INSTANCE value of '2' did not match any instance config file names.\r\n2025-06-23T07:45:50: PM2 log: App name:Protocol-Server id:1 disconnected\r\n2025-06-23T07:45:50: PM2 log: App [Protocol-Server:1] exited with code [0] via signal [SIGINT]\r\nWARNING: See https://github.com/node-config/node-config/wiki/Strict-Mode\r\n2025-06-23T07:45:50: PM2 log: App [Protocol-Server:1] starting in -cluster mode-\r\n2025-06-23T07:45:50: PM2 log: App [Protocol-Server:0] online\r\n2025-06-23T07:45:50: PM2 log: App [Protocol-Server:1] online\r\n\r\n\r\n",
+    "author": "vinod303",
+    "link": "https://github.com/orgs/beckn/discussions/488",
+    "isAnswered": null,
+    "time": "2025-06-23T07:52:16Z",
+    "updateTime": "2025-06-23T07:52:16Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [],
+    "repository": "beckn-onix"
   }
 ]

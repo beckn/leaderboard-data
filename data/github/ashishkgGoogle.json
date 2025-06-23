@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-20T08:17:44.000Z",
+  "last_updated": "2025-06-23T06:47:46.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-23T06:47:46.000Z",
+      "title": "beckn/beckn-onix#487",
+      "link": "https://github.com/beckn/beckn-onix/pull/487#pullrequestreview-2948852845",
+      "text": "bug fixes"
+    },
     {
       "type": "comment_created",
       "title": "beckn/protocol-specifications#476",
