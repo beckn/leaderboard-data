@@ -53,25 +53,6 @@
       "text": "Update the Initialise function and create test cases corresponding to the modifications made in the updated function and committed the code. @tanyamadaan kindly review the PR at your earliest convenience.\nCc: @viraj89 @Deepa-Mulchandani "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-onix/pull/479",
-      "title": "Initial commit for Lookup call in subscription Handler",
-      "stale_for": 13,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-onix/pull/475",
-      "title": "implemented on_subscribe handler",
-      "stale_for": 18,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/beckn/beckn-onix/pull/447",
-      "title": "Added test cases for registeryLookUp and implemented the registeryLookUp plugin",
-      "stale_for": 65,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

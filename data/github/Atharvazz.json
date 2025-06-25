@@ -38,13 +38,6 @@
       "text": "Initial commit for Cache Plugin"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/beckn/beckn-onix/pull/474",
-      "title": "Initial Commit for Subscriber Handler",
-      "stale_for": 15,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
