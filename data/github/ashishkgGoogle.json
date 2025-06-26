@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-23T06:47:46.000Z",
+  "last_updated": "2025-06-25T14:24:16.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-06-25T14:24:16.000Z",
+      "title": "beckn/beckn-onix#492",
+      "link": "https://github.com/beckn/beckn-onix/pull/492#pullrequestreview-2958412799",
+      "text": "Added: Bug Fixes"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-06-23T06:47:46.000Z",
