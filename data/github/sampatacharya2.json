@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-06-26T12:51:22.000Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "beckn/beckn-onix#493",
+      "time": "2025-06-26T12:51:22.000Z",
+      "link": "https://github.com/beckn/beckn-onix/issues/493",
+      "text": "Secure Redis Container in Beckn Onix Deployment"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
