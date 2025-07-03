@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-07-02T05:57:10.000Z",
+  "last_updated": "2025-07-03T12:17:02.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#489",
+      "time": "2025-07-03T12:17:02.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/489",
+      "text": "removing the message_id from the subscribe and on_subscribe old body",
+      "turnaround_time": 475
+    },
+    {
+      "type": "pr_opened",
+      "title": "beckn/protocol-specifications#489",
+      "time": "2025-07-03T12:09:09.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/489",
+      "text": "removing the message_id from the subscribe and on_subscribe old body"
+    },
     {
       "type": "pr_merged",
       "title": "beckn/protocol-specifications#487",
@@ -2976,13 +2991,13 @@
     {
       "link": "https://github.com/beckn/missions/pull/302",
       "title": "minor formating: solar panel retail implementation guide",
-      "stale_for": 23,
+      "stale_for": 24,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "title": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs.",
-      "stale_for": 247,
+      "stale_for": 248,
       "labels": []
     },
     {
@@ -3000,7 +3015,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/438",
       "title": "Core 1.2 release",
-      "stale_for": 323,
+      "stale_for": 324,
       "labels": []
     },
     {
@@ -3024,13 +3039,13 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/18",
       "title": "Layer2 config for retail domain",
-      "stale_for": 390,
+      "stale_for": 391,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/21",
       "title": "L2 config",
-      "stale_for": 294,
+      "stale_for": 295,
       "labels": []
     },
     {
@@ -3042,7 +3057,7 @@
     {
       "link": "https://github.com/beckn/Industry-4.0-Specifications/pull/9",
       "title": "Validating Industry4.0 Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Industry4.0 specification",
-      "stale_for": 442,
+      "stale_for": 443,
       "labels": []
     },
     {
@@ -3054,7 +3069,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/407",
       "title": "Adding a GitHub action for Beckn core specification to validate meta.yaml, registry.yaml and transaction.yaml files against OpenAPI3.0",
-      "stale_for": 168,
+      "stale_for": 169,
       "labels": []
     },
     {
@@ -3066,7 +3081,7 @@
     {
       "link": "https://github.com/beckn/logistics/pull/11",
       "title": "Validating Logistics Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Logistics specification",
-      "stale_for": 90,
+      "stale_for": 91,
       "labels": []
     }
   ],
