@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-06-20T07:42:43.000Z",
+  "last_updated": "2025-07-02T05:57:10.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "beckn/protocol-specifications#487",
+      "time": "2025-07-02T05:57:10.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/pull/487",
+      "text": "adding message_id in the subscribe and on_subscribe APIs",
+      "turnaround_time": 1030996
+    },
     {
       "type": "comment_created",
       "title": "beckn/protocol-specifications#476",

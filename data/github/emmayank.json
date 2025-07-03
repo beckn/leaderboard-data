@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-06-02T10:04:34.000Z",
+  "last_updated": "2025-07-02T05:57:11.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "beckn/protocol-specifications#476",
+      "time": "2025-07-02T05:57:11.000Z",
+      "link": "https://github.com/beckn/protocol-specifications/issues/476",
+      "text": "Add Context to subscribe and OnSubscribe request body."
+    },
     {
       "type": "issue_opened",
       "title": "beckn/beckn-utilities#409",
