@@ -3003,13 +3003,13 @@
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/27",
       "title": "Change in the example implementation and implementation guide for the EV charging use case.",
-      "stale_for": 279,
+      "stale_for": 280,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/DSEP-Specification/pull/184",
       "title": "Remove unwanted references from the DSEP specification example jsons",
-      "stale_for": 307,
+      "stale_for": 308,
       "labels": []
     },
     {
@@ -3021,19 +3021,19 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/20",
       "title": "Layer2 28th june",
-      "stale_for": 370,
+      "stale_for": 371,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/local-retail/pull/19",
       "title": "L2 v3.1",
-      "stale_for": 370,
+      "stale_for": 371,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/mobility/pull/78",
       "title": "adding domain specific rules/restrictions in the mobility on demand layer2 config",
-      "stale_for": 288,
+      "stale_for": 289,
       "labels": []
     },
     {
@@ -3051,7 +3051,7 @@
     {
       "link": "https://github.com/beckn/logistics/pull/12",
       "title": "L2 config",
-      "stale_for": 373,
+      "stale_for": 374,
       "labels": []
     },
     {
@@ -3063,7 +3063,7 @@
     {
       "link": "https://github.com/beckn/PULSE-Specification/pull/25",
       "title": "Validating PULSE Specification against the Beckn Core specification v 1.1.0, validating examples against the updated PULSE specification",
-      "stale_for": 443,
+      "stale_for": 444,
       "labels": []
     },
     {
@@ -3075,7 +3075,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/401",
       "title": "Adding a pre-commit hook in Beckn core specification repository",
-      "stale_for": 278,
+      "stale_for": 279,
       "labels": []
     },
     {
