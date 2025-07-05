@@ -2991,13 +2991,13 @@
     {
       "link": "https://github.com/beckn/missions/pull/302",
       "title": "minor formating: solar panel retail implementation guide",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/39",
       "title": "Update the UEI p2p use case layer 2 config with the cred/ and on_cred/ APIs.",
-      "stale_for": 249,
+      "stale_for": 250,
       "labels": []
     },
     {
@@ -3015,7 +3015,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/438",
       "title": "Core 1.2 release",
-      "stale_for": 325,
+      "stale_for": 326,
       "labels": []
     },
     {
@@ -3039,13 +3039,13 @@
     {
       "link": "https://github.com/beckn/local-retail/pull/18",
       "title": "Layer2 config for retail domain",
-      "stale_for": 392,
+      "stale_for": 393,
       "labels": []
     },
     {
       "link": "https://github.com/beckn/Unified-Energy-Interface/pull/21",
       "title": "L2 config",
-      "stale_for": 296,
+      "stale_for": 297,
       "labels": []
     },
     {
@@ -3057,7 +3057,7 @@
     {
       "link": "https://github.com/beckn/Industry-4.0-Specifications/pull/9",
       "title": "Validating Industry4.0 Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Industry4.0 specification",
-      "stale_for": 444,
+      "stale_for": 445,
       "labels": []
     },
     {
@@ -3069,7 +3069,7 @@
     {
       "link": "https://github.com/beckn/protocol-specifications/pull/407",
       "title": "Adding a GitHub action for Beckn core specification to validate meta.yaml, registry.yaml and transaction.yaml files against OpenAPI3.0",
-      "stale_for": 170,
+      "stale_for": 171,
       "labels": []
     },
     {
@@ -3081,7 +3081,7 @@
     {
       "link": "https://github.com/beckn/logistics/pull/11",
       "title": "Validating Logistics Specification against the Beckn Core specification v 1.1.0, validating examples against the updated Logistics specification",
-      "stale_for": 92,
+      "stale_for": 93,
       "labels": []
     }
   ],
